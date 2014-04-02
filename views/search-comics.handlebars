@@ -1,0 +1,88 @@
+<div class="search search-comics">
+   <h1>Explore the Marvel Comics</h1>
+
+   <form action="/comics/search" method="get" accept-charset="utf-8">
+
+      <div class="search-box">
+         <input type="text" name="s" value="" placeholder="Search for">
+
+         <div class="search-type">
+            <p class="filter-title">Search On:</p>
+            <select name="field">
+               <option value="">Everything</option>
+               <option value="title">title</option>
+               <option value="issueNumber">Issue Number</option>
+               <option value="description">Description</option>
+               <option value="creators">Creators</option>
+            </select>
+            <div class="arrow-down"></div>
+         </div>
+      </div>
+
+      <button type="submit" class="searchbtn">Search</button>
+   </form>
+
+   <ul class="saved-searches">
+      <li>
+         <a href="/comics/search?s=Archangel&amp;field=title">Archangel</a>
+      </li>
+      <li>
+         <a href="/comics/search?s=Spider-Man&amp;field=title">Spider-Man</a>
+      </li>
+      <li>
+         <a href="/comics/search?s=%22Iron+Man%22&amp;field=title">Iron Man</a>
+      </li>
+      <li>
+         <a href="/comics/search?s=Avengers&amp;field=title">Avengers</a>
+      </li>
+      <li>
+         <a href="/comics/search?s=Hulk&amp;field=title">Hulk</a>
+      </li>
+      <li>
+         <a href="/comics/search?s=Deadpool&amp;field=title">Deadpool</a>
+      </li>
+      <li>
+         <a href="/comics/search?s=%22Captain+America%22&amp;field=title">Captain America</a>
+      </li>
+      <li>
+         <a href="/comics/search?s=Wolverine&amp;field=title">Wolverine</a>
+      </li>
+      <li>
+         <a href="/comics/search?s=Thor&amp;field=title">Thor</a>
+      </li>
+      <li>
+         <a href="/comics/search?s=X-Men&amp;field=title">X-Men</a>
+      </li>
+      <li>
+         <a href="/comics/search?s=%22Black+Widow%22&amp;field=title">Black Widow</a>
+      </li>
+      <li>
+         <a href="/comics/search?s=Ultron&amp;field=title">Ultron</a>
+      </li>
+      <li>
+         <a href="/comics/search?s=%22The+Winter+Soldier%22&amp;field=title">The Winter Soldier</a>
+      </li>
+      <li>
+         <a href="/comics/search?s=%22Captain%5C+Marvel%5C+%5C%28Carol%5C+Danvers%5C%29%22&amp;field=title">Captain Marvel (Carol Danvers)</a>
+      </li>
+      <li>
+         <a href="/comics/search?s=%22S.H.I.E.L.D.%22&amp;field=title">S.H.I.E.L.D.</a>
+      </li>
+      <li>
+         <a href="/comics/search?s=%22Black+Bolt%22&amp;field=title">Black Bolt</a>
+      </li>
+   </ul>
+
+
+
+   <div class="cover-grid ri-grid ri-grid-size-3">
+      <ul>
+         {{#random 100 500}}
+            <li><a href="#"><img src="//d2kke625l9ja1k.cloudfront.net/img/comics/{{this}}.jpg" width="200" height="300"></a></li>
+         {{/random}}
+      </ul>
+      <div class="overlay"></div>
+   </div>
+
+
+</div>

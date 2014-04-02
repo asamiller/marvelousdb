@@ -1,0 +1,38 @@
+<div class="search-results">
+	{{#with data}}
+	<ul class="characters">
+		{{#each results}}
+		<li>
+			<a href="/comic/{{path.key}}" title="">
+				{{#with this.value}}
+				<img src="{{thumbnail.path}}.{{thumbnail.extension}}" alt="">
+				
+				<div class="label">
+					<div class="divider"></div>
+					<h1>{{title}}</h1>
+					<h2 class="subtitle">{{subtitle}}</h2>
+				</div>
+				{{/with}}
+			</a>
+		</li>
+		{{/each}}
+	</ul>
+	{{/with}}
+
+
+
+	<div class="pagination">
+		<ul>
+			{{#paginate pagination type="previous"}}
+			<li {{#if disabled}}class="disabled"{{/if}}><a href="?{{../pagination/qs}}&amp;p={{n}}" >&laquo;</a></li>
+			{{/paginate}}
+			{{#paginate pagination type="middle" limit="7"}}
+			<li {{#if active}}class="active"{{/if}}><a href="?{{../pagination/qs}}&amp;p={{n}}">{{n}}</a></li>
+			{{/paginate}}
+			{{#paginate pagination type="next"}}
+			<li {{#if disabled}}class="disabled"{{/if}}><a href="?{{../pagination/qs}}&amp;p={{n}}">&raquo;</a></li>
+			{{/paginate}}
+		</ul>
+	</div>
+	
+</div>

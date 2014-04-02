@@ -1,0 +1,59 @@
+<div class="cover">
+   <img src="{{thumbnail.path}}.{{thumbnail.extension}}" class="norm" alt="" data-adaptive-background='1'>
+   <img src="{{thumbnail.path}}.{{thumbnail.extension}}" class="flip" alt="">
+
+   <div class="characters-section">
+       <ul>
+         {{#each characters}}
+            {{#with this.value}}
+            <li>
+               <a href="/character/{{id}}" title="{{name}}">
+                  <div class="image">
+                     <img src="{{thumbnail.path}}.{{thumbnail.extension}}">
+                  </div>
+                  <p>{{name}}</p>
+               </a>
+            </li>
+            {{/with}}
+         {{/each}}
+      </ul>
+   </div>
+
+   <div class="versions">
+      <ul class="covers">
+         {{#each versions}}
+            <li>
+               <a href="/comics/{{id}}" title="{{name}}">
+                  <img src="{{thumbnail.path}}.{{thumbnail.extension}}">
+                  <p>{{name}}</p>
+               </a>
+            </li>
+         {{/each}}
+      </ul>
+   </div>
+</div>
+
+<div class="info">
+   <img src="/img/divider.png" class="divider">
+   <!-- <div class="bkg"></div> -->
+
+   <h1 class="title">{{title}}</h1>
+   <h2 class="subtitle">{{subtitle}}</h2>
+
+   <p class="desc">
+      {{breaklines description}}
+   </p>
+
+   <hr>
+
+   <ul class="creators">
+      {{#each creators.items}}
+         <li>
+            <h3 class="role">{{role}}</h3>
+            <p class="name">{{name}}</p>
+         </li>
+      {{/each}}
+   </ul>
+
+   <hr>
+</div>

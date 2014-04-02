@@ -1,0 +1,193 @@
+<div class="cover">
+   <img src="{{thumbnail.path}}.{{thumbnail.extension}}" class="norm" alt="">
+   <img src="{{thumbnail.path}}.{{thumbnail.extension}}" class="flip" alt="">
+
+   {{#with wiki}}
+   <ul class="stats datapoints">
+      <li>
+         <h3 class="title">Height</h3>
+         <p class="value">{{height}}</p>
+      </li>
+
+      <li>
+         <h3 class="title">Eyes</h3>
+         <p class="value">{{eyes}}</p>
+      </li>
+
+      <li>
+         <h3 class="title">Education</h3>
+         <p class="value">{{education}}</p>
+      </li>
+
+      <li>
+         <h3 class="title">Weight</h3>
+         <p class="value">{{weight}}</p>
+      </li>
+
+      <li>
+         <h3 class="title">Hair</h3>
+         <p class="value">{{hair}}</p>
+      </li>
+
+      <li>
+         <h3 class="title">Relatives</h3>
+         <p class="value">{{makelinks relatives}}</p>
+      </li>
+   </ul>
+
+   <p class="bio">
+      {{breaklines bio}}
+   </p>
+   {{/with}}
+</div>
+
+<div class="info">
+   <img src="/img/divider.png" class="divider">
+
+   <h1>{{name}} <span class="status">{{status}}</span></h1>
+   <h2 class="subtitle">{{subtitle}}</h2>
+
+   {{#with wiki}}
+   <ul class="datapoints">
+      {{#if debut}}
+      <li>
+         <h3>Debut</h3>
+         {{#each debut}}
+         <p>{{this}}</p>
+         {{/each}}
+      </li>
+      {{/if}}
+      {{#if origin}}
+      <li>
+         <h3>Origin</h3>
+         {{#each origin}}
+         <p>{{this}}</p>
+         {{/each}}
+      </li>
+      {{/if}}
+   </ul>
+   <hr>
+   {{/with}}
+
+   
+
+   {{#with description}}
+   <p class="desc">
+      {{breaklines this}}
+   </p>
+   <hr>
+   {{/with}}
+
+  
+   {{#with wiki}}
+   <ul class="datapoints">
+      <li>
+        <h3 class="title">Real Name</h3>
+        <p class="value">{{real_name}}</p>
+      </li>
+
+      <li>
+        <h3 class="title">Identity</h3>
+        <p class="value">{{identity}}</p>
+      </li>
+
+      <li>
+        <h3 class="title">Occupation</h3>
+        <p class="value">{{makelinks occupation}}</p>
+      </li>
+
+      <li>
+        <h3 class="title">Aliases</h3>
+        <p class="value">{{makelinks aliases}}</p>
+      </li>
+
+      <li>
+        <h3 class="title">Citizenship</h3>
+        <p class="value">{{makelinks citizenship}}</p>
+      </li>
+
+      <li>
+        <h3 class="title">Groups</h3>
+        <p class="value">{{makelinks groups}}</p>
+      </li>
+   </ul>
+   <hr>
+
+   {{#if powers}}
+   <div class="powers">
+      <h2>Powers</h2>
+      <p>{{makelinks powers}}</p>
+   </div>
+   {{/if}}
+   {{#if abilities}}
+   <div class="abilities">
+      <h2>Abilities</h2>
+      <p>{{makelinks abilities}}</p>
+   </div>
+   {{/if}}
+   {{#if weapons}}
+   <div class="weapons">
+      <h2>Weapons</h2>
+      <p>{{makelinks weapons}}</p>
+   </div>
+   <hr>
+   {{/if}}
+   {{#if significant_issues}}
+   <div class="significant-issues">
+      <h2>Significant Issues</h2>
+      <p>{{makelinks significant_issues}}</p>
+   </div>
+   {{/if}}
+   {{/with}}
+</div>
+
+
+
+<div class="other-comics">
+   <h2>{{name}} Appears In</h2>
+   <hr>
+   <ul>
+      {{#each comics.results}}
+         <li class="list-group-item">
+            <a href="/comic/{{path.key}}" title="">
+            {{#with this.value}}
+               <img src="{{thumbnail.path}}.{{thumbnail.extension}}" alt="">
+               <p class="title">{{title}}</p>
+            {{/with}}
+            </a>
+         </li>
+      {{/each}}
+   </ul> 
+</div>
+
+
+
+<!-- { id: 27402,
+   digitalId: 0,
+   title: 'Agents of Atlas (2009) #2 (BACHALO 2ND PRINTING VARIANT)',
+   issueNumber: 2,
+   variantDescription: 'BACHALO 2ND PRINTING VARIANT',
+   description: null,
+   modified: '-0001-11-30T00:00:00-0500',
+   isbn: '',
+   upc: '5960606632-00231',
+   diamondCode: 'JAN098153',
+   ean: '',
+   issn: '',
+   format: 'Comic',
+   pageCount: 32,
+   textObjects: [Object],
+   resourceURI: 'http://gateway.marvel.com/v1/public/comics/27402',
+   urls: [Object],
+   series: [Object],
+   variants: [Object],
+   collections: [],
+   collectedIssues: [],
+   dates: [Object],
+   prices: [Object],
+   thumbnail: [Object],
+   images: [Object],
+   creators: [Object],
+   characters: [Object],
+   stories: [Object],
+   events: [Object] } -->

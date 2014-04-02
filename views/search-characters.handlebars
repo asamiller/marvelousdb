@@ -1,0 +1,177 @@
+<div class="search search-characters">
+   <h1>Explore the Marvel Characters</h1>
+
+   <form action="/characters/search" method="get" accept-charset="utf-8">
+
+      <div class="search-box">
+         <input type="text" name="s" value="" placeholder="Search for">
+
+         <div class="search-type">
+            <p class="filter-title">Search On:</p>
+            <select name="field">
+               <option value="">Everything</option>
+               <option value="name">Character</option>
+               <option value="wiki.real_name">Name &amp; Alias</option>
+               <option value="description">Description</option>
+               <option value="wiki.occupation">Occupation</option>
+               <option value="wiki.place_of_birth">Place of Birth</option>
+               <option value="wiki.groups">Groups</option>
+               <option value="wiki.relatives">Relatives</option>
+               <!-- <option value="wiki.eyes">Eye Color</option>
+               <option value="wiki.hair">Hair Color</option> -->
+               <option value="wiki.powers">Powers</option>
+               <option value="wiki.abilities">Abilities</option>
+            </select>
+            <div class="arrow-down"></div>
+         </div>
+      </div>
+
+      
+     
+
+
+      <div class="options">
+         <label for="gender">Gender</label>
+         <select name="gender" id="gender">
+            <option value="">All</option>
+            <option value="male">Male</option>
+            <option value="female">Female</option>
+         </select>
+
+         <label for="reality">Reality</label>
+         <select name="reality" id="reality">
+            <optgroup>
+               <option value="">All Universes</option>
+               <option>Marvel Universe</option>
+               <option>Ultimate Universe</option>
+            </optgroup>
+            <optgroup>
+               <option>Age of Apocalypse</option>
+               <option>Cancerverse (Reality-10011)</option>
+               <option>Days of Future Now (Earth-5700)</option>
+               <option>Duckworld</option>
+               <option>Earth X</option>
+               <option>Earth-01011010</option>
+               <option>Earth-1089 (Symbiote Took Over Spider-Man)</option>
+               <option>Earth-12</option>
+               <option>Earth-1211 (Nightside)</option>
+               <option>Earth-200500 (Avengers All Had Beards)</option>
+               <option>Earth-200501 (Ultimate Ultimate Universe)</option>
+               <option>Earth-200511 (M.O.D.O.K. Had An Itch)</option>
+               <option>Earth-200513 (Fantastic Four Reached The Moon)</option>
+               <option>Earth-200515 (Marvel Heroes Aged In Real Time)</option>
+               <option>Earth-200525 (Emma Frost Could Read My Mind)</option>
+               <option>Earth-691</option>
+               <option>Earth-811</option>
+               <option>Earth-8912</option>
+               <option>Earth-90110</option>
+               <option>Earth-90111</option>
+               <option>Earth-939</option>
+               <option>Earth-956</option>
+               <option>Earth-S (Earth-712)</option>
+               <option>House of M (Earth-58163)</option>
+               <option>Larval Earth</option>
+               <option>MC2 (Earth-982)</option>
+               <option>Marvel 1602 (Earth-311)</option>
+               <option>Marvel 2099 (Earth-928)</option>
+               <option>Marvel Knights 2099 (Earth-2992)</option>
+               <option>Marvel Zombies (Earth-2149)</option>
+               <option>Mojoverse</option>
+               <option>Mutant X (Earth 1298)</option>
+               <option>The Fault</option>
+            </optgroup>
+         </select>
+      </div>
+
+      <button type="submit" class="searchbtn">Search</button>
+   </form>
+
+   <ul class="saved-searches">
+      <li>
+         <a href="/characters/search?gender=female">Female Characters</a>
+      </li>
+      <li>
+         <a href="/characters/search?field=wiki.categories&amp;s=Deceased">Deceased</a>
+      </li>
+      <li>
+         <a href="/characters/search?field=wiki.categories&amp;s=%22People+who+used+to+be+dead+but+aren%27t+anymore%22">Alive Again</a>
+      </li>
+      <li>
+         <a href="/characters/search?field=wiki.categories&amp;s=X-Men">X-Men</a>
+      </li>
+      <li>
+         <a href="/characters/search?field=wiki.categories&amp;s=Avengers">Avengers</a>
+      </li>
+      <li> 
+         <a href="/characters/search?field=wiki.categories&amp;s=%22Fantastic+Four%22">Fantastic Four</a>
+      </li>
+      <li>
+         <a href="/characters/search?field=wiki.categories&amp;s=Spider-Man">Spider-Man</a>
+      </li>
+   </ul>
+
+   <ul class="saved-searches">
+      <li>
+         <a href="/characters/search?s=Archangel&amp;field=name">Archangel</a>
+      </li>
+      <li>
+         <a href="/characters/search?s=Spider-Man&amp;field=name">Spider-Man</a>
+      </li>
+      <li>
+         <a href="/characters/search?s=%22Iron+Man%22&amp;field=name">Iron Man</a>
+      </li>
+      <li>
+         <a href="/characters/search?s=Avengers&amp;field=name">Avengers</a>
+      </li>
+      <li>
+         <a href="/characters/search?s=Hulk&amp;field=name">Hulk</a>
+      </li>
+      <li>
+         <a href="/characters/search?s=Deadpool&amp;field=name">Deadpool</a>
+      </li>
+      <li>
+         <a href="/characters/search?s=%22Captain+America%22&amp;field=name">Captain America</a>
+      </li>
+      <li>
+         <a href="/characters/search?s=Wolverine&amp;field=name">Wolverine</a>
+      </li>
+      <li>
+         <a href="/characters/search?s=Thor&amp;field=name">Thor</a>
+      </li>
+      <li>
+         <a href="/characters/search?s=X-Men&amp;field=name">X-Men</a>
+      </li>
+      <li>
+         <a href="/characters/search?s=%22Black+Widow%22&amp;field=name">Black Widow</a>
+      </li>
+      <li>
+         <a href="/characters/search?s=Ultron&amp;field=name">Ultron</a>
+      </li>
+      <li>
+         <a href="/characters/search?s=%22The+Winter+Soldier%22&amp;field=name">The Winter Soldier</a>
+      </li>
+      <li>
+         <a href="/characters/search?s=%22Captain%5C+Marvel%5C+%5C%28Carol%5C+Danvers%5C%29%22&amp;field=name">Captain Marvel (Carol Danvers)</a>
+      </li>
+      <li>
+         <a href="/characters/search?s=%22S.H.I.E.L.D.%22&amp;field=name">S.H.I.E.L.D.</a>
+      </li>
+      <li>
+         <a href="/characters/search?s=%22Black+Bolt%22&amp;field=name">Black Bolt</a>
+      </li>
+   </ul>
+
+
+
+   <div class="cover-grid ri-grid ri-grid-size-3">
+      <!-- <img class="ri-loading-image" src="/img/loading.gif"/> -->
+      <ul>
+         {{#random 100 580}}
+            <li><a href="#"><img src="//d2kke625l9ja1k.cloudfront.net/img/characters/{{this}}.jpg" width="200" height="200"></a></li>
+         {{/random}}
+      </ul>
+      <div class="overlay"></div>
+   </div>
+
+
+</div>
