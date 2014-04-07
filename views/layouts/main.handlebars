@@ -1,14 +1,14 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en" class="wf-loading">
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=900">
+    <meta name="viewport" content="width=800">
     <title>Marvelous DB</title>
-    <link rel="stylesheet" type="text/css" href="//d2kke625l9ja1k.cloudfront.net/css/main.css">
-    <link rel="stylesheet" type="text/css" href="//d2kke625l9ja1k.cloudfront.net/css/gridrotator.css">
+    <link rel="stylesheet" type="text/css" href="{{assetPath}}/css/main.css">
+    <link rel="stylesheet" type="text/css" href="{{assetPath}}/css/gridrotator.css">
 
-    <script type="text/javascript" src="//d2kke625l9ja1k.cloudfront.net/js/modernizr.custom.26633.js"></script>
+    <script type="text/javascript" src="{{assetPath}}/js/modernizr.custom.26633.js"></script>
     <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
     <!--[if lt IE 9]>
@@ -25,7 +25,7 @@
 			<input type="search" class="search-input" name="s" placeholder="Search">
 		</form>
   	</nav>
-  	
+
   	<div class="container">
     	{{{body}}}
     </div>
@@ -34,17 +34,18 @@
     	<p>Data provided by Marvel. &copy; 2014 <a href="http://marvel.com">Marvel</a></p>
     	<p>
     		<a href="http://orchestrate.io">
-    			Powered By <img src="//d2kke625l9ja1k.cloudfront.net/img/orchestrate.gif" width="50" height="50"> Orchestrate
+    			Powered By <img src="{{assetPath}}/img/orchestrate.gif" width="50" height="50"> Orchestrate
     		</a>
     	</p>
     </footer>
 
     <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
 
-    <script src="//d2kke625l9ja1k.cloudfront.net/js/jquery.gridrotator.js"></script>
-    <script src="//d2kke625l9ja1k.cloudfront.net/js/main.js"></script>
-
     <script type="text/javascript" src="//use.typekit.net/kqv0wjk.js"></script>
 	<script type="text/javascript">try{Typekit.load();}catch(e){}</script>
+
+    <script src="{{assetPath}}/js/jquery.gridrotator.js"></script>
+    <script src="{{assetPath}}/js/readmore.min.js"></script>
+	<script src="{{assetPath}}/js/main.js"></script>
   </body>
 </html>

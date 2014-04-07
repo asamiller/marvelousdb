@@ -1,0 +1,143 @@
+@import 'bourbon/bourbon';
+
+h1 {
+	font-family: "league-gothic", $helvetica;
+	font-weight: normal;
+	font-size: em(100);
+	text-transform: uppercase;
+
+	.wf-active & { visibility: visible; }
+	.wf-loading & { visibility: hidden; }
+}
+
+h2 {
+	font-family: "league-gothic", $helvetica;
+	font-weight: normal;
+	text-transform: uppercase;
+	// font-weight: 300;
+	font-size: em(26);
+
+	.wf-active & { visibility: visible; }
+	.wf-loading & { visibility: hidden; }
+}
+
+h3 {
+	font-family: "league-gothic", $helvetica;
+	font-weight: normal;
+	text-transform: uppercase;
+	font-size: em(20);
+	
+	.wf-active & { visibility: visible; }
+	.wf-loading & { visibility: hidden; }
+}
+
+.cover {
+	float: left;
+	width: 40%;
+	position: relative;
+	text-align: center;
+
+	// @include size(550 auto);
+	// @include clearfix;
+	// z-index: -1;
+	// padding-top: 900px;
+	
+
+
+	.norm {
+		// @include position(absolute, 0px 0 0 0px);
+		width: 100%;
+	}
+
+	.flip {
+		@include position(absolute, 0px 0 0 100%);
+		width: 100%;
+		@include transform(scaleX(-1));
+		z-index: -1;
+	}
+}
+
+
+.info {
+	margin-left: 45.9%;
+	@include size(auto 100%);
+	color: #fff;
+	// background-color: #850303;
+	@include linear-gradient(to right, #be0606, #850303);
+	padding: 50px 30px 50px 20px;
+	@include clearfix;
+	z-index: 2;
+
+	.divider {
+		@include position(absolute, 0px 0 0 40%);
+		@include size(6% 100%);
+		z-index: -1;
+	}
+
+	hr {
+		background: rgba(255,255,255,0.15);
+		border: 0;
+		display: block;
+		@include size(auto 2);
+	}
+
+	.subtitle {
+		font-family: 'proxima-nova', sans-serif;
+		text-transform: none;
+		font-weight: 600;
+	}
+
+	.desc {
+		font-size: em(16);
+		line-height: em(24);
+		margin: 30px auto 15px;
+	}
+
+	.creators {
+		li {
+			float: left;
+			width: 50%;
+			margin: 10px auto;
+			font-size: em(14);
+		}
+
+		h3, p {
+			margin: 0 auto;
+			padding: 0;
+		}
+
+		.name {
+			font-weight: 600;
+		}
+
+		.role {
+			text-transform: uppercase;
+			font-size: em(16);
+		}
+	}
+}
+
+.characters-section ul {
+	li {
+		float: left;
+		@include size(33% 200);
+		color: #fff;
+		text-align: center;
+
+		a {
+			color: #fff;
+		}
+
+		.image {
+			@include size(100% 150);
+			overflow: hidden;
+		}
+
+		img {
+			width: 94%;
+			margin: 3%;
+			margin-left: 0 auto;
+		}
+	}
+
+}

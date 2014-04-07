@@ -19,10 +19,16 @@
 	</ul>
 	{{/with}}
 
+	{{#unless data.results}}
+	<div class="no-results">
+		<p>Sorry, we couldn't find anything.</p>
+	</div>
+	{{/unless}}
 
 
-	<div class="pagination">
-		<ul>
+	{{#if pagination.pageCount}}
+	<div class="pagination-div">
+		<ul class="pagination">
 			{{#paginate pagination type="previous"}}
 			<li {{#if disabled}}class="disabled"{{/if}}><a href="?{{../pagination/qs}}&amp;p={{n}}" >&laquo;</a></li>
 			{{/paginate}}
@@ -34,5 +40,6 @@
 			{{/paginate}}
 		</ul>
 	</div>
+	{{/if}}
 	
 </div>

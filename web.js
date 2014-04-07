@@ -1,6 +1,5 @@
 var express = require('express');
 var exphbs  = require('express3-handlebars');
-var paginate = require('handlebars-paginate');
 var querystring = require('querystring');
 
 // our functions
@@ -10,6 +9,14 @@ var app = express();
 app.use(express.logger());
 app.use(express.static(__dirname + '/public'));
 
+// handle local or cdn assets (for development or deployment)
+app.use(function (req, res, next) {
+	res.locals({
+		assetPath: process.env.ASSET_PATH
+	});
+	next();
+});
+
 
 
 // HANDLEBARS HELPERS
@@ -17,73 +24,7 @@ var hbs = exphbs.create({ defaultLayout: 'main' });
 app.engine('handlebars', hbs.engine);
 app.set('view engine', 'handlebars');
 
-hbs.handlebars.registerHelper('paginate', paginate);
-
-hbs.handlebars.registerHelper('breaklines', function(text) {
-	if (!text) return '';
-
-	// escape characters
-    text = hbs.handlebars.Utils.escapeExpression(text);
-
-    // replace new line characters with br tag
-    text = text.replace(/(\r\n|\n|\r)/gm, '<br>');
-
-    // activate wiki lings
-    text = activateLinks(text);
-
-    return new hbs.handlebars.SafeString(text);
-});
-
-hbs.handlebars.registerHelper('default', function(text, value) {
-    if (!text || !text.length) text = value;
-    return new hbs.handlebars.SafeString(text);
-});
-
-hbs.handlebars.registerHelper('makelinks', function(text) {
-    return new hbs.handlebars.SafeString(activateLinks(text));
-});
-
-function activateLinks (text) {
-	if (!text) return '';
-
-	// strip out image links
-	text = text.replace(/\[\[(image):([^\]]+)\]\]/igm, '');
-
-	// strip out glossary links
-	text = text.replace(/\[\[glossary:([^\]]+)\]\]/igm, function (match, p1, p2, p3, offset, string) {
-		var splitParts = p1.split('|');
-		if (splitParts.length > 1) return splitParts[1];
-		return p1;
-	});
-
-	// replace [[X]] links
-	function replacer(match, p1, p2, p3, offset, string) {
-		var splitParts = p1.split('|');
-
-		if (splitParts.length > 1) {
-			return '<a href="/characters/search?s='+encodeURIComponent(splitParts[0])+'">' + splitParts[1] + '</a>';
-		}
-
-		return '<a href="/characters/search?s='+encodeURIComponent(p1)+'">' + p1 + '</a>';
-		
-	};
-	// return text.replace(/\[\[([\w, \(\)\|\-:#,\.']+)\]\]/igm, replacer);
-	return text.replace(/\[\[([^\]]+)\]\]/igm, replacer);
-}
-
-hbs.handlebars.registerHelper('times', function(n, block) {
-    var accum = '';
-    for(var i = 0; i < n; ++i)
-        accum += block.fn(i);
-    return accum;
-});
-
-hbs.handlebars.registerHelper('random', function(n, max, block) {
-    var accum = '';
-    for(var i = 0; i < n; ++i)
-        accum += block.fn(Math.round(Math.random() * max));
-    return accum;
-});
+var helpers = require('./handlebars-helpers.js')(hbs.handlebars);
 
 
 
@@ -190,9 +131,25 @@ app.get('/comics/search', function(request, response) {
 app.get('/character/:id', function(request, response) {
 	var id = request.params.id;
 
-	f.getCharacter(id)
+	var page = parseInt(request.query.p, 10) || 1;
+	var limit = 20;
+	var offset = (page - 1) * limit;
+
+	f.getCharacter(id, offset, limit)
 	.then(function (data) {
-		response.render('character', data);
+		// console.log(data);
+		// check if we have data, otherwise show the no data screen
+		data.hasData = (data.wiki || data.description) ? true : false;
+
+		var pages = Math.ceil(data.comics.total / limit);
+		response.render('character', {
+			pagination: {
+				page: page,
+				pageCount: pages,
+				needed: (pages > 1)
+			},
+			data: data
+		});
 	})
 	.fail(function(error){
 		console.log(error);
@@ -214,6 +171,11 @@ app.get('/comic/:id', function(request, response) {
 		console.log(error);
 		response.render('error');
 	});
+});
+
+//  404 page
+app.get('*', function(request, response) {
+	response.render('error');
 });
 
 

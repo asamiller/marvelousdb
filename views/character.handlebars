@@ -1,41 +1,49 @@
+{{#with data}}
 <div class="cover">
    <img src="{{thumbnail.path}}.{{thumbnail.extension}}" class="norm" alt="">
    <img src="{{thumbnail.path}}.{{thumbnail.extension}}" class="flip" alt="">
 
    {{#with wiki}}
    <ul class="stats datapoints">
+      {{#if height}}
       <li>
          <h3 class="title">Height</h3>
          <p class="value">{{height}}</p>
       </li>
-
+      {{/if}}
+      {{#if eyes}}
       <li>
          <h3 class="title">Eyes</h3>
          <p class="value">{{eyes}}</p>
       </li>
-
+      {{/if}}
+      {{#if education}}
       <li>
          <h3 class="title">Education</h3>
          <p class="value">{{education}}</p>
       </li>
-
+      {{/if}}
+      {{#if weight}}
       <li>
          <h3 class="title">Weight</h3>
          <p class="value">{{weight}}</p>
       </li>
-
+      {{/if}}
+      {{#if hair}}
       <li>
          <h3 class="title">Hair</h3>
          <p class="value">{{hair}}</p>
       </li>
-
+      {{/if}}
+      {{#if relatives}}
       <li>
          <h3 class="title">Relatives</h3>
          <p class="value">{{makelinks relatives}}</p>
       </li>
+      {{/if}}
    </ul>
 
-   <p class="bio">
+   <p class="bio readmore">
       {{breaklines bio}}
    </p>
    {{/with}}
@@ -78,38 +86,61 @@
    <hr>
    {{/with}}
 
+   {{#with wiki.current_members}}
+   <h3>Current Members</h3>
+   <p class="members">
+      {{makelinks this 'name'}}
+   </p>
+   <hr>
+   {{/with}}
+
+   {{#with wiki.former_members}}
+   <h3>Former Members</h3>
+   <p class="members">
+      {{makelinks this 'name'}}
+   </p>
+   <hr>
+   {{/with}}
+
   
    {{#with wiki}}
    <ul class="datapoints">
+      {{#if real_name}}
       <li>
         <h3 class="title">Real Name</h3>
         <p class="value">{{real_name}}</p>
       </li>
-
+      {{/if}}
+      {{#if identity}}
       <li>
         <h3 class="title">Identity</h3>
         <p class="value">{{identity}}</p>
       </li>
-
+      {{/if}}
+      {{#if occupation}}
       <li>
         <h3 class="title">Occupation</h3>
         <p class="value">{{makelinks occupation}}</p>
       </li>
-
+      {{/if}}
+      {{#if aliases}}
       <li>
         <h3 class="title">Aliases</h3>
         <p class="value">{{makelinks aliases}}</p>
       </li>
-
+      {{/if}}
+      {{#if citizenship}}
       <li>
         <h3 class="title">Citizenship</h3>
         <p class="value">{{makelinks citizenship}}</p>
       </li>
-
+      {{/if}}
+      {{#if groups}}
       <li>
         <h3 class="title">Groups</h3>
         <p class="value">{{makelinks groups}}</p>
       </li>
+      {{/if}}
    </ul>
    <hr>
 
@@ -139,15 +170,19 @@
    </div>
    {{/if}}
    {{/with}}
+
+   {{#unless hasData}}
+      <p>(Looks like we don't have any data about this character. Hopefully it will get added to the Marvel API soon.)</p>
+   {{/unless}}
 </div>
+{{/with}}
 
-
-
-<div class="other-comics">
-   <h2>{{name}} Appears In</h2>
+{{#if data.comics.results}}
+<div class="other-comics" id="other-comics">
+   <h2>{{data.name}} Appears In</h2>
    <hr>
-   <ul>
-      {{#each comics.results}}
+   <ul class="comic-list">
+      {{#each data.comics.results}}
          <li class="list-group-item">
             <a href="/comic/{{path.key}}" title="">
             {{#with this.value}}
@@ -158,36 +193,21 @@
          </li>
       {{/each}}
    </ul> 
+
+   {{#if pagination.needed}}
+      <ul class="pagination">
+         {{#paginate pagination type="previous"}}
+         <li {{#if disabled}}class="disabled"{{/if}}><a href="?p={{n}}#other-comics" >&laquo;</a></li>
+         {{/paginate}}
+         {{#paginate pagination type="middle" limit="7"}}
+         <li {{#if active}}class="active"{{/if}}><a href="?p={{n}}#other-comics">{{n}}</a></li>
+         {{/paginate}}
+         {{#paginate pagination type="next"}}
+         <li {{#if disabled}}class="disabled"{{/if}}><a href="?p={{n}}#other-comics">&raquo;</a></li>
+         {{/paginate}}
+      </ul>
+   {{/if}}
 </div>
+{{/if}}
 
 
-
-<!-- { id: 27402,
-   digitalId: 0,
-   title: 'Agents of Atlas (2009) #2 (BACHALO 2ND PRINTING VARIANT)',
-   issueNumber: 2,
-   variantDescription: 'BACHALO 2ND PRINTING VARIANT',
-   description: null,
-   modified: '-0001-11-30T00:00:00-0500',
-   isbn: '',
-   upc: '5960606632-00231',
-   diamondCode: 'JAN098153',
-   ean: '',
-   issn: '',
-   format: 'Comic',
-   pageCount: 32,
-   textObjects: [Object],
-   resourceURI: 'http://gateway.marvel.com/v1/public/comics/27402',
-   urls: [Object],
-   series: [Object],
-   variants: [Object],
-   collections: [],
-   collectedIssues: [],
-   dates: [Object],
-   prices: [Object],
-   thumbnail: [Object],
-   images: [Object],
-   creators: [Object],
-   characters: [Object],
-   stories: [Object],
-   events: [Object] } -->

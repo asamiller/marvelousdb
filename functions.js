@@ -1,4 +1,4 @@
-var db = require('orchestrate')('XXXX');
+var db = require('orchestrate')(process.env.ORCHESTRATE_API_KEY);
 var Q = require('q');
 
 // GET A SINGLE CHARACTER
@@ -159,11 +159,11 @@ exports.getComic = function (id) {
 //
 // right now Orchestrate doesn't support limits and pagination
 // in the graph results so we will get them all and limit the results
-function getComicsByCharacter (id, page, limit) {
+function getComicsByCharacter (id, offset, limit) {
 	var limit = limit || 20;
-	var page = page || 0;
-	var start = (page * limit) * page;
-	var end = start + limit;
+	var end = offset + limit;
+
+	console.log(id, offset, end, limit);
 
 	return db.newGraphReader()
 	.get()
@@ -171,7 +171,10 @@ function getComicsByCharacter (id, page, limit) {
 	.related('in')
 	.then(function (results) {
 		// limit it to a max number of results
-		return results.body.results.slice(start, end);
+		return {
+			total: results.body.results.length,
+			results: results.body.results.slice(offset, end)
+		};
 	});
 }
 
