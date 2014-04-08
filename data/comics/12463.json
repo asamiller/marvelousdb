@@ -1,0 +1,167 @@
+{
+    "id": 12463,
+    "digitalId": 4505,
+    "title": "Uncanny X-Men (1963) #17",
+    "issueNumber": 17,
+    "variantDescription": "",
+    "description": "Have the Sentinels triumphed over the X-Men, or will they be struck down from within their own ranks? Before it’s over, someone will die!",
+    "modified": "-0001-11-30T00:00:00-0500",
+    "isbn": "",
+    "upc": "",
+    "diamondCode": "",
+    "ean": "",
+    "issn": "",
+    "format": "Comic",
+    "pageCount": 36,
+    "textObjects": [
+        {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "The first Sentinel Saga is over, but metal can be dangerous even when it’s not in the form of robots! Just ask...Magneto!"
+        },
+        {
+            "type": "issue_preview_text",
+            "language": "en-us",
+            "text": "Have the Sentinels triumphed over the X-Men, or will they be struck down from within their own ranks? Before it’s over, someone will die!"
+        }
+    ],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/12463",
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/12463/uncanny_x-men_1963_17?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/Uncanny-X-Men-17/digital-comic/4505?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=4505&utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "inAppLink",
+            "url": "http://applink.marvel.com/issue/4505?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ],
+    "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/2258",
+        "name": "Uncanny X-Men (1963 - 2011)"
+    },
+    "variants": [],
+    "collections": [
+        {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/1147",
+            "name": "Marvel Masterworks: The X-Men Vol. 2 (Trade Paperback)"
+        }
+    ],
+    "collectedIssues": [],
+    "dates": [
+        {
+            "type": "onsaleDate",
+            "date": "1966-02-10T00:00:00-0500"
+        },
+        {
+            "type": "focDate",
+            "date": "1961-01-01T00:00:00-0500"
+        },
+        {
+            "type": "unlimitedDate",
+            "date": "2007-11-13T00:00:00-0500"
+        },
+        {
+            "type": "digitalPurchaseDate",
+            "date": "2010-04-01T00:00:00-0400"
+        }
+    ],
+    "prices": [
+        {
+            "type": "printPrice",
+            "price": 0.12
+        },
+        {
+            "type": "digitalPurchasePrice",
+            "price": 1.99
+        }
+    ],
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/8/c0/4d49e0b15a1e2",
+        "extension": "jpg"
+    },
+    "images": [
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/f/20/4bc3769c2acdb",
+            "extension": "jpg"
+        }
+    ],
+    "creators": {
+        "available": 5,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/12463/creators",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/263",
+                "name": "Dick Ayers",
+                "role": "inker"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/196",
+                "name": "Jack Kirby",
+                "role": "penciller (cover)"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/30",
+                "name": "Stan Lee",
+                "role": "editor"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/956",
+                "name": "Werner Roth",
+                "role": "penciller"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/1548",
+                "name": "Artie Simek",
+                "role": "letterer"
+            }
+        ],
+        "returned": 5
+    },
+    "characters": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/12463/characters",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009417",
+                "name": "Magneto"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009726",
+                "name": "X-Men"
+            }
+        ],
+        "returned": 2
+    },
+    "stories": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/12463/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/15477",
+                "name": "Cover #15477",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/15478",
+                "name": "...And None Shall Survive!",
+                "type": "interiorStory"
+            }
+        ],
+        "returned": 2
+    },
+    "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/12463/events",
+        "items": [],
+        "returned": 0
+    }
+}

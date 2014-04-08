@@ -1,0 +1,140 @@
+{
+    "id": 13013,
+    "digitalId": 22716,
+    "title": "Fantastic Four (1961) #206",
+    "issueNumber": 206,
+    "variantDescription": "",
+    "description": null,
+    "modified": "2012-11-26T21:27:38-0500",
+    "isbn": "",
+    "upc": "",
+    "diamondCode": "",
+    "ean": "",
+    "issn": "",
+    "format": "Comic",
+    "pageCount": 36,
+    "textObjects": [],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/13013",
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/13013/fantastic_four_1961_206?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=22716&utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ],
+    "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/2121",
+        "name": "Fantastic Four (1961 - 1998)"
+    },
+    "variants": [],
+    "collections": [],
+    "collectedIssues": [],
+    "dates": [
+        {
+            "type": "onsaleDate",
+            "date": "1979-05-10T00:00:00-0400"
+        },
+        {
+            "type": "focDate",
+            "date": "-0001-11-30T00:00:00-0500"
+        },
+        {
+            "type": "unlimitedDate",
+            "date": "2012-07-27T00:00:00-0400"
+        }
+    ],
+    "prices": [
+        {
+            "type": "printPrice",
+            "price": 0.4
+        }
+    ],
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/03/50b424e254998",
+        "extension": "jpg"
+    },
+    "images": [
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/03/50b424e254998",
+            "extension": "jpg"
+        }
+    ],
+    "creators": {
+        "available": 6,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/13013/creators",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/1746",
+                "name": "John Costanza",
+                "role": "letterer"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/1778",
+                "name": "Dan Crespi",
+                "role": "letterer"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/1267",
+                "name": "Keith Pollard",
+                "role": "penciller (cover)"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/1821",
+                "name": "Ben Sean",
+                "role": "colorist"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/1240",
+                "name": "Joe Sinnott",
+                "role": "inker"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/271",
+                "name": "Marv Wolfman",
+                "role": "editor"
+            }
+        ],
+        "returned": 6
+    },
+    "characters": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/13013/characters",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009299",
+                "name": "Fantastic Four"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009599",
+                "name": "Skrulls"
+            }
+        ],
+        "returned": 2
+    },
+    "stories": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/13013/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/12654",
+                "name": "Cover #12654",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/12655",
+                "name": "The Death of the Fantastic Four!",
+                "type": "interiorStory"
+            }
+        ],
+        "returned": 2
+    },
+    "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/13013/events",
+        "items": [],
+        "returned": 0
+    }
+}

@@ -1,0 +1,132 @@
+{
+    "id": 813,
+    "digitalId": 7500,
+    "title": "Warlock (2004) #1",
+    "issueNumber": 1,
+    "variantDescription": "",
+    "description": "NEW SERIES!  RETURN OF ADAM WARLOCK!  In a world on the brink, humankind’s time is running out, but deep in the jungles of South America a solution is being forged, a solution that will bring about a grand new utopia and that solution is Adam Warlock!  Wa",
+    "modified": "-0001-11-30T00:00:00-0500",
+    "isbn": "",
+    "upc": "5960605576-00111",
+    "diamondCode": "",
+    "ean": "",
+    "issn": "",
+    "format": "Comic",
+    "pageCount": 0,
+    "textObjects": [
+        {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "NEW SERIES!  RETURN OF ADAM WARLOCK!  In a world on the brink, humankind’s time is running out, but deep in the jungles of South America a solution is being forged, a solution that will bring about a grand new utopia and that solution is Adam Warlock!  Wa"
+        }
+    ],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/813",
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/813/warlock_2004_1?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=7500&utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ],
+    "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/778",
+        "name": "Warlock (2004)"
+    },
+    "variants": [],
+    "collections": [],
+    "collectedIssues": [],
+    "dates": [
+        {
+            "type": "onsaleDate",
+            "date": "2004-09-08T00:00:00-0400"
+        },
+        {
+            "type": "focDate",
+            "date": "-0001-11-30T00:00:00-0500"
+        },
+        {
+            "type": "unlimitedDate",
+            "date": "2008-05-29T00:00:00-0400"
+        }
+    ],
+    "prices": [
+        {
+            "type": "printPrice",
+            "price": 2.99
+        }
+    ],
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/f/10/4bc67a03cecd7",
+        "extension": "jpg"
+    },
+    "images": [
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/f/10/4bc67a03cecd7",
+            "extension": "jpg"
+        }
+    ],
+    "creators": {
+        "available": 5,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/813/creators",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/3811",
+                "name": "Charlie Adlard",
+                "role": "penciller"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/536",
+                "name": "Greg Pak",
+                "role": "writer"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/361",
+                "name": "Cory Petit",
+                "role": "letterer"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/846",
+                "name": "James Rochelle",
+                "role": "colorist"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/6143",
+                "name": "J.H. Williams",
+                "role": "penciller (cover)"
+            }
+        ],
+        "returned": 5
+    },
+    "characters": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/813/characters",
+        "items": [],
+        "returned": 0
+    },
+    "stories": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/813/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/3760",
+                "name": "NEW SERIES!  RETURN OF ADAM WARLOCK!  In a world on the brink, humankind’s time is running out, but deep in the jungles of South",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/3761",
+                "name": "NEW SERIES!  RETURN OF ADAM WARLOCK!  In a world on the brink, humankind’s time is running out, but deep in the jungles of South",
+                "type": "interiorStory"
+            }
+        ],
+        "returned": 2
+    },
+    "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/813/events",
+        "items": [],
+        "returned": 0
+    }
+}

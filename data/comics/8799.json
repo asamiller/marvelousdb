@@ -1,0 +1,146 @@
+{
+    "id": 8799,
+    "digitalId": 343,
+    "title": "Eternals (1976) #1",
+    "issueNumber": 1,
+    "variantDescription": "",
+    "description": null,
+    "modified": "-0001-11-30T00:00:00-0500",
+    "isbn": "",
+    "upc": "",
+    "diamondCode": "",
+    "ean": "",
+    "issn": "",
+    "format": "Comic",
+    "pageCount": 36,
+    "textObjects": [],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/8799",
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/8799/eternals_1976_1?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=343&utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ],
+    "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/2017",
+        "name": "Eternals (1976 - 1978)"
+    },
+    "variants": [],
+    "collections": [
+        {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/4322",
+            "name": "Eternals by Jack Kirby (Hardcover)"
+        }
+    ],
+    "collectedIssues": [],
+    "dates": [
+        {
+            "type": "onsaleDate",
+            "date": "1976-07-10T00:00:00-0400"
+        },
+        {
+            "type": "focDate",
+            "date": "-0001-11-30T00:00:00-0500"
+        },
+        {
+            "type": "unlimitedDate",
+            "date": "2007-11-13T00:00:00-0500"
+        }
+    ],
+    "prices": [
+        {
+            "type": "printPrice",
+            "price": 0.25
+        }
+    ],
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/f/10/4bc37db13e6ec",
+        "extension": "jpg"
+    },
+    "images": [
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/f/10/4bc37db13e6ec",
+            "extension": "jpg"
+        }
+    ],
+    "creators": {
+        "available": 6,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/8799/creators",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/1519",
+                "name": "Frank Giacoia",
+                "role": "inker"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/1740",
+                "name": "John Verpoorten",
+                "role": "inker"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/196",
+                "name": "Jack Kirby",
+                "role": "editor"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/271",
+                "name": "Marv Wolfman",
+                "role": "editor"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/1872",
+                "name": "Glynis Oliver",
+                "role": "colorist"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/1754",
+                "name": "Gaspar Saladino",
+                "role": "letterer"
+            }
+        ],
+        "returned": 6
+    },
+    "characters": {
+        "available": 1,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/8799/characters",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010807",
+                "name": "Eternals"
+            }
+        ],
+        "returned": 1
+    },
+    "stories": {
+        "available": 3,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/8799/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/20483",
+                "name": "Cover #20483",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/20484",
+                "name": "The Day of the Gods",
+                "type": ""
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/20485",
+                "name": "Eternal Utterings",
+                "type": ""
+            }
+        ],
+        "returned": 3
+    },
+    "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/8799/events",
+        "items": [],
+        "returned": 0
+    }
+}

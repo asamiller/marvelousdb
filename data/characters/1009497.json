@@ -1,0 +1,57 @@
+{
+    "id": 1009497,
+    "name": "Alexander Pierce",
+    "description": "",
+    "modified": "1969-12-31T19:00:00-0500",
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available",
+        "extension": "jpg"
+    },
+    "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009497",
+    "comics": {
+        "available": 1,
+        "collectionURI": "http://gateway.marvel.com/v1/public/characters/1009497/comics",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/comics/26285",
+                "name": "Secret Warriors (2008) #12"
+            }
+        ],
+        "returned": 1
+    },
+    "series": {
+        "available": 1,
+        "collectionURI": "http://gateway.marvel.com/v1/public/characters/1009497/series",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/series/6796",
+                "name": "Secret Warriors (2008 - 2011)"
+            }
+        ],
+        "returned": 1
+    },
+    "stories": {
+        "available": 1,
+        "collectionURI": "http://gateway.marvel.com/v1/public/characters/1009497/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/57873",
+                "name": "Secret Warriors (2008) #12",
+                "type": "interiorStory"
+            }
+        ],
+        "returned": 1
+    },
+    "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/characters/1009497/events",
+        "items": [],
+        "returned": 0
+    },
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/characters/1009497/alexander_pierce?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ]
+}

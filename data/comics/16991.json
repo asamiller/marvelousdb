@@ -1,0 +1,136 @@
+{
+    "id": 16991,
+    "digitalId": 8531,
+    "title": "Rawhide Kid (1960) #29",
+    "issueNumber": 29,
+    "variantDescription": "",
+    "description": null,
+    "modified": "-0001-11-30T00:00:00-0500",
+    "isbn": "",
+    "upc": "",
+    "diamondCode": "",
+    "ean": "",
+    "issn": "",
+    "format": "Comic",
+    "pageCount": 0,
+    "textObjects": [],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/16991",
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/16991/rawhide_kid_1960_29?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=8531&utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ],
+    "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/2988",
+        "name": "Rawhide Kid (1960 - 1979)"
+    },
+    "variants": [],
+    "collections": [],
+    "collectedIssues": [],
+    "dates": [
+        {
+            "type": "onsaleDate",
+            "date": "1962-08-10T00:00:00-0400"
+        },
+        {
+            "type": "focDate",
+            "date": "-0001-11-30T00:00:00-0500"
+        },
+        {
+            "type": "unlimitedDate",
+            "date": "2010-06-15T00:00:00-0400"
+        }
+    ],
+    "prices": [
+        {
+            "type": "printPrice",
+            "price": 0
+        }
+    ],
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/70/4bb8570fd19cc",
+        "extension": "jpg"
+    },
+    "images": [
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/70/4bb8570fd19cc",
+            "extension": "jpg"
+        }
+    ],
+    "creators": {
+        "available": 3,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/16991/creators",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/263",
+                "name": "Dick Ayers",
+                "role": "inker"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/196",
+                "name": "Jack Kirby",
+                "role": "penciler"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/30",
+                "name": "Stan Lee",
+                "role": "editor"
+            }
+        ],
+        "returned": 3
+    },
+    "characters": {
+        "available": 1,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/16991/characters",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010892",
+                "name": "Rawhide Kid"
+            }
+        ],
+        "returned": 1
+    },
+    "stories": {
+        "available": 5,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/16991/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/35675",
+                "name": "Cover #35675",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/35676",
+                "name": "The Trail of Apache Joe",
+                "type": ""
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/35677",
+                "name": "The Little Man Laughs Last",
+                "type": ""
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/35678",
+                "name": "Yak Yancy, the Man Who Treed a Town",
+                "type": "interiorStory"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/35679",
+                "name": "The Fallen Hero",
+                "type": ""
+            }
+        ],
+        "returned": 5
+    },
+    "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/16991/events",
+        "items": [],
+        "returned": 0
+    }
+}

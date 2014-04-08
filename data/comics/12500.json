@@ -1,0 +1,175 @@
+{
+    "id": 12500,
+    "digitalId": 1324,
+    "title": "Uncanny X-Men (1963) #50",
+    "issueNumber": 50,
+    "variantDescription": "",
+    "description": null,
+    "modified": "1969-12-31T19:00:00-0500",
+    "isbn": "",
+    "upc": "",
+    "diamondCode": "",
+    "ean": "",
+    "issn": "",
+    "format": "Comic",
+    "pageCount": 36,
+    "textObjects": [],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/12500",
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/12500/uncanny_x-men_1963_50?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/Uncanny-X-Men-50/digital-comic/1324?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=1324&utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "inAppLink",
+            "url": "http://applink.marvel.com/issue/1324?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ],
+    "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/2258",
+        "name": "Uncanny X-Men (1963 - 2011)"
+    },
+    "variants": [],
+    "collections": [
+        {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/2218",
+            "name": "Marvel Masterworks: The X-Men Vol. (Hardcover)"
+        }
+    ],
+    "collectedIssues": [],
+    "dates": [
+        {
+            "type": "onsaleDate",
+            "date": "1968-11-10T00:00:00-0500"
+        },
+        {
+            "type": "focDate",
+            "date": "1969-12-31T19:00:00-0500"
+        },
+        {
+            "type": "unlimitedDate",
+            "date": "2007-11-13T00:00:00-0500"
+        },
+        {
+            "type": "digitalPurchaseDate",
+            "date": "2012-12-04T00:00:00-0500"
+        }
+    ],
+    "prices": [
+        {
+            "type": "printPrice",
+            "price": 0.12
+        },
+        {
+            "type": "digitalPurchasePrice",
+            "price": 1.99
+        }
+    ],
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/80/4bc47fc1d3918",
+        "extension": "jpg"
+    },
+    "images": [
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/80/4bc47fc1d3918",
+            "extension": "jpg"
+        }
+    ],
+    "creators": {
+        "available": 7,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/12500/creators",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/314",
+                "name": "Neal Adams",
+                "role": "letterer"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/2350",
+                "name": "Herb Cooper",
+                "role": "letterer"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/30",
+                "name": "Stan Lee",
+                "role": "editor"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/956",
+                "name": "Werner Roth",
+                "role": "penciller"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/61",
+                "name": "Jim Steranko",
+                "role": "penciller (cover)"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/1529",
+                "name": "John Tartaglione",
+                "role": "inker"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/1740",
+                "name": "John Verpoorten",
+                "role": "inker"
+            }
+        ],
+        "returned": 7
+    },
+    "characters": {
+        "available": 3,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/12500/characters",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009175",
+                "name": "Beast"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009499",
+                "name": "Polaris"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009726",
+                "name": "X-Men"
+            }
+        ],
+        "returned": 3
+    },
+    "stories": {
+        "available": 3,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/12500/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/15566",
+                "name": "Cover #15566",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/15567",
+                "name": "City of Mutants",
+                "type": "interiorStory"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/15568",
+                "name": "This Boy--This Bombshell!",
+                "type": "interiorStory"
+            }
+        ],
+        "returned": 3
+    },
+    "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/12500/events",
+        "items": [],
+        "returned": 0
+    }
+}

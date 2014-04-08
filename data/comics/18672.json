@@ -1,0 +1,172 @@
+{
+    "id": 18672,
+    "digitalId": 7208,
+    "title": "Thor (1998) #47",
+    "issueNumber": 47,
+    "variantDescription": "",
+    "description": null,
+    "modified": "-0001-11-30T00:00:00-0500",
+    "isbn": "",
+    "upc": "",
+    "diamondCode": "",
+    "ean": "",
+    "issn": "",
+    "format": "Comic",
+    "pageCount": 0,
+    "textObjects": [],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/18672",
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/18672/thor_1998_47?utm_campaign=apiRef&utm_source=060c5822ea4a209732d430019a7e5703"
+        },
+        {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/Thor-47/digital-comic/7208?utm_campaign=apiRef&utm_source=060c5822ea4a209732d430019a7e5703"
+        },
+        {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=7208&utm_campaign=apiRef&utm_source=060c5822ea4a209732d430019a7e5703"
+        },
+        {
+            "type": "inAppLink",
+            "url": "http://applink.marvel.com/issue/7208?utm_campaign=apiRef&utm_source=060c5822ea4a209732d430019a7e5703"
+        }
+    ],
+    "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/581",
+        "name": "Thor (1998 - 2004)"
+    },
+    "variants": [],
+    "collections": [
+        {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/1074",
+            "name": "Thor Vol. II: Lord of Asgard (Trade Paperback)"
+        }
+    ],
+    "collectedIssues": [],
+    "dates": [
+        {
+            "type": "onsaleDate",
+            "date": "2002-05-01T00:00:00-0400"
+        },
+        {
+            "type": "focDate",
+            "date": "-0001-11-30T00:00:00-0500"
+        },
+        {
+            "type": "unlimitedDate",
+            "date": "2008-04-24T00:00:00-0400"
+        },
+        {
+            "type": "digitalPurchaseDate",
+            "date": "2011-03-22T00:00:00-0400"
+        }
+    ],
+    "prices": [
+        {
+            "type": "printPrice",
+            "price": 0
+        },
+        {
+            "type": "digitalPurchasePrice",
+            "price": 1.99
+        }
+    ],
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/f0/4bb7b98f7a338",
+        "extension": "jpg"
+    },
+    "images": [
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/f0/4bb7b98f7a338",
+            "extension": "jpg"
+        }
+    ],
+    "creators": {
+        "available": 9,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/18672/creators",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/807",
+                "name": "Comicraft",
+                "role": "letterer"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/350",
+                "name": "Richard Starkings",
+                "role": "letterer"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/506",
+                "name": "Joe Bennett",
+                "role": "penciler"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/444",
+                "name": "Tom Raney",
+                "role": "penciler"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/2133",
+                "name": "Tom Brevoort",
+                "role": "editor"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/718",
+                "name": "Marc Sumerak",
+                "role": "editor"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/362",
+                "name": "Scott Hanna",
+                "role": "inker"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/155",
+                "name": "Dan Jurgens",
+                "role": "writer"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/8071",
+                "name": "Dave Kemp",
+                "role": "colorist"
+            }
+        ],
+        "returned": 9
+    },
+    "characters": {
+        "available": 1,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/18672/characters",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009664",
+                "name": "Thor"
+            }
+        ],
+        "returned": 1
+    },
+    "stories": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/18672/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/40011",
+                "name": "Cover #40011",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/40012",
+                "name": "By Fire Born: Part II of V",
+                "type": "interiorStory"
+            }
+        ],
+        "returned": 2
+    },
+    "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/18672/events",
+        "items": [],
+        "returned": 0
+    }
+}

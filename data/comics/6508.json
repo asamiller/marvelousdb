@@ -1,0 +1,171 @@
+{
+    "id": 6508,
+    "digitalId": 1359,
+    "title": "Amazing Spider-Man (1963) #122",
+    "issueNumber": 122,
+    "variantDescription": "",
+    "description": null,
+    "modified": "-0001-11-30T00:00:00-0500",
+    "isbn": "",
+    "upc": "",
+    "diamondCode": "",
+    "ean": "",
+    "issn": "",
+    "format": "Comic",
+    "pageCount": 36,
+    "textObjects": [
+        {
+            "type": "70th_winner_desc",
+            "language": "en-us",
+            "text": "John Romita masterfully conveys Spidey's sadness and rage in this cover. And that text? No lie. Gobby's going down."
+        }
+    ],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/6508",
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/6508/amazing_spider-man_1963_122?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/Amazing-Spider-Man-122/digital-comic/1359?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=1359&utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "inAppLink",
+            "url": "http://applink.marvel.com/issue/1359?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ],
+    "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/1987",
+        "name": "Amazing Spider-Man (1963 - 1998)"
+    },
+    "variants": [],
+    "collections": [
+        {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/5870",
+            "name": "Spider-Man: Death of the Stacys Premiere (Hardcover)"
+        }
+    ],
+    "collectedIssues": [],
+    "dates": [
+        {
+            "type": "onsaleDate",
+            "date": "1973-07-10T00:00:00-0400"
+        },
+        {
+            "type": "focDate",
+            "date": "-0001-11-30T00:00:00-0500"
+        },
+        {
+            "type": "unlimitedDate",
+            "date": "2007-11-13T00:00:00-0500"
+        },
+        {
+            "type": "digitalPurchaseDate",
+            "date": "2013-12-03T00:00:00-0500"
+        }
+    ],
+    "prices": [
+        {
+            "type": "printPrice",
+            "price": 0.2
+        },
+        {
+            "type": "digitalPurchasePrice",
+            "price": 1.99
+        }
+    ],
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/a/40/4bc47f9ee6934",
+        "extension": "jpg"
+    },
+    "images": [
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/a0/4d713947d3d2e",
+            "extension": "jpg"
+        },
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/a/40/4bc47f9ee6934",
+            "extension": "jpg"
+        }
+    ],
+    "creators": {
+        "available": 5,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/6508/creators",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/954",
+                "name": "Gerry Conway",
+                "role": "writer"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/148",
+                "name": "Gil Kane",
+                "role": "penciller"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/1973",
+                "name": "Tony Mortellaro",
+                "role": "inker"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/214",
+                "name": "John Romita JR.",
+                "role": "penciller (cover)"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/2909",
+                "name": "Roy Thomas",
+                "role": "editor"
+            }
+        ],
+        "returned": 5
+    },
+    "characters": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/6508/characters",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009325",
+                "name": "Norman Osborn"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009610",
+                "name": "Spider-Man"
+            }
+        ],
+        "returned": 2
+    },
+    "stories": {
+        "available": 3,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/6508/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/13590",
+                "name": "Interior #13590",
+                "type": "interiorStory"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/13591",
+                "name": "The Goblin's Last Stand",
+                "type": "interiorStory"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/66173",
+                "name": "AMAZING SPIDER-MAN 122 cover",
+                "type": "cover"
+            }
+        ],
+        "returned": 3
+    },
+    "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/6508/events",
+        "items": [],
+        "returned": 0
+    }
+}

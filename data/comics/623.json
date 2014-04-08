@@ -1,0 +1,137 @@
+{
+    "id": 623,
+    "digitalId": 3682,
+    "title": "Spider-Girl (1998) #73",
+    "issueNumber": 73,
+    "variantDescription": "",
+    "description": "Spider-Girl's hunt for the new Doctor Octopus is sidetracked by Claw, the Cat, a high-tech villain who's faster, stronger, and more agile than our girl! Plus: an unexpected cliffhanger!",
+    "modified": "-0001-11-30T00:00:00-0500",
+    "isbn": "",
+    "upc": "5960603503-07311",
+    "diamondCode": "",
+    "ean": "",
+    "issn": "",
+    "format": "Comic",
+    "pageCount": 0,
+    "textObjects": [
+        {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "Spider-Girl's hunt for the new Doctor Octopus is sidetracked by Claw, the Cat, a high-tech villain who's faster, stronger, and more agile than our girl! Plus: an unexpected cliffhanger!"
+        }
+    ],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/623",
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/623/spider-girl_1998_73?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=3682&utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ],
+    "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/417",
+        "name": "Spider-Girl (1998 - 2006)"
+    },
+    "variants": [],
+    "collections": [
+        {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/13519",
+            "name": "Amazing Spider-Girl Vol. 1: Whatever Happened to the Daughter of Spider-Man (Trade Paperback)"
+        }
+    ],
+    "collectedIssues": [],
+    "dates": [
+        {
+            "type": "onsaleDate",
+            "date": "2004-05-05T00:00:00-0400"
+        },
+        {
+            "type": "focDate",
+            "date": "-0001-11-30T00:00:00-0500"
+        },
+        {
+            "type": "unlimitedDate",
+            "date": "2007-12-31T00:00:00-0500"
+        }
+    ],
+    "prices": [
+        {
+            "type": "printPrice",
+            "price": 2.99
+        }
+    ],
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/00/4bc68820a4be2",
+        "extension": "jpg"
+    },
+    "images": [
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/00/4bc68820a4be2",
+            "extension": "jpg"
+        }
+    ],
+    "creators": {
+        "available": 4,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/623/creators",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/105",
+                "name": "Sal Buscema",
+                "role": "inker"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/9565",
+                "name": "Tom DeFalco",
+                "role": "writer"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/5764",
+                "name": "Ron Frenz",
+                "role": "penciller (cover)"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/467",
+                "name": "Angelo Tsang",
+                "role": "colorist"
+            }
+        ],
+        "returned": 4
+    },
+    "characters": {
+        "available": 1,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/623/characters",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009609",
+                "name": "Spider-Girl (May Parker)"
+            }
+        ],
+        "returned": 1
+    },
+    "stories": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/623/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/814",
+                "name": "Cover #814",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/815",
+                "name": "Interior #815",
+                "type": "interiorStory"
+            }
+        ],
+        "returned": 2
+    },
+    "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/623/events",
+        "items": [],
+        "returned": 0
+    }
+}

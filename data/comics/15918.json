@@ -1,0 +1,130 @@
+{
+    "id": 15918,
+    "digitalId": 4619,
+    "title": "Ultimate X-Men Annual (2005) #1",
+    "issueNumber": 1,
+    "variantDescription": "",
+    "description": null,
+    "modified": "-0001-11-30T00:00:00-0500",
+    "isbn": "",
+    "upc": "",
+    "diamondCode": "",
+    "ean": "",
+    "issn": "",
+    "format": "Comic",
+    "pageCount": 0,
+    "textObjects": [],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/15918",
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/15918/ultimate_x-men_annual_2005_1?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/Ultimate-X-Men-Annual-1/digital-comic/4619?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=4619&utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "inAppLink",
+            "url": "http://applink.marvel.com/issue/4619?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ],
+    "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/1055",
+        "name": "Ultimate X-Men Annual (2005 - 2006)"
+    },
+    "variants": [],
+    "collections": [
+        {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/3438",
+            "name": "Ultimate Annuals Vol. 1 (Trade Paperback)"
+        },
+        {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/3038",
+            "name": "Ultimate X-Men Vol. 12: Hard Lessons (Trade Paperback)"
+        }
+    ],
+    "collectedIssues": [],
+    "dates": [
+        {
+            "type": "onsaleDate",
+            "date": "-0001-11-30T00:00:00-0500"
+        },
+        {
+            "type": "focDate",
+            "date": "-0001-11-30T00:00:00-0500"
+        },
+        {
+            "type": "unlimitedDate",
+            "date": "2007-11-13T00:00:00-0500"
+        },
+        {
+            "type": "digitalPurchaseDate",
+            "date": "2011-07-19T00:00:00-0400"
+        }
+    ],
+    "prices": [
+        {
+            "type": "printPrice",
+            "price": 0
+        },
+        {
+            "type": "digitalPurchasePrice",
+            "price": 1.99
+        }
+    ],
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/c0/4bc3785e7e721",
+        "extension": "jpg"
+    },
+    "images": [
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/c0/4bc3785e7e721",
+            "extension": "jpg"
+        }
+    ],
+    "creators": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/15918/creators",
+        "items": [],
+        "returned": 0
+    },
+    "characters": {
+        "available": 1,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/15918/characters",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1011109",
+                "name": "X-Men (Ultimate)"
+            }
+        ],
+        "returned": 1
+    },
+    "stories": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/15918/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/36757",
+                "name": "Cover #36757",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/36758",
+                "name": "Interior #36758",
+                "type": "interiorStory"
+            }
+        ],
+        "returned": 2
+    },
+    "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/15918/events",
+        "items": [],
+        "returned": 0
+    }
+}

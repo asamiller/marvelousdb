@@ -1,0 +1,104 @@
+{
+    "id": 26423,
+    "digitalId": 0,
+    "title": "Spider-Man Magazine (2008) #8",
+    "issueNumber": 8,
+    "variantDescription": "",
+    "description": "It’s Spider-Man from cover to cover in the latest senses-shattering edition of the wall-crawler’s very own ongoing magazine! In addition to full-length comic-book stories, this issue features puzzles, games, pinups and a pull-out poster!\r\nAll Ages …$6.99",
+    "modified": "-0001-11-30T00:00:00-0500",
+    "isbn": "",
+    "upc": "5960606385-00811",
+    "diamondCode": "JUL090535",
+    "ean": "",
+    "issn": "",
+    "format": "Magazine",
+    "pageCount": 96,
+    "textObjects": [
+        {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "It’s Spider-Man from cover to cover in the latest senses-shattering edition of the wall-crawler’s very own ongoing magazine! In addition to full-length comic-book stories, this issue features puzzles, games, pinups and a pull-out poster!\r\nAll Ages …$6.99"
+        }
+    ],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/26423",
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/26423/spider-man_magazine_2008_8?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ],
+    "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/5041",
+        "name": "Spider-Man Magazine (2008 - Present)"
+    },
+    "variants": [],
+    "collections": [],
+    "collectedIssues": [],
+    "dates": [
+        {
+            "type": "onsaleDate",
+            "date": "2009-09-23T00:00:00-0400"
+        },
+        {
+            "type": "focDate",
+            "date": "2009-09-03T00:00:00-0400"
+        }
+    ],
+    "prices": [
+        {
+            "type": "printPrice",
+            "price": 6.99
+        }
+    ],
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/f0/4bb464738d882",
+        "extension": "jpg"
+    },
+    "images": [
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/f0/4bb464738d882",
+            "extension": "jpg"
+        }
+    ],
+    "creators": {
+        "available": 1,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/26423/creators",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/490",
+                "name": "Pat Lee",
+                "role": "penciller"
+            }
+        ],
+        "returned": 1
+    },
+    "characters": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/26423/characters",
+        "items": [],
+        "returned": 0
+    },
+    "stories": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/26423/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/58151",
+                "name": "Cover #58151",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/58152",
+                "name": "Interior #58152",
+                "type": "interiorStory"
+            }
+        ],
+        "returned": 2
+    },
+    "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/26423/events",
+        "items": [],
+        "returned": 0
+    }
+}

@@ -1,0 +1,158 @@
+{
+    "id": 699,
+    "digitalId": 2178,
+    "title": "Marvel Knights Spider-Man (2004) #3",
+    "issueNumber": 3,
+    "variantDescription": "",
+    "description": "DOWN AMONG THE DEAD PART 3 Spider-Man versus Electro in a brutal confrontation!",
+    "modified": "-0001-11-30T00:00:00-0500",
+    "isbn": "",
+    "upc": "5960605521-00311",
+    "diamondCode": "",
+    "ean": "",
+    "issn": "",
+    "format": "Comic",
+    "pageCount": 0,
+    "textObjects": [
+        {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "Peter Parker is forced to face the cruel realities that wearing a mask and web-shooters bring to his personal life in this action-packed, hyper-realistic tale by the superstar creative team of Mark Millar and Terry Dodson. Featuring a brutal confrontation with Electro!"
+        },
+        {
+            "type": "issue_preview_text",
+            "language": "en-us",
+            "text": "DOWN AMONG THE DEAD PART 3 Spider-Man versus Electro in a brutal confrontation!"
+        }
+    ],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/699",
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/699/marvel_knights_spider-man_2004_3?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/Marvel-Knights-Spider-Man-3/digital-comic/2178?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=2178&utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "inAppLink",
+            "url": "http://applink.marvel.com/issue/2178?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ],
+    "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/721",
+        "name": "Marvel Knights Spider-Man (2004 - 2006)"
+    },
+    "variants": [],
+    "collections": [
+        {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/3061",
+            "name": "Marvel Knights Spider-Man Vol. 1 (Hardcover)"
+        }
+    ],
+    "collectedIssues": [],
+    "dates": [
+        {
+            "type": "onsaleDate",
+            "date": "2004-06-09T00:00:00-0400"
+        },
+        {
+            "type": "focDate",
+            "date": "-0001-11-30T00:00:00-0500"
+        },
+        {
+            "type": "unlimitedDate",
+            "date": "2007-11-13T00:00:00-0500"
+        },
+        {
+            "type": "digitalPurchaseDate",
+            "date": "2010-09-14T00:00:00-0400"
+        }
+    ],
+    "prices": [
+        {
+            "type": "printPrice",
+            "price": 2.99
+        },
+        {
+            "type": "digitalPurchasePrice",
+            "price": 1.99
+        }
+    ],
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/a0/4bc682f1c359e",
+        "extension": "jpg"
+    },
+    "images": [
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/a0/4bc682f1c359e",
+            "extension": "jpg"
+        }
+    ],
+    "creators": {
+        "available": 4,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/699/creators",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/592",
+                "name": "Rachel Dodson",
+                "role": "inker"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/277",
+                "name": "Terry Dodson",
+                "role": "penciller (cover)"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/4266",
+                "name": "Ian Hannin",
+                "role": "colorist"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/88",
+                "name": "Mark Millar",
+                "role": "writer"
+            }
+        ],
+        "returned": 4
+    },
+    "characters": {
+        "available": 1,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/699/characters",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009610",
+                "name": "Spider-Man"
+            }
+        ],
+        "returned": 1
+    },
+    "stories": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/699/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/2965",
+                "name": "Cover #2965",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/2966",
+                "name": "Interior #2966",
+                "type": "interiorStory"
+            }
+        ],
+        "returned": 2
+    },
+    "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/699/events",
+        "items": [],
+        "returned": 0
+    }
+}

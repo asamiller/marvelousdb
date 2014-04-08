@@ -1,0 +1,158 @@
+{
+    "id": 8295,
+    "digitalId": 4264,
+    "title": "Daredevil (1963) #3",
+    "issueNumber": 3,
+    "variantDescription": "",
+    "description": "Daredevil battles The Owl, the overlord of all crime in Manhattan! Matt Murdock must defeat The Owl in order to save Karen Page!",
+    "modified": "-0001-11-30T00:00:00-0500",
+    "isbn": "",
+    "upc": "",
+    "diamondCode": "",
+    "ean": "",
+    "issn": "",
+    "format": "Comic",
+    "pageCount": 36,
+    "textObjects": [
+        {
+            "type": "issue_preview_text",
+            "language": "en-us",
+            "text": "Daredevil battles The Owl, the overlord of all crime in Manhattan! Matt Murdock must defeat The Owl in order to save Karen Page!"
+        }
+    ],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/8295",
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/8295/daredevil_1963_3?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/Daredevil-3/digital-comic/4264?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=4264&utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "inAppLink",
+            "url": "http://applink.marvel.com/issue/4264?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ],
+    "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/2002",
+        "name": "Daredevil (1963 - 1998)"
+    },
+    "variants": [],
+    "collections": [
+        {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/1211",
+            "name": "Marvel Masterworks: Daredevil Vol. I - 2nd Edition (1st) (Trade Paperback)"
+        }
+    ],
+    "collectedIssues": [],
+    "dates": [
+        {
+            "type": "onsaleDate",
+            "date": "1964-08-10T00:00:00-0400"
+        },
+        {
+            "type": "focDate",
+            "date": "-0001-11-30T00:00:00-0500"
+        },
+        {
+            "type": "unlimitedDate",
+            "date": "2007-11-13T00:00:00-0500"
+        },
+        {
+            "type": "digitalPurchaseDate",
+            "date": "2010-08-31T00:00:00-0400"
+        }
+    ],
+    "prices": [
+        {
+            "type": "printPrice",
+            "price": 0.12
+        },
+        {
+            "type": "digitalPurchasePrice",
+            "price": 1.99
+        }
+    ],
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/b0/4bc34abcd7898",
+        "extension": "jpg"
+    },
+    "images": [
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/b0/4bc34abcd7898",
+            "extension": "jpg"
+        }
+    ],
+    "creators": {
+        "available": 5,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/8295/creators",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/1523",
+                "name": "Vince Colletta",
+                "role": "inker"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/196",
+                "name": "Jack Kirby",
+                "role": "penciller (cover)"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/30",
+                "name": "Stan Lee",
+                "role": "editor"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/1636",
+                "name": "Joe Orlando",
+                "role": "penciller"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/1553",
+                "name": "Sam Rosen",
+                "role": "letterer"
+            }
+        ],
+        "returned": 5
+    },
+    "characters": {
+        "available": 1,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/8295/characters",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009262",
+                "name": "Daredevil"
+            }
+        ],
+        "returned": 1
+    },
+    "stories": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/8295/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/16165",
+                "name": "Cover #16165",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/16166",
+                "name": "The Owl, Ominous Overlord of Crime!",
+                "type": "interiorStory"
+            }
+        ],
+        "returned": 2
+    },
+    "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/8295/events",
+        "items": [],
+        "returned": 0
+    }
+}

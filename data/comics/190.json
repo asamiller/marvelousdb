@@ -1,0 +1,132 @@
+{
+    "id": 190,
+    "digitalId": 6920,
+    "title": "Spectacular Spider-Man (2003) #6",
+    "issueNumber": 6,
+    "variantDescription": "",
+    "description": "“COUNTDOWN\" pts. 1 & 2 (of 5)\r\n\r\nDoc Ock is out to destroy Spider-Man once and for all but this time he's doing it in style. Check out Humberto Ramos' cool new redesign of Spider-Man's most devious villain.\r\n\r\n32 PGS. (each)/MARVEL PSR…$2.25 (each)",
+    "modified": "-0001-11-30T00:00:00-0500",
+    "isbn": "",
+    "upc": "5960605442-00611",
+    "diamondCode": "",
+    "ean": "",
+    "issn": "",
+    "format": "Comic",
+    "pageCount": 0,
+    "textObjects": [
+        {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "“COUNTDOWN\" pts. 1 & 2 (of 5)\r\n\r\nDoc Ock is out to destroy Spider-Man once and for all but this time he's doing it in style. Check out Humberto Ramos' cool new redesign of Spider-Man's most devious villain.\r\n\r\n32 PGS. (each)/MARVEL PSR…$2.25 (each)"
+        }
+    ],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/190",
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/190/spectacular_spider-man_2003_6?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=6920&utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ],
+    "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/556",
+        "name": "Spectacular Spider-Man (2003 - 2005)"
+    },
+    "variants": [],
+    "collections": [
+        {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/1255",
+            "name": "Spectacular Spider-Man Vol. 2: Countdown (Trade Paperback)"
+        }
+    ],
+    "collectedIssues": [],
+    "dates": [
+        {
+            "type": "onsaleDate",
+            "date": "2003-11-12T00:00:00-0500"
+        },
+        {
+            "type": "focDate",
+            "date": "-0001-11-30T00:00:00-0500"
+        },
+        {
+            "type": "unlimitedDate",
+            "date": "2008-04-28T00:00:00-0400"
+        }
+    ],
+    "prices": [
+        {
+            "type": "printPrice",
+            "price": 2.25
+        }
+    ],
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/2/10/4bc6a8ee9a0ac",
+        "extension": "jpg"
+    },
+    "images": [
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/2/10/4bc6a8ee9a0ac",
+            "extension": "jpg"
+        }
+    ],
+    "creators": {
+        "available": 3,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/190/creators",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/544",
+                "name": "Wayne Faucher",
+                "role": "inker"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/55",
+                "name": "Paul Jenkins",
+                "role": "writer"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/72",
+                "name": "Humberto Ramos",
+                "role": "penciller (cover)"
+            }
+        ],
+        "returned": 3
+    },
+    "characters": {
+        "available": 1,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/190/characters",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009610",
+                "name": "Spider-Man"
+            }
+        ],
+        "returned": 1
+    },
+    "stories": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/190/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/2039",
+                "name": "Cover #2039",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/2040",
+                "name": "Interior #2040",
+                "type": "interiorStory"
+            }
+        ],
+        "returned": 2
+    },
+    "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/190/events",
+        "items": [],
+        "returned": 0
+    }
+}

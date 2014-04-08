@@ -1,0 +1,136 @@
+{
+    "id": 1538,
+    "digitalId": 2845,
+    "title": "X-Men/Fantastic Four (2004) #2",
+    "issueNumber": 2,
+    "variantDescription": "",
+    "description": "The X-Men and the Fantastic Four have gone into space, and found some very scary stuff. But the real threat to their mission might just be among themselves! #2 (of 5).",
+    "modified": "-0001-11-30T00:00:00-0500",
+    "isbn": "",
+    "upc": "5960605573-00211",
+    "diamondCode": "",
+    "ean": "",
+    "issn": "",
+    "format": "Comic",
+    "pageCount": 0,
+    "textObjects": [
+        {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "The X-Men and the Fantastic Four have gone into space, and found some very scary stuff. But the real threat to their mission might just be among themselves! #2 (of 5)."
+        }
+    ],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/1538",
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/1538/x-menfantastic_four_2004_2?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=2845&utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ],
+    "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/775",
+        "name": "X-Men/Fantastic Four (2004 - 2005)"
+    },
+    "variants": [],
+    "collections": [
+        {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/2056",
+            "name": "X-Men/Fantastic Four (Hardcover)"
+        }
+    ],
+    "collectedIssues": [],
+    "dates": [
+        {
+            "type": "onsaleDate",
+            "date": "2005-01-05T00:00:00-0500"
+        },
+        {
+            "type": "focDate",
+            "date": "-0001-11-30T00:00:00-0500"
+        },
+        {
+            "type": "unlimitedDate",
+            "date": "2007-11-13T00:00:00-0500"
+        }
+    ],
+    "prices": [
+        {
+            "type": "printPrice",
+            "price": 3.5
+        }
+    ],
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/c0/4bc65744927ea",
+        "extension": "jpg"
+    },
+    "images": [
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/c0/4bc65744927ea",
+            "extension": "jpg"
+        }
+    ],
+    "creators": {
+        "available": 3,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/1538/creators",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/490",
+                "name": "Pat Lee",
+                "role": "penciller (cover)"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/8429",
+                "name": "Dave Sharpe",
+                "role": "letterer"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/353",
+                "name": "Akira Yoshida",
+                "role": "writer"
+            }
+        ],
+        "returned": 3
+    },
+    "characters": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/1538/characters",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009299",
+                "name": "Fantastic Four"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009726",
+                "name": "X-Men"
+            }
+        ],
+        "returned": 2
+    },
+    "stories": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/1538/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/3715",
+                "name": "2 of 5 - 5XLS",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/3716",
+                "name": "2 of 5 - 5XLS",
+                "type": "interiorStory"
+            }
+        ],
+        "returned": 2
+    },
+    "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/1538/events",
+        "items": [],
+        "returned": 0
+    }
+}

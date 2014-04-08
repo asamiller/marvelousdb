@@ -1,0 +1,153 @@
+{
+    "id": 105,
+    "digitalId": 3440,
+    "title": "Runaways (2003) #9",
+    "issueNumber": 9,
+    "variantDescription": "",
+    "description": " How do you runaway from the Runaways?  One troubled member of the team finds out, as she leaves the group's hideout with their dashing new recruit. But it may be out of the frying pan and into the fire, as this mysterious new Runaway finally reveals his startling secret. ",
+    "modified": "-0001-11-30T00:00:00-0500",
+    "isbn": "",
+    "upc": "5960605457-00511",
+    "diamondCode": "",
+    "ean": "",
+    "issn": "",
+    "format": "Comic",
+    "pageCount": 0,
+    "textObjects": [
+        {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "“TEENAGE WASTELAND” pt 3 (of 4)\r\nHow do you runaway from the Runaways?  One troubled member of the team finds out, as she leaves the group's hideout with their dashing new recruit. But it may be out of the frying pan and into the fire, as this mysterious new Runaway finally reveals his startling secret.\r\n32 PGS./MARVEL PSR…$2.99"
+        },
+        {
+            "type": "issue_preview_text",
+            "language": "en-us",
+            "text": " How do you runaway from the Runaways?  One troubled member of the team finds out, as she leaves the group's hideout with their dashing new recruit. But it may be out of the frying pan and into the fire, as this mysterious new Runaway finally reveals his startling secret. "
+        }
+    ],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/105",
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/105/runaways_2003_9?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/Runaways-9/digital-comic/3440?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=3440&utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "inAppLink",
+            "url": "http://applink.marvel.com/issue/3440?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ],
+    "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/2584",
+        "name": "Runaways (2003 - 2004)"
+    },
+    "variants": [],
+    "collections": [
+        {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/1349",
+            "name": "Runaways Vol. 2: Teenage Wasteland (Digest)"
+        }
+    ],
+    "collectedIssues": [],
+    "dates": [
+        {
+            "type": "onsaleDate",
+            "date": "2003-12-17T00:00:00-0500"
+        },
+        {
+            "type": "focDate",
+            "date": "-0001-11-30T00:00:00-0500"
+        },
+        {
+            "type": "unlimitedDate",
+            "date": "2007-11-19T00:00:00-0500"
+        },
+        {
+            "type": "digitalPurchaseDate",
+            "date": "2010-04-01T00:00:00-0400"
+        }
+    ],
+    "prices": [
+        {
+            "type": "printPrice",
+            "price": 2.99
+        },
+        {
+            "type": "digitalPurchasePrice",
+            "price": 1.99
+        }
+    ],
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/c0/4bc6aed82b958",
+        "extension": "jpg"
+    },
+    "images": [
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/c0/4bc6aed82b958",
+            "extension": "jpg"
+        }
+    ],
+    "creators": {
+        "available": 3,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/105/creators",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/329",
+                "name": "Adrian Alphona",
+                "role": "penciller"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/190",
+                "name": "Brian K. Vaughan",
+                "role": "writer"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/469",
+                "name": "Craig Yeung",
+                "role": "inker"
+            }
+        ],
+        "returned": 3
+    },
+    "characters": {
+        "available": 1,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/105/characters",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010747",
+                "name": "Runaways"
+            }
+        ],
+        "returned": 1
+    },
+    "stories": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/105/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/2123",
+                "name": "Interior #2123",
+                "type": "interiorStory"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/65419",
+                "name": "RUNAWAYS 9 cover",
+                "type": "cover"
+            }
+        ],
+        "returned": 2
+    },
+    "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/105/events",
+        "items": [],
+        "returned": 0
+    }
+}

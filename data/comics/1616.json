@@ -1,0 +1,167 @@
+{
+    "id": 1616,
+    "digitalId": 2701,
+    "title": "Ultimate X-Men (2000) #56",
+    "issueNumber": 56,
+    "variantDescription": "",
+    "description": "MOST DANGEROUS GAME PART 3 With one of the X-Men now a captive on the island of Krakoa, Mojo demands the X-Men return Longshot to his headquarters or Angel will soon have a harp to go with his wings.",
+    "modified": "2011-03-18T11:15:18-0400",
+    "isbn": "",
+    "upc": "5960605047-05611",
+    "diamondCode": "",
+    "ean": "",
+    "issn": "",
+    "format": "Comic",
+    "pageCount": 0,
+    "textObjects": [
+        {
+            "type": "issue_preview_text",
+            "language": "en-us",
+            "text": "MOST DANGEROUS GAME PART 3 With one of the X-Men now a captive on the island of Krakoa, Mojo demands the X-Men return Longshot to his headquarters or Angel will soon have a harp to go with his wings."
+        },
+        {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "\"LONGSHOT\" \r<br>With one of the X-Men now a captive on the island of Krakoa, the malevolent media mogul called Mojo demands the X-Men return Longshot to his headquarters or Angel will soon have a harp to go with his wings. Meanwhile, does Longshot have a “Dazzling” not so secret admirer?\r<br>"
+        }
+    ],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/1616",
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/1616/ultimate_x-men_2000_56?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/Ultimate-X-Men-56/digital-comic/2701?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=2701&utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "inAppLink",
+            "url": "http://applink.marvel.com/issue/2701?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ],
+    "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/474",
+        "name": "Ultimate X-Men (2000 - 2009)"
+    },
+    "variants": [],
+    "collections": [
+        {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/2179",
+            "name": "Ultimate X-Men Vol. 11: The Most Dangerous Game (Trade Paperback)"
+        }
+    ],
+    "collectedIssues": [],
+    "dates": [
+        {
+            "type": "onsaleDate",
+            "date": "2005-02-09T00:00:00-0500"
+        },
+        {
+            "type": "focDate",
+            "date": "-0001-11-30T00:00:00-0500"
+        },
+        {
+            "type": "unlimitedDate",
+            "date": "2007-11-13T00:00:00-0500"
+        },
+        {
+            "type": "digitalPurchaseDate",
+            "date": "2011-04-19T00:00:00-0400"
+        }
+    ],
+    "prices": [
+        {
+            "type": "printPrice",
+            "price": 2.25
+        },
+        {
+            "type": "digitalPurchasePrice",
+            "price": 1.99
+        }
+    ],
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/40/4bc65303b8d65",
+        "extension": "jpg"
+    },
+    "images": [
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/40/4bc65303b8d65",
+            "extension": "jpg"
+        }
+    ],
+    "creators": {
+        "available": 5,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/1616/creators",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/452",
+                "name": "Chris Eliopoulos",
+                "role": "letterer"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/552",
+                "name": "Wade von Grawbadger",
+                "role": "inker"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/192",
+                "name": "Stuart Immonen",
+                "role": "penciller (cover)"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/360",
+                "name": "Justin Ponsor",
+                "role": "colorist"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/190",
+                "name": "Brian K. Vaughan",
+                "role": "writer"
+            }
+        ],
+        "returned": 5
+    },
+    "characters": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/1616/characters",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010917",
+                "name": "Colossus (Ultimate)"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1011109",
+                "name": "X-Men (Ultimate)"
+            }
+        ],
+        "returned": 2
+    },
+    "stories": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/1616/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/1444",
+                "name": "3 of 3 - Longshot",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/1445",
+                "name": "3 of 3 - Longshot",
+                "type": "interiorStory"
+            }
+        ],
+        "returned": 2
+    },
+    "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/1616/events",
+        "items": [],
+        "returned": 0
+    }
+}

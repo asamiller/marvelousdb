@@ -1,0 +1,152 @@
+{
+    "id": 254,
+    "digitalId": 7426,
+    "title": "Uncanny X-Men (1963) #432",
+    "issueNumber": 432,
+    "variantDescription": "",
+    "description": "\"THE DRACO\" pt. 4 (of 6)\r\nNightcrawler takes one step closer to discovering the true origins of his family... \r\n32 PGS./MARVEL PSR…$2.25",
+    "modified": "2012-03-15T12:24:51-0400",
+    "isbn": "",
+    "upc": "5960605473-00311",
+    "diamondCode": "",
+    "ean": "",
+    "issn": "",
+    "format": "Comic",
+    "pageCount": 0,
+    "textObjects": [
+        {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "\"THE DRACO\" pt. 4 (of 6)\r\nNightcrawler takes one step closer to discovering the true origins of his family... \r\n32 PGS./MARVEL PSR…$2.25"
+        }
+    ],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/254",
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/254/uncanny_x-men_1963_432?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/Uncanny-X-Men-432/digital-comic/7426?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=7426&utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "inAppLink",
+            "url": "http://applink.marvel.com/issue/7426?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ],
+    "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/2258",
+        "name": "Uncanny X-Men (1963 - 2011)"
+    },
+    "variants": [],
+    "collections": [],
+    "collectedIssues": [],
+    "dates": [
+        {
+            "type": "onsaleDate",
+            "date": "2003-10-22T00:00:00-0400"
+        },
+        {
+            "type": "focDate",
+            "date": "-0001-11-30T00:00:00-0500"
+        },
+        {
+            "type": "unlimitedDate",
+            "date": "2008-09-17T00:00:00-0400"
+        },
+        {
+            "type": "digitalPurchaseDate",
+            "date": "2013-04-23T00:00:00-0400"
+        }
+    ],
+    "prices": [
+        {
+            "type": "printPrice",
+            "price": 2.25
+        },
+        {
+            "type": "digitalPurchasePrice",
+            "price": 1.99
+        }
+    ],
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/a0/4f6216fe1f39b",
+        "extension": "jpg"
+    },
+    "images": [
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/a0/4f6216fe1f39b",
+            "extension": "jpg"
+        },
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/00/4bc6a41b9c42f",
+            "extension": "jpg"
+        }
+    ],
+    "creators": {
+        "available": 4,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/254/creators",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/11",
+                "name": "Chuck Austen",
+                "role": "writer"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/30",
+                "name": "Stan Lee",
+                "role": "writer"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/448",
+                "name": "Billy Tan",
+                "role": "penciller (cover)"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/489",
+                "name": "Philip Tan",
+                "role": "penciller (cover)"
+            }
+        ],
+        "returned": 4
+    },
+    "characters": {
+        "available": 1,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/254/characters",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009726",
+                "name": "X-Men"
+            }
+        ],
+        "returned": 1
+    },
+    "stories": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/254/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/2293",
+                "name": "Cover #2293",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/2294",
+                "name": "Interior #2294",
+                "type": "interiorStory"
+            }
+        ],
+        "returned": 2
+    },
+    "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/254/events",
+        "items": [],
+        "returned": 0
+    }
+}

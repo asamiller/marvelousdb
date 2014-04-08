@@ -1,0 +1,123 @@
+{
+    "id": 20099,
+    "digitalId": 0,
+    "title": "Dr. Strange (1974) #20",
+    "issueNumber": 20,
+    "variantDescription": "",
+    "description": null,
+    "modified": "-0001-11-30T00:00:00-0500",
+    "isbn": "",
+    "upc": "",
+    "diamondCode": "",
+    "ean": "",
+    "issn": "",
+    "format": "Comic",
+    "pageCount": 36,
+    "textObjects": [],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/20099",
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/20099/dr_strange_1974_20?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ],
+    "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/3740",
+        "name": "Dr. Strange (1974 - 1988)"
+    },
+    "variants": [],
+    "collections": [],
+    "collectedIssues": [],
+    "dates": [
+        {
+            "type": "onsaleDate",
+            "date": "1976-12-10T00:00:00-0500"
+        },
+        {
+            "type": "focDate",
+            "date": "-0001-11-30T00:00:00-0500"
+        }
+    ],
+    "prices": [
+        {
+            "type": "printPrice",
+            "price": 0.3
+        }
+    ],
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available",
+        "extension": "jpg"
+    },
+    "images": [],
+    "creators": {
+        "available": 6,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/20099/creators",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/1746",
+                "name": "John Costanza",
+                "role": "letterer"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/965",
+                "name": "Ed Hannigan",
+                "role": "penciler"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/2190",
+                "name": "Rudy Nebres",
+                "role": "penciler"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/527",
+                "name": "Tom Palmer",
+                "role": "inker"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/198",
+                "name": "Marie Severin",
+                "role": "colorist"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/271",
+                "name": "Marv Wolfman",
+                "role": "editor"
+            }
+        ],
+        "returned": 6
+    },
+    "characters": {
+        "available": 1,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/20099/characters",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009282",
+                "name": "Doctor Strange"
+            }
+        ],
+        "returned": 1
+    },
+    "stories": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/20099/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/43056",
+                "name": "Cover #43056",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/43057",
+                "name": "Call Him: Xander the Merciless!",
+                "type": "interiorStory"
+            }
+        ],
+        "returned": 2
+    },
+    "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/20099/events",
+        "items": [],
+        "returned": 0
+    }
+}

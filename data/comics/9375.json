@@ -1,0 +1,146 @@
+{
+    "id": 9375,
+    "digitalId": 10851,
+    "title": "Iron Man (1968) #142",
+    "issueNumber": 142,
+    "variantDescription": "",
+    "description": null,
+    "modified": "-0001-11-30T00:00:00-0500",
+    "isbn": "",
+    "upc": "",
+    "diamondCode": "",
+    "ean": "",
+    "issn": "",
+    "format": "Comic",
+    "pageCount": 0,
+    "textObjects": [],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/9375",
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/9375/iron_man_1968_142?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=10851&utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ],
+    "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/2029",
+        "name": "Iron Man (1968 - 1996)"
+    },
+    "variants": [],
+    "collections": [],
+    "collectedIssues": [],
+    "dates": [
+        {
+            "type": "onsaleDate",
+            "date": "1981-01-10T00:00:00-0500"
+        },
+        {
+            "type": "focDate",
+            "date": "-0001-11-30T00:00:00-0500"
+        },
+        {
+            "type": "unlimitedDate",
+            "date": "2008-11-05T00:00:00-0500"
+        }
+    ],
+    "prices": [
+        {
+            "type": "printPrice",
+            "price": 0.5
+        }
+    ],
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/f/40/4bb5e9f9b11bc",
+        "extension": "jpg"
+    },
+    "images": [
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/f/40/4bb5e9f9b11bc",
+            "extension": "jpg"
+        }
+    ],
+    "creators": {
+        "available": 7,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/9375/creators",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/1746",
+                "name": "John Costanza",
+                "role": "letterer"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/1754",
+                "name": "Gaspar Saladino",
+                "role": "letterer"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/1247",
+                "name": "Bob Layton",
+                "role": "penciller (cover)"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/2784",
+                "name": "David Michelinie",
+                "role": "writer"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/214",
+                "name": "John Romita JR.",
+                "role": "penciller"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/1833",
+                "name": "Jim Salicrup",
+                "role": "editor"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/1832",
+                "name": "Bob Sharen",
+                "role": "colorist"
+            }
+        ],
+        "returned": 7
+    },
+    "characters": {
+        "available": 1,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/9375/characters",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009368",
+                "name": "Iron Man"
+            }
+        ],
+        "returned": 1
+    },
+    "stories": {
+        "available": 3,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/9375/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/19225",
+                "name": "Interior #19225",
+                "type": "interiorStory"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/19226",
+                "name": "Sky Die!",
+                "type": "interiorStory"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/66511",
+                "name": "Iron Man 142 cover",
+                "type": "cover"
+            }
+        ],
+        "returned": 3
+    },
+    "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/9375/events",
+        "items": [],
+        "returned": 0
+    }
+}

@@ -1,0 +1,104 @@
+{
+    "id": 89,
+    "digitalId": 0,
+    "title": "Official Handbook of the Marvel Universe (2004) #7",
+    "issueNumber": 7,
+    "variantDescription": "",
+    "description": "The House of Ideas pays tribute to its fallen heroes! OHOTMUBOTD04 includes in-depth bios on more than 40 of Marvel’s dearly departed — from ancient ones, old soldiers, kid sidekicks and Stacys to casualties of THE comic-book event of 2004: Avengers Disassembled! Plus: an all-new, digitally painted cover by superstar artist Salvador Larroca!",
+    "modified": "-0001-11-30T00:00:00-0500",
+    "isbn": "",
+    "upc": "5960605644-00111",
+    "diamondCode": "",
+    "ean": "",
+    "issn": "",
+    "format": "Comic",
+    "pageCount": 0,
+    "textObjects": [
+        {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "The House of Ideas pays tribute to its fallen heroes! OHOTMUBOTD04 includes in-depth bios on more than 40 of Marvel’s dearly departed — from ancient ones, old soldiers, kid sidekicks and Stacys to casualties of THE comic-book event of 2004: Avengers Disassembled! Plus: an all-new, digitally painted cover by superstar artist Salvador Larroca!"
+        }
+    ],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/89",
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/89/official_handbook_of_the_marvel_universe_2004_7?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ],
+    "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/787",
+        "name": "Official Handbook of the Marvel Universe (2004)"
+    },
+    "variants": [],
+    "collections": [],
+    "collectedIssues": [],
+    "dates": [
+        {
+            "type": "onsaleDate",
+            "date": "2004-11-10T00:00:00-0500"
+        },
+        {
+            "type": "focDate",
+            "date": "-0001-11-30T00:00:00-0500"
+        }
+    ],
+    "prices": [
+        {
+            "type": "printPrice",
+            "price": 3.99
+        }
+    ],
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/8/80/4bc6b06c450c1",
+        "extension": "jpg"
+    },
+    "images": [
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/8/80/4bc6b06c450c1",
+            "extension": "jpg"
+        }
+    ],
+    "creators": {
+        "available": 1,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/89/creators",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/11757",
+                "name": "Salvador Larroca",
+                "role": "penciller (cover)"
+            }
+        ],
+        "returned": 1
+    },
+    "characters": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/89/characters",
+        "items": [],
+        "returned": 0
+    },
+    "stories": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/89/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/4225",
+                "name": "Cover #4225",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/4226",
+                "name": "Interior #4226",
+                "type": "interiorStory"
+            }
+        ],
+        "returned": 2
+    },
+    "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/89/events",
+        "items": [],
+        "returned": 0
+    }
+}

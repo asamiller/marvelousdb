@@ -1,0 +1,166 @@
+{
+    "id": 12607,
+    "digitalId": 4568,
+    "title": "Black Panther (1998) #39",
+    "issueNumber": 39,
+    "variantDescription": "",
+    "description": null,
+    "modified": "-0001-11-30T00:00:00-0500",
+    "isbn": "",
+    "upc": "",
+    "diamondCode": "",
+    "ean": "",
+    "issn": "",
+    "format": "Comic",
+    "pageCount": 44,
+    "textObjects": [],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/12607",
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/12607/black_panther_1998_39?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=4568&utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ],
+    "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/2115",
+        "name": "Black Panther (1998 - 2003)"
+    },
+    "variants": [],
+    "collections": [],
+    "collectedIssues": [],
+    "dates": [
+        {
+            "type": "onsaleDate",
+            "date": "2002-02-10T00:00:00-0500"
+        },
+        {
+            "type": "focDate",
+            "date": "-0001-11-30T00:00:00-0500"
+        },
+        {
+            "type": "unlimitedDate",
+            "date": "2007-11-13T00:00:00-0500"
+        }
+    ],
+    "prices": [
+        {
+            "type": "printPrice",
+            "price": 2.5
+        }
+    ],
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/00/4bc34a8e7a252",
+        "extension": "jpg"
+    },
+    "images": [
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/00/4bc34a8e7a252",
+            "extension": "jpg"
+        }
+    ],
+    "creators": {
+        "available": 10,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/12607/creators",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/3672",
+                "name": "Sharpe",
+                "role": "letterer"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/4210",
+                "name": "Paul Tutrone",
+                "role": "letterer"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/4201",
+                "name": "Bob Almond",
+                "role": "inker"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/4174",
+                "name": "Mike Marts",
+                "role": "editor"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/3635",
+                "name": "Joe Quesada",
+                "role": "editor"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/684",
+                "name": "Mike Raicht",
+                "role": "editor"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/110",
+                "name": "Christopher Priest",
+                "role": "writer"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/4218",
+                "name": "Jennifer Schellinger",
+                "role": "colorist"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/4508",
+                "name": "Steve Uy",
+                "role": "penciller (cover)"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/960",
+                "name": "Sal Velluto",
+                "role": "penciller"
+            }
+        ],
+        "returned": 10
+    },
+    "characters": {
+        "available": 1,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/12607/characters",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009187",
+                "name": "Black Panther"
+            }
+        ],
+        "returned": 1
+    },
+    "stories": {
+        "available": 4,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/12607/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/25073",
+                "name": "Cover #25073",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/25074",
+                "name": "Return of the Dragon, Book Two of Three: Silent Stone",
+                "type": "interiorStory"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/25075",
+                "name": "'Nuff Said",
+                "type": "text story"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/25076",
+                "name": "Mail to the King!",
+                "type": "letters"
+            }
+        ],
+        "returned": 4
+    },
+    "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/12607/events",
+        "items": [],
+        "returned": 0
+    }
+}

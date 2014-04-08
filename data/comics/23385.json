@@ -1,0 +1,137 @@
+{
+    "id": 23385,
+    "digitalId": 0,
+    "title": "Nova (1976) #7",
+    "issueNumber": 7,
+    "variantDescription": "",
+    "description": null,
+    "modified": "2013-03-14T13:20:10-0400",
+    "isbn": "",
+    "upc": "",
+    "diamondCode": "",
+    "ean": "",
+    "issn": "",
+    "format": "Comic",
+    "pageCount": 36,
+    "textObjects": [],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/23385",
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/23385/nova_1976_7?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/Nova-7/digital-comic/29291?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ],
+    "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/6679",
+        "name": "Nova (1976 - 2010)"
+    },
+    "variants": [],
+    "collections": [],
+    "collectedIssues": [],
+    "dates": [
+        {
+            "type": "onsaleDate",
+            "date": "1977-03-10T00:00:00-0500"
+        },
+        {
+            "type": "focDate",
+            "date": "-0001-11-30T00:00:00-0500"
+        }
+    ],
+    "prices": [
+        {
+            "type": "printPrice",
+            "price": 0.3
+        }
+    ],
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available",
+        "extension": "jpg"
+    },
+    "images": [],
+    "creators": {
+        "available": 7,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/23385/creators",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/105",
+                "name": "Sal Buscema",
+                "role": "penciler"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/196",
+                "name": "Jack Kirby",
+                "role": "penciler"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/1746",
+                "name": "John Costanza",
+                "role": "letterer"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/5205",
+                "name": "Irving Watanabe",
+                "role": "letterer"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/1519",
+                "name": "Frank Giacoia",
+                "role": "inker"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/271",
+                "name": "Marv Wolfman",
+                "role": "editor"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/1787",
+                "name": "Michele Wolfman",
+                "role": "colorist"
+            }
+        ],
+        "returned": 7
+    },
+    "characters": {
+        "available": 1,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/23385/characters",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009477",
+                "name": "Nova"
+            }
+        ],
+        "returned": 1
+    },
+    "stories": {
+        "available": 3,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/23385/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/51845",
+                "name": "Cover #51845",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/51846",
+                "name": "War in Space!",
+                "type": "interiorStory"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/51847",
+                "name": "",
+                "type": "letters"
+            }
+        ],
+        "returned": 3
+    },
+    "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/23385/events",
+        "items": [],
+        "returned": 0
+    }
+}

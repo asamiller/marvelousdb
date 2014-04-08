@@ -1,0 +1,137 @@
+{
+    "id": 11202,
+    "digitalId": 0,
+    "title": "Sub-Mariner Comics (1941) #26",
+    "issueNumber": 26,
+    "variantDescription": "",
+    "description": null,
+    "modified": "-0001-11-30T00:00:00-0500",
+    "isbn": "",
+    "upc": "",
+    "diamondCode": "",
+    "ean": "",
+    "issn": "",
+    "format": "Comic",
+    "pageCount": 36,
+    "textObjects": [],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/11202",
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/11202/sub-mariner_comics_1941_26?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ],
+    "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/2077",
+        "name": "Sub-Mariner Comics (1941 - 1949)"
+    },
+    "variants": [],
+    "collections": [],
+    "collectedIssues": [],
+    "dates": [
+        {
+            "type": "onsaleDate",
+            "date": "1948-06-10T00:00:00-0400"
+        },
+        {
+            "type": "focDate",
+            "date": "-0001-11-30T00:00:00-0500"
+        }
+    ],
+    "prices": [
+        {
+            "type": "printPrice",
+            "price": 0.1
+        }
+    ],
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available",
+        "extension": "jpg"
+    },
+    "images": [],
+    "creators": {
+        "available": 6,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/11202/creators",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/1450",
+                "name": "Ken Bald",
+                "role": "inker"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/297",
+                "name": "Bill Everett",
+                "role": "writer"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/30",
+                "name": "Stan Lee",
+                "role": "editor"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/1351",
+                "name": "Bob Powell",
+                "role": "penciller"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/1181",
+                "name": "Mike Sekowsky",
+                "role": "penciller"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/1256",
+                "name": "Syd Shores",
+                "role": "penciller (cover)"
+            }
+        ],
+        "returned": 6
+    },
+    "characters": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/11202/characters",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1011416",
+                "name": "Blonde Phantom"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009468",
+                "name": "Namora"
+            }
+        ],
+        "returned": 2
+    },
+    "stories": {
+        "available": 4,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/11202/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/9815",
+                "name": "Cover #9815",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/9816",
+                "name": "Murder Motor Mart",
+                "type": "interiorStory"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/9817",
+                "name": "Framed For Crime",
+                "type": "interiorStory"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/9818",
+                "name": "Terror In the Lost Colony",
+                "type": "interiorStory"
+            }
+        ],
+        "returned": 4
+    },
+    "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/11202/events",
+        "items": [],
+        "returned": 0
+    }
+}

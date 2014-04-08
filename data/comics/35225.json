@@ -1,0 +1,151 @@
+{
+    "id": 35225,
+    "digitalId": 24743,
+    "title": "Avengers (2010) #19",
+    "issueNumber": 19,
+    "variantDescription": "",
+    "description": "Norman Osborn and H.A.M.M.E.R. return! Witness the new Avengers line-up in action!\n",
+    "modified": "2013-04-09T16:30:33-0400",
+    "isbn": "",
+    "upc": "5960607015-01911",
+    "diamondCode": "",
+    "ean": "",
+    "issn": "2153-988X",
+    "format": "Comic",
+    "pageCount": 32,
+    "textObjects": [
+        {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "\"Norman Osborn and H.A.M.M.E.R. return!  <br>Witness the new Avengers line-up in action!\""
+        },
+        {
+            "type": "issue_preview_text",
+            "language": "en-us",
+            "text": "Norman Osborn and H.A.M.M.E.R. return! Witness the new Avengers line-up in action!\n"
+        }
+    ],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/35225",
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/35225/avengers_2010_19?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/Avengers-19/digital-comic/24743?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=24743&utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "inAppLink",
+            "url": "http://applink.marvel.com/issue/24743?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ],
+    "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/9085",
+        "name": "Avengers (2010 - 2012)"
+    },
+    "variants": [],
+    "collections": [],
+    "collectedIssues": [],
+    "dates": [
+        {
+            "type": "onsaleDate",
+            "date": "2011-11-16T00:00:00-0500"
+        },
+        {
+            "type": "focDate",
+            "date": "2011-10-24T00:00:00-0400"
+        },
+        {
+            "type": "unlimitedDate",
+            "date": "2012-05-17T00:00:00-0400"
+        },
+        {
+            "type": "digitalPurchaseDate",
+            "date": "2012-07-31T00:00:00-0400"
+        }
+    ],
+    "prices": [
+        {
+            "type": "printPrice",
+            "price": 3.99
+        },
+        {
+            "type": "digitalPurchasePrice",
+            "price": 1.99
+        }
+    ],
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/d0/51685b4f4f6a6",
+        "extension": "jpg"
+    },
+    "images": [
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/d0/51685b4f4f6a6",
+            "extension": "jpg"
+        },
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/7/90/4ed66e85b8487",
+            "extension": "jpg"
+        },
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/7/03/4e45562007e47",
+            "extension": "jpg"
+        }
+    ],
+    "creators": {
+        "available": 1,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/35225/creators",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/1004",
+                "name": "Daniel Acuna",
+                "role": "penciller (cover)"
+            }
+        ],
+        "returned": 1
+    },
+    "characters": {
+        "available": 1,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/35225/characters",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009165",
+                "name": "Avengers"
+            }
+        ],
+        "returned": 1
+    },
+    "stories": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/35225/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/77793",
+                "name": "Avengers (2010) #19",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/77794",
+                "name": "Interior #77794",
+                "type": "interiorStory"
+            }
+        ],
+        "returned": 2
+    },
+    "events": {
+        "available": 1,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/35225/events",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/events/309",
+                "name": "Shattered Heroes"
+            }
+        ],
+        "returned": 1
+    }
+}

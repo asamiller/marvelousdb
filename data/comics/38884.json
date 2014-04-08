@@ -1,0 +1,128 @@
+{
+    "id": 38884,
+    "digitalId": 0,
+    "title": "Ultimate Comics Spider-Man (2009) #154 (PICHELLI VARIANT)",
+    "issueNumber": 154,
+    "variantDescription": "PICHELLI VARIANT",
+    "description": "The exchange between the Black Cat and Mysterio has leveled a portion of New York City. What mysterious power does the artifact in Mysterio’s possession hold? Find out here!",
+    "modified": "2011-07-27T13:01:26-0400",
+    "isbn": "",
+    "upc": "5960607496-15421",
+    "diamondCode": "DEC108036",
+    "ean": "",
+    "issn": "1535-8526",
+    "format": "Comic",
+    "pageCount": 32,
+    "textObjects": [
+        {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "The exchange between the Black Cat and Mysterio has leveled a portion of New York City. What mysterious power does the artifact in Mysterioâ€™s possession hold? Find out here!"
+        }
+    ],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/38884",
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/38884/ultimate_comics_spider-man_2009_154_pichelli_variant/pichelli_variant?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ],
+    "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/8509",
+        "name": "Ultimate Comics Spider-Man (2009 - 2012)"
+    },
+    "variants": [
+        {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/39893",
+            "name": "Ultimate Comics Spider-Man (2009) #154 (2nd Printing Variant)"
+        },
+        {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/37466",
+            "name": "Ultimate Comics Spider-Man (2009) #154"
+        }
+    ],
+    "collections": [],
+    "collectedIssues": [],
+    "dates": [
+        {
+            "type": "onsaleDate",
+            "date": "2011-02-23T00:00:00-0500"
+        },
+        {
+            "type": "focDate",
+            "date": "2011-02-09T00:00:00-0500"
+        }
+    ],
+    "prices": [
+        {
+            "type": "printPrice",
+            "price": 3.99
+        }
+    ],
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/e0/4d5ae7d89c308",
+        "extension": "jpg"
+    },
+    "images": [
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/e0/4d5ae7d89c308",
+            "extension": "jpg"
+        }
+    ],
+    "creators": {
+        "available": 3,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/38884/creators",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/24",
+                "name": "Brian Michael Bendis",
+                "role": "writer"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/7375",
+                "name": "DAVID LAFUENTE",
+                "role": "penciller"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/9408",
+                "name": "Sara Pichelli",
+                "role": "penciller"
+            }
+        ],
+        "returned": 3
+    },
+    "characters": {
+        "available": 1,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/38884/characters",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1011010",
+                "name": "Spider-Man (Ultimate)"
+            }
+        ],
+        "returned": 1
+    },
+    "stories": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/38884/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/82931",
+                "name": "Interior #82931",
+                "type": "interiorStory"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/89837",
+                "name": "Ultimate Comics Spider-Man (2009) #154 Pichelli Variant",
+                "type": "cover"
+            }
+        ],
+        "returned": 2
+    },
+    "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/38884/events",
+        "items": [],
+        "returned": 0
+    }
+}

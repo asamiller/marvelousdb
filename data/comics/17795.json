@@ -1,0 +1,154 @@
+{
+    "id": 17795,
+    "digitalId": 10935,
+    "title": "Avengers West Coast (1985) #53",
+    "issueNumber": 53,
+    "variantDescription": "",
+    "description": null,
+    "modified": "-0001-11-30T00:00:00-0500",
+    "isbn": "",
+    "upc": "",
+    "diamondCode": "",
+    "ean": "",
+    "issn": "",
+    "format": "Comic",
+    "pageCount": 36,
+    "textObjects": [],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/17795",
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/17795/avengers_west_coast_1985_53?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=10935&utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ],
+    "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/3623",
+        "name": "Avengers West Coast (1985 - 1994)"
+    },
+    "variants": [],
+    "collections": [
+        {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/17695",
+            "name": "Avengers West Coast: Darker than Scarlet (Trade Paperback)"
+        }
+    ],
+    "collectedIssues": [],
+    "dates": [
+        {
+            "type": "onsaleDate",
+            "date": "1989-12-20T00:00:00-0500"
+        },
+        {
+            "type": "focDate",
+            "date": "-0001-11-30T00:00:00-0500"
+        },
+        {
+            "type": "unlimitedDate",
+            "date": "2009-10-09T00:00:00-0400"
+        }
+    ],
+    "prices": [
+        {
+            "type": "printPrice",
+            "price": 1
+        }
+    ],
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/2/90/4c7cdefd2c63f",
+        "extension": "jpg"
+    },
+    "images": [
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/2/90/4c7cdefd2c63f",
+            "extension": "jpg"
+        }
+    ],
+    "creators": {
+        "available": 6,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/17795/creators",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/1827",
+                "name": "John Byrne",
+                "role": "penciler"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/9565",
+                "name": "Tom DeFalco",
+                "role": "editor"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/1286",
+                "name": "Howard Mackie",
+                "role": "editor"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/1894",
+                "name": "Bill Oakley",
+                "role": "letterer"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/1832",
+                "name": "Bob Sharen",
+                "role": "colorist"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/2082",
+                "name": "Keith Williams",
+                "role": "inker"
+            }
+        ],
+        "returned": 6
+    },
+    "characters": {
+        "available": 3,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/17795/characters",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009165",
+                "name": "Avengers"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009407",
+                "name": "Loki"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009417",
+                "name": "Magneto"
+            }
+        ],
+        "returned": 3
+    },
+    "stories": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/17795/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/37806",
+                "name": "Enter the U-Foes!",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/37807",
+                "name": "The Plan Proceeds [Acts of Vengeance]",
+                "type": "interiorStory"
+            }
+        ],
+        "returned": 2
+    },
+    "events": {
+        "available": 1,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/17795/events",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/events/116",
+                "name": "Acts of Vengeance!"
+            }
+        ],
+        "returned": 1
+    }
+}

@@ -1,0 +1,122 @@
+{
+    "id": 48672,
+    "digitalId": 0,
+    "title": "Uncanny X-Men (2013) #14",
+    "issueNumber": 14,
+    "variantDescription": "",
+    "description": "• The effects of X-MEN: BATTLE OF THE ATOM are felt!\n• Magneto goes off on personal mission that sets him at odds with much of the X-Men\nand Marvel Universe.\n• The new Xavier School has changed, but how?",
+    "modified": "2014-02-06T10:37:21-0500",
+    "isbn": "",
+    "upc": "75960607916201411",
+    "diamondCode": "SEP130756",
+    "ean": "",
+    "issn": "",
+    "format": "Comic",
+    "pageCount": 32,
+    "textObjects": [
+        {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "• The effects of X-MEN: BATTLE OF THE ATOM are felt!\n• Magneto goes off on personal mission that sets him at odds with much of the X-Men\nand Marvel Universe.\n• The new Xavier School has changed, but how?"
+        }
+    ],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/48672",
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/48672/uncanny_x-men_2013_14?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/Uncanny-X-Men-14/digital-comic/32302?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ],
+    "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/17602",
+        "name": "Uncanny X-Men (2013 - Present)"
+    },
+    "variants": [
+        {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/49418",
+            "name": "Uncanny X-Men (2013) #14 (Maos Variant)"
+        }
+    ],
+    "collections": [],
+    "collectedIssues": [],
+    "dates": [
+        {
+            "type": "onsaleDate",
+            "date": "2013-11-20T00:00:00-0500"
+        },
+        {
+            "type": "focDate",
+            "date": "2013-11-06T00:00:00-0500"
+        }
+    ],
+    "prices": [
+        {
+            "type": "printPrice",
+            "price": 3.99
+        }
+    ],
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/c0/52813af58674c",
+        "extension": "jpg"
+    },
+    "images": [
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/c0/52813af58674c",
+            "extension": "jpg"
+        },
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/f0/528139d6873ea",
+            "extension": "jpg"
+        }
+    ],
+    "creators": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/48672/creators",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/232",
+                "name": "Chris Bachalo",
+                "role": "penciller (cover)"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/24",
+                "name": "Brian Michael Bendis",
+                "role": "writer"
+            }
+        ],
+        "returned": 2
+    },
+    "characters": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/48672/characters",
+        "items": [],
+        "returned": 0
+    },
+    "stories": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/48672/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/109439",
+                "name": "cover from UNCANNY X-MEN (2013) #14",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/109440",
+                "name": "story from UNCANNY X-MEN (2013) #14",
+                "type": "interiorStory"
+            }
+        ],
+        "returned": 2
+    },
+    "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/48672/events",
+        "items": [],
+        "returned": 0
+    }
+}

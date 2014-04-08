@@ -1,0 +1,100 @@
+{
+    "id": 12792,
+    "digitalId": 0,
+    "title": "Captain America (1998) #32",
+    "issueNumber": 32,
+    "variantDescription": "",
+    "description": null,
+    "modified": "2011-10-04T15:33:27-0400",
+    "isbn": "",
+    "upc": "",
+    "diamondCode": "",
+    "ean": "",
+    "issn": "",
+    "format": "Comic",
+    "pageCount": 0,
+    "textObjects": [],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/12792",
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/12792/captain_america_1998_32?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/Captain-America-32/digital-comic/16179?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ],
+    "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/1997",
+        "name": "Captain America (1998 - 2002)"
+    },
+    "variants": [],
+    "collections": [],
+    "collectedIssues": [],
+    "dates": [
+        {
+            "type": "onsaleDate",
+            "date": "2000-08-10T00:00:00-0400"
+        },
+        {
+            "type": "focDate",
+            "date": "-0001-11-30T00:00:00-0500"
+        }
+    ],
+    "prices": [
+        {
+            "type": "printPrice",
+            "price": 0
+        }
+    ],
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/8/90/4e8b5fbcbdfcf",
+        "extension": "jpg"
+    },
+    "images": [
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/8/90/4e8b5fbcbdfcf",
+            "extension": "jpg"
+        }
+    ],
+    "creators": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/12792/creators",
+        "items": [],
+        "returned": 0
+    },
+    "characters": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/12792/characters",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009220",
+                "name": "Captain America"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009471",
+                "name": "Nick Fury"
+            }
+        ],
+        "returned": 2
+    },
+    "stories": {
+        "available": 1,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/12792/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/67169",
+                "name": "captain america (1998) #32",
+                "type": "cover"
+            }
+        ],
+        "returned": 1
+    },
+    "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/12792/events",
+        "items": [],
+        "returned": 0
+    }
+}

@@ -1,0 +1,119 @@
+{
+    "id": 42936,
+    "digitalId": 0,
+    "title": "FF (2010) #19 (Asm in Motion Variant)",
+    "issueNumber": 19,
+    "variantDescription": "Asm in Motion Variant",
+    "description": "<ul><li> For the first time since Johnny Storm died, the class travels to a now radically different Negative Zone.</li><li> See what happens when Annihilus goes with them.</li><li> And what does the future hold for the Light Brigade?</li><ul>",
+    "modified": "2012-06-27T16:28:17-0400",
+    "isbn": "",
+    "upc": "5960607495-01921",
+    "diamondCode": "APR120645",
+    "ean": "",
+    "issn": "0274-5291",
+    "format": "Comic",
+    "pageCount": 32,
+    "textObjects": [
+        {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "<ul><li> For the first time since Johnny Storm died, the class travels to a now radically different Negative Zone.</li><li> See what happens when Annihilus goes with them.</li><li> And what does the future hold for the Light Brigade?</li><ul>"
+        }
+    ],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/42936",
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/42936/ff_2010_19_asm_in_motion_variant/asm_in_motion_variant?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ],
+    "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/13440",
+        "name": "FF (2010 - 2012)"
+    },
+    "variants": [
+        {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/41199",
+            "name": "FF (2010) #19"
+        }
+    ],
+    "collections": [],
+    "collectedIssues": [],
+    "dates": [
+        {
+            "type": "onsaleDate",
+            "date": "2012-06-27T00:00:00-0400"
+        },
+        {
+            "type": "focDate",
+            "date": "2012-06-13T00:00:00-0400"
+        }
+    ],
+    "prices": [
+        {
+            "type": "printPrice",
+            "price": 2.99
+        }
+    ],
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/90/4fd7a5f991c10",
+        "extension": "jpg"
+    },
+    "images": [
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/90/4fd7a5f991c10",
+            "extension": "jpg"
+        }
+    ],
+    "creators": {
+        "available": 3,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/42936/creators",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/312",
+                "name": "Mike Deodato",
+                "role": "penciller (cover)"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/1064",
+                "name": "Nick Dragotta",
+                "role": "artist"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/11743",
+                "name": "Jonathan Hickman",
+                "role": "writer"
+            }
+        ],
+        "returned": 3
+    },
+    "characters": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/42936/characters",
+        "items": [],
+        "returned": 0
+    },
+    "stories": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/42936/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/96443",
+                "name": "Cover #96443",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/96444",
+                "name": "Interior #96444",
+                "type": "interiorStory"
+            }
+        ],
+        "returned": 2
+    },
+    "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/42936/events",
+        "items": [],
+        "returned": 0
+    }
+}

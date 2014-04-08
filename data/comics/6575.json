@@ -1,0 +1,145 @@
+{
+    "id": 6575,
+    "digitalId": 32138,
+    "title": "Amazing Spider-Man (1963) #183",
+    "issueNumber": 183,
+    "variantDescription": "",
+    "description": null,
+    "modified": "2013-10-18T13:52:43-0400",
+    "isbn": "",
+    "upc": "",
+    "diamondCode": "",
+    "ean": "",
+    "issn": "",
+    "format": "Comic",
+    "pageCount": 36,
+    "textObjects": [],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/6575",
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/6575/amazing_spider-man_1963_183?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=32138&utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ],
+    "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/1987",
+        "name": "Amazing Spider-Man (1963 - 1998)"
+    },
+    "variants": [],
+    "collections": [],
+    "collectedIssues": [],
+    "dates": [
+        {
+            "type": "onsaleDate",
+            "date": "1978-08-10T00:00:00-0400"
+        },
+        {
+            "type": "focDate",
+            "date": "-0001-11-30T00:00:00-0500"
+        },
+        {
+            "type": "unlimitedDate",
+            "date": "2013-10-07T16:13:30-0400"
+        }
+    ],
+    "prices": [
+        {
+            "type": "printPrice",
+            "price": 0.35
+        }
+    ],
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/03/526175455d44a",
+        "extension": "jpg"
+    },
+    "images": [
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/03/526175455d44a",
+            "extension": "jpg"
+        }
+    ],
+    "creators": {
+        "available": 7,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/6575/creators",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/1167",
+                "name": "Ross Andru",
+                "role": "penciller (cover)"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/1767",
+                "name": "Janice Cohen",
+                "role": "colorist"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/1722",
+                "name": "Ernest Hart",
+                "role": "inker"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/8125",
+                "name": "Bob McLeod",
+                "role": "inker"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/399",
+                "name": "Jim Novak",
+                "role": "letterer"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/1819",
+                "name": "Rick Parker",
+                "role": "letterer"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/271",
+                "name": "Marv Wolfman",
+                "role": "editor"
+            }
+        ],
+        "returned": 7
+    },
+    "characters": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/6575/characters",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009181",
+                "name": "Big Wheel"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009610",
+                "name": "Spider-Man"
+            }
+        ],
+        "returned": 2
+    },
+    "stories": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/6575/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/13727",
+                "name": "Cover #13727",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/13728",
+                "name": "...And Where The Big Wheel Stops, Nobody Knows!",
+                "type": "interiorStory"
+            }
+        ],
+        "returned": 2
+    },
+    "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/6575/events",
+        "items": [],
+        "returned": 0
+    }
+}

@@ -1,0 +1,153 @@
+{
+    "id": 1664,
+    "digitalId": 2723,
+    "title": "Uncanny X-Men (1963) #456",
+    "issueNumber": 456,
+    "variantDescription": "",
+    "description": "\"ON ICE!\" Part 2 of 5! \r<br>The X-Men return to the Savage Land! Plus, the team gains a highly unexpected new member! The fabulous Alan Davis returns as the monthly penciler! \r<br>",
+    "modified": "-0001-11-30T00:00:00-0500",
+    "isbn": "",
+    "upc": "5960602461-45611",
+    "diamondCode": "",
+    "ean": "",
+    "issn": "",
+    "format": "Comic",
+    "pageCount": 0,
+    "textObjects": [
+        {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "\"ON ICE!\" Part 2 of 5! \r<br>The X-Men return to the Savage Land! Plus, the team gains a highly unexpected new member! The fabulous Alan Davis returns as the monthly penciler! \r<br>"
+        }
+    ],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/1664",
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/1664/uncanny_x-men_1963_456?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/Uncanny-X-Men-456/digital-comic/2723?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=2723&utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "inAppLink",
+            "url": "http://applink.marvel.com/issue/2723?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ],
+    "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/2258",
+        "name": "Uncanny X-Men (1963 - 2011)"
+    },
+    "variants": [],
+    "collections": [
+        {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/2299",
+            "name": "Uncanny X-Men - The New Age Vol. 3: On Ice (Trade Paperback)"
+        }
+    ],
+    "collectedIssues": [],
+    "dates": [
+        {
+            "type": "onsaleDate",
+            "date": "2005-02-23T00:00:00-0500"
+        },
+        {
+            "type": "focDate",
+            "date": "-0001-11-30T00:00:00-0500"
+        },
+        {
+            "type": "unlimitedDate",
+            "date": "2007-11-13T00:00:00-0500"
+        },
+        {
+            "type": "digitalPurchaseDate",
+            "date": "2013-12-31T00:00:00-0500"
+        }
+    ],
+    "prices": [
+        {
+            "type": "printPrice",
+            "price": 2.25
+        },
+        {
+            "type": "digitalPurchasePrice",
+            "price": 1.99
+        }
+    ],
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/90/4bc64f9dca725",
+        "extension": "jpg"
+    },
+    "images": [
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/90/4bc64f9dca725",
+            "extension": "jpg"
+        }
+    ],
+    "creators": {
+        "available": 4,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/1664/creators",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/44",
+                "name": "Chris Claremont",
+                "role": "writer"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/440",
+                "name": "Mark Farmer",
+                "role": "inker"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/442",
+                "name": "Dean White",
+                "role": "colorist"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/410",
+                "name": "Rus Wooton",
+                "role": "letterer"
+            }
+        ],
+        "returned": 4
+    },
+    "characters": {
+        "available": 1,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/1664/characters",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009726",
+                "name": "X-Men"
+            }
+        ],
+        "returned": 1
+    },
+    "stories": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/1664/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/736",
+                "name": "2 of 5 - Savage Land",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/737",
+                "name": "2 of 5 - Savage Land",
+                "type": "interiorStory"
+            }
+        ],
+        "returned": 2
+    },
+    "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/1664/events",
+        "items": [],
+        "returned": 0
+    }
+}

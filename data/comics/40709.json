@@ -1,0 +1,161 @@
+{
+    "id": 40709,
+    "digitalId": 26826,
+    "title": "Secret Avengers (2010) #28",
+    "issueNumber": 28,
+    "variantDescription": "",
+    "description": "The Avengers have found a way to save the Kree homeworld, but one man stands in their way: Captain Marvel! Can Ms. Marvel and Protector break free of Minister Marvel’s control? When all else fails, one Avenger must rise and make the ultimate sacrifice.\n",
+    "modified": "2012-06-18T17:02:13-0400",
+    "isbn": "",
+    "upc": "5960607014-02811",
+    "diamondCode": "APR120592",
+    "ean": "",
+    "issn": "2153-9898",
+    "format": "Comic",
+    "pageCount": 32,
+    "textObjects": [
+        {
+            "type": "issue_preview_text",
+            "language": "en-us",
+            "text": "The Avengers have found a way to save the Kree homeworld, but one man stands in their way: Captain Marvel! Can Ms. Marvel and Protector break free of Minister Marvel’s control? When all else fails, one Avenger must rise and make the ultimate sacrifice.\n"
+        },
+        {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "<ul><li> The Avengers have devised a way to save the Kree homeworld from the Phoenix, but one man stands in their way &emdash; Captain Marvel!</li><li> Can Ms. Marvel and The Protector break free of Minister Marvel’s influence to aid their former companions?</li><li> When all else fails, one Avenger must rise and make the ultimate sacrifice...but will his death be enough?</li><ul>"
+        }
+    ],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/40709",
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/40709/secret_avengers_2010_28?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/Secret-Avengers-28/digital-comic/26826?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=26826&utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "inAppLink",
+            "url": "http://applink.marvel.com/issue/26826?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ],
+    "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/9799",
+        "name": "Secret Avengers (2010 - 2012)"
+    },
+    "variants": [],
+    "collections": [],
+    "collectedIssues": [],
+    "dates": [
+        {
+            "type": "onsaleDate",
+            "date": "2012-06-20T00:00:00-0400"
+        },
+        {
+            "type": "focDate",
+            "date": "2012-05-30T00:00:00-0400"
+        },
+        {
+            "type": "unlimitedDate",
+            "date": "2013-04-15T00:00:00-0400"
+        },
+        {
+            "type": "digitalPurchaseDate",
+            "date": "2012-06-20T00:00:00-0400"
+        }
+    ],
+    "prices": [
+        {
+            "type": "printPrice",
+            "price": 3.99
+        },
+        {
+            "type": "digitalPurchasePrice",
+            "price": 1.99
+        }
+    ],
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/b0/518d17adc9f6c",
+        "extension": "jpg"
+    },
+    "images": [
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/b0/518d17adc9f6c",
+            "extension": "jpg"
+        }
+    ],
+    "creators": {
+        "available": 3,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/40709/creators",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/16",
+                "name": "Alan Davis",
+                "role": "penciller (cover)"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/11300",
+                "name": "Renato Guedes",
+                "role": "artist"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/11835",
+                "name": "Rick Remender",
+                "role": "writer"
+            }
+        ],
+        "returned": 3
+    },
+    "characters": {
+        "available": 3,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/40709/characters",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009165",
+                "name": "Avengers"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010338",
+                "name": "Captain Marvel (Carol Danvers)"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009726",
+                "name": "X-Men"
+            }
+        ],
+        "returned": 3
+    },
+    "stories": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/40709/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/92242",
+                "name": "Cover #92242",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/92243",
+                "name": "Interior #92243",
+                "type": "interiorStory"
+            }
+        ],
+        "returned": 2
+    },
+    "events": {
+        "available": 1,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/40709/events",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/events/310",
+                "name": "Avengers VS X-Men"
+            }
+        ],
+        "returned": 1
+    }
+}

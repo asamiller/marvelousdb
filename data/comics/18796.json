@@ -1,0 +1,172 @@
+{
+    "id": 18796,
+    "digitalId": 7089,
+    "title": "Tales from the Age of Apocalyspse: By the Lig (1996) #1",
+    "issueNumber": 1,
+    "variantDescription": "",
+    "description": null,
+    "modified": "1969-12-31T19:00:00-0500",
+    "isbn": "",
+    "upc": "",
+    "diamondCode": "",
+    "ean": "",
+    "issn": "",
+    "format": "Comic",
+    "pageCount": 48,
+    "textObjects": [],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/18796",
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/18796/tales_from_the_age_of_apocalyspse_by_the_lig_1996_1?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/Tales-from-the-Age-of-Apocalyspse-By-the-Lig-1/digital-comic/7089?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=7089&utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "inAppLink",
+            "url": "http://applink.marvel.com/issue/7089?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ],
+    "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/3675",
+        "name": "Tales from the Age of Apocalyspse: By the Lig (1996 - 1997)"
+    },
+    "variants": [],
+    "collections": [
+        {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/1780",
+            "name": "X-Men: The Complete Age of Apocalypse Epic Book 1 (Trade Paperback)"
+        }
+    ],
+    "collectedIssues": [],
+    "dates": [
+        {
+            "type": "onsaleDate",
+            "date": "1996-12-10T00:00:00-0500"
+        },
+        {
+            "type": "focDate",
+            "date": "1969-12-31T19:00:00-0500"
+        },
+        {
+            "type": "unlimitedDate",
+            "date": "2010-06-30T00:00:00-0400"
+        },
+        {
+            "type": "digitalPurchaseDate",
+            "date": "2010-11-16T00:00:00-0500"
+        }
+    ],
+    "prices": [
+        {
+            "type": "printPrice",
+            "price": 5.95
+        },
+        {
+            "type": "digitalPurchasePrice",
+            "price": 1.99
+        }
+    ],
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/f/00/4bb68aa7af52b",
+        "extension": "jpg"
+    },
+    "images": [
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/f/00/4bb68aa7af52b",
+            "extension": "jpg"
+        }
+    ],
+    "creators": {
+        "available": 8,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/18796/creators",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/807",
+                "name": "Comicraft",
+                "role": "letterer"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/506",
+                "name": "Joe Bennett",
+                "role": "penciler"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/4628",
+                "name": "Jason Liebig",
+                "role": "editor"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/3710",
+                "name": "Mark Powers",
+                "role": "editor"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/3637",
+                "name": "Scott Lobdell",
+                "role": "writer"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/1282",
+                "name": "Ralph Macchio",
+                "role": "writer"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/1969",
+                "name": "Joe Pimentel",
+                "role": "inker"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/4050",
+                "name": "Gloria Vasquez",
+                "role": "colorist"
+            }
+        ],
+        "returned": 8
+    },
+    "characters": {
+        "available": 1,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/18796/characters",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009726",
+                "name": "X-Men"
+            }
+        ],
+        "returned": 1
+    },
+    "stories": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/18796/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/40258",
+                "name": "Cover #40258",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/40259",
+                "name": "By the Light",
+                "type": "interiorStory"
+            }
+        ],
+        "returned": 2
+    },
+    "events": {
+        "available": 1,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/18796/events",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/events/227",
+                "name": "Age of Apocalypse"
+            }
+        ],
+        "returned": 1
+    }
+}

@@ -1,0 +1,138 @@
+{
+    "id": 15229,
+    "digitalId": 0,
+    "title": "Silver Surfer (1987) #89",
+    "issueNumber": 89,
+    "variantDescription": "",
+    "description": null,
+    "modified": "1969-12-31T19:00:00-0500",
+    "isbn": "",
+    "upc": "",
+    "diamondCode": "",
+    "ean": "",
+    "issn": "",
+    "format": "Comic",
+    "pageCount": 23,
+    "textObjects": [],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/15229",
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/15229/silver_surfer_1987_89?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ],
+    "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/2288",
+        "name": "Silver Surfer (1987 - 1998)"
+    },
+    "variants": [],
+    "collections": [],
+    "collectedIssues": [],
+    "dates": [
+        {
+            "type": "onsaleDate",
+            "date": "1994-02-10T00:00:00-0500"
+        },
+        {
+            "type": "focDate",
+            "date": "1969-12-31T19:00:00-0500"
+        }
+    ],
+    "prices": [
+        {
+            "type": "printPrice",
+            "price": 1.25
+        }
+    ],
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available",
+        "extension": "jpg"
+    },
+    "images": [],
+    "creators": {
+        "available": 9,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/15229/creators",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/4796",
+                "name": "Keith Aiken",
+                "role": "inker"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/4769",
+                "name": "Tom Christopher",
+                "role": "inker"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/2047",
+                "name": "Craig Anderson",
+                "role": "editor"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/1871",
+                "name": "Ken Bruzenak",
+                "role": "letterer"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/2309",
+                "name": "Susan Crespi",
+                "role": "letterer"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/1034",
+                "name": "Colleen Doran",
+                "role": "penciller"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/658",
+                "name": "Ron Lim",
+                "role": "penciller (cover)"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/2673",
+                "name": "Ron Marz",
+                "role": "writer"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/2071",
+                "name": "Evelyn Stein",
+                "role": "colorist"
+            }
+        ],
+        "returned": 9
+    },
+    "characters": {
+        "available": 1,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/15229/characters",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009592",
+                "name": "Silver Surfer"
+            }
+        ],
+        "returned": 1
+    },
+    "stories": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/15229/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/30928",
+                "name": "Cover #30928",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/30929",
+                "name": "Feud",
+                "type": "interiorStory"
+            }
+        ],
+        "returned": 2
+    },
+    "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/15229/events",
+        "items": [],
+        "returned": 0
+    }
+}

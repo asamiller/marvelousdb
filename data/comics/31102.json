@@ -1,0 +1,114 @@
+{
+    "id": 31102,
+    "digitalId": 0,
+    "title": "Captain America Poster Book (2011) #1",
+    "issueNumber": 1,
+    "variantDescription": "",
+    "description": "",
+    "modified": "2011-04-29T09:38:26-0400",
+    "isbn": "",
+    "upc": "5960607168-00111",
+    "diamondCode": "",
+    "ean": "",
+    "issn": "",
+    "format": "Magazine",
+    "pageCount": 72,
+    "textObjects": [
+        {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": ""
+        }
+    ],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/31102",
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/31102/captain_america_poster_book_2011_1?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ],
+    "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/9988",
+        "name": "Captain America Poster Book (2011)"
+    },
+    "variants": [],
+    "collections": [],
+    "collectedIssues": [],
+    "dates": [
+        {
+            "type": "onsaleDate",
+            "date": "2011-05-04T00:00:00-0400"
+        },
+        {
+            "type": "focDate",
+            "date": "2011-04-20T00:00:00-0400"
+        }
+    ],
+    "prices": [
+        {
+            "type": "printPrice",
+            "price": 5.99
+        }
+    ],
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/5/d0/4d5172610cea5",
+        "extension": "jpg"
+    },
+    "images": [
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/5/d0/4d5172610cea5",
+            "extension": "jpg"
+        }
+    ],
+    "creators": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/31102/creators",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/249",
+                "name": "Art Adams",
+                "role": "penciller"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/4430",
+                "name": "Jeff Youngquist",
+                "role": "editor"
+            }
+        ],
+        "returned": 2
+    },
+    "characters": {
+        "available": 1,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/31102/characters",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009220",
+                "name": "Captain America"
+            }
+        ],
+        "returned": 1
+    },
+    "stories": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/31102/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/70959",
+                "name": "Captain America Poster Book",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/70960",
+                "name": "Captain America Poster Book",
+                "type": "interiorStory"
+            }
+        ],
+        "returned": 2
+    },
+    "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/31102/events",
+        "items": [],
+        "returned": 0
+    }
+}

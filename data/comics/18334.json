@@ -1,0 +1,123 @@
+{
+    "id": 18334,
+    "digitalId": 0,
+    "title": "What If? (1989) #32",
+    "issueNumber": 32,
+    "variantDescription": "",
+    "description": null,
+    "modified": "-0001-11-30T00:00:00-0500",
+    "isbn": "",
+    "upc": "",
+    "diamondCode": "",
+    "ean": "",
+    "issn": "",
+    "format": "Comic",
+    "pageCount": 36,
+    "textObjects": [],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/18334",
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/18334/what_if_1989_32?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ],
+    "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/3648",
+        "name": "What If? (1989 - 1998)"
+    },
+    "variants": [],
+    "collections": [],
+    "collectedIssues": [],
+    "dates": [
+        {
+            "type": "onsaleDate",
+            "date": "1991-12-10T00:00:00-0500"
+        },
+        {
+            "type": "focDate",
+            "date": "-0001-11-30T00:00:00-0500"
+        }
+    ],
+    "prices": [
+        {
+            "type": "printPrice",
+            "price": 1.25
+        }
+    ],
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available",
+        "extension": "jpg"
+    },
+    "images": [],
+    "creators": {
+        "available": 6,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/18334/creators",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/2047",
+                "name": "Craig Anderson",
+                "role": "editor"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/1887",
+                "name": "Janice Chiang",
+                "role": "letterer"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/6065",
+                "name": "George Caragonne script and coplot Chris Claremont coplot",
+                "role": "writer"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/6066",
+                "name": "Jan Anton Harps",
+                "role": "inker"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/768",
+                "name": "Rodney Ramos",
+                "role": "penciler"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/1915",
+                "name": "Renee Witterstaetter",
+                "role": "colorist"
+            }
+        ],
+        "returned": 6
+    },
+    "characters": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/18334/characters",
+        "items": [],
+        "returned": 0
+    },
+    "stories": {
+        "available": 3,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/18334/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/39033",
+                "name": "What if Phoenix had not Died",
+                "type": "interiorStory"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/39034",
+                "name": "What if Phoenix had Lived",
+                "type": ""
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/67861",
+                "name": "What If? 32 cover",
+                "type": "cover"
+            }
+        ],
+        "returned": 3
+    },
+    "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/18334/events",
+        "items": [],
+        "returned": 0
+    }
+}

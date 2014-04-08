@@ -1,0 +1,187 @@
+{
+    "id": 13913,
+    "digitalId": 12825,
+    "title": "Uncanny X-Men (1963) #372",
+    "issueNumber": 372,
+    "variantDescription": "",
+    "description": null,
+    "modified": "2012-11-26T13:26:07-0500",
+    "isbn": "",
+    "upc": "",
+    "diamondCode": "",
+    "ean": "",
+    "issn": "",
+    "format": "Comic",
+    "pageCount": 36,
+    "textObjects": [],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/13913",
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/13913/uncanny_x-men_1963_372?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=12825&utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ],
+    "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/2258",
+        "name": "Uncanny X-Men (1963 - 2011)"
+    },
+    "variants": [],
+    "collections": [],
+    "collectedIssues": [],
+    "dates": [
+        {
+            "type": "onsaleDate",
+            "date": "1999-09-01T00:00:00-0400"
+        },
+        {
+            "type": "focDate",
+            "date": "-0001-11-30T00:00:00-0500"
+        },
+        {
+            "type": "unlimitedDate",
+            "date": "2011-07-07T00:00:00-0400"
+        }
+    ],
+    "prices": [
+        {
+            "type": "printPrice",
+            "price": 0
+        }
+    ],
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/1/e0/50b3b3febd9ac",
+        "extension": "jpg"
+    },
+    "images": [
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/1/e0/50b3b3febd9ac",
+            "extension": "jpg"
+        }
+    ],
+    "creators": {
+        "available": 9,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/13913/creators",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/779",
+                "name": "Matt Banning",
+                "role": "inker"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/16",
+                "name": "Alan Davis",
+                "role": "writer"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/1162",
+                "name": "Terry Kavanagh",
+                "role": "writer"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/4055",
+                "name": "Pete Franco",
+                "role": "editor"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/3710",
+                "name": "Mark Powers",
+                "role": "editor"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/409",
+                "name": "Liquid Graphics",
+                "role": "colorist"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/2879",
+                "name": "Adam Kubert",
+                "role": "penciller (cover)"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/350",
+                "name": "Richard Starkings",
+                "role": "letterer"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/2533",
+                "name": "Saida Temofonte",
+                "role": "letterer"
+            }
+        ],
+        "returned": 9
+    },
+    "characters": {
+        "available": 10,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/13913/characters",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009182",
+                "name": "Bishop"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009243",
+                "name": "Colossus"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009270",
+                "name": "Deathbird"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009313",
+                "name": "Gambit"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009425",
+                "name": "Marrow"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009472",
+                "name": "Nightcrawler"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009546",
+                "name": "Rogue"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009629",
+                "name": "Storm"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009718",
+                "name": "Wolverine"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009726",
+                "name": "X-Men"
+            }
+        ],
+        "returned": 10
+    },
+    "stories": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/13913/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/28287",
+                "name": "The Shattering !",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/28288",
+                "name": "Dream's End Chapter One: Rude Awakening",
+                "type": "interiorStory"
+            }
+        ],
+        "returned": 2
+    },
+    "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/13913/events",
+        "items": [],
+        "returned": 0
+    }
+}

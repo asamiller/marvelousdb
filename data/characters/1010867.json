@@ -1,0 +1,107 @@
+{
+    "id": 1010867,
+    "name": "Magdalene",
+    "description": "",
+    "modified": "1969-12-31T19:00:00-0500",
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available",
+        "extension": "jpg"
+    },
+    "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010867",
+    "comics": {
+        "available": 5,
+        "collectionURI": "http://gateway.marvel.com/v1/public/characters/1010867/comics",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/comics/17490",
+                "name": "Avengers (1998) #1"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/comics/17501",
+                "name": "Avengers (1998) #2"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/comics/17512",
+                "name": "Avengers (1998) #3"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/comics/17523",
+                "name": "Avengers (1998) #4"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/comics/1311",
+                "name": "Avengers Assemble (Hardcover)"
+            }
+        ],
+        "returned": 5
+    },
+    "series": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/characters/1010867/series",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/series/354",
+                "name": "Avengers (1998 - 2004)"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/series/1340",
+                "name": "Avengers Assemble (2004)"
+            }
+        ],
+        "returned": 2
+    },
+    "stories": {
+        "available": 7,
+        "collectionURI": "http://gateway.marvel.com/v1/public/characters/1010867/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/37337",
+                "name": "Cover #37337",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/37338",
+                "name": "Once an Avenger...",
+                "type": "interiorStory"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/37359",
+                "name": "Cover #37359",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/37360",
+                "name": "The Call",
+                "type": "interiorStory"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/37386",
+                "name": "Fata Morgana",
+                "type": "interiorStory"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/37408",
+                "name": "Cover #37408",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/37409",
+                "name": "Too Many Avengers!",
+                "type": "interiorStory"
+            }
+        ],
+        "returned": 7
+    },
+    "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/characters/1010867/events",
+        "items": [],
+        "returned": 0
+    },
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/characters/1010867/magdalene?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ]
+}

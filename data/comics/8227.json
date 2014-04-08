@@ -1,0 +1,147 @@
+{
+    "id": 8227,
+    "digitalId": 0,
+    "title": "Daredevil (1963) #238",
+    "issueNumber": 238,
+    "variantDescription": "",
+    "description": null,
+    "modified": "2012-11-26T19:54:32-0500",
+    "isbn": "",
+    "upc": "",
+    "diamondCode": "",
+    "ean": "",
+    "issn": "",
+    "format": "Comic",
+    "pageCount": 36,
+    "textObjects": [],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/8227",
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/8227/daredevil_1963_238?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/Daredevil-238/digital-comic/21155?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ],
+    "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/2002",
+        "name": "Daredevil (1963 - 1998)"
+    },
+    "variants": [],
+    "collections": [],
+    "collectedIssues": [],
+    "dates": [
+        {
+            "type": "onsaleDate",
+            "date": "1987-01-10T00:00:00-0500"
+        },
+        {
+            "type": "focDate",
+            "date": "-0001-11-30T00:00:00-0500"
+        }
+    ],
+    "prices": [
+        {
+            "type": "printPrice",
+            "price": 0.75
+        }
+    ],
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/2/f0/50b40f1d96054",
+        "extension": "jpg"
+    },
+    "images": [
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/2/f0/50b40f1d96054",
+            "extension": "jpg"
+        }
+    ],
+    "creators": {
+        "available": 8,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/8227/creators",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/249",
+                "name": "Art Adams",
+                "role": "penciller (cover)"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/105",
+                "name": "Sal Buscema",
+                "role": "penciller"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/570",
+                "name": "Klaus Janson",
+                "role": "inker"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/1315",
+                "name": "Steve Leialoha",
+                "role": "inker"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/1282",
+                "name": "Ralph Macchio",
+                "role": "editor"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/215",
+                "name": "Ann Nocenti",
+                "role": "writer"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/1759",
+                "name": "Joe Rosen",
+                "role": "letterer"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/1899",
+                "name": "Max Scheele",
+                "role": "colorist"
+            }
+        ],
+        "returned": 8
+    },
+    "characters": {
+        "available": 1,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/8227/characters",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009262",
+                "name": "Daredevil"
+            }
+        ],
+        "returned": 1
+    },
+    "stories": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/8227/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/16029",
+                "name": "The Mutant Massacre Continues !",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/16030",
+                "name": "It Comes With the Claws",
+                "type": "interiorStory"
+            }
+        ],
+        "returned": 2
+    },
+    "events": {
+        "available": 1,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/8227/events",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/events/263",
+                "name": "Mutant Massacre"
+            }
+        ],
+        "returned": 1
+    }
+}

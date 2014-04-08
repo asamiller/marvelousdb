@@ -1,0 +1,133 @@
+{
+    "id": 46041,
+    "digitalId": 0,
+    "title": "Deadpool (2012) #5 (Camuncoli Variant)",
+    "issueNumber": 5,
+    "variantDescription": "Camuncoli Variant",
+    "description": "\r\n\r\n\r\n\r\n<ul><li>Deadpool vs. Reagan&hellip;IN SPACE!</li><li>DO YOU NEED MORE THAN THAT?!?</li><li>Ok, then&hellip;MONKEYS!</li></ul>",
+    "modified": "2013-02-07T18:28:03-0500",
+    "isbn": "",
+    "upc": "75960607905600521",
+    "diamondCode": "DEC120676",
+    "ean": "",
+    "issn": "",
+    "format": "Comic",
+    "pageCount": 32,
+    "textObjects": [
+        {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "\r\n\r\n\r\n\r\n<ul><li>Deadpool vs. Reagan&hellip;IN SPACE!</li><li>DO YOU NEED MORE THAN THAT?!?</li><li>Ok, then&hellip;MONKEYS!</li></ul>"
+        }
+    ],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/46041",
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/46041/deadpool_2012_5_camuncoli_variant/camuncoli_variant?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ],
+    "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/16542",
+        "name": "Deadpool (2012 - Present)"
+    },
+    "variants": [
+        {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/47758",
+            "name": "Deadpool (2012) #5 (2nd Printing Variant)"
+        },
+        {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/46040",
+            "name": "Deadpool (2012) #5"
+        }
+    ],
+    "collections": [],
+    "collectedIssues": [],
+    "dates": [
+        {
+            "type": "onsaleDate",
+            "date": "2013-02-20T00:00:00-0500"
+        },
+        {
+            "type": "focDate",
+            "date": "2013-02-06T00:00:00-0500"
+        }
+    ],
+    "prices": [
+        {
+            "type": "printPrice",
+            "price": 2.99
+        }
+    ],
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/f/80/5112732ab5055",
+        "extension": "jpg"
+    },
+    "images": [
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/f/80/5112732ab5055",
+            "extension": "jpg"
+        }
+    ],
+    "creators": {
+        "available": 4,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/46041/creators",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/1141",
+                "name": "Giuseppe Camuncoli",
+                "role": "penciller (cover)"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/11680",
+                "name": "Gerard Gorman Duggan",
+                "role": "writer"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/11801",
+                "name": "Brian Edmund Posehn",
+                "role": "writer"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/9586",
+                "name": "Tony Moore",
+                "role": "artist"
+            }
+        ],
+        "returned": 4
+    },
+    "characters": {
+        "available": 1,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/46041/characters",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009268",
+                "name": "Deadpool"
+            }
+        ],
+        "returned": 1
+    },
+    "stories": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/46041/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/103612",
+                "name": "cover from Deadpool (2012) #5 (TBD ARTIST VARIANT)",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/103613",
+                "name": "story from Deadpool (2012) #5 (TBD ARTIST VARIANT)",
+                "type": "interiorStory"
+            }
+        ],
+        "returned": 2
+    },
+    "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/46041/events",
+        "items": [],
+        "returned": 0
+    }
+}

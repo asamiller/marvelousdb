@@ -1,0 +1,151 @@
+{
+    "id": 1691,
+    "digitalId": 2134,
+    "title": "Marvel Age Spider-Man Team-Up (2000) #5",
+    "issueNumber": 5,
+    "variantDescription": "",
+    "description": "Your friendly neighborhood Spider-Man joins forces with the X-Men’s resident weather-controller, Storm! The duo match wits against a power-stealing super-villain in this thrilling all-new tale! That’s right, True Believer--this is a never-before-told story of wall-to-wall-crawling and wind-riding in the magnificent Marvel Age manner!",
+    "modified": "-0001-11-30T00:00:00-0500",
+    "isbn": "",
+    "upc": "5960605627-00511",
+    "diamondCode": "",
+    "ean": "",
+    "issn": "",
+    "format": "Comic",
+    "pageCount": 0,
+    "textObjects": [
+        {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "Your friendly neighborhood Spider-Man joins forces with the X-Men’s resident weather-controller, Storm! The duo match wits against a power-stealing super-villain in this thrilling all-new tale! That’s right, True Believer--this is a never-before-told story of wall-to-wall-crawling and wind-riding in the magnificent Marvel Age manner!"
+        }
+    ],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/1691",
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/1691/marvel_age_spider-man_team-up_2000_5?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=2134&utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ],
+    "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/816",
+        "name": "Marvel Age Spider-Man Team-Up (2000 - 2005)"
+    },
+    "variants": [],
+    "collections": [
+        {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/2063",
+            "name": "Spider-Man Team-Up Vol. 1: A Little Help from My Friends (Digest)"
+        },
+        {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/1571",
+            "name": "Spider-Man Team-Up Vol. 1: A Little Help from My Friends (Digest)"
+        }
+    ],
+    "collectedIssues": [],
+    "dates": [
+        {
+            "type": "onsaleDate",
+            "date": "2005-02-16T00:00:00-0500"
+        },
+        {
+            "type": "focDate",
+            "date": "-0001-11-30T00:00:00-0500"
+        },
+        {
+            "type": "unlimitedDate",
+            "date": "2007-11-13T00:00:00-0500"
+        }
+    ],
+    "prices": [
+        {
+            "type": "printPrice",
+            "price": 2.25
+        }
+    ],
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/f/00/4bc64deeea152",
+        "extension": "jpg"
+    },
+    "images": [
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/f/00/4bc64deeea152",
+            "extension": "jpg"
+        }
+    ],
+    "creators": {
+        "available": 6,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/1691/creators",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/6147",
+                "name": "HiFi Colour",
+                "role": "colorist"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/692",
+                "name": "Pat Davidson",
+                "role": "inker"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/682",
+                "name": "Todd Dezago",
+                "role": "writer"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/422",
+                "name": "Randall Green",
+                "role": "penciller (cover)"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/778",
+                "name": "Valentine De Landro",
+                "role": "penciller"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/8429",
+                "name": "Dave Sharpe",
+                "role": "letterer"
+            }
+        ],
+        "returned": 6
+    },
+    "characters": {
+        "available": 1,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/1691/characters",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009610",
+                "name": "Spider-Man"
+            }
+        ],
+        "returned": 1
+    },
+    "stories": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/1691/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/4163",
+                "name": "Cover #4163",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/4164",
+                "name": "Interior #4164",
+                "type": "interiorStory"
+            }
+        ],
+        "returned": 2
+    },
+    "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/1691/events",
+        "items": [],
+        "returned": 0
+    }
+}

@@ -1,0 +1,126 @@
+{
+    "id": 44580,
+    "digitalId": 0,
+    "title": "All-New X-Men (2012) #3 (Mcguinness Variant)",
+    "issueNumber": 3,
+    "variantDescription": "Mcguinness Variant",
+    "description": "â€¢ The flagship X-Book marches on!\nâ€¢ The original 5 X-Men are back, but thatâ€™s not all thatâ€™s happening.\nâ€¢ What happened to the Phoenix 5 from AVENGERS VS. X-MEN?\n",
+    "modified": "2013-02-01T20:31:26-0500",
+    "isbn": "",
+    "upc": "75960607900100321",
+    "diamondCode": "OCT120590",
+    "ean": "",
+    "issn": "",
+    "format": "Comic",
+    "pageCount": 32,
+    "textObjects": [
+        {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "• The flagship X-Book marches on!\n• The original 5 X-Men are back, but that’s not all that’s happening.\n• What happened to the Phoenix 5 from AVENGERS VS. X-MEN?\n"
+        }
+    ],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/44580",
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/44580/all-new_x-men_2012_3_mcguinness_variant/mcguinness_variant?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ],
+    "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/16449",
+        "name": "All-New X-Men (2012 - Present)"
+    },
+    "variants": [
+        {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/47627",
+            "name": "All-New X-Men (2012) #3 (3rd Printing Variant)"
+        },
+        {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/47337",
+            "name": "All-New X-Men (2012) #3 (2nd Printing Variant)"
+        },
+        {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/43468",
+            "name": "All-New X-Men (2012) #3"
+        }
+    ],
+    "collections": [],
+    "collectedIssues": [],
+    "dates": [
+        {
+            "type": "onsaleDate",
+            "date": "2012-12-05T00:00:00-0500"
+        },
+        {
+            "type": "focDate",
+            "date": "2012-11-20T00:00:00-0500"
+        }
+    ],
+    "prices": [
+        {
+            "type": "printPrice",
+            "price": 3.99
+        }
+    ],
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/40/510c69a357a5e",
+        "extension": "jpg"
+    },
+    "images": [
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/40/510c69a357a5e",
+            "extension": "jpg"
+        },
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/b0/50be6d5c87b29",
+            "extension": "jpg"
+        }
+    ],
+    "creators": {
+        "available": 1,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/44580/creators",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/649",
+                "name": "Ed McGuinness",
+                "role": "penciler (cover)"
+            }
+        ],
+        "returned": 1
+    },
+    "characters": {
+        "available": 1,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/44580/characters",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009175",
+                "name": "Beast"
+            }
+        ],
+        "returned": 1
+    },
+    "stories": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/44580/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/100443",
+                "name": "cover from All-New X-Men (2012) #3 (TBD ARTIST VARIANT)",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/100444",
+                "name": "story from All-New X-Men (2012) #3 (TBD ARTIST VARIANT)",
+                "type": "interiorStory"
+            }
+        ],
+        "returned": 2
+    },
+    "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/44580/events",
+        "items": [],
+        "returned": 0
+    }
+}

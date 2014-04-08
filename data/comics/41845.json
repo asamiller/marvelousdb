@@ -1,0 +1,102 @@
+{
+    "id": 41845,
+    "digitalId": 0,
+    "title": "Ultimate Comics Ultimates  (2011) #2 (2nd Printing Variant)",
+    "issueNumber": 2,
+    "variantDescription": "2nd Printing Variant",
+    "description": null,
+    "modified": "2011-10-14T16:22:15-0400",
+    "isbn": "",
+    "upc": "5960607616-00212",
+    "diamondCode": "",
+    "ean": "",
+    "issn": "",
+    "format": "Comic",
+    "pageCount": 32,
+    "textObjects": [],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/41845",
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/41845/ultimate_comics_ultimates_2011_2_2nd_printing_variant/2nd_printing_variant?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ],
+    "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/13936",
+        "name": "Ultimate Comics Ultimates  (2011 - Present)"
+    },
+    "variants": [
+        {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/38690",
+            "name": "Ultimate Comics Ultimates  (2011) #2"
+        }
+    ],
+    "collections": [],
+    "collectedIssues": [],
+    "dates": [
+        {
+            "type": "onsaleDate",
+            "date": "2011-10-19T00:00:00-0400"
+        },
+        {
+            "type": "focDate",
+            "date": "2011-10-04T00:00:00-0400"
+        }
+    ],
+    "prices": [
+        {
+            "type": "printPrice",
+            "price": 3.99
+        }
+    ],
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/4/50/4e76834c8188c",
+        "extension": "jpg"
+    },
+    "images": [
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/4/50/4e76834c8188c",
+            "extension": "jpg"
+        }
+    ],
+    "creators": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/41845/creators",
+        "items": [],
+        "returned": 0
+    },
+    "characters": {
+        "available": 1,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/41845/characters",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1011025",
+                "name": "Thor (Ultimate)"
+            }
+        ],
+        "returned": 1
+    },
+    "stories": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/41845/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/94649",
+                "name": "Cover #94649",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/94650",
+                "name": "Interior #94650",
+                "type": "interiorStory"
+            }
+        ],
+        "returned": 2
+    },
+    "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/41845/events",
+        "items": [],
+        "returned": 0
+    }
+}

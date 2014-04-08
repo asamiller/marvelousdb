@@ -1,0 +1,104 @@
+{
+    "id": 17348,
+    "digitalId": 0,
+    "title": "X-Men: Messiah Complex by Marko Djurdjevic (2007)",
+    "issueNumber": 0,
+    "variantDescription": "",
+    "description": "24x36 Color Poster…$7.99 ",
+    "modified": "-0001-11-30T00:00:00-0500",
+    "isbn": "",
+    "upc": "5960605400-07111",
+    "diamondCode": "",
+    "ean": "",
+    "issn": "",
+    "format": "Poster",
+    "pageCount": 0,
+    "textObjects": [
+        {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "24x36 Color Poster…$7.99 "
+        }
+    ],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/17348",
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/17348/x-men_messiah_complex_by_marko_djurdjevic_2007?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ],
+    "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/3156",
+        "name": "X-Men: Messiah Complex by Marko Djurdjevic (2007)"
+    },
+    "variants": [],
+    "collections": [],
+    "collectedIssues": [],
+    "dates": [
+        {
+            "type": "onsaleDate",
+            "date": "2007-12-28T00:00:00-0500"
+        },
+        {
+            "type": "focDate",
+            "date": "-0001-11-30T00:00:00-0500"
+        }
+    ],
+    "prices": [
+        {
+            "type": "printPrice",
+            "price": 0
+        }
+    ],
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/60/4bc389aab5591",
+        "extension": "jpg"
+    },
+    "images": [
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/60/4bc389aab5591",
+            "extension": "jpg"
+        }
+    ],
+    "creators": {
+        "available": 1,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/17348/creators",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/10288",
+                "name": "Marko Djurdjevic",
+                "role": "penciller (cover)"
+            }
+        ],
+        "returned": 1
+    },
+    "characters": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/17348/characters",
+        "items": [],
+        "returned": 0
+    },
+    "stories": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/17348/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/36365",
+                "name": "Cover #36365",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/36366",
+                "name": "Interior #36366",
+                "type": "interiorStory"
+            }
+        ],
+        "returned": 2
+    },
+    "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/17348/events",
+        "items": [],
+        "returned": 0
+    }
+}

@@ -1,0 +1,98 @@
+{
+    "id": 42280,
+    "digitalId": 0,
+    "title": "Castle Vol. 2 (Trade Paperback)",
+    "issueNumber": 0,
+    "variantDescription": "",
+    "description": null,
+    "modified": "2013-11-20T09:46:50-0500",
+    "isbn": "978-0-7851-6483-8",
+    "upc": "",
+    "diamondCode": "NOV130731",
+    "ean": "9780785 164838 51499",
+    "issn": "",
+    "format": "Trade Paperback",
+    "pageCount": 112,
+    "textObjects": [],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/42280",
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/collection/42280/castle_vol_2_trade_paperback?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ],
+    "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/15875",
+        "name": "Castle Vol. 2 (2011 - Present)"
+    },
+    "variants": [],
+    "collections": [],
+    "collectedIssues": [],
+    "dates": [
+        {
+            "type": "onsaleDate",
+            "date": "2014-02-05T00:00:00-0500"
+        },
+        {
+            "type": "focDate",
+            "date": "2014-01-21T00:00:00-0500"
+        }
+    ],
+    "prices": [
+        {
+            "type": "printPrice",
+            "price": 14.99
+        }
+    ],
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/8/d0/4fd0bd505245c",
+        "extension": "jpg"
+    },
+    "images": [
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/8/d0/4fd0bd505245c",
+            "extension": "jpg"
+        }
+    ],
+    "creators": {
+        "available": 1,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/42280/creators",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/4430",
+                "name": "Jeff Youngquist",
+                "role": "editor"
+            }
+        ],
+        "returned": 1
+    },
+    "characters": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/42280/characters",
+        "items": [],
+        "returned": 0
+    },
+    "stories": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/42280/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/95465",
+                "name": "Cover #95465",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/95466",
+                "name": "Interior #95466",
+                "type": "interiorStory"
+            }
+        ],
+        "returned": 2
+    },
+    "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/42280/events",
+        "items": [],
+        "returned": 0
+    }
+}

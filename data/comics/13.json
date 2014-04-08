@@ -1,0 +1,163 @@
+{
+    "id": 13,
+    "digitalId": 4090,
+    "title": "Ultimate Spider-Man (2000) #69",
+    "issueNumber": 69,
+    "variantDescription": "",
+    "description": "SUPERSTARS PART 4 Johnny Storm just wants to fit in. But it’s hard to fit in when you’re consumed entirely by flames! The cat’s out of the bag after Johnny’s big reveal and Peter Parker is on damage control!",
+    "modified": "2011-04-01T13:53:42-0400",
+    "isbn": "",
+    "upc": "5960605031-06911",
+    "diamondCode": "",
+    "ean": "",
+    "issn": "",
+    "format": "Comic",
+    "pageCount": 0,
+    "textObjects": [
+        {
+            "type": "issue_preview_text",
+            "language": "en-us",
+            "text": "SUPERSTARS PART 4 Johnny Storm just wants to fit in. But it’s hard to fit in when you’re consumed entirely by flames! The cat’s out of the bag after Johnny’s big reveal and Peter Parker is on damage control!"
+        },
+        {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "PART 2 (OF 2)\r<br>Johnny Storm realizes that despite his new flame powers and fame on the horizon, he still doesn't have a high school diploma. And where does the young New Yorker enroll?  Why none other than a certain Queens high school that also has one Peter Parker – Spider-Man – as a student. And what's up between Johnny and sweet Liz Allen? Watch the sparks fly!\r<br>"
+        }
+    ],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/13",
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/13/ultimate_spider-man_2000_69?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/Ultimate-Spider-Man-69/digital-comic/4090?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=4090&utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "inAppLink",
+            "url": "http://applink.marvel.com/issue/4090?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ],
+    "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/466",
+        "name": "Ultimate Spider-Man (2000 - 2009)"
+    },
+    "variants": [],
+    "collections": [
+        {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/1754",
+            "name": "Ultimate Spider-Man Vol. 12: Superstars (Trade Paperback)"
+        }
+    ],
+    "collectedIssues": [],
+    "dates": [
+        {
+            "type": "onsaleDate",
+            "date": "2004-11-17T00:00:00-0500"
+        },
+        {
+            "type": "focDate",
+            "date": "-0001-11-30T00:00:00-0500"
+        },
+        {
+            "type": "unlimitedDate",
+            "date": "2009-10-09T00:00:00-0400"
+        },
+        {
+            "type": "digitalPurchaseDate",
+            "date": "2011-05-03T00:00:00-0400"
+        }
+    ],
+    "prices": [
+        {
+            "type": "printPrice",
+            "price": 2.25
+        },
+        {
+            "type": "digitalPurchasePrice",
+            "price": 1.99
+        }
+    ],
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/d/70/4bc6b59de978f",
+        "extension": "jpg"
+    },
+    "images": [
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/d/70/4bc6b59de978f",
+            "extension": "jpg"
+        }
+    ],
+    "creators": {
+        "available": 5,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/13/creators",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/87",
+                "name": "Mark Bagley",
+                "role": "penciller (cover)"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/24",
+                "name": "Brian Michael Bendis",
+                "role": "writer"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/452",
+                "name": "Chris Eliopoulos",
+                "role": "letterer"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/362",
+                "name": "Scott Hanna",
+                "role": "inker"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/542",
+                "name": "J. D. Smith",
+                "role": "colorist"
+            }
+        ],
+        "returned": 5
+    },
+    "characters": {
+        "available": 1,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/13/characters",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1011010",
+                "name": "Spider-Man (Ultimate)"
+            }
+        ],
+        "returned": 1
+    },
+    "stories": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/13/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/1292",
+                "name": "2 of 2 - Human Torch",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/1293",
+                "name": "2 of 2 - Human Torch",
+                "type": "interiorStory"
+            }
+        ],
+        "returned": 2
+    },
+    "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/13/events",
+        "items": [],
+        "returned": 0
+    }
+}

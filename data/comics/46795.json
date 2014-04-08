@@ -1,0 +1,143 @@
+{
+    "id": 46795,
+    "digitalId": 28509,
+    "title": "X-Men (2010) #41",
+    "issueNumber": 41,
+    "variantDescription": "",
+    "description": "\r\n\r\n\r\n\r\n<ul><li>FINAL ISSUE!</li><li>At the end of an era, Storm puts a team together to search for the start of the next.</li><li>In the field, will Angel challenge her for leadership?</li></ul>",
+    "modified": "2013-02-01T11:38:38-0500",
+    "isbn": "",
+    "upc": "75960607193704111",
+    "diamondCode": "DEC120718",
+    "ean": "",
+    "issn": "2162-2124",
+    "format": "Comic",
+    "pageCount": 32,
+    "textObjects": [
+        {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "\r\n\r\n\r\n\r\n<ul><li>FINAL ISSUE!</li><li>At the end of an era, Storm puts a team together to search for the start of the next.</li><li>In the field, will Angel challenge her for leadership?</li></ul>"
+        }
+    ],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/46795",
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/46795/x-men_2010_41?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/X-Men-41/digital-comic/28509?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=28509&utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "inAppLink",
+            "url": "http://applink.marvel.com/issue/28509?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ],
+    "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/9906",
+        "name": "X-Men (2010 - 2013)"
+    },
+    "variants": [
+        {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/46796",
+            "name": "X-Men (2010) #41 (Final Variant)"
+        }
+    ],
+    "collections": [],
+    "collectedIssues": [],
+    "dates": [
+        {
+            "type": "onsaleDate",
+            "date": "2013-02-13T00:00:00-0500"
+        },
+        {
+            "type": "focDate",
+            "date": "2013-01-30T00:00:00-0500"
+        },
+        {
+            "type": "unlimitedDate",
+            "date": "2013-08-12T00:00:00-0400"
+        },
+        {
+            "type": "digitalPurchaseDate",
+            "date": "2013-02-13T00:00:00-0500"
+        }
+    ],
+    "prices": [
+        {
+            "type": "printPrice",
+            "price": 3.99
+        },
+        {
+            "type": "digitalPurchasePrice",
+            "price": 1.99
+        }
+    ],
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/00/511e6ef3b5b24",
+        "extension": "jpg"
+    },
+    "images": [
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/00/511e6ef3b5b24",
+            "extension": "jpg"
+        }
+    ],
+    "creators": {
+        "available": 3,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/46795/creators",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/2879",
+                "name": "Adam Kubert",
+                "role": "penciler (cover)"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/8728",
+                "name": "Jefte Palo",
+                "role": "artist"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/11917",
+                "name": "Seth Peck",
+                "role": "writer"
+            }
+        ],
+        "returned": 3
+    },
+    "characters": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/46795/characters",
+        "items": [],
+        "returned": 0
+    },
+    "stories": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/46795/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/105212",
+                "name": "cover from X-Men (2010) #41",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/105213",
+                "name": "story from X-Men (2010) #41",
+                "type": "interiorStory"
+            }
+        ],
+        "returned": 2
+    },
+    "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/46795/events",
+        "items": [],
+        "returned": 0
+    }
+}

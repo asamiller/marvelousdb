@@ -1,0 +1,162 @@
+{
+    "id": 41200,
+    "digitalId": 26214,
+    "title": "FF (2010) #17",
+    "issueNumber": 17,
+    "variantDescription": "",
+    "description": "Now that he’s back among the living, the Human Torch moves in with Spider-Man! Can two superheroes share an apartment without driving each other crazy?\n",
+    "modified": "2012-04-24T01:30:52-0400",
+    "isbn": "",
+    "upc": "5960607495-01711",
+    "diamondCode": "FEB120594",
+    "ean": "",
+    "issn": "0274-5291",
+    "format": "Comic",
+    "pageCount": 32,
+    "textObjects": [
+        {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "&bull; &ldquo;Roomies&rdquo;\r\n&bull; Now That He&rsquo;s Back Among The Living, The Human Torch Moves In With Spider-Man! Can Two Super Heroes Share An Apartment Without Driving Each Other Crazy?\r\n&bull; What Secret Lies Behind The Door To Annihilus&rsquo; Closet?\r\n&bull; Who Throws A House Party Like The Light Brigade?\r\n"
+        },
+        {
+            "type": "issue_preview_text",
+            "language": "en-us",
+            "text": "Now that heâ€™s back among the living, the Human Torch moves in with Spider-Man! Can two superheroes share an apartment without driving each other crazy?\n"
+        }
+    ],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/41200",
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/41200/ff_2010_17?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/Ff-17/digital-comic/26214?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=26214&utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "inAppLink",
+            "url": "http://applink.marvel.com/issue/26214?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ],
+    "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/13440",
+        "name": "FF (2010 - 2012)"
+    },
+    "variants": [],
+    "collections": [],
+    "collectedIssues": [],
+    "dates": [
+        {
+            "type": "onsaleDate",
+            "date": "2012-04-25T00:00:00-0400"
+        },
+        {
+            "type": "focDate",
+            "date": "2012-04-11T00:00:00-0400"
+        },
+        {
+            "type": "unlimitedDate",
+            "date": "2012-10-22T00:00:00-0400"
+        },
+        {
+            "type": "digitalPurchaseDate",
+            "date": "2012-04-25T00:00:00-0400"
+        }
+    ],
+    "prices": [
+        {
+            "type": "printPrice",
+            "price": 2.99
+        },
+        {
+            "type": "digitalPurchasePrice",
+            "price": 1.99
+        }
+    ],
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/00/4f9ad00302567",
+        "extension": "jpg"
+    },
+    "images": [
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/00/4f9ad00302567",
+            "extension": "jpg"
+        },
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/a0/4f7b23f9134d6",
+            "extension": "jpg"
+        }
+    ],
+    "creators": {
+        "available": 5,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/41200/creators",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/8571",
+                "name": "Guru-eFX",
+                "role": "Colorist"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/10851",
+                "name": "MICHAEL HYUN-MIN CHOI",
+                "role": "Penciller"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/10713",
+                "name": "NICK DRAGOTTA",
+                "role": "Penciller"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/452",
+                "name": "Chris Eliopoulos",
+                "role": "Letterer"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/11743",
+                "name": "Jonathan Hickman",
+                "role": "writer"
+            }
+        ],
+        "returned": 5
+    },
+    "characters": {
+        "available": 1,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/41200/characters",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009356",
+                "name": "Human Torch"
+            }
+        ],
+        "returned": 1
+    },
+    "stories": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/41200/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/93259",
+                "name": "FF (2010) #17",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/93260",
+                "name": "Interior #93260",
+                "type": "interiorStory"
+            }
+        ],
+        "returned": 2
+    },
+    "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/41200/events",
+        "items": [],
+        "returned": 0
+    }
+}

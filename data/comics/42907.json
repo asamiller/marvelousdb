@@ -1,0 +1,119 @@
+{
+    "id": 42907,
+    "digitalId": 0,
+    "title": "Ultimate Comics X-Men (2010) #13",
+    "issueNumber": 13,
+    "variantDescription": "",
+    "description": " Kitty Pryde must save the world!",
+    "modified": "2012-06-07T15:26:09-0400",
+    "isbn": "",
+    "upc": "5960607437-01321",
+    "diamondCode": "",
+    "ean": "",
+    "issn": "",
+    "format": "Comic",
+    "pageCount": 32,
+    "textObjects": [
+        {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": " Kitty Pryde must save the world!"
+        }
+    ],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/42907",
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/42907/ultimate_comics_x-men_2010_13?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ],
+    "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/13108",
+        "name": "Ultimate Comics X-Men (2010 - Present)"
+    },
+    "variants": [
+        {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/40480",
+            "name": "Ultimate Comics X-Men (2010) #13"
+        }
+    ],
+    "collections": [],
+    "collectedIssues": [],
+    "dates": [
+        {
+            "type": "onsaleDate",
+            "date": "2012-06-13T00:00:00-0400"
+        },
+        {
+            "type": "focDate",
+            "date": "2012-05-30T00:00:00-0400"
+        }
+    ],
+    "prices": [
+        {
+            "type": "printPrice",
+            "price": 3.99
+        }
+    ],
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/2/90/4fd0febd492ee",
+        "extension": "jpg"
+    },
+    "images": [
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/2/90/4fd0febd492ee",
+            "extension": "jpg"
+        }
+    ],
+    "creators": {
+        "available": 3,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/42907/creators",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/412",
+                "name": "Carlo Barberi",
+                "role": "artist"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/8825",
+                "name": "Jorge Molina",
+                "role": "penciller (cover)"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/11544",
+                "name": "Brian Wood",
+                "role": "writer"
+            }
+        ],
+        "returned": 3
+    },
+    "characters": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/42907/characters",
+        "items": [],
+        "returned": 0
+    },
+    "stories": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/42907/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/96385",
+                "name": "Cover #96385",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/96386",
+                "name": "Interior #96386",
+                "type": "interiorStory"
+            }
+        ],
+        "returned": 2
+    },
+    "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/42907/events",
+        "items": [],
+        "returned": 0
+    }
+}

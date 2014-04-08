@@ -1,0 +1,127 @@
+{
+    "id": 458,
+    "digitalId": 3681,
+    "title": "Spider-Girl (1998) #72",
+    "issueNumber": 72,
+    "variantDescription": "",
+    "description": "In \"WHISPERS IN THE NIGHT,\" the Black Tarantula \r\ncontinues his efforts to draw Spider-Girl to the dark side as she renews her hunt for the new Doctor Octopus! \r\n32 PGS./ALL AGES…$2.99\r\n",
+    "modified": "-0001-11-30T00:00:00-0500",
+    "isbn": "",
+    "upc": "5960603503-07211",
+    "diamondCode": "",
+    "ean": "",
+    "issn": "",
+    "format": "Comic",
+    "pageCount": 0,
+    "textObjects": [
+        {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "In \"WHISPERS IN THE NIGHT,\" the Black Tarantula \r\ncontinues his efforts to draw Spider-Girl to the dark side as she renews her hunt for the new Doctor Octopus! \r\n32 PGS./ALL AGES…$2.99\r\n"
+        }
+    ],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/458",
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/458/spider-girl_1998_72?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=3681&utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ],
+    "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/417",
+        "name": "Spider-Girl (1998 - 2006)"
+    },
+    "variants": [],
+    "collections": [
+        {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/13519",
+            "name": "Amazing Spider-Girl Vol. 1: Whatever Happened to the Daughter of Spider-Man (Trade Paperback)"
+        }
+    ],
+    "collectedIssues": [],
+    "dates": [
+        {
+            "type": "onsaleDate",
+            "date": "2004-04-07T00:00:00-0400"
+        },
+        {
+            "type": "focDate",
+            "date": "-0001-11-30T00:00:00-0500"
+        },
+        {
+            "type": "unlimitedDate",
+            "date": "2007-12-15T00:00:00-0500"
+        }
+    ],
+    "prices": [
+        {
+            "type": "printPrice",
+            "price": 2.99
+        }
+    ],
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/40/4bc695eea2351",
+        "extension": "jpg"
+    },
+    "images": [
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/40/4bc695eea2351",
+            "extension": "jpg"
+        }
+    ],
+    "creators": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/458/creators",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/9565",
+                "name": "Tom DeFalco",
+                "role": "writer"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/5764",
+                "name": "Ron Frenz",
+                "role": "penciller (cover)"
+            }
+        ],
+        "returned": 2
+    },
+    "characters": {
+        "available": 1,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/458/characters",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009609",
+                "name": "Spider-Girl (May Parker)"
+            }
+        ],
+        "returned": 1
+    },
+    "stories": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/458/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/808",
+                "name": "Cover #808",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/809",
+                "name": "Interior #809",
+                "type": "interiorStory"
+            }
+        ],
+        "returned": 2
+    },
+    "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/458/events",
+        "items": [],
+        "returned": 0
+    }
+}

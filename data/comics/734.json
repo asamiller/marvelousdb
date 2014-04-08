@@ -1,0 +1,127 @@
+{
+    "id": 734,
+    "digitalId": 7591,
+    "title": "Witches (2004) #2",
+    "issueNumber": 2,
+    "variantDescription": "",
+    "description": "Doctor Strange, Earth’s Sorcerer Supreme, recruits three young witches -- Jennifer Kale, Topaz and Satana – to find the mysterious Tome of Zhered-Na, which threatens to destroy the entire world! Featuring stunning artwork by new AMAZING SPIDER-MAN penciler Mike Deodato Jr.!",
+    "modified": "-0001-11-30T00:00:00-0500",
+    "isbn": "",
+    "upc": "5960605185-00211",
+    "diamondCode": "",
+    "ean": "",
+    "issn": "",
+    "format": "Comic",
+    "pageCount": 0,
+    "textObjects": [
+        {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "Doctor Strange, Earth’s Sorcerer Supreme, recruits three young witches -- Jennifer Kale, Topaz and Satana – to find the mysterious Tome of Zhered-Na, which threatens to destroy the entire world! Featuring stunning artwork by new AMAZING SPIDER-MAN penciler Mike Deodato Jr.!"
+        }
+    ],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/734",
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/734/witches_2004_2?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=7591&utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ],
+    "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/517",
+        "name": "Witches (2004)"
+    },
+    "variants": [],
+    "collections": [
+        {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/1356",
+            "name": "Witches Vol. 1 (Trade Paperback)"
+        }
+    ],
+    "collectedIssues": [],
+    "dates": [
+        {
+            "type": "onsaleDate",
+            "date": "2004-06-23T00:00:00-0400"
+        },
+        {
+            "type": "focDate",
+            "date": "-0001-11-30T00:00:00-0500"
+        },
+        {
+            "type": "unlimitedDate",
+            "date": "2009-10-09T00:00:00-0400"
+        }
+    ],
+    "prices": [
+        {
+            "type": "printPrice",
+            "price": 2.99
+        }
+    ],
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/50/4bc680801a86e",
+        "extension": "jpg"
+    },
+    "images": [
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/50/4bc680801a86e",
+            "extension": "jpg"
+        }
+    ],
+    "creators": {
+        "available": 3,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/734/creators",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/312",
+                "name": "Mike Deodato",
+                "role": "penciller (cover)"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/586",
+                "name": "Michael Kelleher",
+                "role": "colorist"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/584",
+                "name": "Brian Walsh",
+                "role": "writer"
+            }
+        ],
+        "returned": 3
+    },
+    "characters": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/734/characters",
+        "items": [],
+        "returned": 0
+    },
+    "stories": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/734/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/1697",
+                "name": "Cover #1697",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/1698",
+                "name": "Interior #1698",
+                "type": "interiorStory"
+            }
+        ],
+        "returned": 2
+    },
+    "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/734/events",
+        "items": [],
+        "returned": 0
+    }
+}

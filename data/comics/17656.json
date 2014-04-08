@@ -1,0 +1,98 @@
+{
+    "id": 17656,
+    "digitalId": 0,
+    "title": "Marvel Two-in-One (2007) #7",
+    "issueNumber": 7,
+    "variantDescription": "",
+    "description": "MARVEL ADVENTURES AVENGERS #7\r<br>X-MEN: FIRST CLASS #7\r<br>All Ages …$4.99 \r<br>",
+    "modified": "-0001-11-30T00:00:00-0500",
+    "isbn": "",
+    "upc": "5960606239-00711",
+    "diamondCode": "",
+    "ean": "",
+    "issn": "",
+    "format": "Comic",
+    "pageCount": 0,
+    "textObjects": [
+        {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "MARVEL ADVENTURES AVENGERS #7\r<br>X-MEN: FIRST CLASS #7\r<br>All Ages …$4.99 \r<br>"
+        }
+    ],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/17656",
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/17656/marvel_two-in-one_2007_7?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ],
+    "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/2545",
+        "name": "Marvel Two-in-One (2007 - 2008)"
+    },
+    "variants": [],
+    "collections": [],
+    "collectedIssues": [],
+    "dates": [
+        {
+            "type": "onsaleDate",
+            "date": "2008-01-04T00:00:00-0500"
+        },
+        {
+            "type": "focDate",
+            "date": "-0001-11-30T00:00:00-0500"
+        }
+    ],
+    "prices": [
+        {
+            "type": "printPrice",
+            "price": 4.99
+        }
+    ],
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/00/4bc33e70207fe",
+        "extension": "jpg"
+    },
+    "images": [
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/00/4bc33e70207fe",
+            "extension": "jpg"
+        }
+    ],
+    "creators": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/17656/creators",
+        "items": [],
+        "returned": 0
+    },
+    "characters": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/17656/characters",
+        "items": [],
+        "returned": 0
+    },
+    "stories": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/17656/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/36958",
+                "name": "Marvel Adventures Avengers 7, X-Men: First Class 7 1 of 1",
+                "type": "interiorStory"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/67698",
+                "name": "MARVEL TWO-IN-ONE 7 cover",
+                "type": "cover"
+            }
+        ],
+        "returned": 2
+    },
+    "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/17656/events",
+        "items": [],
+        "returned": 0
+    }
+}

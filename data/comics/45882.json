@@ -1,0 +1,143 @@
+{
+    "id": 45882,
+    "digitalId": 31057,
+    "title": "AVENGERS ASSEMBLE (2012) #18",
+    "issueNumber": 18,
+    "variantDescription": "",
+    "description": "INFINITY TIE-IN!\n• Part 1 of 2! A Spider-Woman’s eye-view as the Avengers engage the seemingly unstoppable Builder fleet!\n• You know, the last time Spider-Woman was involved in a big alien invasion thingie, it didn’t go so well for her.\n• I wonder, is Jessica Drew the kind of woman who holds a grudge?\n",
+    "modified": "2013-08-16T15:26:52-0400",
+    "isbn": "",
+    "upc": "75960607749601811",
+    "diamondCode": "JUN130588",
+    "ean": "",
+    "issn": "",
+    "format": "Comic",
+    "pageCount": 32,
+    "textObjects": [
+        {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "INFINITY TIE-IN!\n• Part 1 of 2! A Spider-Woman’s eye-view as the Avengers engage the seemingly unstoppable Builder fleet!\n• You know, the last time Spider-Woman was involved in a big alien invasion thingie, it didn’t go so well for her.\n• I wonder, is Jessica Drew the kind of woman who holds a grudge?\n"
+        }
+    ],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/45882",
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/45882/avengers_assemble_2012_18?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/Avengers-Assemble-18/digital-comic/31057?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=31057&utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "inAppLink",
+            "url": "http://applink.marvel.com/issue/31057?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ],
+    "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/15373",
+        "name": "AVENGERS ASSEMBLE (2012 - Present)"
+    },
+    "variants": [],
+    "collections": [],
+    "collectedIssues": [],
+    "dates": [
+        {
+            "type": "onsaleDate",
+            "date": "2013-08-21T00:00:00-0400"
+        },
+        {
+            "type": "focDate",
+            "date": "2013-08-07T00:00:00-0400"
+        },
+        {
+            "type": "unlimitedDate",
+            "date": "2014-02-17T00:00:00-0500"
+        },
+        {
+            "type": "digitalPurchaseDate",
+            "date": "2013-08-21T00:00:00-0400"
+        }
+    ],
+    "prices": [
+        {
+            "type": "printPrice",
+            "price": 3.99
+        },
+        {
+            "type": "digitalPurchasePrice",
+            "price": 3.99
+        }
+    ],
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/30/51ffc54950204",
+        "extension": "jpg"
+    },
+    "images": [
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/30/51ffc54950204",
+            "extension": "jpg"
+        }
+    ],
+    "creators": {
+        "available": 3,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/45882/creators",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/10320",
+                "name": "Kelly Sue DeConnick",
+                "role": "writer"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/481",
+                "name": "Barry Kitson",
+                "role": "artist"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/8825",
+                "name": "Jorge Molina",
+                "role": "penciller (cover)"
+            }
+        ],
+        "returned": 3
+    },
+    "characters": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/45882/characters",
+        "items": [],
+        "returned": 0
+    },
+    "stories": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/45882/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/103282",
+                "name": "cover from Avengers Assemble (2012) #18",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/103283",
+                "name": "story from Avengers Assemble (2012) #18",
+                "type": "interiorStory"
+            }
+        ],
+        "returned": 2
+    },
+    "events": {
+        "available": 1,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/45882/events",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/events/315",
+                "name": "Infinity"
+            }
+        ],
+        "returned": 1
+    }
+}

@@ -1,0 +1,98 @@
+{
+    "id": 17287,
+    "digitalId": 0,
+    "title": "Marvel Two-in-One (2007) #5",
+    "issueNumber": 5,
+    "variantDescription": "",
+    "description": "Marvel Adventures Avengers #5\r<br>X-Men: First CLass #5\r<br>All Ages ...$4.99",
+    "modified": "1969-12-31T19:00:00-0500",
+    "isbn": "",
+    "upc": "5960606239-00511",
+    "diamondCode": "",
+    "ean": "",
+    "issn": "",
+    "format": "Comic",
+    "pageCount": 0,
+    "textObjects": [
+        {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "Marvel Adventures Avengers #5\r<br>X-Men: First CLass #5\r<br>All Ages ...$4.99"
+        }
+    ],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/17287",
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/17287/marvel_two-in-one_2007_5?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ],
+    "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/2545",
+        "name": "Marvel Two-in-One (2007 - 2008)"
+    },
+    "variants": [],
+    "collections": [],
+    "collectedIssues": [],
+    "dates": [
+        {
+            "type": "onsaleDate",
+            "date": "2007-11-07T00:00:00-0500"
+        },
+        {
+            "type": "focDate",
+            "date": "1969-12-31T19:00:00-0500"
+        }
+    ],
+    "prices": [
+        {
+            "type": "printPrice",
+            "price": 4.99
+        }
+    ],
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/60/4bc39095ded50",
+        "extension": "jpg"
+    },
+    "images": [
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/60/4bc39095ded50",
+            "extension": "jpg"
+        }
+    ],
+    "creators": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/17287/creators",
+        "items": [],
+        "returned": 0
+    },
+    "characters": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/17287/characters",
+        "items": [],
+        "returned": 0
+    },
+    "stories": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/17287/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/36229",
+                "name": "Marvel Adventures Avengers 5, X-Men: First Class 5",
+                "type": "interiorStory"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/67642",
+                "name": "MARVEL TWO-IN-ONE 5 cover",
+                "type": "cover"
+            }
+        ],
+        "returned": 2
+    },
+    "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/17287/events",
+        "items": [],
+        "returned": 0
+    }
+}

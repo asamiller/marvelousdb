@@ -1,0 +1,162 @@
+{
+    "id": 7312,
+    "digitalId": 7997,
+    "title": "Avengers (1963) #61",
+    "issueNumber": 61,
+    "variantDescription": "",
+    "description": "The team gains new international status, but will everyone accept it? Avengers come and go as the new lineup is established and new threats await!",
+    "modified": "-0001-11-30T00:00:00-0500",
+    "isbn": "",
+    "upc": "",
+    "diamondCode": "",
+    "ean": "",
+    "issn": "",
+    "format": "Comic",
+    "pageCount": 36,
+    "textObjects": [
+        {
+            "type": "issue_preview_text",
+            "language": "en-us",
+            "text": "The team gains new international status, but will everyone accept it? Avengers come and go as the new lineup is established and new threats await!"
+        }
+    ],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/7312",
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/7312/avengers_1963_61?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=7997&utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ],
+    "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/1991",
+        "name": "Avengers (1963 - 1996)"
+    },
+    "variants": [],
+    "collections": [
+        {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/16645",
+            "name": "Marvel Masterworks: The Avengers Vol. 7 (Hardcover)"
+        }
+    ],
+    "collectedIssues": [],
+    "dates": [
+        {
+            "type": "onsaleDate",
+            "date": "1969-02-10T00:00:00-0500"
+        },
+        {
+            "type": "focDate",
+            "date": "-0001-11-30T00:00:00-0500"
+        },
+        {
+            "type": "unlimitedDate",
+            "date": "2007-04-28T00:00:00-0400"
+        }
+    ],
+    "prices": [
+        {
+            "type": "printPrice",
+            "price": 0.12
+        }
+    ],
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/8/d0/4bb86eb03b226",
+        "extension": "jpg"
+    },
+    "images": [
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/8/d0/4bb86eb03b226",
+            "extension": "jpg"
+        }
+    ],
+    "creators": {
+        "available": 5,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/7312/creators",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/1612",
+                "name": "John Buscema",
+                "role": "penciller (cover)"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/1449",
+                "name": "George Klein",
+                "role": "inker"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/30",
+                "name": "Stan Lee",
+                "role": "editor"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/1553",
+                "name": "Sam Rosen",
+                "role": "letterer"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/2909",
+                "name": "Roy Thomas",
+                "role": "writer"
+            }
+        ],
+        "returned": 5
+    },
+    "characters": {
+        "available": 6,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/7312/characters",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009165",
+                "name": "Avengers"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009186",
+                "name": "Black Knight"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009187",
+                "name": "Black Panther"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009282",
+                "name": "Doctor Strange"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009338",
+                "name": "Hawkeye"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009697",
+                "name": "Vision"
+            }
+        ],
+        "returned": 6
+    },
+    "stories": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/7312/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/15185",
+                "name": "Cover #15185",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/15186",
+                "name": "Some Say the World Will End in Fire, Some Say in Ice",
+                "type": "interiorStory"
+            }
+        ],
+        "returned": 2
+    },
+    "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/7312/events",
+        "items": [],
+        "returned": 0
+    }
+}

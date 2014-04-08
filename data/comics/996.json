@@ -1,0 +1,104 @@
+{
+    "id": 996,
+    "digitalId": 0,
+    "title": "Nick Fury: Who Is Scorpio? (Trade Paperback)",
+    "issueNumber": 0,
+    "variantDescription": "",
+    "description": "Suave secret agent Nick Fury faces the mysterious enemy operative known only as Scorpio with the fate of the free world at stake.",
+    "modified": "-0001-11-30T00:00:00-0500",
+    "isbn": "0-7851-0766-5",
+    "upc": "",
+    "diamondCode": "",
+    "ean": "",
+    "issn": "",
+    "format": "Trade Paperback",
+    "pageCount": 88,
+    "textObjects": [
+        {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "Suave secret agent Nick Fury faces the mysterious enemy operative known only as Scorpio with the fate of the free world at stake."
+        }
+    ],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/996",
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/collection/996/nick_fury_who_is_scorpio_trade_paperback?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ],
+    "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/58",
+        "name": "Nick Fury: Who Is Scorpio? (1999)"
+    },
+    "variants": [],
+    "collections": [],
+    "collectedIssues": [],
+    "dates": [
+        {
+            "type": "onsaleDate",
+            "date": "1999-11-30T00:00:00-0500"
+        },
+        {
+            "type": "focDate",
+            "date": "-0001-11-30T00:00:00-0500"
+        }
+    ],
+    "prices": [
+        {
+            "type": "printPrice",
+            "price": 9.99
+        }
+    ],
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/a/20/4bc66d948f4f3",
+        "extension": "jpg"
+    },
+    "images": [
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/a/20/4bc66d948f4f3",
+            "extension": "jpg"
+        }
+    ],
+    "creators": {
+        "available": 1,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/996/creators",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/61",
+                "name": "Jim Steranko",
+                "role": "writer"
+            }
+        ],
+        "returned": 1
+    },
+    "characters": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/996/characters",
+        "items": [],
+        "returned": 0
+    },
+    "stories": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/996/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/59",
+                "name": "Suave secret agent Nick Fury faces the mysterious enemy operative known only as Scorpio with the fate of the free world at stake",
+                "type": "interiorStory"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/65136",
+                "name": "NICK FURY: WHO IS SCORPIO? TPB 0 cover",
+                "type": "cover"
+            }
+        ],
+        "returned": 2
+    },
+    "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/996/events",
+        "items": [],
+        "returned": 0
+    }
+}

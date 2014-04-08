@@ -1,0 +1,170 @@
+{
+    "id": 10924,
+    "digitalId": 2539,
+    "title": "Spider-Man's Tangled Web (2001) #5",
+    "issueNumber": 5,
+    "variantDescription": "",
+    "description": null,
+    "modified": "1969-12-31T19:00:00-0500",
+    "isbn": "",
+    "upc": "",
+    "diamondCode": "",
+    "ean": "",
+    "issn": "",
+    "format": "Comic",
+    "pageCount": 36,
+    "textObjects": [],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/10924",
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/10924/spider-mans_tangled_web_2001_5?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=2539&utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ],
+    "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/2071",
+        "name": "Spider-Man's Tangled Web (2001 - 2003)"
+    },
+    "variants": [],
+    "collections": [
+        {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/1005",
+            "name": "Spider-Man's Tangled Web Vol. I (Trade Paperback)"
+        }
+    ],
+    "collectedIssues": [],
+    "dates": [
+        {
+            "type": "onsaleDate",
+            "date": "2001-10-01T00:00:00-0400"
+        },
+        {
+            "type": "focDate",
+            "date": "1969-12-31T19:00:00-0500"
+        },
+        {
+            "type": "unlimitedDate",
+            "date": "2007-11-13T00:00:00-0500"
+        }
+    ],
+    "prices": [
+        {
+            "type": "printPrice",
+            "price": 0
+        }
+    ],
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/f0/4bc4706449c88",
+        "extension": "jpg"
+    },
+    "images": [
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/f0/4bc4706449c88",
+            "extension": "jpg"
+        }
+    ],
+    "creators": {
+        "available": 7,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/10924/creators",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/6694",
+                "name": "Wes Abbot",
+                "role": "letterer"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/350",
+                "name": "Richard Starkings",
+                "role": "letterer"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/4014",
+                "name": "Axel Alonso",
+                "role": "editor"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/6229",
+                "name": "John Miesegaes",
+                "role": "editor"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/1909",
+                "name": "Steve Buccellato",
+                "role": "colorist"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/545",
+                "name": "Duncan Fegredo",
+                "role": "penciller (cover)"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/94",
+                "name": "Peter Milligan",
+                "role": "writer"
+            }
+        ],
+        "returned": 7
+    },
+    "characters": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/10924/characters",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009537",
+                "name": "Rhino"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009610",
+                "name": "Spider-Man"
+            }
+        ],
+        "returned": 2
+    },
+    "stories": {
+        "available": 6,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/10924/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/25458",
+                "name": "Cover #25458",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/25459",
+                "name": "Rhinoplasty",
+                "type": "interiorStory"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/25460",
+                "name": "Web Heads",
+                "type": "letters"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/25461",
+                "name": "[House Advertisement]",
+                "type": "promo"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/25462",
+                "name": "Hey Bub Subscribe Today!",
+                "type": "promo"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/25463",
+                "name": "[Ads]",
+                "type": "ad"
+            }
+        ],
+        "returned": 6
+    },
+    "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/10924/events",
+        "items": [],
+        "returned": 0
+    }
+}

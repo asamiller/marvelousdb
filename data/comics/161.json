@@ -1,0 +1,104 @@
+{
+    "id": 161,
+    "digitalId": 0,
+    "title": "Trouble (2003) #5",
+    "issueNumber": 5,
+    "variantDescription": "",
+    "description": "The conclusion of the shocking mini-series as a blessed event changes the lives of May, Ben, Richard and Mary forever!\r\n32 PGS./MARVEL PSR+…$2.99",
+    "modified": "-0001-11-30T00:00:00-0500",
+    "isbn": "",
+    "upc": "5960605458-00711",
+    "diamondCode": "",
+    "ean": "",
+    "issn": "",
+    "format": "Comic",
+    "pageCount": 0,
+    "textObjects": [
+        {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "The conclusion of the shocking mini-series as a blessed event changes the lives of May, Ben, Richard and Mary forever!\r\n32 PGS./MARVEL PSR+…$2.99"
+        }
+    ],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/161",
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/161/trouble_2003_5?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ],
+    "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/634",
+        "name": "Trouble (2003)"
+    },
+    "variants": [],
+    "collections": [],
+    "collectedIssues": [],
+    "dates": [
+        {
+            "type": "onsaleDate",
+            "date": "2003-11-26T00:00:00-0500"
+        },
+        {
+            "type": "focDate",
+            "date": "-0001-11-30T00:00:00-0500"
+        }
+    ],
+    "prices": [
+        {
+            "type": "printPrice",
+            "price": 2.99
+        }
+    ],
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/2/50/4bc6aabf4d79c",
+        "extension": "jpg"
+    },
+    "images": [
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/2/50/4bc6aabf4d79c",
+            "extension": "jpg"
+        }
+    ],
+    "creators": {
+        "available": 1,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/161/creators",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/88",
+                "name": "Mark Millar",
+                "role": "writer"
+            }
+        ],
+        "returned": 1
+    },
+    "characters": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/161/characters",
+        "items": [],
+        "returned": 0
+    },
+    "stories": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/161/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/2157",
+                "name": "Interior #2157",
+                "type": "interiorStory"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/65421",
+                "name": "TROUBLE 5 cover",
+                "type": "cover"
+            }
+        ],
+        "returned": 2
+    },
+    "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/161/events",
+        "items": [],
+        "returned": 0
+    }
+}

@@ -1,0 +1,166 @@
+{
+    "id": 37772,
+    "digitalId": 16200,
+    "title": "Iron Man (1998) #12",
+    "issueNumber": 12,
+    "variantDescription": "",
+    "description": null,
+    "modified": "2012-11-26T14:50:31-0500",
+    "isbn": "",
+    "upc": "",
+    "diamondCode": "",
+    "ean": "",
+    "issn": "",
+    "format": "Comic",
+    "pageCount": 38,
+    "textObjects": [],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/37772",
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/37772/iron_man_1998_12?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=16200&utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ],
+    "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/2572",
+        "name": "Iron Man (1998 - 2004)"
+    },
+    "variants": [],
+    "collections": [],
+    "collectedIssues": [],
+    "dates": [
+        {
+            "type": "onsaleDate",
+            "date": "1999-01-10T00:00:00-0500"
+        },
+        {
+            "type": "focDate",
+            "date": "1961-01-01T00:00:00-0500"
+        },
+        {
+            "type": "unlimitedDate",
+            "date": "2013-04-30T10:31:48-0400"
+        }
+    ],
+    "prices": [
+        {
+            "type": "printPrice",
+            "price": 1.99
+        }
+    ],
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/80/50b3c7c12d1dd",
+        "extension": "jpg"
+    },
+    "images": [
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/8/f0/512e6f0b068da",
+            "extension": "jpg"
+        },
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/80/50b3c7c12d1dd",
+            "extension": "jpg"
+        }
+    ],
+    "creators": {
+        "available": 7,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/37772/creators",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/11403",
+                "name": "RSComicraft",
+                "role": "letterer"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/1231",
+                "name": "Kurt Busiek",
+                "role": "writer"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/5075",
+                "name": "Bobbie Chase",
+                "role": "editor"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/174",
+                "name": "Sean Chen",
+                "role": "penciler"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/661",
+                "name": "Patrick Zircher",
+                "role": "penciler"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/2119",
+                "name": "Larry Mahlstedt",
+                "role": "inker"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/4205",
+                "name": "Steve Oliff",
+                "role": "colorist"
+            }
+        ],
+        "returned": 7
+    },
+    "characters": {
+        "available": 5,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/37772/characters",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010338",
+                "name": "Captain Marvel (Carol Danvers)"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010346",
+                "name": "Controller"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009368",
+                "name": "Iron Man"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010329",
+                "name": "Jane Foster"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009637",
+                "name": "Sunset Bain"
+            }
+        ],
+        "returned": 5
+    },
+    "stories": {
+        "available": 3,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/37772/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/83383",
+                "name": "Slaughter in the Skies!",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/83384",
+                "name": "",
+                "type": "recap"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/83385",
+                "name": "Spoils of War",
+                "type": "interiorStory"
+            }
+        ],
+        "returned": 3
+    },
+    "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/37772/events",
+        "items": [],
+        "returned": 0
+    }
+}

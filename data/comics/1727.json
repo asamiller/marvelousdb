@@ -1,0 +1,136 @@
+{
+    "id": 1727,
+    "digitalId": 2847,
+    "title": "X-Men/Fantastic Four (2004) #4",
+    "issueNumber": 4,
+    "variantDescription": "",
+    "description": "The Brood attack! It’s an alien invasion as the Brood crash-land in the middle of Times Square, and only the combined might of the X-Men and Fantastic Four have any chance of stopping them!\r<br>32 PGS./Marvel PSR …$3.50",
+    "modified": "1969-12-31T19:00:00-0500",
+    "isbn": "",
+    "upc": "5960605573-00411",
+    "diamondCode": "",
+    "ean": "",
+    "issn": "",
+    "format": "Comic",
+    "pageCount": 0,
+    "textObjects": [
+        {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "The Brood attack! It’s an alien invasion as the Brood crash-land in the middle of Times Square, and only the combined might of the X-Men and Fantastic Four have any chance of stopping them!\r<br>32 PGS./Marvel PSR …$3.50"
+        }
+    ],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/1727",
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/1727/x-menfantastic_four_2004_4?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=2847&utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ],
+    "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/775",
+        "name": "X-Men/Fantastic Four (2004 - 2005)"
+    },
+    "variants": [],
+    "collections": [
+        {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/2056",
+            "name": "X-Men/Fantastic Four (Hardcover)"
+        }
+    ],
+    "collectedIssues": [],
+    "dates": [
+        {
+            "type": "onsaleDate",
+            "date": "2005-03-02T00:00:00-0500"
+        },
+        {
+            "type": "focDate",
+            "date": "1969-12-31T19:00:00-0500"
+        },
+        {
+            "type": "unlimitedDate",
+            "date": "2007-11-13T00:00:00-0500"
+        }
+    ],
+    "prices": [
+        {
+            "type": "printPrice",
+            "price": 3.5
+        }
+    ],
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/e/d0/4bc64af32d2fa",
+        "extension": "jpg"
+    },
+    "images": [
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/e/d0/4bc64af32d2fa",
+            "extension": "jpg"
+        }
+    ],
+    "creators": {
+        "available": 3,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/1727/creators",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/490",
+                "name": "Pat Lee",
+                "role": "penciller"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/8429",
+                "name": "Dave Sharpe",
+                "role": "letterer"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/353",
+                "name": "Akira Yoshida",
+                "role": "writer"
+            }
+        ],
+        "returned": 3
+    },
+    "characters": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/1727/characters",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009299",
+                "name": "Fantastic Four"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009726",
+                "name": "X-Men"
+            }
+        ],
+        "returned": 2
+    },
+    "stories": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/1727/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/3719",
+                "name": "4 of 5 - 5XLS",
+                "type": "interiorStory"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/65461",
+                "name": "X-MEN/FANTASTIC FOUR 4 cover",
+                "type": "cover"
+            }
+        ],
+        "returned": 2
+    },
+    "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/1727/events",
+        "items": [],
+        "returned": 0
+    }
+}

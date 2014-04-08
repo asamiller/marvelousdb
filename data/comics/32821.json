@@ -1,0 +1,116 @@
+{
+    "id": 32821,
+    "digitalId": 17928,
+    "title": "X-Men Forever 2 (2010) #12",
+    "issueNumber": 12,
+    "variantDescription": "",
+    "description": null,
+    "modified": "2013-04-05T16:02:54-0400",
+    "isbn": "",
+    "upc": "5960607258-01211",
+    "diamondCode": "SEP100671",
+    "ean": "",
+    "issn": "",
+    "format": "Comic",
+    "pageCount": 32,
+    "textObjects": [],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/32821",
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/32821/x-men_forever_2_2010_12?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=17928&utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ],
+    "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/9978",
+        "name": "X-Men Forever 2 (2010 - 2011)"
+    },
+    "variants": [],
+    "collections": [],
+    "collectedIssues": [],
+    "dates": [
+        {
+            "type": "onsaleDate",
+            "date": "2010-11-24T00:00:00-0500"
+        },
+        {
+            "type": "focDate",
+            "date": "2010-11-13T00:00:00-0500"
+        },
+        {
+            "type": "unlimitedDate",
+            "date": "2013-04-08T00:00:00-0400"
+        }
+    ],
+    "prices": [
+        {
+            "type": "printPrice",
+            "price": 3.99
+        }
+    ],
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/90/4ce68b7821bce",
+        "extension": "jpg"
+    },
+    "images": [
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/90/4ce68b7821bce",
+            "extension": "jpg"
+        }
+    ],
+    "creators": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/32821/creators",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/5015",
+                "name": "Rodney Buchemi",
+                "role": "artist"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/483",
+                "name": "Tom Grummett",
+                "role": "artist"
+            }
+        ],
+        "returned": 2
+    },
+    "characters": {
+        "available": 1,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/32821/characters",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009726",
+                "name": "X-Men"
+            }
+        ],
+        "returned": 1
+    },
+    "stories": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/32821/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/73961",
+                "name": "X-Men Forever 2 #12 ",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/73963",
+                "name": "Interior #73963",
+                "type": "interiorStory"
+            }
+        ],
+        "returned": 2
+    },
+    "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/32821/events",
+        "items": [],
+        "returned": 0
+    }
+}

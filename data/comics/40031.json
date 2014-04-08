@@ -1,0 +1,136 @@
+{
+    "id": 40031,
+    "digitalId": 0,
+    "title": "Ultimate Fallout (2011) #1 (Djurdjevic Variant)",
+    "issueNumber": 1,
+    "variantDescription": "Djurdjevic Variant",
+    "description": "The End before The Beginning. ",
+    "modified": "2011-07-08T17:15:47-0400",
+    "isbn": "",
+    "upc": "5960607684-00121",
+    "diamondCode": "",
+    "ean": "",
+    "issn": "",
+    "format": "Comic",
+    "pageCount": 32,
+    "textObjects": [
+        {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "The End before The Beginning. "
+        }
+    ],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/40031",
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/40031/ultimate_fallout_2011_1_djurdjevic_variant/djurdjevic_variant?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ],
+    "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/14807",
+        "name": "Ultimate Fallout (2011)"
+    },
+    "variants": [
+        {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/39967",
+            "name": "Ultimate Fallout (2011) #1"
+        },
+        {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/40098",
+            "name": "Ultimate Fallout (2011) #1 (Diamond Variant)"
+        }
+    ],
+    "collections": [],
+    "collectedIssues": [],
+    "dates": [
+        {
+            "type": "onsaleDate",
+            "date": "2011-07-13T00:00:00-0400"
+        },
+        {
+            "type": "focDate",
+            "date": "2011-06-22T00:00:00-0400"
+        }
+    ],
+    "prices": [
+        {
+            "type": "printPrice",
+            "price": 3.99
+        }
+    ],
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/d/50/4e17429175160",
+        "extension": "jpg"
+    },
+    "images": [
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/d/50/4e17429175160",
+            "extension": "jpg"
+        }
+    ],
+    "creators": {
+        "available": 3,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/40031/creators",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/87",
+                "name": "Mark Bagley",
+                "role": "penciller"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/24",
+                "name": "Brian Michael Bendis",
+                "role": "writer"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/10288",
+                "name": "Marko Djurdjevic",
+                "role": "penciller (cover)"
+            }
+        ],
+        "returned": 3
+    },
+    "characters": {
+        "available": 3,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/40031/characters",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1014994",
+                "name": "Gwen Stacy (Ultimate)"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1011203",
+                "name": "Mary Jane Watson (Ultimate)"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1011010",
+                "name": "Spider-Man (Ultimate)"
+            }
+        ],
+        "returned": 3
+    },
+    "stories": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/40031/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/90832",
+                "name": "Ultimate Comics Fallout (2011) #1, Djurdjevic Variant",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/90833",
+                "name": "Interior #90833",
+                "type": "interiorStory"
+            }
+        ],
+        "returned": 2
+    },
+    "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/40031/events",
+        "items": [],
+        "returned": 0
+    }
+}

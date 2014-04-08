@@ -1,0 +1,146 @@
+{
+    "id": 42785,
+    "digitalId": 27600,
+    "title": "Hawkeye (2012) #2",
+    "issueNumber": 2,
+    "variantDescription": "",
+    "description": "* What you need to know: Fraction. Aja. Hawkeye. Kate Bishop. Cars. Guns. \n* Stealing from the rich never looked so good.\n* Get. Now. \n",
+    "modified": "2013-03-08T16:23:30-0500",
+    "isbn": "",
+    "upc": "5960607815-00211",
+    "diamondCode": "",
+    "ean": "",
+    "issn": "",
+    "format": "Comic",
+    "pageCount": 32,
+    "textObjects": [
+        {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "* What you need to know: Fraction. Aja. Hawkeye. Kate Bishop. Cars. Guns. \n* Stealing from the rich never looked so good.\n* Get. Now. \n"
+        }
+    ],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/42785",
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/42785/hawkeye_2012_2?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/Hawkeye-2/digital-comic/27600?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=27600&utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "inAppLink",
+            "url": "http://applink.marvel.com/issue/27600?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ],
+    "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/16309",
+        "name": "Hawkeye (2012 - Present)"
+    },
+    "variants": [
+        {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/47784",
+            "name": "Hawkeye (2012) #2 (Aja 5th Printing Variant)"
+        },
+        {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/47403",
+            "name": "Hawkeye (2012) #2 (Aja 4th Printing Variant)"
+        }
+    ],
+    "collections": [],
+    "collectedIssues": [],
+    "dates": [
+        {
+            "type": "onsaleDate",
+            "date": "2012-09-05T00:00:00-0400"
+        },
+        {
+            "type": "focDate",
+            "date": "2012-08-22T00:00:00-0400"
+        },
+        {
+            "type": "unlimitedDate",
+            "date": "2013-03-08T13:31:06-0500"
+        },
+        {
+            "type": "digitalPurchaseDate",
+            "date": "2012-09-05T00:00:00-0400"
+        }
+    ],
+    "prices": [
+        {
+            "type": "printPrice",
+            "price": 2.99
+        },
+        {
+            "type": "digitalPurchasePrice",
+            "price": 1.99
+        }
+    ],
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/50/51a5153d7944c",
+        "extension": "jpg"
+    },
+    "images": [
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/50/51a5153d7944c",
+            "extension": "jpg"
+        },
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/2/50/510c2a6c40803",
+            "extension": "jpg"
+        }
+    ],
+    "creators": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/42785/creators",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/750",
+                "name": "David Aja",
+                "role": "penciller (cover)"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/1132",
+                "name": "Matt Fraction",
+                "role": "writer"
+            }
+        ],
+        "returned": 2
+    },
+    "characters": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/42785/characters",
+        "items": [],
+        "returned": 0
+    },
+    "stories": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/42785/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/96290",
+                "name": "Cover #96290",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/96291",
+                "name": "Interior #96291",
+                "type": "interiorStory"
+            }
+        ],
+        "returned": 2
+    },
+    "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/42785/events",
+        "items": [],
+        "returned": 0
+    }
+}

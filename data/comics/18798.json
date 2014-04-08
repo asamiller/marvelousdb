@@ -1,0 +1,166 @@
+{
+    "id": 18798,
+    "digitalId": 7057,
+    "title": "Startling Stories: Banner (2001) #1",
+    "issueNumber": 1,
+    "variantDescription": "",
+    "description": null,
+    "modified": "-0001-11-30T00:00:00-0500",
+    "isbn": "",
+    "upc": "",
+    "diamondCode": "",
+    "ean": "",
+    "issn": "",
+    "format": "Comic",
+    "pageCount": 36,
+    "textObjects": [],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/18798",
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/18798/startling_stories_banner_2001_1?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=7057&utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ],
+    "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/3677",
+        "name": "Startling Stories: Banner (2001)"
+    },
+    "variants": [],
+    "collections": [
+        {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/982",
+            "name": "Incredible Hulk Vol. I (Hardcover)"
+        }
+    ],
+    "collectedIssues": [],
+    "dates": [
+        {
+            "type": "onsaleDate",
+            "date": "2001-07-01T00:00:00-0400"
+        },
+        {
+            "type": "focDate",
+            "date": "-0001-11-30T00:00:00-0500"
+        },
+        {
+            "type": "unlimitedDate",
+            "date": "2008-12-05T00:00:00-0500"
+        }
+    ],
+    "prices": [
+        {
+            "type": "printPrice",
+            "price": 0
+        }
+    ],
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/90/4bb68da2a8909",
+        "extension": "jpg"
+    },
+    "images": [
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/90/4bb68da2a8909",
+            "extension": "jpg"
+        }
+    ],
+    "creators": {
+        "available": 6,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/18798/creators",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/6694",
+                "name": "Wes Abbot",
+                "role": "letterer"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/4014",
+                "name": "Axel Alonso",
+                "role": "editor"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/6229",
+                "name": "John Miesegaes",
+                "role": "editor"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/9",
+                "name": "Brian Azzarello",
+                "role": "writer"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/10",
+                "name": "Richard Corben",
+                "role": "penciler"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/4258",
+                "name": "Studio F",
+                "role": "colorist"
+            }
+        ],
+        "returned": 6
+    },
+    "characters": {
+        "available": 1,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/18798/characters",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009351",
+                "name": "Hulk"
+            }
+        ],
+        "returned": 1
+    },
+    "stories": {
+        "available": 7,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/18798/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/40262",
+                "name": "[untitled]",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/40263",
+                "name": "Banner",
+                "type": "interiorStory"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/40264",
+                "name": "Startled!",
+                "type": "text article"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/40265",
+                "name": "Bullpen Bulletins",
+                "type": "promo"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/40266",
+                "name": "[House Advertisement]",
+                "type": "promo"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/40267",
+                "name": "Hey Bub Subscribe Today!",
+                "type": "promo"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/40268",
+                "name": "[Ads]",
+                "type": "ad"
+            }
+        ],
+        "returned": 7
+    },
+    "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/18798/events",
+        "items": [],
+        "returned": 0
+    }
+}

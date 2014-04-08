@@ -1,0 +1,173 @@
+{
+    "id": 23319,
+    "digitalId": 11963,
+    "title": "Marvel Feature (1971) #1",
+    "issueNumber": 1,
+    "variantDescription": "",
+    "description": null,
+    "modified": "1969-12-31T19:00:00-0500",
+    "isbn": "",
+    "upc": "",
+    "diamondCode": "",
+    "ean": "",
+    "issn": "",
+    "format": "Comic",
+    "pageCount": 52,
+    "textObjects": [],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/23319",
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/23319/marvel_feature_1971_1?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=11963&utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ],
+    "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/6676",
+        "name": "Marvel Feature (1971 - 1973)"
+    },
+    "variants": [],
+    "collections": [
+        {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/21625",
+            "name": "Marvel Masterworks: The Defenders Vol. 1 (Hardcover)"
+        },
+        {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/21626",
+            "name": "Marvel Masterworks: The Defenders Vol. 1 (Hardcover)"
+        }
+    ],
+    "collectedIssues": [],
+    "dates": [
+        {
+            "type": "onsaleDate",
+            "date": "1971-12-10T00:00:00-0500"
+        },
+        {
+            "type": "focDate",
+            "date": "1969-12-31T19:00:00-0500"
+        },
+        {
+            "type": "unlimitedDate",
+            "date": "2010-07-13T00:00:00-0400"
+        }
+    ],
+    "prices": [
+        {
+            "type": "printPrice",
+            "price": 0.25
+        }
+    ],
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/70/4bb5c20db99f6",
+        "extension": "jpg"
+    },
+    "images": [
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/c0/502bd5885b396",
+            "extension": "jpg"
+        },
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/70/4bb5c20db99f6",
+            "extension": "jpg"
+        }
+    ],
+    "creators": {
+        "available": 8,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/23319/creators",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/314",
+                "name": "Neal Adams",
+                "role": "penciler"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/1167",
+                "name": "Ross Andru",
+                "role": "penciler"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/305",
+                "name": "Don Heck",
+                "role": "penciler"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/297",
+                "name": "Bill Everett",
+                "role": "inker"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/1519",
+                "name": "Frank Giacoia",
+                "role": "inker"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/30",
+                "name": "Stan Lee",
+                "role": "editor"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/1553",
+                "name": "Sam Rosen",
+                "role": "letterer"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/2909",
+                "name": "Roy Thomas",
+                "role": "writer"
+            }
+        ],
+        "returned": 8
+    },
+    "characters": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/23319/characters",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1011023",
+                "name": "Defenders"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010791",
+                "name": "Sub-Mariner"
+            }
+        ],
+        "returned": 2
+    },
+    "stories": {
+        "available": 4,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/23319/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/51705",
+                "name": "The Day of the Defenders",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/51706",
+                "name": "The Day of the Defenders",
+                "type": ""
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/51707",
+                "name": "The Sub-Mariner and the Icebergs",
+                "type": ""
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/51708",
+                "name": "The Return",
+                "type": ""
+            }
+        ],
+        "returned": 4
+    },
+    "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/23319/events",
+        "items": [],
+        "returned": 0
+    }
+}

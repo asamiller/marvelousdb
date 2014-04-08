@@ -1,0 +1,132 @@
+{
+    "id": 30122,
+    "digitalId": 19925,
+    "title": "Marvel Adventures Super Heroes (2010) #12",
+    "issueNumber": 12,
+    "variantDescription": "",
+    "description": "When Valkyrie needs a bodyguard to plunge into the realm of the Asgardian underrworld, there's only one man that can make the journey: Thor, the God of Thunder! But what is the dreadful mission, and will this journey to the lands of the dead be a one-way trip?",
+    "modified": "2012-11-07T16:37:56-0500",
+    "isbn": "",
+    "upc": "5960607126-01211",
+    "diamondCode": "JAN110738",
+    "ean": "",
+    "issn": "1938-0380",
+    "format": "Comic",
+    "pageCount": 32,
+    "textObjects": [
+        {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "When Valkyrie needs a bodyguard to plunge into the realm of the Asgardian underrworld, there's only one man that can make the journey: Thor, the God of Thunder! But what is the dreadful mission, and will this journey to the lands of the dead be a one-way trip?"
+        }
+    ],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/30122",
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/30122/marvel_adventures_super_heroes_2010_12?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=19925&utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ],
+    "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/9718",
+        "name": "Marvel Adventures Super Heroes (2010 - 2012)"
+    },
+    "variants": [],
+    "collections": [],
+    "collectedIssues": [],
+    "dates": [
+        {
+            "type": "onsaleDate",
+            "date": "2011-03-09T00:00:00-0500"
+        },
+        {
+            "type": "focDate",
+            "date": "2011-02-23T00:00:00-0500"
+        },
+        {
+            "type": "unlimitedDate",
+            "date": "2012-12-20T00:00:00-0500"
+        }
+    ],
+    "prices": [
+        {
+            "type": "printPrice",
+            "price": 2.99
+        }
+    ],
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/5/f0/4d71157a1ac74",
+        "extension": "jpg"
+    },
+    "images": [
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/5/f0/4d71157a1ac74",
+            "extension": "jpg"
+        }
+    ],
+    "creators": {
+        "available": 4,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/30122/creators",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/665",
+                "name": "Reilly Brown",
+                "role": "penciller (cover)"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/1430",
+                "name": "Ronan Cliquet",
+                "role": "penciller"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/4983",
+                "name": "Paul Tobin",
+                "role": "writer"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/9471",
+                "name": "Stephen Wacker",
+                "role": "editor"
+            }
+        ],
+        "returned": 4
+    },
+    "characters": {
+        "available": 1,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/30122/characters",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009664",
+                "name": "Thor"
+            }
+        ],
+        "returned": 1
+    },
+    "stories": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/30122/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/69070",
+                "name": "SUPER HEROES 12",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/69071",
+                "name": "SUPER HEROES 12 ",
+                "type": "interiorStory"
+            }
+        ],
+        "returned": 2
+    },
+    "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/30122/events",
+        "items": [],
+        "returned": 0
+    }
+}

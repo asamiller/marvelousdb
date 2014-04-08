@@ -1,0 +1,143 @@
+{
+    "id": 426,
+    "digitalId": 4092,
+    "title": "Ultimate Spider-Man (2000) #55",
+    "issueNumber": 55,
+    "variantDescription": "",
+    "description": "Part 2. A major movie studio is making an unauthorized summer blockbuster about Spider-Man, and the Ultimate wall-crawler swings by the set to give the producers a piece of his mind. But someone else is even hotter about being in the film than Spidey – Doctor Octopus – who just may shut the production down if he doesn’t get final edit!",
+    "modified": "-0001-11-30T00:00:00-0500",
+    "isbn": "",
+    "upc": "5960605031-05511",
+    "diamondCode": "",
+    "ean": "",
+    "issn": "",
+    "format": "Comic",
+    "pageCount": 0,
+    "textObjects": [
+        {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "Part 2. A major movie studio is making an unauthorized summer blockbuster about Spider-Man, and the Ultimate wall-crawler swings by the set to give the producers a piece of his mind. But someone else is even hotter about being in the film than Spidey – Doctor Octopus – who just may shut the production down if he doesn’t get final edit!"
+        }
+    ],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/426",
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/426/ultimate_spider-man_2000_55?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/Ultimate-Spider-Man-55/digital-comic/4092?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=4092&utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "inAppLink",
+            "url": "http://applink.marvel.com/issue/4092?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ],
+    "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/466",
+        "name": "Ultimate Spider-Man (2000 - 2009)"
+    },
+    "variants": [],
+    "collections": [
+        {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/1310",
+            "name": "Ultimate Spider-Man Vol. 10: Hollywood (Trade Paperback)"
+        }
+    ],
+    "collectedIssues": [],
+    "dates": [
+        {
+            "type": "onsaleDate",
+            "date": "2004-03-17T00:00:00-0500"
+        },
+        {
+            "type": "focDate",
+            "date": "-0001-11-30T00:00:00-0500"
+        },
+        {
+            "type": "unlimitedDate",
+            "date": "2009-09-07T00:00:00-0400"
+        },
+        {
+            "type": "digitalPurchaseDate",
+            "date": "2011-03-08T00:00:00-0500"
+        }
+    ],
+    "prices": [
+        {
+            "type": "printPrice",
+            "price": 2.25
+        },
+        {
+            "type": "digitalPurchasePrice",
+            "price": 1.99
+        }
+    ],
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/20/4bc697cfcb8ff",
+        "extension": "jpg"
+    },
+    "images": [
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/20/4bc697cfcb8ff",
+            "extension": "jpg"
+        }
+    ],
+    "creators": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/426/creators",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/87",
+                "name": "Mark Bagley",
+                "role": "penciller (cover)"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/24",
+                "name": "Brian Michael Bendis",
+                "role": "writer"
+            }
+        ],
+        "returned": 2
+    },
+    "characters": {
+        "available": 1,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/426/characters",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1011010",
+                "name": "Spider-Man (Ultimate)"
+            }
+        ],
+        "returned": 1
+    },
+    "stories": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/426/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/1308",
+                "name": "Cover #1308",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/1309",
+                "name": "Interior #1309",
+                "type": "interiorStory"
+            }
+        ],
+        "returned": 2
+    },
+    "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/426/events",
+        "items": [],
+        "returned": 0
+    }
+}

@@ -1,0 +1,148 @@
+{
+    "id": 300,
+    "digitalId": 1974,
+    "title": "Hulk: Gray (2003) #6",
+    "issueNumber": 6,
+    "variantDescription": "",
+    "description": "The final chapter of this ‘Hulk-Smash’ best-selling limited series! Can the Hulk escape the army and still keep the love of Betty Banner?\r\n32 PGS./MARVEL PSR…$3.50\r\n",
+    "modified": "1969-12-31T19:00:00-0500",
+    "isbn": "",
+    "upc": "5960605466-00611",
+    "diamondCode": "",
+    "ean": "",
+    "issn": "",
+    "format": "Comic",
+    "pageCount": 0,
+    "textObjects": [
+        {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "The final chapter of this ‘Hulk-Smash’ best-selling limited series! Can the Hulk escape the army and still keep the love of Betty Banner?\r\n32 PGS./MARVEL PSR…$3.50\r\n"
+        }
+    ],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/300",
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/300/hulk_gray_2003_6?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/Hulk-Gray-6/digital-comic/1974?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=1974&utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "inAppLink",
+            "url": "http://applink.marvel.com/issue/1974?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ],
+    "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/704",
+        "name": "Hulk: Gray (2003 - 2004)"
+    },
+    "variants": [],
+    "collections": [
+        {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/2043",
+            "name": "Hulk: Gray (Trade Paperback)"
+        }
+    ],
+    "collectedIssues": [],
+    "dates": [
+        {
+            "type": "onsaleDate",
+            "date": "2004-02-18T00:00:00-0500"
+        },
+        {
+            "type": "focDate",
+            "date": "1969-12-31T19:00:00-0500"
+        },
+        {
+            "type": "unlimitedDate",
+            "date": "2007-11-13T00:00:00-0500"
+        },
+        {
+            "type": "digitalPurchaseDate",
+            "date": "2011-08-02T00:00:00-0400"
+        }
+    ],
+    "prices": [
+        {
+            "type": "printPrice",
+            "price": 3.5
+        },
+        {
+            "type": "digitalPurchasePrice",
+            "price": 1.99
+        }
+    ],
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/f/90/4bc6a0d6d88df",
+        "extension": "jpg"
+    },
+    "images": [
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/f/90/4bc6a0d6d88df",
+            "extension": "jpg"
+        }
+    ],
+    "creators": {
+        "available": 3,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/300/creators",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/508",
+                "name": "Marvel Knights",
+                "role": "inker"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/18",
+                "name": "Jeph Loeb",
+                "role": "writer"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/19",
+                "name": "Tim Sale",
+                "role": "penciller (cover)"
+            }
+        ],
+        "returned": 3
+    },
+    "characters": {
+        "available": 1,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/300/characters",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009351",
+                "name": "Hulk"
+            }
+        ],
+        "returned": 1
+    },
+    "stories": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/300/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/2259",
+                "name": "Cover #2259",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/2260",
+                "name": "Interior #2260",
+                "type": "interiorStory"
+            }
+        ],
+        "returned": 2
+    },
+    "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/300/events",
+        "items": [],
+        "returned": 0
+    }
+}

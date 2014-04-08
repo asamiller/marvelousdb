@@ -1,0 +1,176 @@
+{
+    "id": 13753,
+    "digitalId": 0,
+    "title": "Uncanny X-Men (1963) #212",
+    "issueNumber": 212,
+    "variantDescription": "",
+    "description": null,
+    "modified": "2012-11-27T16:24:50-0500",
+    "isbn": "",
+    "upc": "",
+    "diamondCode": "",
+    "ean": "",
+    "issn": "",
+    "format": "Comic",
+    "pageCount": 36,
+    "textObjects": [],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/13753",
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/13753/uncanny_x-men_1963_212?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/Uncanny-X-Men-212/digital-comic/21149?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ],
+    "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/2258",
+        "name": "Uncanny X-Men (1963 - 2011)"
+    },
+    "variants": [],
+    "collections": [],
+    "collectedIssues": [],
+    "dates": [
+        {
+            "type": "onsaleDate",
+            "date": "1986-12-10T00:00:00-0500"
+        },
+        {
+            "type": "focDate",
+            "date": "-0001-11-30T00:00:00-0500"
+        }
+    ],
+    "prices": [
+        {
+            "type": "printPrice",
+            "price": 0
+        }
+    ],
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/70/50b52f6e64751",
+        "extension": "jpg"
+    },
+    "images": [
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/70/50b52f6e64751",
+            "extension": "jpg"
+        }
+    ],
+    "creators": {
+        "available": 9,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/13753/creators",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/44",
+                "name": "Chris Claremont",
+                "role": "writer"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/1778",
+                "name": "Dan Crespi",
+                "role": "letterer"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/791",
+                "name": "Tom Orzechowski",
+                "role": "letterer"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/1326",
+                "name": "Dan Green",
+                "role": "inker"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/1162",
+                "name": "Terry Kavanagh",
+                "role": "editor"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/215",
+                "name": "Ann Nocenti",
+                "role": "editor"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/1252",
+                "name": "Rick Leonardi",
+                "role": "penciller"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/1872",
+                "name": "Glynis Oliver",
+                "role": "colorist"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/11419",
+                "name": "Barry Windsor-Smith",
+                "role": "penciller (cover)"
+            }
+        ],
+        "returned": 9
+    },
+    "characters": {
+        "available": 7,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/13753/characters",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009243",
+                "name": "Colossus"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009472",
+                "name": "Nightcrawler"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009512",
+                "name": "Psylocke"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009546",
+                "name": "Rogue"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009629",
+                "name": "Storm"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009718",
+                "name": "Wolverine"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009726",
+                "name": "X-Men"
+            }
+        ],
+        "returned": 7
+    },
+    "stories": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/13753/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/27933",
+                "name": "Wolverine vs. Sabretooth Round 1",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/27934",
+                "name": "The Last Run",
+                "type": "interiorStory"
+            }
+        ],
+        "returned": 2
+    },
+    "events": {
+        "available": 1,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/13753/events",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/events/263",
+                "name": "Mutant Massacre"
+            }
+        ],
+        "returned": 1
+    }
+}

@@ -1,0 +1,129 @@
+{
+    "id": 1305,
+    "digitalId": 0,
+    "title": "Spider-Man 2: The Movie (Trade Paperback)",
+    "issueNumber": 0,
+    "variantDescription": "",
+    "description": "\"Spider-Man broke dozens of box-office records, and Spider-Man 2 is poised to top them all! This trade paperback collects the comic-book adaptation of the sequel to one of the biggest blockbusters of all time -- plus the debut of Doctor Octopus in AMAZING SPIDER-MAN #3, and the origin of Ultimate Doc Ock from ULTIMATE SPIDER-MAN #14 and #15! \"",
+    "modified": "-0001-11-30T00:00:00-0500",
+    "isbn": "0-7851-1411-4",
+    "upc": "5960611411-00111",
+    "diamondCode": "",
+    "ean": "",
+    "issn": "",
+    "format": "Trade Paperback",
+    "pageCount": 120,
+    "textObjects": [
+        {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "\"Spider-Man broke dozens of box-office records, and Spider-Man 2 is poised to top them all! This trade paperback collects the comic-book adaptation of the sequel to one of the biggest blockbusters of all time -- plus the debut of Doctor Octopus in AMAZING SPIDER-MAN #3, and the origin of Ultimate Doc Ock from ULTIMATE SPIDER-MAN #14 and #15! \""
+        }
+    ],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/1305",
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/collection/1305/spider-man_2_the_movie_trade_paperback?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ],
+    "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/1226",
+        "name": "Spider-Man 2: The Movie (2004)"
+    },
+    "variants": [],
+    "collections": [],
+    "collectedIssues": [
+        {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/742",
+            "name": "Spider-Man 2: The Movie (2004) #1"
+        }
+    ],
+    "dates": [
+        {
+            "type": "onsaleDate",
+            "date": "2004-06-30T00:00:00-0400"
+        },
+        {
+            "type": "focDate",
+            "date": "-0001-11-30T00:00:00-0500"
+        }
+    ],
+    "prices": [
+        {
+            "type": "printPrice",
+            "price": 9.99
+        }
+    ],
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available",
+        "extension": "jpg"
+    },
+    "images": [],
+    "creators": {
+        "available": 4,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/1305/creators",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/4627",
+                "name": "Roberto Aguirre-Sacasa",
+                "role": "writer"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/338",
+                "name": "Staz Johnson",
+                "role": "penciller"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/486",
+                "name": "Scott Koblish",
+                "role": "inker"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/500",
+                "name": "Chris Sotomayor",
+                "role": "colorist"
+            }
+        ],
+        "returned": 4
+    },
+    "characters": {
+        "available": 1,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/1305/characters",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009610",
+                "name": "Spider-Man"
+            }
+        ],
+        "returned": 1
+    },
+    "stories": {
+        "available": 3,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/1305/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/2707",
+                "name": "Interior #2707",
+                "type": "interiorStory"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/6428",
+                "name": "\"Spider-Man broke dozens of box-office records, and Spider-Man 2 is poised to top them all! This trade paperback collects the co",
+                "type": "interiorStory"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/65671",
+                "name": "SPIDER-MAN 2: THE MOVIE TPB 0 cover",
+                "type": "cover"
+            }
+        ],
+        "returned": 3
+    },
+    "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/1305/events",
+        "items": [],
+        "returned": 0
+    }
+}

@@ -1,0 +1,151 @@
+{
+    "id": 36507,
+    "digitalId": 23956,
+    "title": "Daredevil (2011) #2",
+    "issueNumber": 2,
+    "variantDescription": "",
+    "description": "DAREDEVIL'S BACK...BUT NOT EVERYONE'S HAPPY! Given his recent past, Matt Murdock has a lot to answer for and Captain America is doing the cross-examining. Daredevil's quickly learning that burned bridges with his friends and former allies aren't easy to repair particularly when Klaw, the Master of Sound, is on his tail!",
+    "modified": "2012-04-05T16:01:28-0400",
+    "isbn": "",
+    "upc": "5960607424-00211",
+    "diamondCode": "",
+    "ean": "",
+    "issn": "",
+    "format": "Comic",
+    "pageCount": 32,
+    "textObjects": [
+        {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "DAREDEVIL'S BACK...BUT NOT EVERYONE'S HAPPY! Given his recent past, Matt Murdock has a lot to answer for and Captain America is doing the cross-examining. Daredevil's quickly learning that burned bridges with his friends and former allies aren't easy to repair particularly when Klaw, the Master of Sound, is on his tail!"
+        }
+    ],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/36507",
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/36507/daredevil_2011_2?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/DAREDEVIL-2/digital-comic/23956?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=23956&utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "inAppLink",
+            "url": "http://applink.marvel.com/issue/23956?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ],
+    "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/12916",
+        "name": "Daredevil (2011 - 2014)"
+    },
+    "variants": [
+        {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/41869",
+            "name": "Daredevil (2011) #2 (2nd Printing Variant)"
+        }
+    ],
+    "collections": [],
+    "collectedIssues": [],
+    "dates": [
+        {
+            "type": "onsaleDate",
+            "date": "2011-08-17T00:00:00-0400"
+        },
+        {
+            "type": "focDate",
+            "date": "2011-08-03T00:00:00-0400"
+        },
+        {
+            "type": "unlimitedDate",
+            "date": "2012-04-02T00:00:00-0400"
+        },
+        {
+            "type": "digitalPurchaseDate",
+            "date": "2012-04-17T00:00:00-0400"
+        }
+    ],
+    "prices": [
+        {
+            "type": "printPrice",
+            "price": 2.99
+        },
+        {
+            "type": "digitalPurchasePrice",
+            "price": 1.99
+        }
+    ],
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/60/4f7df9b03d61a",
+        "extension": "jpg"
+    },
+    "images": [
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/60/4f7df9b03d61a",
+            "extension": "jpg"
+        },
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/2/40/4dcd9baa0f5d8",
+            "extension": "jpg"
+        }
+    ],
+    "creators": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/36507/creators",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/272",
+                "name": "Paolo Rivera",
+                "role": "penciller (cover)"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/119",
+                "name": "Mark Waid",
+                "role": "writer"
+            }
+        ],
+        "returned": 2
+    },
+    "characters": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/36507/characters",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009220",
+                "name": "Captain America"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009262",
+                "name": "Daredevil"
+            }
+        ],
+        "returned": 2
+    },
+    "stories": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/36507/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/81043",
+                "name": "DAREDEVIL #2",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/81044",
+                "name": "DAREDEVIL #2",
+                "type": "interiorStory"
+            }
+        ],
+        "returned": 2
+    },
+    "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/36507/events",
+        "items": [],
+        "returned": 0
+    }
+}

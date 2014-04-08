@@ -1,0 +1,148 @@
+{
+    "id": 430,
+    "digitalId": 215,
+    "title": "Cable & Deadpool (2004) #1",
+    "issueNumber": 1,
+    "variantDescription": "",
+    "description": "Wade Wilson and Nathan Summers are back – and this time, they're stuck with each other! Can two grown men with deadly genetic weaponry work together without driving each other crazy?!\r\nAction, adventure, black-ops, black humor and lots and lots of gunfire mark the return of your two favorite mutant anti-heroes to their own ongoing series!\r\n",
+    "modified": "-0001-11-30T00:00:00-0500",
+    "isbn": "",
+    "upc": "5960605109-04411",
+    "diamondCode": "",
+    "ean": "",
+    "issn": "",
+    "format": "Comic",
+    "pageCount": 0,
+    "textObjects": [
+        {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "Wade Wilson and Nathan Summers are back – and this time, they're stuck with each other! Can two grown men with deadly genetic weaponry work together without driving each other crazy?!\r\nAction, adventure, black-ops, black humor and lots and lots of gunfire mark the return of your two favorite mutant anti-heroes to their own ongoing series!\r\n"
+        }
+    ],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/430",
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/430/cable_deadpool_2004_1?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/Cable-Deadpool-1/digital-comic/215?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=215&utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "inAppLink",
+            "url": "http://applink.marvel.com/issue/215?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ],
+    "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/693",
+        "name": "Cable & Deadpool (2004 - 2008)"
+    },
+    "variants": [],
+    "collections": [
+        {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/5760",
+            "name": "Cable & Deadpool Vol. 1: If Looks Could Kill (Trade Paperback)"
+        }
+    ],
+    "collectedIssues": [],
+    "dates": [
+        {
+            "type": "onsaleDate",
+            "date": "2004-03-24T00:00:00-0500"
+        },
+        {
+            "type": "focDate",
+            "date": "-0001-11-30T00:00:00-0500"
+        },
+        {
+            "type": "unlimitedDate",
+            "date": "2007-11-13T00:00:00-0500"
+        },
+        {
+            "type": "digitalPurchaseDate",
+            "date": "2011-03-08T00:00:00-0500"
+        }
+    ],
+    "prices": [
+        {
+            "type": "printPrice",
+            "price": 2.99
+        },
+        {
+            "type": "digitalPurchasePrice",
+            "price": 1.99
+        }
+    ],
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/40/4bc697bc51d23",
+        "extension": "jpg"
+    },
+    "images": [
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/40/4bc697bc51d23",
+            "extension": "jpg"
+        }
+    ],
+    "creators": {
+        "available": 3,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/430/creators",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/694",
+                "name": "Mark Brooks",
+                "role": "penciller"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/571",
+                "name": "Rob Liefeld",
+                "role": "penciller (cover)"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/6001",
+                "name": "Fabian Nacieza",
+                "role": "writer"
+            }
+        ],
+        "returned": 3
+    },
+    "characters": {
+        "available": 1,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/430/characters",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009268",
+                "name": "Deadpool"
+            }
+        ],
+        "returned": 1
+    },
+    "stories": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/430/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/1618",
+                "name": "Cover #1618",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/1619",
+                "name": "Interior #1619",
+                "type": "interiorStory"
+            }
+        ],
+        "returned": 2
+    },
+    "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/430/events",
+        "items": [],
+        "returned": 0
+    }
+}

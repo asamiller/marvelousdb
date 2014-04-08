@@ -1,0 +1,65 @@
+{
+    "id": 1010999,
+    "name": "Edward \"Ted\" Forrester",
+    "description": "",
+    "modified": "1969-12-31T19:00:00-0500",
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available",
+        "extension": "jpg"
+    },
+    "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010999",
+    "comics": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/characters/1010999/comics",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/comics/16190",
+                "name": "Laurell K. Hamilton's Anita Blake - Vampire Hunter: The First Death (2007) #2"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/comics/20749",
+                "name": "Laurell K. Hamilton's Anita Blake, Vampire Hunter: The First Death DM Only (Hardcover)"
+            }
+        ],
+        "returned": 2
+    },
+    "series": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/characters/1010999/series",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/series/2539",
+                "name": "Laurell K. Hamilton's Anita Blake - Vampire Hunter: The First Death (2007)"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/series/3892",
+                "name": "Laurell K. Hamilton's Anita Blake, Vampire Hunter: The First Death DM Only (2008)"
+            }
+        ],
+        "returned": 2
+    },
+    "stories": {
+        "available": 1,
+        "collectionURI": "http://gateway.marvel.com/v1/public/characters/1010999/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/33070",
+                "name": "2XLS - The First Death 2 of 2",
+                "type": "cover"
+            }
+        ],
+        "returned": 1
+    },
+    "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/characters/1010999/events",
+        "items": [],
+        "returned": 0
+    },
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/characters/1010999/edward_ted_forrester?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ]
+}

@@ -1,0 +1,154 @@
+{
+    "id": 43944,
+    "digitalId": 27961,
+    "title": "Iron Man (2012) #1",
+    "issueNumber": 1,
+    "variantDescription": "",
+    "description": "Tony Stark&mdash;Iron Man: Technological visionary, wealthy playboy, unparalleled engineer, and armored Avenger. His greatest invention becomes his greatest mistake. Iron Man must act fast&hellip;and Tony Stark must build faster! The lethal techno virus Extremis is out in the wild and out for grabs to the highest bidder! It&rsquo;s up to Tony Stark to contain it and that means creating a new suit of armor&hellip;NOW!",
+    "modified": "2013-04-09T15:45:44-0400",
+    "isbn": "",
+    "upc": "75960607909400111",
+    "diamondCode": "SEP120550",
+    "ean": "",
+    "issn": "",
+    "format": "Comic",
+    "pageCount": 32,
+    "textObjects": [
+        {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "Tony Stark&mdash;Iron Man: Technological visionary, wealthy playboy, unparalleled engineer, and armored Avenger. His greatest invention becomes his greatest mistake. Iron Man must act fast&hellip;and Tony Stark must build faster! The lethal techno virus Extremis is out in the wild and out for grabs to the highest bidder! It&rsquo;s up to Tony Stark to contain it and that means creating a new suit of armor&hellip;NOW!"
+        }
+    ],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/43944",
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/43944/iron_man_2012_1?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/Iron-Man-1/digital-comic/27961?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=27961&utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "inAppLink",
+            "url": "http://applink.marvel.com/issue/27961?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ],
+    "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/16593",
+        "name": "Iron Man (2012 - Present)"
+    },
+    "variants": [
+        {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/47357",
+            "name": "Iron Man (2012) #1 (2nd Printing)"
+        }
+    ],
+    "collections": [],
+    "collectedIssues": [],
+    "dates": [
+        {
+            "type": "onsaleDate",
+            "date": "2012-11-07T00:00:00-0500"
+        },
+        {
+            "type": "focDate",
+            "date": "2012-10-24T00:00:00-0400"
+        },
+        {
+            "type": "unlimitedDate",
+            "date": "2013-05-06T00:00:00-0400"
+        },
+        {
+            "type": "digitalPurchaseDate",
+            "date": "2012-11-07T00:00:00-0500"
+        }
+    ],
+    "prices": [
+        {
+            "type": "printPrice",
+            "price": 3.99
+        },
+        {
+            "type": "digitalPurchasePrice",
+            "price": 1.99
+        }
+    ],
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/90/51646f61d148d",
+        "extension": "jpg"
+    },
+    "images": [
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/90/51646f61d148d",
+            "extension": "jpg"
+        },
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/30/5109b1d84c35e",
+            "extension": "jpg"
+        },
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/8/03/50885c270274d",
+            "extension": "jpg"
+        },
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/2/b0/502aba1409476",
+            "extension": "jpg"
+        },
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/4/f0/501c33a1c411d",
+            "extension": "jpg"
+        }
+    ],
+    "creators": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/43944/creators",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/8901",
+                "name": "Kieron Gillen",
+                "role": "writer"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/425",
+                "name": "Greg Land",
+                "role": "penciller (cover)"
+            }
+        ],
+        "returned": 2
+    },
+    "characters": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/43944/characters",
+        "items": [],
+        "returned": 0
+    },
+    "stories": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/43944/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/99129",
+                "name": "cover from Iron Man (2012) #1",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/99130",
+                "name": "story from Iron Man (2012) #1",
+                "type": "interiorStory"
+            }
+        ],
+        "returned": 2
+    },
+    "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/43944/events",
+        "items": [],
+        "returned": 0
+    }
+}

@@ -1,0 +1,126 @@
+{
+    "id": 227,
+    "digitalId": 746,
+    "title": "Wolverine: Snikt! (2003) #5",
+    "issueNumber": 5,
+    "variantDescription": "",
+    "description": "Wolverine attempts a last ditch effort to defeat the evil Mandate aliens in this conclusion to the hit mini-series. But if he does escape with his life, will he be able to find his way back to his own era?\r\n32 PGS./MARVEL PG ...$2.99",
+    "modified": "-0001-11-30T00:00:00-0500",
+    "isbn": "",
+    "upc": "5960605427-00511",
+    "diamondCode": "",
+    "ean": "",
+    "issn": "",
+    "format": "Comic",
+    "pageCount": 0,
+    "textObjects": [
+        {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "Wolverine attempts a last ditch effort to defeat the evil Mandate aliens in this conclusion to the hit mini-series. But if he does escape with his life, will he be able to find his way back to his own era?\r\n32 PGS./MARVEL PG ...$2.99"
+        }
+    ],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/227",
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/227/wolverine_snikt_2003_5?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=746&utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ],
+    "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/559",
+        "name": "Wolverine: Snikt! (2003)"
+    },
+    "variants": [],
+    "collections": [
+        {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/17483",
+            "name": "Wolverine Legends Vol. 5: Snikt! (Trade Paperback)"
+        }
+    ],
+    "collectedIssues": [],
+    "dates": [
+        {
+            "type": "onsaleDate",
+            "date": "2003-10-29T00:00:00-0500"
+        },
+        {
+            "type": "focDate",
+            "date": "-0001-11-30T00:00:00-0500"
+        },
+        {
+            "type": "unlimitedDate",
+            "date": "2007-11-13T00:00:00-0500"
+        }
+    ],
+    "prices": [
+        {
+            "type": "printPrice",
+            "price": 2.99
+        }
+    ],
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/1/d0/4bc32ea7a9abd",
+        "extension": "jpg"
+    },
+    "images": [
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/1/d0/4bc32ea7a9abd",
+            "extension": "jpg"
+        }
+    ],
+    "creators": {
+        "available": 1,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/227/creators",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/606",
+                "name": "Tsutomu Nihei",
+                "role": "penciller (cover)"
+            }
+        ],
+        "returned": 1
+    },
+    "characters": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/227/characters",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009368",
+                "name": "Iron Man"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009718",
+                "name": "Wolverine"
+            }
+        ],
+        "returned": 2
+    },
+    "stories": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/227/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/1846",
+                "name": "Cover #1846",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/1847",
+                "name": "Interior #1847",
+                "type": "interiorStory"
+            }
+        ],
+        "returned": 2
+    },
+    "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/227/events",
+        "items": [],
+        "returned": 0
+    }
+}

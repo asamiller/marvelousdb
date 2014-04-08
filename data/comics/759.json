@@ -1,0 +1,162 @@
+{
+    "id": 759,
+    "digitalId": 4101,
+    "title": "Ultimate Spider-Man (2000) #64",
+    "issueNumber": 64,
+    "variantDescription": "",
+    "description": "ULTIMATE CARNAGE PART 5 The epic showdown between Spider-Man and Carnage rages on! But not everything is what is seems. And what is that Ben Reilly up to!?",
+    "modified": "2013-07-01T13:24:38-0400",
+    "isbn": "",
+    "upc": "5960605031-06411",
+    "diamondCode": "",
+    "ean": "",
+    "issn": "",
+    "format": "Comic",
+    "pageCount": 0,
+    "textObjects": [
+        {
+            "type": "issue_preview_text",
+            "language": "en-us",
+            "text": "ULTIMATE CARNAGE PART 5 The epic showdown between Spider-Man and Carnage rages on! But not everything is what is seems. And what is that Ben Reilly up to!?"
+        },
+        {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "\"CARNAGE\" PART 5 (OF 6) The origin of Ultimate Carnage and the horror that one Dr. Curtis Connors has wrought.  And Spider-Man may be helpless to stop it! And don’t miss the big showdown between Spider-Man & Carnage!  And the outcome is NOT what you expect.  And what is that Ben Reilly up to!?  "
+        }
+    ],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/759",
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/759/ultimate_spider-man_2000_64?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/Ultimate-Spider-Man-64/digital-comic/4101?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=4101&utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "inAppLink",
+            "url": "http://applink.marvel.com/issue/4101?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ],
+    "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/466",
+        "name": "Ultimate Spider-Man (2000 - 2009)"
+    },
+    "variants": [],
+    "collections": [
+        {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/22",
+            "name": "Ultimate Spider-Man Vol. 11: Carnage (Trade Paperback)"
+        }
+    ],
+    "collectedIssues": [],
+    "dates": [
+        {
+            "type": "onsaleDate",
+            "date": "2004-08-18T00:00:00-0400"
+        },
+        {
+            "type": "focDate",
+            "date": "-0001-11-30T00:00:00-0500"
+        },
+        {
+            "type": "unlimitedDate",
+            "date": "2009-11-09T00:00:00-0500"
+        },
+        {
+            "type": "digitalPurchaseDate",
+            "date": "2011-04-05T00:00:00-0400"
+        }
+    ],
+    "prices": [
+        {
+            "type": "printPrice",
+            "price": 2.25
+        },
+        {
+            "type": "digitalPurchasePrice",
+            "price": 1.99
+        }
+    ],
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/5/c0/51d329230adb7",
+        "extension": "jpg"
+    },
+    "images": [
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/5/c0/51d329230adb7",
+            "extension": "jpg"
+        },
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/70/4bc3488d61e3c",
+            "extension": "jpg"
+        }
+    ],
+    "creators": {
+        "available": 4,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/759/creators",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/87",
+                "name": "Mark Bagley",
+                "role": "penciller"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/24",
+                "name": "Brian Michael Bendis",
+                "role": "writer"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/362",
+                "name": "Scott Hanna",
+                "role": "inker"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/542",
+                "name": "J. D. Smith",
+                "role": "colorist"
+            }
+        ],
+        "returned": 4
+    },
+    "characters": {
+        "available": 1,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/759/characters",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1011010",
+                "name": "Spider-Man (Ultimate)"
+            }
+        ],
+        "returned": 1
+    },
+    "stories": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/759/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/1326",
+                "name": "Cover #1326",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/1327",
+                "name": "Interior #1327",
+                "type": "interiorStory"
+            }
+        ],
+        "returned": 2
+    },
+    "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/759/events",
+        "items": [],
+        "returned": 0
+    }
+}

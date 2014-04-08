@@ -1,0 +1,130 @@
+{
+    "id": 41314,
+    "digitalId": 0,
+    "title": "Avengers (2010) #17 (Architect Sketch Variant)",
+    "issueNumber": 17,
+    "variantDescription": "Architect Sketch Variant",
+    "description": "",
+    "modified": "2011-09-16T16:50:47-0400",
+    "isbn": "",
+    "upc": "5960607015-01741",
+    "diamondCode": "",
+    "ean": "",
+    "issn": "2153-988X",
+    "format": "Comic",
+    "pageCount": 32,
+    "textObjects": [
+        {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": ""
+        }
+    ],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/41314",
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/41314/avengers_2010_17_architect_sketch_variant/architect_sketch_variant?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ],
+    "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/9085",
+        "name": "Avengers (2010 - 2012)"
+    },
+    "variants": [
+        {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/41315",
+            "name": "Avengers (2010) #17 (Architect Variant)"
+        },
+        {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/29203",
+            "name": "Avengers (2010) #17"
+        }
+    ],
+    "collections": [],
+    "collectedIssues": [],
+    "dates": [
+        {
+            "type": "onsaleDate",
+            "date": "2011-09-21T00:00:00-0400"
+        },
+        {
+            "type": "focDate",
+            "date": "2011-08-29T00:00:00-0400"
+        }
+    ],
+    "prices": [
+        {
+            "type": "printPrice",
+            "price": 3.99
+        }
+    ],
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/7/90/4e78b4177f69f",
+        "extension": "jpg"
+    },
+    "images": [
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/7/90/4e78b4177f69f",
+            "extension": "jpg"
+        }
+    ],
+    "creators": {
+        "available": 1,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/41314/creators",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/192",
+                "name": "Stuart Immonen",
+                "role": "penciller (cover)"
+            }
+        ],
+        "returned": 1
+    },
+    "characters": {
+        "available": 4,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/41314/characters",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009351",
+                "name": "Hulk"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009368",
+                "name": "Iron Man"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009664",
+                "name": "Thor"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009718",
+                "name": "Wolverine"
+            }
+        ],
+        "returned": 4
+    },
+    "stories": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/41314/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/93489",
+                "name": "Avengers (2010) #17 Architect Sketch Variant",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/93490",
+                "name": "Interior #93490",
+                "type": "interiorStory"
+            }
+        ],
+        "returned": 2
+    },
+    "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/41314/events",
+        "items": [],
+        "returned": 0
+    }
+}

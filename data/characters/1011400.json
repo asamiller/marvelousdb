@@ -1,0 +1,66 @@
+{
+    "id": 1011400,
+    "name": "H.A.M.M.E.R.",
+    "description": "",
+    "modified": "1969-12-31T19:00:00-0500",
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/c0/4ce5a7675d903",
+        "extension": "jpg"
+    },
+    "resourceURI": "http://gateway.marvel.com/v1/public/characters/1011400",
+    "comics": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/characters/1011400/comics",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/comics/27543",
+                "name": "Avengers: The Initiative (2007) #26"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/comics/27544",
+                "name": "Avengers: The Initiative (2007) #27"
+            }
+        ],
+        "returned": 2
+    },
+    "series": {
+        "available": 1,
+        "collectionURI": "http://gateway.marvel.com/v1/public/characters/1011400/series",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/series/1945",
+                "name": "Avengers: The Initiative (2007 - 2010)"
+            }
+        ],
+        "returned": 1
+    },
+    "stories": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/characters/1011400/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/60364",
+                "name": "Avengers: The Initiative (2007) #26 - Int",
+                "type": "interiorStory"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/60366",
+                "name": "Avengers: The Initiative (2007) #27 - Int",
+                "type": "interiorStory"
+            }
+        ],
+        "returned": 2
+    },
+    "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/characters/1011400/events",
+        "items": [],
+        "returned": 0
+    },
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/characters/1011400/hammer.?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ]
+}

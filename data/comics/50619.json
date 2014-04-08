@@ -1,0 +1,113 @@
+{
+    "id": 50619,
+    "digitalId": 0,
+    "title": "Inhumanity (2013) #1 (Doe 2nd Printing Variant)",
+    "issueNumber": 1,
+    "variantDescription": "Doe 2nd Printing Variant",
+    "description": "• After INFINITY, the Marvel Universe has changed.\n• The Avengers find themselves face to face with Karnak who has discovered the secret of the Inhumans that will shake the Marvel U to its core.\n",
+    "modified": "2014-01-21T12:30:26-0500",
+    "isbn": "",
+    "upc": "75960608006900112",
+    "diamondCode": "OCT138254",
+    "ean": "",
+    "issn": "",
+    "format": "Comic",
+    "pageCount": 40,
+    "textObjects": [
+        {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "• After INFINITY, the Marvel Universe has changed.\n• The Avengers find themselves face to face with Karnak who has discovered the secret of the Inhumans that will shake the Marvel U to its core.\n"
+        }
+    ],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/50619",
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/50619/inhumanity_2013_1_doe_2nd_printing_variant/doe_2nd_printing_variant?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ],
+    "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/18924",
+        "name": "Inhumanity (2013 - Present)"
+    },
+    "variants": [],
+    "collections": [],
+    "collectedIssues": [],
+    "dates": [
+        {
+            "type": "onsaleDate",
+            "date": "2014-01-29T00:00:00-0500"
+        },
+        {
+            "type": "focDate",
+            "date": "2014-01-15T00:00:00-0500"
+        }
+    ],
+    "prices": [
+        {
+            "type": "printPrice",
+            "price": 3.99
+        }
+    ],
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/70/52a884cca933d",
+        "extension": "jpg"
+    },
+    "images": [
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/4/00/52d9a27e05986",
+            "extension": "jpg"
+        },
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/70/52a884cca933d",
+            "extension": "jpg"
+        }
+    ],
+    "creators": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/50619/creators",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/6170",
+                "name": "Olivier Coipel",
+                "role": "artist"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/1132",
+                "name": "Matt Fraction",
+                "role": "writer"
+            }
+        ],
+        "returned": 2
+    },
+    "characters": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/50619/characters",
+        "items": [],
+        "returned": 0
+    },
+    "stories": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/50619/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/113321",
+                "name": "cover from Inhumanity (2013) #1 (DOE 2ND PRINTING VARIANT)",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/113322",
+                "name": "story from Inhumanity (2013) #1 (DOE 2ND PRINTING VARIANT)",
+                "type": "interiorStory"
+            }
+        ],
+        "returned": 2
+    },
+    "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/50619/events",
+        "items": [],
+        "returned": 0
+    }
+}

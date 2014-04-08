@@ -1,0 +1,57 @@
+{
+    "id": 1010800,
+    "name": "wu ao-shi",
+    "description": "",
+    "modified": "1969-12-31T19:00:00-0500",
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available",
+        "extension": "jpg"
+    },
+    "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010800",
+    "comics": {
+        "available": 1,
+        "collectionURI": "http://gateway.marvel.com/v1/public/characters/1010800/comics",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/comics/15864",
+                "name": "Immortal Iron Fist (2006) #7"
+            }
+        ],
+        "returned": 1
+    },
+    "series": {
+        "available": 1,
+        "collectionURI": "http://gateway.marvel.com/v1/public/characters/1010800/series",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/series/1140",
+                "name": "Immortal Iron Fist (2006 - 2009)"
+            }
+        ],
+        "returned": 1
+    },
+    "stories": {
+        "available": 1,
+        "collectionURI": "http://gateway.marvel.com/v1/public/characters/1010800/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/32395",
+                "name": "Story A 1 of 1",
+                "type": "cover"
+            }
+        ],
+        "returned": 1
+    },
+    "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/characters/1010800/events",
+        "items": [],
+        "returned": 0
+    },
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/characters/1010800/wu_ao-shi?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ]
+}

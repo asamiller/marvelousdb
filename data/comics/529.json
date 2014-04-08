@@ -1,0 +1,132 @@
+{
+    "id": 529,
+    "digitalId": 3279,
+    "title": "Amazing Fantasy (2004) #2",
+    "issueNumber": 2,
+    "variantDescription": "",
+    "description": "Sugar and spice and everything nice – that’s what this little girl is totally NOT made of!  Marvel’s scrappy new hero meets a tall, dark, and handsome stranger who leaves her with more questions than answers.  Who is this guy, anyway? And why has he taken such an interest in her? ",
+    "modified": "-0001-11-30T00:00:00-0500",
+    "isbn": "",
+    "upc": "5960605564-00211",
+    "diamondCode": "",
+    "ean": "",
+    "issn": "",
+    "format": "Comic",
+    "pageCount": 0,
+    "textObjects": [
+        {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "Sugar and spice and everything nice – that’s what this little girl is totally NOT made of!  Marvel’s scrappy new hero meets a tall, dark, and handsome stranger who leaves her with more questions than answers.  Who is this guy, anyway? And why has he taken such an interest in her? "
+        }
+    ],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/529",
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/529/amazing_fantasy_2004_2?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=3279&utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ],
+    "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/769",
+        "name": "Amazing Fantasy (2004 - 2006)"
+    },
+    "variants": [],
+    "collections": [
+        {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/1547",
+            "name": "Araٌa Vol. 1: Heart of the Spider (Digest)"
+        }
+    ],
+    "collectedIssues": [],
+    "dates": [
+        {
+            "type": "onsaleDate",
+            "date": "2004-07-28T00:00:00-0400"
+        },
+        {
+            "type": "focDate",
+            "date": "-0001-11-30T00:00:00-0500"
+        },
+        {
+            "type": "unlimitedDate",
+            "date": "2007-11-13T00:00:00-0500"
+        }
+    ],
+    "prices": [
+        {
+            "type": "printPrice",
+            "price": 2.99
+        }
+    ],
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/d/20/4bc68f8d2f8f2",
+        "extension": "jpg"
+    },
+    "images": [
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/d/20/4bc68f8d2f8f2",
+            "extension": "jpg"
+        }
+    ],
+    "creators": {
+        "available": 4,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/529/creators",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/578",
+                "name": "Fiona Avery",
+                "role": "writer"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/694",
+                "name": "Mark Brooks",
+                "role": "penciller (cover)"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/424",
+                "name": "Udon Comics",
+                "role": "colorist"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/802",
+                "name": "Jaime Mendoza",
+                "role": "inker"
+            }
+        ],
+        "returned": 4
+    },
+    "characters": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/529/characters",
+        "items": [],
+        "returned": 0
+    },
+    "stories": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/529/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/3630",
+                "name": "Cover #3630",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/3631",
+                "name": "Interior #3631",
+                "type": "interiorStory"
+            }
+        ],
+        "returned": 2
+    },
+    "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/529/events",
+        "items": [],
+        "returned": 0
+    }
+}

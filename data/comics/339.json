@@ -1,0 +1,127 @@
+{
+    "id": 339,
+    "digitalId": 1988,
+    "title": "Incredible Hulk (1999) #63",
+    "issueNumber": 63,
+    "variantDescription": "",
+    "description": "\"SPLIT DECISIONS\" pt. 4 (of 6)\r\nIt's cover-to-cover action, as the Hulk squares off against Krills, Krills and more Krills!!!  (Did we mention there were lots of Krills?)\r\n32 PGS./MARVEL PSR…$2.25",
+    "modified": "-0001-11-30T00:00:00-0500",
+    "isbn": "",
+    "upc": "5960602461-43911",
+    "diamondCode": "",
+    "ean": "",
+    "issn": "",
+    "format": "Comic",
+    "pageCount": 0,
+    "textObjects": [
+        {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "\"SPLIT DECISIONS\" pt. 4 (of 6)\r\nIt's cover-to-cover action, as the Hulk squares off against Krills, Krills and more Krills!!!  (Did we mention there were lots of Krills?)\r\n32 PGS./MARVEL PSR…$2.25"
+        }
+    ],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/339",
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/339/incredible_hulk_1999_63?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=1988&utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ],
+    "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/465",
+        "name": "Incredible Hulk (1999 - 2008)"
+    },
+    "variants": [],
+    "collections": [
+        {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/1252",
+            "name": "Incredible Hulk Vol. 6: Split Decisions (Trade Paperback)"
+        }
+    ],
+    "collectedIssues": [],
+    "dates": [
+        {
+            "type": "onsaleDate",
+            "date": "2003-11-12T00:00:00-0500"
+        },
+        {
+            "type": "focDate",
+            "date": "-0001-11-30T00:00:00-0500"
+        },
+        {
+            "type": "unlimitedDate",
+            "date": "2007-04-28T00:00:00-0400"
+        }
+    ],
+    "prices": [
+        {
+            "type": "printPrice",
+            "price": 2.25
+        }
+    ],
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/8/c0/4bc69dab51231",
+        "extension": "jpg"
+    },
+    "images": [
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/8/c0/4bc69dab51231",
+            "extension": "jpg"
+        }
+    ],
+    "creators": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/339/creators",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/312",
+                "name": "Mike Deodato",
+                "role": "penciller (cover)"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/52",
+                "name": "Bruce Jones",
+                "role": "writer"
+            }
+        ],
+        "returned": 2
+    },
+    "characters": {
+        "available": 1,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/339/characters",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009351",
+                "name": "Hulk"
+            }
+        ],
+        "returned": 1
+    },
+    "stories": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/339/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/704",
+                "name": "Cover #704",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/705",
+                "name": "Interior #705",
+                "type": "interiorStory"
+            }
+        ],
+        "returned": 2
+    },
+    "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/339/events",
+        "items": [],
+        "returned": 0
+    }
+}

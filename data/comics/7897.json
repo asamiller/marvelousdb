@@ -1,0 +1,142 @@
+{
+    "id": 7897,
+    "digitalId": 0,
+    "title": "Captain America Comics (1941) #53",
+    "issueNumber": 53,
+    "variantDescription": "",
+    "description": null,
+    "modified": "-0001-11-30T00:00:00-0500",
+    "isbn": "",
+    "upc": "",
+    "diamondCode": "",
+    "ean": "",
+    "issn": "",
+    "format": "Comic",
+    "pageCount": 52,
+    "textObjects": [],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/7897",
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/7897/captain_america_comics_1941_53?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ],
+    "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/1998",
+        "name": "Captain America Comics (1941 - 1950)"
+    },
+    "variants": [],
+    "collections": [],
+    "collectedIssues": [],
+    "dates": [
+        {
+            "type": "onsaleDate",
+            "date": "1946-02-10T00:00:00-0500"
+        },
+        {
+            "type": "focDate",
+            "date": "-0001-11-30T00:00:00-0500"
+        }
+    ],
+    "prices": [
+        {
+            "type": "printPrice",
+            "price": 0.1
+        }
+    ],
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available",
+        "extension": "jpg"
+    },
+    "images": [],
+    "creators": {
+        "available": 6,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/7897/creators",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/1452",
+                "name": "Vince Alascia",
+                "role": "penciller"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/1306",
+                "name": "Paul Reinman",
+                "role": "penciller"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/1439",
+                "name": "Al Gabriele",
+                "role": "inker"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/1272",
+                "name": "Carmine Infantino",
+                "role": "inker"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/30",
+                "name": "Stan Lee",
+                "role": "editor"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/949",
+                "name": "Alex Schomburg",
+                "role": "penciller (cover)"
+            }
+        ],
+        "returned": 6
+    },
+    "characters": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/7897/characters",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009220",
+                "name": "Captain America"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009356",
+                "name": "Human Torch"
+            }
+        ],
+        "returned": 2
+    },
+    "stories": {
+        "available": 5,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/7897/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/9539",
+                "name": "Cover #9539",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/9540",
+                "name": "Robe of Evil",
+                "type": "interiorStory"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/9541",
+                "name": "Practice Makes Perfect",
+                "type": "text story"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/9542",
+                "name": "The Killer Who Died Twice",
+                "type": ""
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/9543",
+                "name": "Murder Etched In Stone",
+                "type": "interiorStory"
+            }
+        ],
+        "returned": 5
+    },
+    "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/7897/events",
+        "items": [],
+        "returned": 0
+    }
+}

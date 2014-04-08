@@ -1,0 +1,137 @@
+{
+    "id": 205,
+    "digitalId": 3838,
+    "title": "X-Treme X-Men (2001) #41",
+    "issueNumber": 41,
+    "variantDescription": "",
+    "description": "“BOGAN” pts. 1 & 2 (of 5)\r<br>A mysterious telepath enters into the lives of the X-Men; an unknown assailant unexpectedly captures Bishop; Sage discovers a startling secret; plus the return of one of their most dangerous foes!\r<br>32 PGS. (each)/MARVEL PSR…$2.99 (each)",
+    "modified": "1969-12-31T19:00:00-0500",
+    "isbn": "",
+    "upc": "5960605481-00111",
+    "diamondCode": "",
+    "ean": "",
+    "issn": "",
+    "format": "Comic",
+    "pageCount": 0,
+    "textObjects": [
+        {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "“BOGAN” pts. 1 & 2 (of 5)\r<br>A mysterious telepath enters into the lives of the X-Men; an unknown assailant unexpectedly captures Bishop; Sage discovers a startling secret; plus the return of one of their most dangerous foes!\r<br>32 PGS. (each)/MARVEL PSR…$2.99 (each)"
+        }
+    ],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/205",
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/205/x-treme_x-men_2001_41?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=3838&utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ],
+    "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/646",
+        "name": "X-Treme X-Men (2001 - 2004)"
+    },
+    "variants": [],
+    "collections": [
+        {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/1321",
+            "name": "X-Treme X-Men Vol. 8: Prisoner of Fire (Trade Paperback)"
+        }
+    ],
+    "collectedIssues": [],
+    "dates": [
+        {
+            "type": "onsaleDate",
+            "date": "2004-01-28T00:00:00-0500"
+        },
+        {
+            "type": "focDate",
+            "date": "1969-12-31T19:00:00-0500"
+        },
+        {
+            "type": "unlimitedDate",
+            "date": "2007-11-13T00:00:00-0500"
+        }
+    ],
+    "prices": [
+        {
+            "type": "printPrice",
+            "price": 2.99
+        }
+    ],
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/2/70/4bc6a768dcfca",
+        "extension": "jpg"
+    },
+    "images": [
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/2/70/4bc6a768dcfca",
+            "extension": "jpg"
+        }
+    ],
+    "creators": {
+        "available": 4,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/205/creators",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/498",
+                "name": "Greg Adams",
+                "role": "inker"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/44",
+                "name": "Chris Claremont",
+                "role": "writer"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/116",
+                "name": "Igor Kordey",
+                "role": "penciller"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/11757",
+                "name": "Salvador Larroca",
+                "role": "penciller (cover)"
+            }
+        ],
+        "returned": 4
+    },
+    "characters": {
+        "available": 1,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/205/characters",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009726",
+                "name": "X-Men"
+            }
+        ],
+        "returned": 1
+    },
+    "stories": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/205/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/2322",
+                "name": "Cover #2322",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/2323",
+                "name": "Interior #2323",
+                "type": "interiorStory"
+            }
+        ],
+        "returned": 2
+    },
+    "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/205/events",
+        "items": [],
+        "returned": 0
+    }
+}

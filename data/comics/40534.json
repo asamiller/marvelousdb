@@ -1,0 +1,152 @@
+{
+    "id": 40534,
+    "digitalId": 26216,
+    "title": "Captain America and... (2012) #629",
+    "issueNumber": 629,
+    "variantDescription": "",
+    "description": "Captain America and Hawkeye Vs. Dinosaurs!?!\n",
+    "modified": "2013-03-15T17:13:44-0400",
+    "isbn": "",
+    "upc": "5960605652-62911",
+    "diamondCode": "FEB120583",
+    "ean": "",
+    "issn": "0274-5267",
+    "format": "Comic",
+    "pageCount": 32,
+    "textObjects": [
+        {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "&rdquo;,,&rdquo;"
+        },
+        {
+            "type": "issue_preview_text",
+            "language": "en-us",
+            "text": "Captain America and Hawkeye Vs. Dinosaurs!?!\n"
+        }
+    ],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/40534",
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/40534/captain_america_and._2012_629?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/Captain-America-and-629/digital-comic/26216?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=26216&utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "inAppLink",
+            "url": "http://applink.marvel.com/issue/26216?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ],
+    "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/16325",
+        "name": "Captain America and... (2012)"
+    },
+    "variants": [],
+    "collections": [],
+    "collectedIssues": [],
+    "dates": [
+        {
+            "type": "onsaleDate",
+            "date": "2012-04-25T00:00:00-0400"
+        },
+        {
+            "type": "focDate",
+            "date": "2012-04-11T00:00:00-0400"
+        },
+        {
+            "type": "unlimitedDate",
+            "date": "2012-10-31T00:00:00-0400"
+        },
+        {
+            "type": "digitalPurchaseDate",
+            "date": "2012-04-25T00:00:00-0400"
+        }
+    ],
+    "prices": [
+        {
+            "type": "printPrice",
+            "price": 2.99
+        },
+        {
+            "type": "digitalPurchasePrice",
+            "price": 1.99
+        }
+    ],
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/7/10/514388c82fcd9",
+        "extension": "jpg"
+    },
+    "images": [
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/7/10/514388c82fcd9",
+            "extension": "jpg"
+        },
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/4/50/4f88792a0749c",
+            "extension": "png"
+        }
+    ],
+    "creators": {
+        "available": 4,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/40534/creators",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/10023",
+                "name": "Cullen Bunn",
+                "role": "Writer"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/8522",
+                "name": "Gabriele Dell'Otto",
+                "role": "Artist"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/452",
+                "name": "Chris Eliopoulos",
+                "role": "Letterer"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/10124",
+                "name": "Alessandro Vitti",
+                "role": "Penciller"
+            }
+        ],
+        "returned": 4
+    },
+    "characters": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/40534/characters",
+        "items": [],
+        "returned": 0
+    },
+    "stories": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/40534/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/91890",
+                "name": "Cover #91890",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/91891",
+                "name": "Interior #91891",
+                "type": "interiorStory"
+            }
+        ],
+        "returned": 2
+    },
+    "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/40534/events",
+        "items": [],
+        "returned": 0
+    }
+}

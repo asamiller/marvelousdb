@@ -1,0 +1,152 @@
+{
+    "id": 37877,
+    "digitalId": 19199,
+    "title": "Avengers: Earth's Mightiest Heroes (2010) #4",
+    "issueNumber": 4,
+    "variantDescription": "",
+    "description": "Earth’s Mightiest Heroes clash with Earth’s Vilest Villains as the MASTERS OF EVIL assemble! Two teams collide to decide once and for all: will might make right… or wrong?",
+    "modified": "2013-03-01T14:36:37-0500",
+    "isbn": "",
+    "upc": "5960607507-00411",
+    "diamondCode": "DEC100583",
+    "ean": "",
+    "issn": "",
+    "format": "Comic",
+    "pageCount": 40,
+    "textObjects": [
+        {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "Earth’s Mightiest Heroes clash with Earth’s Vilest Villains as the MASTERS OF EVIL assemble! Two teams collide to decide once and for all: will might make right… or wrong?"
+        }
+    ],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/37877",
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/37877/avengers_earths_mightiest_heroes_2010_4?utm_campaign=apiRef&utm_source=046266cc733f0e6ea56d0b992f16d598"
+        },
+        {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/Avengers-Earth-s-Mightiest-Heroes-4/digital-comic/19199?utm_campaign=apiRef&utm_source=046266cc733f0e6ea56d0b992f16d598"
+        },
+        {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=19199&utm_campaign=apiRef&utm_source=046266cc733f0e6ea56d0b992f16d598"
+        },
+        {
+            "type": "inAppLink",
+            "url": "http://applink.marvel.com/issue/19199?utm_campaign=apiRef&utm_source=046266cc733f0e6ea56d0b992f16d598"
+        }
+    ],
+    "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/13584",
+        "name": "Avengers: Earth's Mightiest Heroes (2010)"
+    },
+    "variants": [],
+    "collections": [],
+    "collectedIssues": [],
+    "dates": [
+        {
+            "type": "onsaleDate",
+            "date": "2011-02-09T00:00:00-0500"
+        },
+        {
+            "type": "focDate",
+            "date": "2011-01-26T00:00:00-0500"
+        },
+        {
+            "type": "unlimitedDate",
+            "date": "2012-01-03T00:00:00-0500"
+        },
+        {
+            "type": "digitalPurchaseDate",
+            "date": "2011-03-02T00:00:00-0500"
+        }
+    ],
+    "prices": [
+        {
+            "type": "printPrice",
+            "price": 3.99
+        },
+        {
+            "type": "digitalPurchasePrice",
+            "price": 1.99
+        }
+    ],
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/b0/4f622f972f3bc",
+        "extension": "jpg"
+    },
+    "images": [
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/b0/4f622f972f3bc",
+            "extension": "jpg"
+        },
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/7/70/4cd99a49b5884",
+            "extension": "jpg"
+        }
+    ],
+    "creators": {
+        "available": 4,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/37877/creators",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/690",
+                "name": "Patrick Scherberger",
+                "role": "penciller"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/9423",
+                "name": "Scott Wegener",
+                "role": "penciller (cover)"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/8822",
+                "name": "Jordan White",
+                "role": "editor"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/803",
+                "name": "Chris Yost",
+                "role": "writer"
+            }
+        ],
+        "returned": 4
+    },
+    "characters": {
+        "available": 1,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/37877/characters",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009165",
+                "name": "Avengers"
+            }
+        ],
+        "returned": 1
+    },
+    "stories": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/37877/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/84201",
+                "name": "Avengers: Earth's Mightiest Heroes #4 ",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/84202",
+                "name": "Avengers: Earth's Mightiest Heroes #4",
+                "type": "interiorStory"
+            }
+        ],
+        "returned": 2
+    },
+    "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/37877/events",
+        "items": [],
+        "returned": 0
+    }
+}

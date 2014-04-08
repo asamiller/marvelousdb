@@ -1,0 +1,124 @@
+{
+    "id": 1081,
+    "digitalId": 0,
+    "title": "X-Men: Fall of the Mutants (Trade Paperback)",
+    "issueNumber": 0,
+    "variantDescription": "",
+    "description": "The X-Men charge into oblivion to protect a world that hates and fears them, Angel undergoes a dark transformation, and the young New Mutants lose their innocence. ",
+    "modified": "-0001-11-30T00:00:00-0500",
+    "isbn": "0-7851-0825-4",
+    "upc": "",
+    "diamondCode": "",
+    "ean": "",
+    "issn": "",
+    "format": "Trade Paperback",
+    "pageCount": 272,
+    "textObjects": [
+        {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "The X-Men charge into oblivion to protect a world that hates and fears them, Angel undergoes a dark transformation, and the young New Mutants lose their innocence. "
+        }
+    ],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/1081",
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/collection/1081/x-men_fall_of_the_mutants_trade_paperback?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ],
+    "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/141",
+        "name": "X-Men: Fall of the Mutants (1999)"
+    },
+    "variants": [],
+    "collections": [],
+    "collectedIssues": [],
+    "dates": [
+        {
+            "type": "onsaleDate",
+            "date": "1999-11-30T00:00:00-0500"
+        },
+        {
+            "type": "focDate",
+            "date": "-0001-11-30T00:00:00-0500"
+        }
+    ],
+    "prices": [
+        {
+            "type": "printPrice",
+            "price": 9.99
+        }
+    ],
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/f0/4bc66879f2a35",
+        "extension": "jpg"
+    },
+    "images": [
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/f0/4bc66879f2a35",
+            "extension": "jpg"
+        }
+    ],
+    "creators": {
+        "available": 5,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/1081/creators",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/44",
+                "name": "Chris Claremont",
+                "role": "writer"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/184",
+                "name": "Louise Simonson",
+                "role": "writer"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/2697",
+                "name": "Butch Guice",
+                "role": "penciller"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/5044",
+                "name": "Marc Silvestri",
+                "role": "penciller"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/5125",
+                "name": "Walter Simonson",
+                "role": "penciller"
+            }
+        ],
+        "returned": 5
+    },
+    "characters": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/1081/characters",
+        "items": [],
+        "returned": 0
+    },
+    "stories": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/1081/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/142",
+                "name": "The X-Men charge into oblivion to protect a world that hates and fears them, Angel undergoes a dark transformation, and the youn",
+                "type": "interiorStory"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/65217",
+                "name": "X-MEN: FALL OF THE MUTANTS TPB 0 cover",
+                "type": "cover"
+            }
+        ],
+        "returned": 2
+    },
+    "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/1081/events",
+        "items": [],
+        "returned": 0
+    }
+}

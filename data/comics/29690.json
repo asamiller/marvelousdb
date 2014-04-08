@@ -1,0 +1,114 @@
+{
+    "id": 29690,
+    "digitalId": 0,
+    "title": "Spider-Man Magazine (2008) #15",
+    "issueNumber": 15,
+    "variantDescription": "",
+    "description": "It's Spider-Man from cover to cover in the latest senses-shattering edition of the wall-crawler's very own ongoing\nmagazine! Featuring four full-length comic-book adventures of the web-slinger and other Marvel heroes! ",
+    "modified": "2011-03-01T16:38:50-0500",
+    "isbn": "",
+    "upc": "5960606385-01511",
+    "diamondCode": "",
+    "ean": "",
+    "issn": "1942-5066",
+    "format": "Magazine",
+    "pageCount": 96,
+    "textObjects": [
+        {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "It's Spider-Man from cover to cover in the latest senses-shattering edition of the wall-crawler's very own ongoing\nmagazine! Featuring four full-length comic-book adventures of the web-slinger and other Marvel heroes! "
+        }
+    ],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/29690",
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/29690/spider-man_magazine_2008_15?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ],
+    "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/5041",
+        "name": "Spider-Man Magazine (2008 - Present)"
+    },
+    "variants": [],
+    "collections": [],
+    "collectedIssues": [],
+    "dates": [
+        {
+            "type": "onsaleDate",
+            "date": "2011-01-05T00:00:00-0500"
+        },
+        {
+            "type": "focDate",
+            "date": "2010-12-23T00:00:00-0500"
+        }
+    ],
+    "prices": [
+        {
+            "type": "printPrice",
+            "price": 6.99
+        }
+    ],
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/d/60/4cb77c8be59f8",
+        "extension": "jpg"
+    },
+    "images": [
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/d/60/4cb77c8be59f8",
+            "extension": "jpg"
+        }
+    ],
+    "creators": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/29690/creators",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/694",
+                "name": "Mark Brooks",
+                "role": "penciller (cover)"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/4430",
+                "name": "Jeff Youngquist",
+                "role": "editor"
+            }
+        ],
+        "returned": 2
+    },
+    "characters": {
+        "available": 1,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/29690/characters",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009610",
+                "name": "Spider-Man"
+            }
+        ],
+        "returned": 1
+    },
+    "stories": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/29690/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/64528",
+                "name": "Cover #64528 ",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/64529",
+                "name": "Interior #64529",
+                "type": "interiorStory"
+            }
+        ],
+        "returned": 2
+    },
+    "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/29690/events",
+        "items": [],
+        "returned": 0
+    }
+}

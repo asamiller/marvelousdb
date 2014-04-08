@@ -1,0 +1,123 @@
+{
+    "id": 36244,
+    "digitalId": 0,
+    "title": "Thor: For Asgard (2010) #6",
+    "issueNumber": 6,
+    "variantDescription": "",
+    "description": null,
+    "modified": "2011-02-01T01:33:32-0500",
+    "isbn": "",
+    "upc": "5960606854-00611",
+    "diamondCode": "DEC100567",
+    "ean": "",
+    "issn": "",
+    "format": "Comic",
+    "pageCount": 32,
+    "textObjects": [],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/36244",
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/36244/thor_for_asgard_2010_6?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ],
+    "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/12037",
+        "name": "Thor: For Asgard (2010 - 2011)"
+    },
+    "variants": [
+        {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/34715",
+            "name": "Thor: For Asgard (2010) #6"
+        }
+    ],
+    "collections": [],
+    "collectedIssues": [],
+    "dates": [
+        {
+            "type": "onsaleDate",
+            "date": "2011-02-02T00:00:00-0500"
+        },
+        {
+            "type": "focDate",
+            "date": "2011-01-19T00:00:00-0500"
+        }
+    ],
+    "prices": [
+        {
+            "type": "printPrice",
+            "price": 3.99
+        }
+    ],
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/c0/4d497e60e63db",
+        "extension": "jpg"
+    },
+    "images": [
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/c0/4d497e60e63db",
+            "extension": "jpg"
+        }
+    ],
+    "creators": {
+        "available": 4,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/36244/creators",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/648",
+                "name": "Simone Bianchi",
+                "role": "artist"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/452",
+                "name": "Chris Eliopoulos",
+                "role": "letterer"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/5003",
+                "name": "Simone Peruzzi",
+                "role": "colorist"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/418",
+                "name": "Rob Rodi",
+                "role": "writer"
+            }
+        ],
+        "returned": 4
+    },
+    "characters": {
+        "available": 1,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/36244/characters",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009664",
+                "name": "Thor"
+            }
+        ],
+        "returned": 1
+    },
+    "stories": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/36244/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/80237",
+                "name": "Cover #80237",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/80238",
+                "name": "Interior #80238",
+                "type": "interiorStory"
+            }
+        ],
+        "returned": 2
+    },
+    "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/36244/events",
+        "items": [],
+        "returned": 0
+    }
+}

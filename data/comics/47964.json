@@ -1,0 +1,121 @@
+{
+    "id": 47964,
+    "digitalId": 0,
+    "title": "All-New X-Factor (2014) #3",
+    "issueNumber": 3,
+    "variantDescription": "",
+    "description": "&quot;Not Brand X&quot;\r\n\r\n\r\n\r\n\r\n<ul><li>The All-New X-Factor is meant to help people&hellip;</li><li>But one of their own has a secret.</li><li>Hint: It&#39;s Gambit.</li></ul>",
+    "modified": "2014-02-11T15:20:12-0500",
+    "isbn": "",
+    "upc": "75960607955100311",
+    "diamondCode": "DEC130697",
+    "ean": "",
+    "issn": "",
+    "format": "Comic",
+    "pageCount": 32,
+    "textObjects": [
+        {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "&quot;Not Brand X&quot;\r\n\r\n\r\n\r\n\r\n<ul><li>The All-New X-Factor is meant to help people&hellip;</li><li>But one of their own has a secret.</li><li>Hint: It&#39;s Gambit.</li></ul>"
+        }
+    ],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/47964",
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/47964/all-new_x-factor_2014_3?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/All-New-X-Factor-3/digital-comic/32961?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ],
+    "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/18136",
+        "name": "All-New X-Factor (2014 - Present)"
+    },
+    "variants": [
+        {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/49996",
+            "name": "All-New X-Factor (2014) #3 (Mckelvie Variant)"
+        },
+        {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/50102",
+            "name": "All-New X-Factor (2014) #3 (Tbd Artist Variant B)"
+        }
+    ],
+    "collections": [],
+    "collectedIssues": [],
+    "dates": [
+        {
+            "type": "onsaleDate",
+            "date": "2014-02-12T00:00:00-0500"
+        },
+        {
+            "type": "focDate",
+            "date": "2014-01-29T00:00:00-0500"
+        }
+    ],
+    "prices": [
+        {
+            "type": "printPrice",
+            "price": 3.99
+        }
+    ],
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/a0/52fa8520ed6f7",
+        "extension": "jpg"
+    },
+    "images": [
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/a0/52fa8520ed6f7",
+            "extension": "jpg"
+        },
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/1/70/528653e629f67",
+            "extension": "jpg"
+        }
+    ],
+    "creators": {
+        "available": 1,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/47964/creators",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/8822",
+                "name": "Jordan White",
+                "role": "editor"
+            }
+        ],
+        "returned": 1
+    },
+    "characters": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/47964/characters",
+        "items": [],
+        "returned": 0
+    },
+    "stories": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/47964/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/108169",
+                "name": "cover from All-New X-Factor (2013) #3",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/108170",
+                "name": "story from All-New X-Factor (2013) #3",
+                "type": "interiorStory"
+            }
+        ],
+        "returned": 2
+    },
+    "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/47964/events",
+        "items": [],
+        "returned": 0
+    }
+}

@@ -1,0 +1,98 @@
+{
+    "id": 29445,
+    "digitalId": 0,
+    "title": "Spider-Man/Fantastic Four (Hardcover)",
+    "issueNumber": 1,
+    "variantDescription": "",
+    "description": null,
+    "modified": "2011-01-11T01:37:29-0500",
+    "isbn": "978-0-7851-4604-9",
+    "upc": "5960614604-00111",
+    "diamondCode": "",
+    "ean": "9780785 146049 51999",
+    "issn": "",
+    "format": "Hardcover",
+    "pageCount": 136,
+    "textObjects": [],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/29445",
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/collection/29445/spider-manfantastic_four_hardcover?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ],
+    "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/10435",
+        "name": "Spider-Man/Fantastic Four (2011)"
+    },
+    "variants": [],
+    "collections": [],
+    "collectedIssues": [],
+    "dates": [
+        {
+            "type": "onsaleDate",
+            "date": "2011-01-12T00:00:00-0500"
+        },
+        {
+            "type": "focDate",
+            "date": "2010-12-30T00:00:00-0500"
+        }
+    ],
+    "prices": [
+        {
+            "type": "printPrice",
+            "price": 19.99
+        }
+    ],
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/2/f0/4cb611803539a",
+        "extension": "jpg"
+    },
+    "images": [
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/2/f0/4cb611803539a",
+            "extension": "jpg"
+        }
+    ],
+    "creators": {
+        "available": 1,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/29445/creators",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/11765",
+                "name": "Christos Gage",
+                "role": "writer"
+            }
+        ],
+        "returned": 1
+    },
+    "characters": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/29445/characters",
+        "items": [],
+        "returned": 0
+    },
+    "stories": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/29445/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/64043",
+                "name": "Cover #64043",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/64044",
+                "name": "Interior #64044",
+                "type": "interiorStory"
+            }
+        ],
+        "returned": 2
+    },
+    "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/29445/events",
+        "items": [],
+        "returned": 0
+    }
+}

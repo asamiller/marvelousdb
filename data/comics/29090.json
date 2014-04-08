@@ -1,0 +1,164 @@
+{
+    "id": 29090,
+    "digitalId": 19720,
+    "title": "Secret Avengers (2010) #10",
+    "issueNumber": 10,
+    "variantDescription": "",
+    "description": "Steve Rogers comes face-to-face with an old friend turned enemy! Meanwhile, a Secret Avenger is held captive by the hands of the Shadow Council! \n",
+    "modified": "2013-11-19T16:51:00-0500",
+    "isbn": "",
+    "upc": "5960607014-01011",
+    "diamondCode": "DEC100553",
+    "ean": "",
+    "issn": "2153-9898",
+    "format": "Comic",
+    "pageCount": 32,
+    "textObjects": [
+        {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "The action-packed conclusion of our Secret Avengers second secret mission!  Steve Rogers face-to-face with an old friend turned enemy! A Secret Avenger in the hands of the Shadow Council!  This story may be over, but things are just heating up!"
+        },
+        {
+            "type": "issue_preview_text",
+            "language": "en-us",
+            "text": "Steve Rogers comes face-to-face with an old friend turned enemy! Meanwhile, a Secret Avenger is held captive by the hands of the Shadow Council! \n"
+        }
+    ],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/29090",
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/29090/secret_avengers_2010_10?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/Secret-Avengers-10/digital-comic/19720?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=19720&utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "inAppLink",
+            "url": "http://applink.marvel.com/issue/19720?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ],
+    "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/9799",
+        "name": "Secret Avengers (2010 - 2012)"
+    },
+    "variants": [],
+    "collections": [],
+    "collectedIssues": [],
+    "dates": [
+        {
+            "type": "onsaleDate",
+            "date": "2011-02-23T00:00:00-0500"
+        },
+        {
+            "type": "focDate",
+            "date": "2011-02-09T00:00:00-0500"
+        },
+        {
+            "type": "unlimitedDate",
+            "date": "2012-01-26T00:00:00-0500"
+        },
+        {
+            "type": "digitalPurchaseDate",
+            "date": "2012-04-17T00:00:00-0400"
+        }
+    ],
+    "prices": [
+        {
+            "type": "printPrice",
+            "price": 3.99
+        },
+        {
+            "type": "digitalPurchasePrice",
+            "price": 1.99
+        }
+    ],
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/d/03/5189731b2783d",
+        "extension": "jpg"
+    },
+    "images": [
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/d/03/5189731b2783d",
+            "extension": "jpg"
+        },
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/60/4d5adc7d44148",
+            "extension": "jpg"
+        }
+    ],
+    "creators": {
+        "available": 3,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/29090/creators",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/2133",
+                "name": "Tom Brevoort",
+                "role": "editor"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/367",
+                "name": "Ed Brubaker",
+                "role": "writer"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/312",
+                "name": "Mike Deodato",
+                "role": "penciller"
+            }
+        ],
+        "returned": 3
+    },
+    "characters": {
+        "available": 4,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/29090/characters",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010802",
+                "name": "Ant-Man (Eric O Grady)"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009175",
+                "name": "Beast"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009220",
+                "name": "Captain America"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009577",
+                "name": "Shang-Chi"
+            }
+        ],
+        "returned": 4
+    },
+    "stories": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/29090/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/63371",
+                "name": "Secret Avengers #10",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/76407",
+                "name": "Secret Avengers #10",
+                "type": "interiorStory"
+            }
+        ],
+        "returned": 2
+    },
+    "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/29090/events",
+        "items": [],
+        "returned": 0
+    }
+}

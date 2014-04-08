@@ -1,0 +1,152 @@
+{
+    "id": 7907,
+    "digitalId": 0,
+    "title": "Captain America Comics (1941) #62",
+    "issueNumber": 62,
+    "variantDescription": "",
+    "description": null,
+    "modified": "-0001-11-30T00:00:00-0500",
+    "isbn": "",
+    "upc": "",
+    "diamondCode": "",
+    "ean": "",
+    "issn": "",
+    "format": "Comic",
+    "pageCount": 52,
+    "textObjects": [],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/7907",
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/7907/captain_america_comics_1941_62?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ],
+    "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/1998",
+        "name": "Captain America Comics (1941 - 1950)"
+    },
+    "variants": [],
+    "collections": [],
+    "collectedIssues": [],
+    "dates": [
+        {
+            "type": "onsaleDate",
+            "date": "1947-04-10T00:00:00-0500"
+        },
+        {
+            "type": "focDate",
+            "date": "-0001-11-30T00:00:00-0500"
+        }
+    ],
+    "prices": [
+        {
+            "type": "printPrice",
+            "price": 0.1
+        }
+    ],
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available",
+        "extension": "jpg"
+    },
+    "images": [],
+    "creators": {
+        "available": 6,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/7907/creators",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/1358",
+                "name": "Al Avison",
+                "role": "penciller"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/1440",
+                "name": "Al Bellman",
+                "role": "penciller"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/1272",
+                "name": "Carmine Infantino",
+                "role": "penciller"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/1499",
+                "name": "Otto Binder",
+                "role": "writer"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/30",
+                "name": "Stan Lee",
+                "role": "editor"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/1256",
+                "name": "Syd Shores",
+                "role": "penciller (cover)"
+            }
+        ],
+        "returned": 6
+    },
+    "characters": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/7907/characters",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009220",
+                "name": "Captain America"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009356",
+                "name": "Human Torch"
+            }
+        ],
+        "returned": 2
+    },
+    "stories": {
+        "available": 7,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/7907/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/9608",
+                "name": "Cover #9608",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/9609",
+                "name": "The Kingdom of Terror",
+                "type": "interiorStory"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/9610",
+                "name": "The Dance of Death",
+                "type": "interiorStory"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/9611",
+                "name": "Science Pays Off",
+                "type": "text story"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/9612",
+                "name": "Case of Blank Benny",
+                "type": ""
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/9613",
+                "name": "Melody of Horror",
+                "type": "interiorStory"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/9614",
+                "name": "Gangster's Greed",
+                "type": ""
+            }
+        ],
+        "returned": 7
+    },
+    "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/7907/events",
+        "items": [],
+        "returned": 0
+    }
+}

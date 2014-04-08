@@ -1,0 +1,161 @@
+{
+    "id": 30316,
+    "digitalId": 15999,
+    "title": "Amazing Spider-Man (1999) #641",
+    "issueNumber": 641,
+    "variantDescription": "",
+    "description": "ONE MOMENT IN TIME PART 4 Every question is answered, the past laid to rest, and Spider-Man swings into a new direction for the future!\n",
+    "modified": "2011-08-23T15:03:15-0400",
+    "isbn": "",
+    "upc": "5960604716-64111",
+    "diamondCode": "JUN100542",
+    "ean": "",
+    "issn": "0274-5232",
+    "format": "Comic",
+    "pageCount": 56,
+    "textObjects": [
+        {
+            "type": "issue_preview_text",
+            "language": "en-us",
+            "text": "ONE MOMENT IN TIME PART 4 Every question is answered, the past laid to rest, and Spider-Man swings into a new direction for the future!\n"
+        },
+        {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "This is it!  The startling conclusion to ONE MOMENT IN TIME!  How did the world REALLY forget Peter Parker was Spider-Man?  And what does the future hold for Peter & Mary Jane?  Every question is answered, the past laid to rest, and\r\nSpider-Man swings into a new direction for the future!\r\nRated A -- $3.99"
+        }
+    ],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/30316",
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/30316/amazing_spider-man_1999_641?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/Amazing-Spider-Man-641/digital-comic/15999?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=15999&utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "inAppLink",
+            "url": "http://applink.marvel.com/issue/15999?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ],
+    "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/454",
+        "name": "Amazing Spider-Man (1999 - 2013)"
+    },
+    "variants": [
+        {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/34122",
+            "name": "Amazing Spider-Man (1999) #641 (SKETCH VARIANT)"
+        },
+        {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/35418",
+            "name": "Amazing Spider-Man (1999) #641 (VARIANT COVER)"
+        },
+        {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/35270",
+            "name": "Amazing Spider-Man (1999) #641 (COVER VARIANT)"
+        }
+    ],
+    "collections": [],
+    "collectedIssues": [],
+    "dates": [
+        {
+            "type": "onsaleDate",
+            "date": "2010-09-09T00:00:00-0400"
+        },
+        {
+            "type": "focDate",
+            "date": "2010-08-12T00:00:00-0400"
+        },
+        {
+            "type": "unlimitedDate",
+            "date": "2011-08-15T00:00:00-0400"
+        },
+        {
+            "type": "digitalPurchaseDate",
+            "date": "2011-09-20T00:00:00-0400"
+        }
+    ],
+    "prices": [
+        {
+            "type": "printPrice",
+            "price": 3.99
+        },
+        {
+            "type": "digitalPurchasePrice",
+            "price": 1.99
+        }
+    ],
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/90/4e720f917beb6",
+        "extension": "jpg"
+    },
+    "images": [
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/90/4e720f917beb6",
+            "extension": "jpg"
+        }
+    ],
+    "creators": {
+        "available": 3,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/30316/creators",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/894",
+                "name": "Marcos Martin",
+                "role": "penciler"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/3635",
+                "name": "Joe Quesada",
+                "role": "penciler"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/272",
+                "name": "Paolo Rivera",
+                "role": "penciller (cover)"
+            }
+        ],
+        "returned": 3
+    },
+    "characters": {
+        "available": 1,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/30316/characters",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009610",
+                "name": "Spider-Man"
+            }
+        ],
+        "returned": 1
+    },
+    "stories": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/30316/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/69458",
+                "name": "Amazing Spider-Man (1999) #641 COVER",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/69459",
+                "name": "Interior #69459",
+                "type": "interiorStory"
+            }
+        ],
+        "returned": 2
+    },
+    "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/30316/events",
+        "items": [],
+        "returned": 0
+    }
+}

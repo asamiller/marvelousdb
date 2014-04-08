@@ -1,0 +1,143 @@
+{
+    "id": 41313,
+    "digitalId": 0,
+    "title": "Uncanny X-Men (1963) #543 (Architect Sketch Variant)",
+    "issueNumber": 543,
+    "variantDescription": "Architect Sketch Variant",
+    "description": "",
+    "modified": "2011-09-16T16:50:47-0400",
+    "isbn": "",
+    "upc": "5960602461-54331",
+    "diamondCode": "",
+    "ean": "",
+    "issn": "1083-401X",
+    "format": "Comic",
+    "pageCount": 32,
+    "textObjects": [
+        {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": ""
+        }
+    ],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/41313",
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/41313/uncanny_x-men_1963_543_architect_sketch_variant/architect_sketch_variant?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ],
+    "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/2258",
+        "name": "Uncanny X-Men (1963 - 2011)"
+    },
+    "variants": [
+        {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/41892",
+            "name": "Uncanny X-Men (1963) #543 (Sketch Variant)"
+        },
+        {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/41312",
+            "name": "Uncanny X-Men (1963) #543 (Architect Variant)"
+        },
+        {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/36327",
+            "name": "Uncanny X-Men (1963) #543"
+        },
+        {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/41894",
+            "name": "Uncanny X-Men (1963) #543 (Variant)"
+        }
+    ],
+    "collections": [],
+    "collectedIssues": [],
+    "dates": [
+        {
+            "type": "onsaleDate",
+            "date": "2011-09-21T00:00:00-0400"
+        },
+        {
+            "type": "focDate",
+            "date": "2011-08-29T00:00:00-0400"
+        }
+    ],
+    "prices": [
+        {
+            "type": "printPrice",
+            "price": 3.99
+        }
+    ],
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/f/c0/4e73b58ddea5f",
+        "extension": "jpg"
+    },
+    "images": [
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/f/c0/4e73b58ddea5f",
+            "extension": "jpg"
+        },
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/d/d0/4e39552163557",
+            "extension": "jpg"
+        }
+    ],
+    "creators": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/41313/creators",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/8901",
+                "name": "Kieron Gillen",
+                "role": "writer"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/425",
+                "name": "Greg Land",
+                "role": "penciller"
+            }
+        ],
+        "returned": 2
+    },
+    "characters": {
+        "available": 3,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/41313/characters",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009257",
+                "name": "Cyclops"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009310",
+                "name": "Emma Frost"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009417",
+                "name": "Magneto"
+            }
+        ],
+        "returned": 3
+    },
+    "stories": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/41313/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/93487",
+                "name": "Cover #93487",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/93488",
+                "name": "Interior #93488",
+                "type": "interiorStory"
+            }
+        ],
+        "returned": 2
+    },
+    "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/41313/events",
+        "items": [],
+        "returned": 0
+    }
+}

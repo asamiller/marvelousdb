@@ -1,0 +1,142 @@
+{
+    "id": 631,
+    "digitalId": 1785,
+    "title": "Emma Frost (2003) #11",
+    "issueNumber": 11,
+    "variantDescription": "",
+    "description": "\"MIND GAMES\" PART 5 (OF 6) Emma Frost has freed herself from her overbearing father, but now she’s on her own and in over her head with the Boston mob! Her developing mutant powers have barely saved her so far, but how will she escape mob custody with nowhere to run?",
+    "modified": "-0001-11-30T00:00:00-0500",
+    "isbn": "",
+    "upc": "5960605432-01111",
+    "diamondCode": "",
+    "ean": "",
+    "issn": "",
+    "format": "Comic",
+    "pageCount": 0,
+    "textObjects": [
+        {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "\"MIND GAMES\" PART 5 (OF 6) Emma Frost has freed herself from her overbearing father, but now she’s on her own and in over her head with the Boston mob! Her developing mutant powers have barely saved her so far, but how will she escape mob custody with nowhere to run?"
+        }
+    ],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/631",
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/631/emma_frost_2003_11?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=1785&utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ],
+    "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/389",
+        "name": "Emma Frost (2003 - 2004)"
+    },
+    "variants": [],
+    "collections": [
+        {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/1520",
+            "name": "Emma Frost Vol. 2: Mind Games (Digest)"
+        }
+    ],
+    "collectedIssues": [],
+    "dates": [
+        {
+            "type": "onsaleDate",
+            "date": "-0001-11-30T00:00:00-0500"
+        },
+        {
+            "type": "focDate",
+            "date": "-0001-11-30T00:00:00-0500"
+        },
+        {
+            "type": "unlimitedDate",
+            "date": "2007-11-13T00:00:00-0500"
+        }
+    ],
+    "prices": [
+        {
+            "type": "printPrice",
+            "price": 2.99
+        }
+    ],
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/c0/4bc687ff244b5",
+        "extension": "jpg"
+    },
+    "images": [
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/c0/4bc687ff244b5",
+            "extension": "jpg"
+        }
+    ],
+    "creators": {
+        "available": 5,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/631/creators",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/421",
+                "name": "Karl Bollers",
+                "role": "writer"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/617",
+                "name": "Dennis Crisostomo",
+                "role": "inker"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/618",
+                "name": "Transparency Digital",
+                "role": "colorist"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/11521",
+                "name": "Greg Horn",
+                "role": "penciller (cover)"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/6806",
+                "name": "Carlo Pagualyan",
+                "role": "penciller"
+            }
+        ],
+        "returned": 5
+    },
+    "characters": {
+        "available": 1,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/631/characters",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009310",
+                "name": "Emma Frost"
+            }
+        ],
+        "returned": 1
+    },
+    "stories": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/631/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/1959",
+                "name": "Cover #1959",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/1960",
+                "name": "Interior #1960",
+                "type": "interiorStory"
+            }
+        ],
+        "returned": 2
+    },
+    "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/631/events",
+        "items": [],
+        "returned": 0
+    }
+}

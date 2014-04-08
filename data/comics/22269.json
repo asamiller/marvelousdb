@@ -1,0 +1,98 @@
+{
+    "id": 22269,
+    "digitalId": 0,
+    "title": "Marvel Previews (2008) #63",
+    "issueNumber": 63,
+    "variantDescription": "",
+    "description": null,
+    "modified": "-0001-11-30T00:00:00-0500",
+    "isbn": "",
+    "upc": "5960605479-06311",
+    "diamondCode": "",
+    "ean": "",
+    "issn": "",
+    "format": "Catalog",
+    "pageCount": 120,
+    "textObjects": [],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/22269",
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/22269/marvel_previews_2008_63?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ],
+    "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/5540",
+        "name": "Marvel Previews (2008 - Present)"
+    },
+    "variants": [],
+    "collections": [],
+    "collectedIssues": [],
+    "dates": [
+        {
+            "type": "onsaleDate",
+            "date": "2008-10-29T00:00:00-0400"
+        },
+        {
+            "type": "focDate",
+            "date": "2008-10-09T00:00:00-0400"
+        }
+    ],
+    "prices": [
+        {
+            "type": "printPrice",
+            "price": 1.25
+        }
+    ],
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/90/4bb60f4f9570e",
+        "extension": "jpg"
+    },
+    "images": [
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/90/4bb60f4f9570e",
+            "extension": "jpg"
+        }
+    ],
+    "creators": {
+        "available": 1,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/22269/creators",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/887",
+                "name": "Ronald Byrd",
+                "role": "other"
+            }
+        ],
+        "returned": 1
+    },
+    "characters": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/22269/characters",
+        "items": [],
+        "returned": 0
+    },
+    "stories": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/22269/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/49042",
+                "name": "January 2009 Solicits",
+                "type": "interiorStory"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/57018",
+                "name": "Cover #57018",
+                "type": "cover"
+            }
+        ],
+        "returned": 2
+    },
+    "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/22269/events",
+        "items": [],
+        "returned": 0
+    }
+}

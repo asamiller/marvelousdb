@@ -1,0 +1,93 @@
+{
+    "id": 1011240,
+    "name": "Freak",
+    "description": "",
+    "modified": "1969-12-31T19:00:00-0500",
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/1/50/4ce5a5b3cc0aa",
+        "extension": "jpg"
+    },
+    "resourceURI": "http://gateway.marvel.com/v1/public/characters/1011240",
+    "comics": {
+        "available": 4,
+        "collectionURI": "http://gateway.marvel.com/v1/public/characters/1011240/comics",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/comics/20825",
+                "name": "Amazing Spider-Man (1999) #553"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/comics/21172",
+                "name": "Amazing Spider-Man (1999) #558"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/comics/36665",
+                "name": "Amazing Spider-Man (1999) #644 (BACHALO VARIANT)"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/comics/35880",
+                "name": "Amazing Spider-Man (1999) #645 (SPIDEY VS. VARIANT)"
+            }
+        ],
+        "returned": 4
+    },
+    "series": {
+        "available": 1,
+        "collectionURI": "http://gateway.marvel.com/v1/public/characters/1011240/series",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/series/454",
+                "name": "Amazing Spider-Man (1999 - 2013)"
+            }
+        ],
+        "returned": 1
+    },
+    "stories": {
+        "available": 5,
+        "collectionURI": "http://gateway.marvel.com/v1/public/characters/1011240/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/44602",
+                "name": "Freakout 2 of 3",
+                "type": "interiorStory"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/46770",
+                "name": "1 of 1",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/46771",
+                "name": "1 of 1",
+                "type": "interiorStory"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/94764",
+                "name": "Amazing Spider-Man (1999) #644, BACHALO VARIANT",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/94765",
+                "name": "Amazing Spider-Man (1999) #645, SPIDEY VS. VARIANT",
+                "type": "cover"
+            }
+        ],
+        "returned": 5
+    },
+    "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/characters/1011240/events",
+        "items": [],
+        "returned": 0
+    },
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/characters/1011240/freak?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "wiki",
+            "url": "http://marvel.com/universe/Freak?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ]
+}

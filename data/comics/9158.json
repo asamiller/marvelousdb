@@ -1,0 +1,157 @@
+{
+    "id": 9158,
+    "digitalId": 6105,
+    "title": "Incredible Hulk (1962) #347",
+    "issueNumber": 347,
+    "variantDescription": "",
+    "description": null,
+    "modified": "-0001-11-30T00:00:00-0500",
+    "isbn": "",
+    "upc": "",
+    "diamondCode": "",
+    "ean": "",
+    "issn": "",
+    "format": "Comic",
+    "pageCount": 36,
+    "textObjects": [],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/9158",
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/9158/incredible_hulk_1962_347?utm_campaign=apiRef&utm_source=990a9f4f46c9f2ad86e63cdff100d42d"
+        },
+        {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/Incredible-Hulk-347/digital-comic/6105?utm_campaign=apiRef&utm_source=990a9f4f46c9f2ad86e63cdff100d42d"
+        },
+        {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=6105&utm_campaign=apiRef&utm_source=990a9f4f46c9f2ad86e63cdff100d42d"
+        },
+        {
+            "type": "inAppLink",
+            "url": "http://applink.marvel.com/issue/6105?utm_campaign=apiRef&utm_source=990a9f4f46c9f2ad86e63cdff100d42d"
+        }
+    ],
+    "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/2021",
+        "name": "Incredible Hulk (1962 - 1999)"
+    },
+    "variants": [],
+    "collections": [
+        {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/2540",
+            "name": "Hulk Visionaries: Peter David Vol. 2 (Trade Paperback)"
+        }
+    ],
+    "collectedIssues": [],
+    "dates": [
+        {
+            "type": "onsaleDate",
+            "date": "1988-09-10T00:00:00-0400"
+        },
+        {
+            "type": "focDate",
+            "date": "-0001-11-30T00:00:00-0500"
+        },
+        {
+            "type": "unlimitedDate",
+            "date": "2008-10-23T00:00:00-0400"
+        },
+        {
+            "type": "digitalPurchaseDate",
+            "date": "2014-01-14T00:00:00-0500"
+        }
+    ],
+    "prices": [
+        {
+            "type": "printPrice",
+            "price": 0.75
+        },
+        {
+            "type": "digitalPurchasePrice",
+            "price": 1.99
+        }
+    ],
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/f/40/4bb6e1d9a4c5e",
+        "extension": "jpg"
+    },
+    "images": [
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/f/40/4bb6e1d9a4c5e",
+            "extension": "jpg"
+        }
+    ],
+    "creators": {
+        "available": 6,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/9158/creators",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/121",
+                "name": "Peter David",
+                "role": "writer"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/2947",
+                "name": "Mike Valerie Gustovich",
+                "role": "inker"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/375",
+                "name": "Bob Harras",
+                "role": "editor"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/1250",
+                "name": "Jeff Purves",
+                "role": "penciller (cover)"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/1759",
+                "name": "Joe Rosen",
+                "role": "letterer"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/2363",
+                "name": "Petra Scotese",
+                "role": "colorist"
+            }
+        ],
+        "returned": 6
+    },
+    "characters": {
+        "available": 1,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/9158/characters",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009351",
+                "name": "Hulk"
+            }
+        ],
+        "returned": 1
+    },
+    "stories": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/9158/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/18843",
+                "name": "Cover #18843",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/18844",
+                "name": "Crap Shoot",
+                "type": "interiorStory"
+            }
+        ],
+        "returned": 2
+    },
+    "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/9158/events",
+        "items": [],
+        "returned": 0
+    }
+}

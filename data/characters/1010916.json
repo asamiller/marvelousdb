@@ -1,0 +1,69 @@
+{
+    "id": 1010916,
+    "name": "Carnage (Ultimate)",
+    "description": "",
+    "modified": "1969-12-31T19:00:00-0500",
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/00/4c003571c756c",
+        "extension": "jpg"
+    },
+    "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010916",
+    "comics": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/characters/1010916/comics",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/comics/5218",
+                "name": "Ultimate Spider-Man (2000) #101"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/comics/16199",
+                "name": "Ultimate Spider-Man Vol. 17: Clone Saga (Trade Paperback)"
+            }
+        ],
+        "returned": 2
+    },
+    "series": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/characters/1010916/series",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/series/466",
+                "name": "Ultimate Spider-Man (2000 - 2009)"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/series/2692",
+                "name": "Ultimate Spider-Man Vol. 17: Clone Saga (2007)"
+            }
+        ],
+        "returned": 2
+    },
+    "stories": {
+        "available": 1,
+        "collectionURI": "http://gateway.marvel.com/v1/public/characters/1010916/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/1398",
+                "name": "5 of ? - The Clone Saga",
+                "type": "cover"
+            }
+        ],
+        "returned": 1
+    },
+    "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/characters/1010916/events",
+        "items": [],
+        "returned": 0
+    },
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/characters/1010916/carnage_ultimate?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "wiki",
+            "url": "http://marvel.com/universe/Carnage_%28Ultimate%29?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ]
+}

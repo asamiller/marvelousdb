@@ -1,0 +1,93 @@
+{
+    "id": 1201,
+    "digitalId": 0,
+    "title": "Marvel Encyclopedia Vol. IV: Spider-Man (Hardcover)",
+    "issueNumber": 0,
+    "variantDescription": "",
+    "description": " Marvel's best-selling Encyclopedia series continues! This fully illustrated, comprehensive deluxe hardcover volume includes in-depth biographies, statistics, and essential reading lists for the world's most popular comic book hero, Spider-Man, and all his friends and foes like the Green Goblin, Doctor Octopus and Mary Jane Watson! An essential Who's Who of the Spider-Man universe for fans new and old of all ages!",
+    "modified": "-0001-11-30T00:00:00-0500",
+    "isbn": "0-7851-1304-5",
+    "upc": "",
+    "diamondCode": "",
+    "ean": "",
+    "issn": "",
+    "format": "Hardcover",
+    "pageCount": 240,
+    "textObjects": [
+        {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": " Marvel's best-selling Encyclopedia series continues! This fully illustrated, comprehensive deluxe hardcover volume includes in-depth biographies, statistics, and essential reading lists for the world's most popular comic book hero, Spider-Man, and all his friends and foes like the Green Goblin, Doctor Octopus and Mary Jane Watson! An essential Who's Who of the Spider-Man universe for fans new and old of all ages!"
+        }
+    ],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/1201",
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/collection/1201/marvel_encyclopedia_vol_iv_spider-man_hardcover?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ],
+    "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/258",
+        "name": "Marvel Encyclopedia Vol. IV: Spider-Man (2003)"
+    },
+    "variants": [],
+    "collections": [],
+    "collectedIssues": [],
+    "dates": [
+        {
+            "type": "onsaleDate",
+            "date": "2003-11-01T00:00:00-0500"
+        },
+        {
+            "type": "focDate",
+            "date": "-0001-11-30T00:00:00-0500"
+        }
+    ],
+    "prices": [
+        {
+            "type": "printPrice",
+            "price": 9.99
+        }
+    ],
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available",
+        "extension": "jpg"
+    },
+    "images": [],
+    "creators": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/1201/creators",
+        "items": [],
+        "returned": 0
+    },
+    "characters": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/1201/characters",
+        "items": [],
+        "returned": 0
+    },
+    "stories": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/1201/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/332",
+                "name": " Marvel's best-selling Encyclopedia series continues! This fully illustrated, comprehensive deluxe hardcover volume includes in-",
+                "type": "interiorStory"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/65291",
+                "name": "Marvel Encyclopedia Vol. IV: Spider-Man HC 0 cover",
+                "type": "cover"
+            }
+        ],
+        "returned": 2
+    },
+    "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/1201/events",
+        "items": [],
+        "returned": 0
+    }
+}

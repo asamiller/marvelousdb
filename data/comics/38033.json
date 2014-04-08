@@ -1,0 +1,122 @@
+{
+    "id": 38033,
+    "digitalId": 18358,
+    "title": "SPIDER-MAN UNLIMITED (1993) #1",
+    "issueNumber": 1,
+    "variantDescription": "",
+    "description": "MAXIMUM CARNAGE PART 1 Carnage has returned and he's ready to bring his brand of murder and mayhem to New York.  But when Carnage adopts like-minded allies, it becomes Maximum Carnage. Can Spider-Man, Venom and others stop him?",
+    "modified": "2013-07-03T11:34:42-0400",
+    "isbn": "",
+    "upc": "",
+    "diamondCode": "",
+    "ean": "",
+    "issn": "",
+    "format": "DIGITAL COMIC",
+    "pageCount": 0,
+    "textObjects": [
+        {
+            "type": "issue_preview_text",
+            "language": "en-us",
+            "text": "MAXIMUM CARNAGE PART 1 Carnage has returned and he's ready to bring his brand of murder and mayhem to New York.  But when Carnage adopts like-minded allies, it becomes Maximum Carnage. Can Spider-Man, Venom and others stop him?"
+        }
+    ],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/38033",
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/38033/spider-man_unlimited_1993_1?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/SPIDER-MAN-UNLIMITED-1/digital-comic/18358?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=18358&utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "inAppLink",
+            "url": "http://applink.marvel.com/issue/18358?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ],
+    "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/13695",
+        "name": "SPIDER-MAN UNLIMITED (1993)"
+    },
+    "variants": [],
+    "collections": [],
+    "collectedIssues": [],
+    "dates": [
+        {
+            "type": "onsaleDate",
+            "date": "1961-01-01T00:00:00-0500"
+        },
+        {
+            "type": "focDate",
+            "date": "1961-01-01T00:00:00-0500"
+        },
+        {
+            "type": "unlimitedDate",
+            "date": "2011-06-02T11:36:26-0400"
+        },
+        {
+            "type": "digitalPurchaseDate",
+            "date": "2010-11-24T00:00:00-0500"
+        }
+    ],
+    "prices": [
+        {
+            "type": "printPrice",
+            "price": 0
+        },
+        {
+            "type": "digitalPurchasePrice",
+            "price": 1.99
+        }
+    ],
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/c0/51d44443c93f9",
+        "extension": "jpg"
+    },
+    "images": [
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/c0/51d44443c93f9",
+            "extension": "jpg"
+        }
+    ],
+    "creators": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/38033/creators",
+        "items": [],
+        "returned": 0
+    },
+    "characters": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/38033/characters",
+        "items": [],
+        "returned": 0
+    },
+    "stories": {
+        "available": 1,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/38033/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/106557",
+                "name": "cover from SPIDER-MAN UNLIMITED #1",
+                "type": "cover"
+            }
+        ],
+        "returned": 1
+    },
+    "events": {
+        "available": 1,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/38033/events",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/events/151",
+                "name": "Maximum Carnage"
+            }
+        ],
+        "returned": 1
+    }
+}

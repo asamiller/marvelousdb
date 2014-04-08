@@ -1,0 +1,138 @@
+{
+    "id": 40821,
+    "digitalId": 27833,
+    "title": "The Mighty Thor (2011) #21",
+    "issueNumber": 21,
+    "variantDescription": "",
+    "description": "<ul><li>The War against Surtur crushes Thor &ndash; literally!</li><li>Hela and Loki make their move!</li><li>Can the All-Mother save the Nine Realms?</li></ul>",
+    "modified": "2013-07-31T11:59:41-0400",
+    "isbn": "",
+    "upc": "75960607526302111",
+    "diamondCode": "AUG120615",
+    "ean": "",
+    "issn": "2160-1496",
+    "format": "Comic",
+    "pageCount": 32,
+    "textObjects": [
+        {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "<ul><li>The War against Surtur crushes Thor &ndash; literally!</li><li>Hela and Loki make their move!</li><li>Can the All-Mother save the Nine Realms?</li></ul>"
+        }
+    ],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/40821",
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/40821/the_mighty_thor_2011_21?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/The-Mighty-Thor-21/digital-comic/27833?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=27833&utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "inAppLink",
+            "url": "http://applink.marvel.com/issue/27833?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ],
+    "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/13757",
+        "name": "The Mighty Thor (2011 - 2012)"
+    },
+    "variants": [],
+    "collections": [],
+    "collectedIssues": [],
+    "dates": [
+        {
+            "type": "onsaleDate",
+            "date": "2012-10-17T00:00:00-0400"
+        },
+        {
+            "type": "focDate",
+            "date": "2012-10-03T00:00:00-0400"
+        },
+        {
+            "type": "unlimitedDate",
+            "date": "2013-07-31T11:59:32-0400"
+        },
+        {
+            "type": "digitalPurchaseDate",
+            "date": "2012-10-17T00:00:00-0400"
+        }
+    ],
+    "prices": [
+        {
+            "type": "printPrice",
+            "price": 3.99
+        },
+        {
+            "type": "digitalPurchasePrice",
+            "price": 1.99
+        }
+    ],
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/90/506f49168a04f",
+        "extension": "jpg"
+    },
+    "images": [
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/90/506f49168a04f",
+            "extension": "jpg"
+        }
+    ],
+    "creators": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/40821/creators",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/16",
+                "name": "Alan Davis",
+                "role": "penciller (cover)"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/1132",
+                "name": "Matt Fraction",
+                "role": "writer"
+            }
+        ],
+        "returned": 2
+    },
+    "characters": {
+        "available": 1,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/40821/characters",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009664",
+                "name": "Thor"
+            }
+        ],
+        "returned": 1
+    },
+    "stories": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/40821/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/92466",
+                "name": "Cover #92466",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/92467",
+                "name": "Interior #92467",
+                "type": "interiorStory"
+            }
+        ],
+        "returned": 2
+    },
+    "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/40821/events",
+        "items": [],
+        "returned": 0
+    }
+}

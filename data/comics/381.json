@@ -1,0 +1,137 @@
+{
+    "id": 381,
+    "digitalId": 1991,
+    "title": "Incredible Hulk (1999) #66",
+    "issueNumber": 66,
+    "variantDescription": "",
+    "description": "\"DEAD LIKE ME\" pt. 1\r\nIn the aftermath of last issue's carnage, Bruce and Sandra try to patch together their lives. Meanwhile, \"Mr. Blue\" – a.k.a. [SPOILER WARNING!] Bruce's wife Betty Ross – finds solace in the arms of none other than Doc Samson.\r\n32 PGS./MARVEL PSR…$2.25",
+    "modified": "1969-12-31T19:00:00-0500",
+    "isbn": "",
+    "upc": "5960605436-01111",
+    "diamondCode": "",
+    "ean": "",
+    "issn": "",
+    "format": "Comic",
+    "pageCount": 0,
+    "textObjects": [
+        {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "\"DEAD LIKE ME\" pt. 1\r\nIn the aftermath of last issue's carnage, Bruce and Sandra try to patch together their lives. Meanwhile, \"Mr. Blue\" – a.k.a. [SPOILER WARNING!] Bruce's wife Betty Ross – finds solace in the arms of none other than Doc Samson.\r\n32 PGS./MARVEL PSR…$2.25"
+        }
+    ],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/381",
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/381/incredible_hulk_1999_66?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=1991&utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ],
+    "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/465",
+        "name": "Incredible Hulk (1999 - 2008)"
+    },
+    "variants": [],
+    "collections": [
+        {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/1298",
+            "name": "Incredible Hulk Vol. 7: Dead Like Me (Trade Paperback)"
+        }
+    ],
+    "collectedIssues": [],
+    "dates": [
+        {
+            "type": "onsaleDate",
+            "date": "2004-01-28T00:00:00-0500"
+        },
+        {
+            "type": "focDate",
+            "date": "1969-12-31T19:00:00-0500"
+        },
+        {
+            "type": "unlimitedDate",
+            "date": "2007-04-28T00:00:00-0400"
+        }
+    ],
+    "prices": [
+        {
+            "type": "printPrice",
+            "price": 2.25
+        }
+    ],
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/b0/4bc69c6b643b8",
+        "extension": "jpg"
+    },
+    "images": [
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/b0/4bc69c6b643b8",
+            "extension": "jpg"
+        }
+    ],
+    "creators": {
+        "available": 4,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/381/creators",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/128",
+                "name": "Doug Braithwaite",
+                "role": "penciller"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/312",
+                "name": "Mike Deodato",
+                "role": "penciller (cover)"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/52",
+                "name": "Bruce Jones",
+                "role": "writer"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/523",
+                "name": "Bill Reinhold",
+                "role": "inker"
+            }
+        ],
+        "returned": 4
+    },
+    "characters": {
+        "available": 1,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/381/characters",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009351",
+                "name": "Hulk"
+            }
+        ],
+        "returned": 1
+    },
+    "stories": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/381/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/1982",
+                "name": "Cover #1982",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/1983",
+                "name": "Interior #1983",
+                "type": "interiorStory"
+            }
+        ],
+        "returned": 2
+    },
+    "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/381/events",
+        "items": [],
+        "returned": 0
+    }
+}

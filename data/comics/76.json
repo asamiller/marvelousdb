@@ -1,0 +1,132 @@
+{
+    "id": 76,
+    "digitalId": 944,
+    "title": "Marvel Team-Up (2004) #1",
+    "issueNumber": 1,
+    "variantDescription": "",
+    "description": "\"GOLDEN CHILD\" PART 1 (OF 2)\r\nWhen Cerebro detects Paul Patterson, a student attending Peter Parker's school who has developed mutant powers -- it sets Wolverine and Spider-Man on the same path.  But with competing agendas, will they work together?  Will they be at odds?  Hard to say... but the title doesn’t say \"Super Friends,\" gang! \r\n",
+    "modified": "-0001-11-30T00:00:00-0500",
+    "isbn": "",
+    "upc": "5960605620-00111",
+    "diamondCode": "",
+    "ean": "",
+    "issn": "",
+    "format": "Comic",
+    "pageCount": 0,
+    "textObjects": [
+        {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "\"GOLDEN CHILD\" PART 1 (OF 2)\r\nWhen Cerebro detects Paul Patterson, a student attending Peter Parker's school who has developed mutant powers -- it sets Wolverine and Spider-Man on the same path.  But with competing agendas, will they work together?  Will they be at odds?  Hard to say... but the title doesn’t say \"Super Friends,\" gang! \r\n"
+        }
+    ],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/76",
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/76/marvel_team-up_2004_1?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=944&utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ],
+    "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/813",
+        "name": "Marvel Team-Up (2004 - 2006)"
+    },
+    "variants": [],
+    "collections": [
+        {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/1956",
+            "name": "Marvel Team-Up Vol. 1: The Golden Child (Trade Paperback)"
+        }
+    ],
+    "collectedIssues": [],
+    "dates": [
+        {
+            "type": "onsaleDate",
+            "date": "2004-11-03T00:00:00-0500"
+        },
+        {
+            "type": "focDate",
+            "date": "-0001-11-30T00:00:00-0500"
+        },
+        {
+            "type": "unlimitedDate",
+            "date": "2007-11-13T00:00:00-0500"
+        }
+    ],
+    "prices": [
+        {
+            "type": "printPrice",
+            "price": 2.25
+        }
+    ],
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/8/d0/4bc6b0a29653a",
+        "extension": "jpg"
+    },
+    "images": [
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/8/d0/4bc6b0a29653a",
+            "extension": "jpg"
+        }
+    ],
+    "creators": {
+        "available": 4,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/76/creators",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/430",
+                "name": "Edgar Delgado",
+                "role": "colorist"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/452",
+                "name": "Chris Eliopoulos",
+                "role": "letterer"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/553",
+                "name": "Robert Kirkman",
+                "role": "writer"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/194",
+                "name": "Scott Kolins",
+                "role": "penciller (cover)"
+            }
+        ],
+        "returned": 4
+    },
+    "characters": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/76/characters",
+        "items": [],
+        "returned": 0
+    },
+    "stories": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/76/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/4103",
+                "name": "1 of 2 - Spider-Man & Wolverine",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/4104",
+                "name": "1 of 2 - Spider-Man & Wolverine",
+                "type": "interiorStory"
+            }
+        ],
+        "returned": 2
+    },
+    "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/76/events",
+        "items": [],
+        "returned": 0
+    }
+}

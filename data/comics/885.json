@@ -1,0 +1,142 @@
+{
+    "id": 885,
+    "digitalId": 6914,
+    "title": "Spectacular Spider-Man (2003) #20",
+    "issueNumber": 20,
+    "variantDescription": "",
+    "description": "AVENGERS DISASSEMBLED TIE-IN! PART 4 (OF 4) \r<br>At his lowest ebb, struggling to hold onto the last vestige of the humanity buried deep inside him, Spidey is lent a helping hand by one of Earth's Mightiest Heroes!",
+    "modified": "-0001-11-30T00:00:00-0500",
+    "isbn": "",
+    "upc": "5960605427-02011",
+    "diamondCode": "",
+    "ean": "",
+    "issn": "",
+    "format": "Comic",
+    "pageCount": 0,
+    "textObjects": [
+        {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "AVENGERS DISASSEMBLED TIE-IN! PART 4 (OF 4) \r<br>At his lowest ebb, struggling to hold onto the last vestige of the humanity buried deep inside him, Spidey is lent a helping hand by one of Earth's Mightiest Heroes!"
+        }
+    ],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/885",
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/885/spectacular_spider-man_2003_20?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=6914&utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ],
+    "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/556",
+        "name": "Spectacular Spider-Man (2003 - 2005)"
+    },
+    "variants": [],
+    "collections": [
+        {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/1487",
+            "name": "Spectacular Spider-Man Vol. 4: Disassembled (Trade Paperback)"
+        }
+    ],
+    "collectedIssues": [],
+    "dates": [
+        {
+            "type": "onsaleDate",
+            "date": "2004-10-20T00:00:00-0400"
+        },
+        {
+            "type": "focDate",
+            "date": "-0001-11-30T00:00:00-0500"
+        },
+        {
+            "type": "unlimitedDate",
+            "date": "2008-10-06T00:00:00-0400"
+        }
+    ],
+    "prices": [
+        {
+            "type": "printPrice",
+            "price": 2.25
+        }
+    ],
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/a/00/4bc674e67fb65",
+        "extension": "jpg"
+    },
+    "images": [
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/a/00/4bc674e67fb65",
+            "extension": "jpg"
+        }
+    ],
+    "creators": {
+        "available": 4,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/885/creators",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/544",
+                "name": "Wayne Faucher",
+                "role": "inker"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/55",
+                "name": "Paul Jenkins",
+                "role": "writer"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/361",
+                "name": "Cory Petit",
+                "role": "letterer"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/72",
+                "name": "Humberto Ramos",
+                "role": "penciller (cover)"
+            }
+        ],
+        "returned": 4
+    },
+    "characters": {
+        "available": 1,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/885/characters",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009610",
+                "name": "Spider-Man"
+            }
+        ],
+        "returned": 1
+    },
+    "stories": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/885/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/1870",
+                "name": "AVENGERS DISASSEMBLED TIE-IN! PART 4 (OF 4) At his lowest ebb, struggling to hold onto the last vestige of the humanity buried d",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/1871",
+                "name": "AVENGERS DISASSEMBLED TIE-IN! PART 4 (OF 4) At his lowest ebb, struggling to hold onto the last vestige of the humanity buried d",
+                "type": "interiorStory"
+            }
+        ],
+        "returned": 2
+    },
+    "events": {
+        "available": 1,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/885/events",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/events/234",
+                "name": "Avengers Disassembled"
+            }
+        ],
+        "returned": 1
+    }
+}

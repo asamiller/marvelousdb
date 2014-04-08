@@ -1,0 +1,161 @@
+{
+    "id": 34623,
+    "digitalId": 19196,
+    "title": "Carnage (2010) #3",
+    "issueNumber": 3,
+    "variantDescription": "",
+    "description": "Spider-Man and Iron Man face defeat and death at the hands of the blood-thirsty symbiote and its lethal new host! Bet Spider-Man never thought he’d actually miss the psychotic serial killer Cletus Kasady inside the murderous alien suit…\n",
+    "modified": "2013-07-01T13:20:58-0400",
+    "isbn": "",
+    "upc": "5960607369-00311",
+    "diamondCode": "DEC100570",
+    "ean": "",
+    "issn": "",
+    "format": "Comic",
+    "pageCount": 32,
+    "textObjects": [
+        {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "Spider-Man and Iron Man face defeat and death at the hands of the blood-thirsty symbiote and its lethal new host! Bet Spider-Man never thought he’d actually miss the psychotic serial killer Cletus Kasady inside the murderous alien suit…"
+        },
+        {
+            "type": "issue_preview_text",
+            "language": "en-us",
+            "text": "Spider-Man and Iron Man face defeat and death at the hands of the blood-thirsty symbiote and its lethal new host! Bet Spider-Man never thought he’d actually miss the psychotic serial killer Cletus Kasady inside the murderous alien suit…\n"
+        }
+    ],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/34623",
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/34623/carnage_2010_3?utm_campaign=apiRef&utm_source=046266cc733f0e6ea56d0b992f16d598"
+        },
+        {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/Carnage-3/digital-comic/19196?utm_campaign=apiRef&utm_source=046266cc733f0e6ea56d0b992f16d598"
+        },
+        {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=19196&utm_campaign=apiRef&utm_source=046266cc733f0e6ea56d0b992f16d598"
+        },
+        {
+            "type": "inAppLink",
+            "url": "http://applink.marvel.com/issue/19196?utm_campaign=apiRef&utm_source=046266cc733f0e6ea56d0b992f16d598"
+        }
+    ],
+    "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/11942",
+        "name": "Carnage (2010 - 2011)"
+    },
+    "variants": [
+        {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/39650",
+            "name": "Carnage (2010) #3 (2nd Printing Variant)"
+        }
+    ],
+    "collections": [],
+    "collectedIssues": [],
+    "dates": [
+        {
+            "type": "onsaleDate",
+            "date": "2011-02-09T00:00:00-0500"
+        },
+        {
+            "type": "focDate",
+            "date": "2011-01-25T00:00:00-0500"
+        },
+        {
+            "type": "unlimitedDate",
+            "date": "2012-01-16T00:00:00-0500"
+        },
+        {
+            "type": "digitalPurchaseDate",
+            "date": "2011-12-20T00:00:00-0500"
+        }
+    ],
+    "prices": [
+        {
+            "type": "printPrice",
+            "price": 3.99
+        },
+        {
+            "type": "digitalPurchasePrice",
+            "price": 1.99
+        }
+    ],
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/5/00/4f6899c71968c",
+        "extension": "jpg"
+    },
+    "images": [
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/5/00/4f6899c71968c",
+            "extension": "jpg"
+        }
+    ],
+    "creators": {
+        "available": 3,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/34623/creators",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/600",
+                "name": "Clayton Crain",
+                "role": "penciller (cover)"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/9471",
+                "name": "Stephen Wacker",
+                "role": "editor"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/10409",
+                "name": "Zeb Wells",
+                "role": "writer"
+            }
+        ],
+        "returned": 3
+    },
+    "characters": {
+        "available": 3,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/34623/characters",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009227",
+                "name": "Carnage"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009368",
+                "name": "Iron Man"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009610",
+                "name": "Spider-Man"
+            }
+        ],
+        "returned": 3
+    },
+    "stories": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/34623/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/76812",
+                "name": "Carnage #3",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/76813",
+                "name": "Carnage #3",
+                "type": "interiorStory"
+            }
+        ],
+        "returned": 2
+    },
+    "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/34623/events",
+        "items": [],
+        "returned": 0
+    }
+}

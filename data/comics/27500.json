@@ -1,0 +1,137 @@
+{
+    "id": 27500,
+    "digitalId": 12837,
+    "title": "War of Kings: Warriors - Blastaar (2009) #1",
+    "issueNumber": 1,
+    "variantDescription": "",
+    "description": "MARVEL DIGITAL COMICS EXCLUSIVE\r\n\r\nWhat is Blastaar's grand plan, and how far will he go to succeed? Christos Gage and Carlos Magno show you why you will bow to the living bomb blast!",
+    "modified": "-0001-11-30T00:00:00-0500",
+    "isbn": "",
+    "upc": "5960606908-00111",
+    "diamondCode": "",
+    "ean": "",
+    "issn": "",
+    "format": "Digital Comic",
+    "pageCount": 8,
+    "textObjects": [
+        {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "MARVEL DIGITAL COMICS EXCLUSIVE\r\n\r\nWhat is Blastaar's grand plan, and how far will he go to succeed? Christos Gage and Carlos Magno show you why you will bow to the living bomb blast!"
+        }
+    ],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/27500",
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/27500/war_of_kings_warriors_-_blastaar_2009_1?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=12837&utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ],
+    "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/8792",
+        "name": "War of Kings: Warriors - Blastaar (2009)"
+    },
+    "variants": [],
+    "collections": [],
+    "collectedIssues": [],
+    "dates": [
+        {
+            "type": "onsaleDate",
+            "date": "2009-07-01T00:00:00-0400"
+        },
+        {
+            "type": "focDate",
+            "date": "2009-06-29T00:00:00-0400"
+        },
+        {
+            "type": "unlimitedDate",
+            "date": "2009-07-01T00:00:00-0400"
+        }
+    ],
+    "prices": [
+        {
+            "type": "printPrice",
+            "price": 0
+        }
+    ],
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/30/4bb44500e5685",
+        "extension": "jpg"
+    },
+    "images": [
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/30/4bb44500e5685",
+            "extension": "jpg"
+        }
+    ],
+    "creators": {
+        "available": 5,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/27500/creators",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/11765",
+                "name": "Christos Gage",
+                "role": "writer"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/538",
+                "name": "Jeffrey Huet",
+                "role": "inker"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/1005",
+                "name": "Carlos Magno",
+                "role": "penciller"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/8429",
+                "name": "Dave Sharpe",
+                "role": "letterer"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/4267",
+                "name": "Andy Troy",
+                "role": "colorist"
+            }
+        ],
+        "returned": 5
+    },
+    "characters": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/27500/characters",
+        "items": [],
+        "returned": 0
+    },
+    "stories": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/27500/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/60307",
+                "name": "Cover #60307",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/60308",
+                "name": "Interior #60308",
+                "type": "interiorStory"
+            }
+        ],
+        "returned": 2
+    },
+    "events": {
+        "available": 1,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/27500/events",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/events/276",
+                "name": "War of Kings"
+            }
+        ],
+        "returned": 1
+    }
+}

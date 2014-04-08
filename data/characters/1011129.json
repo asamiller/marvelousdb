@@ -1,0 +1,74 @@
+{
+    "id": 1011129,
+    "name": "Mystique (Ultimate)",
+    "description": "",
+    "modified": "1969-12-31T19:00:00-0500",
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available",
+        "extension": "jpg"
+    },
+    "resourceURI": "http://gateway.marvel.com/v1/public/characters/1011129",
+    "comics": {
+        "available": 3,
+        "collectionURI": "http://gateway.marvel.com/v1/public/characters/1011129/comics",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/comics/17378",
+                "name": "Ultimates 3 (2007) #1"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/comics/17377",
+                "name": "Ultimates 3 (2007) #1 (Villains Gatefold)"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/comics/24316",
+                "name": "Ultimates 3: Who Killed the Scarlet Witch? (Trade Paperback)"
+            }
+        ],
+        "returned": 3
+    },
+    "series": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/characters/1011129/series",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/series/3188",
+                "name": "Ultimates 3 (2007 - 2008)"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/series/7515",
+                "name": "Ultimates 3: Who Killed the Scarlet Witch? (2009 - Present)"
+            }
+        ],
+        "returned": 2
+    },
+    "stories": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/characters/1011129/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/36428",
+                "name": "Sex, Lies, and DVDs 1 of 5",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/36430",
+                "name": "Sex, Lies, and DVDs 1 of 5",
+                "type": "cover"
+            }
+        ],
+        "returned": 2
+    },
+    "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/characters/1011129/events",
+        "items": [],
+        "returned": 0
+    },
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/characters/1011129/mystique_ultimate?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ]
+}

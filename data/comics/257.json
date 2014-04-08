@@ -1,0 +1,131 @@
+{
+    "id": 257,
+    "digitalId": 3787,
+    "title": "Ultimate X-Men (2000) #39",
+    "issueNumber": 39,
+    "variantDescription": "",
+    "description": "“BLOCKBUSTER” Finale!\r\nThe secret of Wolverine's would-be assassins is revealed. The confrontation is more than you can imagine. Also, Jean Grey's powers seem out of control. What's up with that?\r\n32 PGS./ALL AGES …$2.25",
+    "modified": "-0001-11-30T00:00:00-0500",
+    "isbn": "",
+    "upc": "5960605428-00411",
+    "diamondCode": "",
+    "ean": "",
+    "issn": "",
+    "format": "Comic",
+    "pageCount": 0,
+    "textObjects": [
+        {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "“BLOCKBUSTER” Finale!\r\nThe secret of Wolverine's would-be assassins is revealed. The confrontation is more than you can imagine. Also, Jean Grey's powers seem out of control. What's up with that?\r\n32 PGS./ALL AGES …$2.25"
+        }
+    ],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/257",
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/257/ultimate_x-men_2000_39?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=3787&utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ],
+    "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/474",
+        "name": "Ultimate X-Men (2000 - 2009)"
+    },
+    "variants": [],
+    "collections": [],
+    "collectedIssues": [],
+    "dates": [
+        {
+            "type": "onsaleDate",
+            "date": "2003-11-12T00:00:00-0500"
+        },
+        {
+            "type": "focDate",
+            "date": "-0001-11-30T00:00:00-0500"
+        },
+        {
+            "type": "unlimitedDate",
+            "date": "2007-11-13T00:00:00-0500"
+        }
+    ],
+    "prices": [
+        {
+            "type": "printPrice",
+            "price": 2.25
+        }
+    ],
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/8/b0/4bc6a40d3f207",
+        "extension": "jpg"
+    },
+    "images": [
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/b0/4d227494d3c75",
+            "extension": "jpg"
+        },
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/8/b0/4bc6a40d3f207",
+            "extension": "jpg"
+        }
+    ],
+    "creators": {
+        "available": 3,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/257/creators",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/24",
+                "name": "Brian Michael Bendis",
+                "role": "writer"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/248",
+                "name": "David Finch",
+                "role": "penciller (cover)"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/568",
+                "name": "Art Thibert",
+                "role": "inker"
+            }
+        ],
+        "returned": 3
+    },
+    "characters": {
+        "available": 1,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/257/characters",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1011109",
+                "name": "X-Men (Ultimate)"
+            }
+        ],
+        "returned": 1
+    },
+    "stories": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/257/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/1886",
+                "name": "Cover #1886",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/1887",
+                "name": "Interior #1887",
+                "type": "interiorStory"
+            }
+        ],
+        "returned": 2
+    },
+    "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/257/events",
+        "items": [],
+        "returned": 0
+    }
+}

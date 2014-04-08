@@ -1,0 +1,217 @@
+{
+    "id": 10008,
+    "digitalId": 3034,
+    "title": "Marvel Comics (1939) #1",
+    "issueNumber": 1,
+    "variantDescription": "",
+    "description": null,
+    "modified": "2012-08-13T15:37:30-0400",
+    "isbn": "",
+    "upc": "",
+    "diamondCode": "",
+    "ean": "",
+    "issn": "",
+    "format": "Comic",
+    "pageCount": 68,
+    "textObjects": [
+        {
+            "type": "70th_winner_desc",
+            "language": "en-us",
+            "text": "The one that started it all, featuring the first appearances of both the the android Human Torch and the Sub-Mariner!"
+        }
+    ],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/10008",
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/10008/marvel_comics_1939_1?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=3034&utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ],
+    "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/2038",
+        "name": "Marvel Comics (1939)"
+    },
+    "variants": [
+        {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/10009",
+            "name": "Marvel Comics (1939) #1"
+        }
+    ],
+    "collections": [
+        {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/1231",
+            "name": "Marvel Masterworks: The Sub-Mariner Vol. I (2nd) (Trade Paperback)"
+        }
+    ],
+    "collectedIssues": [],
+    "dates": [
+        {
+            "type": "onsaleDate",
+            "date": "1939-11-10T00:00:00-0500"
+        },
+        {
+            "type": "focDate",
+            "date": "-0001-11-30T00:00:00-0500"
+        },
+        {
+            "type": "unlimitedDate",
+            "date": "2007-11-13T00:00:00-0500"
+        }
+    ],
+    "prices": [
+        {
+            "type": "printPrice",
+            "price": 0.1
+        }
+    ],
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/1/00/5029570997db4",
+        "extension": "jpg"
+    },
+    "images": [
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/1/00/5029570997db4",
+            "extension": "jpg"
+        },
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/30/4d473c96dd1a0",
+            "extension": "jpg"
+        },
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/30/4d473b3cd08a7",
+            "extension": "jpg"
+        }
+    ],
+    "creators": {
+        "available": 9,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/10008/creators",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/1304",
+                "name": "Al Anders",
+                "role": "writer"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/408",
+                "name": "Carl Burgos",
+                "role": "writer"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/1436",
+                "name": "Tohm Dixon",
+                "role": "writer"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/297",
+                "name": "Bill Everett",
+                "role": "writer"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/1437",
+                "name": "Ray Gill",
+                "role": "writer"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/1303",
+                "name": "Paul Gustavson",
+                "role": "writer"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/961",
+                "name": "Ben Thompson",
+                "role": "writer"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/1434",
+                "name": "Martin Goodman",
+                "role": "editor"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/1435",
+                "name": "Frank Paul",
+                "role": "penciller (cover)"
+            }
+        ],
+        "returned": 9
+    },
+    "characters": {
+        "available": 4,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/10008/characters",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009159",
+                "name": "Archangel"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009356",
+                "name": "Human Torch"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010932",
+                "name": "Human Torch (Jim Hammond)"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010791",
+                "name": "Sub-Mariner"
+            }
+        ],
+        "returned": 4
+    },
+    "stories": {
+        "available": 8,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/10008/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/8821",
+                "name": "Cover #8821",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/8822",
+                "name": "[Origin of the Human Torch]",
+                "type": "interiorStory"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/8823",
+                "name": "[The Six Big Men]",
+                "type": "interiorStory"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/8824",
+                "name": "[Origin of the Sub-Mariner]",
+                "type": "interiorStory"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/8825",
+                "name": "[Origin of the Masked Raider]",
+                "type": "interiorStory"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/8826",
+                "name": "Jungle Terror",
+                "type": "interiorStory"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/8827",
+                "name": "Burning Rubber",
+                "type": "text story"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/8828",
+                "name": "[Origin of Ka-Zar]",
+                "type": "interiorStory"
+            }
+        ],
+        "returned": 8
+    },
+    "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/10008/events",
+        "items": [],
+        "returned": 0
+    }
+}

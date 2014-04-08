@@ -1,0 +1,168 @@
+{
+    "id": 21936,
+    "digitalId": 11704,
+    "title": "Ultimate Spider-Man (2000) #126",
+    "issueNumber": 126,
+    "variantDescription": "",
+    "description": "Guest-starring the Ultimates! The worst has happened -- Peter Parker has become the dreaded symbiote Venom! And not only is Silver Sable and her Wildpack on his gooey trail, but our troubled hero is also in the crosshairs of the Ultimates!\r<br>Rated A …$2.99\r<br>",
+    "modified": "-0001-11-30T00:00:00-0500",
+    "isbn": "",
+    "upc": "5960605031-12611",
+    "diamondCode": "JUL082261",
+    "ean": "",
+    "issn": "",
+    "format": "Comic",
+    "pageCount": 32,
+    "textObjects": [
+        {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "Guest-starring the Ultimates! The worst has happened -- Peter Parker has become the dreaded symbiote Venom! And not only is Silver Sable and her Wildpack on his gooey trail, but our troubled hero is also in the crosshairs of the Ultimates!\r<br>Rated A …$2.99\r<br>"
+        }
+    ],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/21936",
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/21936/ultimate_spider-man_2000_126?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/Ultimate-Spider-Man-126/digital-comic/11704?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=11704&utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "inAppLink",
+            "url": "http://applink.marvel.com/issue/11704?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ],
+    "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/466",
+        "name": "Ultimate Spider-Man (2000 - 2009)"
+    },
+    "variants": [],
+    "collections": [
+        {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/23195",
+            "name": "Ultimate Spider-Man Vol. 21: War of the Symbiotes (Trade Paperback)"
+        }
+    ],
+    "collectedIssues": [],
+    "dates": [
+        {
+            "type": "onsaleDate",
+            "date": "2008-09-24T00:00:00-0400"
+        },
+        {
+            "type": "focDate",
+            "date": "2008-09-04T00:00:00-0400"
+        },
+        {
+            "type": "unlimitedDate",
+            "date": "2009-08-24T00:00:00-0400"
+        },
+        {
+            "type": "digitalPurchaseDate",
+            "date": "2012-02-14T00:00:00-0500"
+        }
+    ],
+    "prices": [
+        {
+            "type": "printPrice",
+            "price": 2.99
+        },
+        {
+            "type": "digitalPurchasePrice",
+            "price": 1.99
+        }
+    ],
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/e/a0/4bb718ec4aaa2",
+        "extension": "jpg"
+    },
+    "images": [
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/e/a0/4bb718ec4aaa2",
+            "extension": "jpg"
+        }
+    ],
+    "creators": {
+        "available": 7,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/21936/creators",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/24",
+                "name": "Brian Michael Bendis",
+                "role": "writer"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/452",
+                "name": "Chris Eliopoulos",
+                "role": "other"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/798",
+                "name": "Richard Isanove",
+                "role": "other"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/552",
+                "name": "Wade von Grawbadger",
+                "role": "inker"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/192",
+                "name": "Stuart Immonen",
+                "role": "penciller"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/361",
+                "name": "Cory Petit",
+                "role": "letterer"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/360",
+                "name": "Justin Ponsor",
+                "role": "colorist"
+            }
+        ],
+        "returned": 7
+    },
+    "characters": {
+        "available": 1,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/21936/characters",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1011010",
+                "name": "Spider-Man (Ultimate)"
+            }
+        ],
+        "returned": 1
+    },
+    "stories": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/21936/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/48212",
+                "name": "4 of 5 Symbiote War",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/48213",
+                "name": "4 of 5 Symbiote War",
+                "type": "interiorStory"
+            }
+        ],
+        "returned": 2
+    },
+    "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/21936/events",
+        "items": [],
+        "returned": 0
+    }
+}

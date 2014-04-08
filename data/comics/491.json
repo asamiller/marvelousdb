@@ -1,0 +1,135 @@
+{
+    "id": 491,
+    "digitalId": 5018,
+    "title": "Amazing Spider-Man (1999) #507",
+    "issueNumber": 507,
+    "variantDescription": "",
+    "description": "Concluding a 3-part arc, featuring the mysterious Ezekiel!\r\n32 PGS./MARVEL PSR…$2.25",
+    "modified": "2011-08-29T15:18:20-0400",
+    "isbn": "",
+    "upc": "5960604716-50711",
+    "diamondCode": "",
+    "ean": "",
+    "issn": "",
+    "format": "Comic",
+    "pageCount": 0,
+    "textObjects": [
+        {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "Concluding a 3-part arc, featuring the mysterious Ezekiel!\r\n32 PGS./MARVEL PSR…$2.25"
+        }
+    ],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/491",
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/491/amazing_spider-man_1999_507?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=5018&utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ],
+    "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/454",
+        "name": "Amazing Spider-Man (1999 - 2013)"
+    },
+    "variants": [],
+    "collections": [
+        {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/2970",
+            "name": "Amazing Spider-Man Vol. 7: The Book of Ezekiel (Trade Paperback)"
+        },
+        {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/1333",
+            "name": "Amazing Spider-Man Vol. 7: The Book of Ezekiel (Trade Paperback)"
+        }
+    ],
+    "collectedIssues": [],
+    "dates": [
+        {
+            "type": "onsaleDate",
+            "date": "2004-04-28T00:00:00-0400"
+        },
+        {
+            "type": "focDate",
+            "date": "1961-01-01T00:00:00-0500"
+        },
+        {
+            "type": "unlimitedDate",
+            "date": "2008-03-24T00:00:00-0400"
+        }
+    ],
+    "prices": [
+        {
+            "type": "printPrice",
+            "price": 2.25
+        }
+    ],
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/d0/4bc692c970e7c",
+        "extension": "jpg"
+    },
+    "images": [
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/d0/4bc692c970e7c",
+            "extension": "jpg"
+        }
+    ],
+    "creators": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/491/creators",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/30",
+                "name": "Stan Lee",
+                "role": "writer"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/214",
+                "name": "John Romita JR.",
+                "role": "penciller (cover)"
+            }
+        ],
+        "returned": 2
+    },
+    "characters": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/491/characters",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1011199",
+                "name": "Ezekiel"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009610",
+                "name": "Spider-Man"
+            }
+        ],
+        "returned": 2
+    },
+    "stories": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/491/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/1141",
+                "name": "Cover #1141",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/1142",
+                "name": "Interior #1142",
+                "type": "interiorStory"
+            }
+        ],
+        "returned": 2
+    },
+    "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/491/events",
+        "items": [],
+        "returned": 0
+    }
+}

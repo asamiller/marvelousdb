@@ -1,0 +1,108 @@
+{
+    "id": 49103,
+    "digitalId": 0,
+    "title": "Night of the Living Deadpool (2014) #3",
+    "issueNumber": 3,
+    "variantDescription": "",
+    "description": "\r\n\r\n\r\n\r\n\r\n<ul><li>See the hideous, rotting-fleshed monster shambling about the landscape!</li><li>Also: there are zombies in this comic!</li><li>Get it? That first one was about Deadpool.</li></ul>",
+    "modified": "2014-02-14T09:48:18-0500",
+    "isbn": "",
+    "upc": "759606079941000311",
+    "diamondCode": "DEC130750",
+    "ean": "",
+    "issn": "",
+    "format": "Comic",
+    "pageCount": 32,
+    "textObjects": [
+        {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "\r\n\r\n\r\n\r\n\r\n<ul><li>See the hideous, rotting-fleshed monster shambling about the landscape!</li><li>Also: there are zombies in this comic!</li><li>Get it? That first one was about Deadpool.</li></ul>"
+        }
+    ],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/49103",
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/49103/night_of_the_living_deadpool_2014_3?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/Night-of-the-Living-Deadpool-3/digital-comic/33026?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ],
+    "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/18469",
+        "name": "Night of the Living Deadpool (2014 - Present)"
+    },
+    "variants": [],
+    "collections": [],
+    "collectedIssues": [],
+    "dates": [
+        {
+            "type": "onsaleDate",
+            "date": "2014-02-19T00:00:00-0500"
+        },
+        {
+            "type": "focDate",
+            "date": "2014-02-05T00:00:00-0500"
+        }
+    ],
+    "prices": [
+        {
+            "type": "printPrice",
+            "price": 3.99
+        }
+    ],
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/8/e0/52865eca030cd",
+        "extension": "jpg"
+    },
+    "images": [
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/8/e0/52865eca030cd",
+            "extension": "jpg"
+        }
+    ],
+    "creators": {
+        "available": 1,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/49103/creators",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/8822",
+                "name": "Jordan White",
+                "role": "editor"
+            }
+        ],
+        "returned": 1
+    },
+    "characters": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/49103/characters",
+        "items": [],
+        "returned": 0
+    },
+    "stories": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/49103/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/110293",
+                "name": "cover from Night of the Living Deadpool (2014) #3",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/110294",
+                "name": "story from Night of the Living Deadpool (2014) #3",
+                "type": "interiorStory"
+            }
+        ],
+        "returned": 2
+    },
+    "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/49103/events",
+        "items": [],
+        "returned": 0
+    }
+}

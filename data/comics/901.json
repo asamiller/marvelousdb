@@ -1,0 +1,153 @@
+{
+    "id": 901,
+    "digitalId": 2060,
+    "title": "Madrox (2004) #2",
+    "issueNumber": 2,
+    "variantDescription": "",
+    "description": "PART 2 (OF 5) The murder of one of Madrox’s dupes sends the original Jamie on a quest to the Windy City of Chicago to determine just who was responsible... unaware that Clay, the assassin who killed his dupe, is still stalking him, determined to finish th",
+    "modified": "-0001-11-30T00:00:00-0500",
+    "isbn": "",
+    "upc": "5960605555-00211",
+    "diamondCode": "",
+    "ean": "",
+    "issn": "",
+    "format": "Comic",
+    "pageCount": 0,
+    "textObjects": [
+        {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "PART 2 (OF 5) The murder of one of Madrox’s dupes sends the original Jamie on a quest to the Windy City of Chicago to determine just who was responsible... unaware that Clay, the assassin who killed his dupe, is still stalking him, determined to finish th"
+        }
+    ],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/901",
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/901/madrox_2004_2?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/Madrox-2/digital-comic/2060?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=2060&utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "inAppLink",
+            "url": "http://applink.marvel.com/issue/2060?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ],
+    "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/762",
+        "name": "Madrox (2004 - 2005)"
+    },
+    "variants": [],
+    "collections": [
+        {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/1734",
+            "name": "Madrox: Multiple Choice (Trade Paperback)"
+        }
+    ],
+    "collectedIssues": [],
+    "dates": [
+        {
+            "type": "onsaleDate",
+            "date": "2004-10-20T00:00:00-0400"
+        },
+        {
+            "type": "focDate",
+            "date": "-0001-11-30T00:00:00-0500"
+        },
+        {
+            "type": "unlimitedDate",
+            "date": "2007-04-28T00:00:00-0400"
+        },
+        {
+            "type": "digitalPurchaseDate",
+            "date": "2010-11-16T00:00:00-0500"
+        }
+    ],
+    "prices": [
+        {
+            "type": "printPrice",
+            "price": 2.99
+        },
+        {
+            "type": "digitalPurchasePrice",
+            "price": 1.99
+        }
+    ],
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/f0/4c7d67a917c64",
+        "extension": "jpg"
+    },
+    "images": [
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/f0/4c7d67a917c64",
+            "extension": "jpg"
+        }
+    ],
+    "creators": {
+        "available": 4,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/901/creators",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/121",
+                "name": "Peter David",
+                "role": "writer"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/813",
+                "name": "David Lloyd",
+                "role": "penciller (cover)"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/814",
+                "name": "Pablo Raimondi",
+                "role": "penciller"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/582",
+                "name": "Brian Reber",
+                "role": "colorist"
+            }
+        ],
+        "returned": 4
+    },
+    "characters": {
+        "available": 1,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/901/characters",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009413",
+                "name": "Madrox"
+            }
+        ],
+        "returned": 1
+    },
+    "stories": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/901/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/3582",
+                "name": "PART 2 (OF 5) The murder of one of Madrox’s dupes sends the original Jamie on a quest to the Windy City of Chicago to determine ",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/3583",
+                "name": "PART 2 (OF 5) The murder of one of Madrox’s dupes sends the original Jamie on a quest to the Windy City of Chicago to determine ",
+                "type": "interiorStory"
+            }
+        ],
+        "returned": 2
+    },
+    "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/901/events",
+        "items": [],
+        "returned": 0
+    }
+}

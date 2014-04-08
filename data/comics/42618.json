@@ -1,0 +1,148 @@
+{
+    "id": 42618,
+    "digitalId": 25392,
+    "title": "Marvel's The Avengers Prelude: Fury's Big Week (2011) #1",
+    "issueNumber": 1,
+    "variantDescription": "",
+    "description": "This exciting foray into the official Marvel Cinematic Universe is just in time for the Avengers blockbuster movie! How will S.H.I.E.L.D. maintain the status quo in a world full of green monsters, gods, and men in iron suits?",
+    "modified": "2012-02-02T15:17:22-0500",
+    "isbn": "",
+    "upc": "",
+    "diamondCode": "",
+    "ean": "",
+    "issn": "",
+    "format": "Digital Comic",
+    "pageCount": 32,
+    "textObjects": [
+        {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "This exciting foray into the official Marvel Cinematic Universe is just in time for the Avengers blockbuster movie! How will S.H.I.E.L.D. maintain the status quo in a world full of green monsters, gods, and men in iron suits?"
+        },
+        {
+            "type": "issue_preview_text",
+            "language": "en-us",
+            "text": "This exciting foray into the official Marvel Cinematic Universe is just in time for the Avengers blockbuster movie! How will S.H.I.E.L.D. maintain the status quo in a world full of green monsters, gods, and men in iron suits?"
+        }
+    ],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/42618",
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/42618/marvels_the_avengers_prelude_furys_big_week_2011_1?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/Marvel-s-The-Avengers-Prelude-Fury-s-Big-Week-1/digital-comic/25392?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=25392&utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "inAppLink",
+            "url": "http://applink.marvel.com/issue/25392?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ],
+    "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/15365",
+        "name": "Marvel's The Avengers Prelude: Fury's Big Week (2011 - 2012)"
+    },
+    "variants": [
+        {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/41338",
+            "name": "Marvel's The Avengers Prelude: Fury's Big Week (2011) #1"
+        }
+    ],
+    "collections": [],
+    "collectedIssues": [],
+    "dates": [
+        {
+            "type": "onsaleDate",
+            "date": "2012-03-07T00:00:00-0500"
+        },
+        {
+            "type": "focDate",
+            "date": "2012-02-21T00:00:00-0500"
+        },
+        {
+            "type": "unlimitedDate",
+            "date": "2013-03-18T00:00:00-0400"
+        },
+        {
+            "type": "digitalPurchaseDate",
+            "date": "2012-02-05T00:00:00-0500"
+        }
+    ],
+    "prices": [
+        {
+            "type": "printPrice",
+            "price": 0
+        },
+        {
+            "type": "digitalPurchasePrice",
+            "price": 0
+        }
+    ],
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/30/4f2aee7b330e7",
+        "extension": "jpg"
+    },
+    "images": [
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/30/4f2aee7b330e7",
+            "extension": "jpg"
+        }
+    ],
+    "creators": {
+        "available": 3,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/42618/creators",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/11611",
+                "name": "Eric Pearson",
+                "role": "writer"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/11539",
+                "name": "Christopher Yost",
+                "role": "writer"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/2338",
+                "name": "Luke Ross",
+                "role": "penciller"
+            }
+        ],
+        "returned": 3
+    },
+    "characters": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/42618/characters",
+        "items": [],
+        "returned": 0
+    },
+    "stories": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/42618/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/96326",
+                "name": "Marvel's The Avengers Prelude: Fury's Big Week",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/96327",
+                "name": "Marvel's The Avengers Prelude: Fury's Big Week",
+                "type": "interiorStory"
+            }
+        ],
+        "returned": 2
+    },
+    "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/42618/events",
+        "items": [],
+        "returned": 0
+    }
+}

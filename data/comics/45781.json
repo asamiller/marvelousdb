@@ -1,0 +1,123 @@
+{
+    "id": 45781,
+    "digitalId": 0,
+    "title": "All-New X-Men (2012) #8 (X-Men 50th Anniversary Variant)",
+    "issueNumber": 8,
+    "variantDescription": "X-Men 50th Anniversary Variant",
+    "description": "\r\n\r\n\r\n<ul><li>Guest-starring the Avengers!</li><li>How will the Earth&rsquo;s Mightiest Heroes react to the time-swept X-Men?</li></ul>",
+    "modified": "2013-02-22T13:53:45-0500",
+    "isbn": "",
+    "upc": "75960607900100821",
+    "diamondCode": "JAN130675",
+    "ean": "",
+    "issn": "",
+    "format": "Comic",
+    "pageCount": 32,
+    "textObjects": [
+        {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "\r\n\r\n\r\n<ul><li>Guest-starring the Avengers!</li><li>How will the Earth&rsquo;s Mightiest Heroes react to the time-swept X-Men?</li></ul>"
+        }
+    ],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/45781",
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/45781/all-new_x-men_2012_8_x-men_50th_anniversary_variant/x-men_50th_anniversary_variant?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ],
+    "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/16449",
+        "name": "All-New X-Men (2012 - Present)"
+    },
+    "variants": [
+        {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/47853",
+            "name": "All-New X-Men (2012) #8 (2nd Printing Variant)"
+        },
+        {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/43473",
+            "name": "All-New X-Men (2012) #8"
+        }
+    ],
+    "collections": [],
+    "collectedIssues": [],
+    "dates": [
+        {
+            "type": "onsaleDate",
+            "date": "2013-03-06T00:00:00-0500"
+        },
+        {
+            "type": "focDate",
+            "date": "2013-02-20T00:00:00-0500"
+        }
+    ],
+    "prices": [
+        {
+            "type": "printPrice",
+            "price": 3.99
+        }
+    ],
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/d0/511c50ec33ffc",
+        "extension": "jpg"
+    },
+    "images": [
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/d0/511c50ec33ffc",
+            "extension": "jpg"
+        }
+    ],
+    "creators": {
+        "available": 3,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/45781/creators",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/24",
+                "name": "Brian Michael Bendis",
+                "role": "writer"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/4300",
+                "name": "Nick Lowe",
+                "role": "editor"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/11610",
+                "name": "David Marquez",
+                "role": "artist"
+            }
+        ],
+        "returned": 3
+    },
+    "characters": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/45781/characters",
+        "items": [],
+        "returned": 0
+    },
+    "stories": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/45781/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/103018",
+                "name": "cover from All-New X-Men (2012) #8 (X-MEN 50TH ANNIVERSARY VARIANT)",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/103019",
+                "name": "story from All-New X-Men (2012) #8 (X-MEN 50TH ANNIVERSARY VARIANT)",
+                "type": "interiorStory"
+            }
+        ],
+        "returned": 2
+    },
+    "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/45781/events",
+        "items": [],
+        "returned": 0
+    }
+}

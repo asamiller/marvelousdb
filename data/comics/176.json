@@ -1,0 +1,143 @@
+{
+    "id": 176,
+    "digitalId": 7102,
+    "title": "Thanos (2003) #1",
+    "issueNumber": 1,
+    "variantDescription": "",
+    "description": "The most powerful, enigmatic villain in the Marvel Universe takes center stage in a galaxy-spanning new ongoing series by his creator, JIM STARLIN (MARVEL UNIVERSE: THE END). \r\nHe’s held ultimate power in his hands, only to see it all slip away time and again. His attempts at conquest and destruction have all been thwarted. So what inner demons drive the mad Titan known as Thanos towards his goals … and what hidden desires pull at his heart and mind now?\r\n32 PGS./MARVEL PSR…$2.99",
+    "modified": "-0001-11-30T00:00:00-0500",
+    "isbn": "",
+    "upc": "5960605396-01611",
+    "diamondCode": "",
+    "ean": "",
+    "issn": "",
+    "format": "Comic",
+    "pageCount": 0,
+    "textObjects": [
+        {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "The most powerful, enigmatic villain in the Marvel Universe takes center stage in a galaxy-spanning new ongoing series by his creator, JIM STARLIN (MARVEL UNIVERSE: THE END). \r\nHe’s held ultimate power in his hands, only to see it all slip away time and again. His attempts at conquest and destruction have all been thwarted. So what inner demons drive the mad Titan known as Thanos towards his goals … and what hidden desires pull at his heart and mind now?\r\n32 PGS./MARVEL PSR…$2.99"
+        }
+    ],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/176",
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/176/thanos_2003_1?utm_campaign=apiRef&utm_source=060c5822ea4a209732d430019a7e5703"
+        },
+        {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/Thanos-1/digital-comic/7102?utm_campaign=apiRef&utm_source=060c5822ea4a209732d430019a7e5703"
+        },
+        {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=7102&utm_campaign=apiRef&utm_source=060c5822ea4a209732d430019a7e5703"
+        },
+        {
+            "type": "inAppLink",
+            "url": "http://applink.marvel.com/issue/7102?utm_campaign=apiRef&utm_source=060c5822ea4a209732d430019a7e5703"
+        }
+    ],
+    "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/548",
+        "name": "Thanos (2003 - 2004)"
+    },
+    "variants": [],
+    "collections": [
+        {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/1289",
+            "name": "Thanos Vol. 4: Epiphany (Trade Paperback)"
+        }
+    ],
+    "collectedIssues": [],
+    "dates": [
+        {
+            "type": "onsaleDate",
+            "date": "2003-10-01T00:00:00-0400"
+        },
+        {
+            "type": "focDate",
+            "date": "-0001-11-30T00:00:00-0500"
+        },
+        {
+            "type": "unlimitedDate",
+            "date": "2008-09-17T00:00:00-0400"
+        },
+        {
+            "type": "digitalPurchaseDate",
+            "date": "2013-09-10T00:00:00-0400"
+        }
+    ],
+    "prices": [
+        {
+            "type": "printPrice",
+            "price": 2.99
+        },
+        {
+            "type": "digitalPurchasePrice",
+            "price": 1.99
+        }
+    ],
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/f/10/4bc6a92d2a3ef",
+        "extension": "jpg"
+    },
+    "images": [
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/f/10/4bc6a92d2a3ef",
+            "extension": "jpg"
+        }
+    ],
+    "creators": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/176/creators",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/435",
+                "name": "Al Milgrom",
+                "role": "inker"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/146",
+                "name": "Jim Starlin",
+                "role": "penciller (cover)"
+            }
+        ],
+        "returned": 2
+    },
+    "characters": {
+        "available": 1,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/176/characters",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009652",
+                "name": "Thanos"
+            }
+        ],
+        "returned": 1
+    },
+    "stories": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/176/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/1800",
+                "name": "Cover #1800",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/1801",
+                "name": "Interior #1801",
+                "type": "interiorStory"
+            }
+        ],
+        "returned": 2
+    },
+    "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/176/events",
+        "items": [],
+        "returned": 0
+    }
+}

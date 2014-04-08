@@ -1,0 +1,91 @@
+{
+    "id": 1009661,
+    "name": "The Watchers",
+    "description": "",
+    "modified": "1969-12-31T19:00:00-0500",
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available",
+        "extension": "jpg"
+    },
+    "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009661",
+    "comics": {
+        "available": 4,
+        "collectionURI": "http://gateway.marvel.com/v1/public/characters/1009661/comics",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/comics/2276",
+                "name": "Thing: Freakshow (Trade Paperback)"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/comics/11453",
+                "name": "Thing: Freakshow (2002) #4"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/comics/36070",
+                "name": "Thor: Black Galaxy Saga TPB (Trade Paperback)"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/comics/14329",
+                "name": "X-Men (1991) #40"
+            }
+        ],
+        "returned": 4
+    },
+    "series": {
+        "available": 4,
+        "collectionURI": "http://gateway.marvel.com/v1/public/characters/1009661/series",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/series/2082",
+                "name": "Thing: Freakshow (2002)"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/series/1608",
+                "name": "Thing: Freakshow (2005)"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/series/12847",
+                "name": "Thor: Black Galaxy Saga TPB (2010 - Present)"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/series/2265",
+                "name": "X-Men (1991 - 2001)"
+            }
+        ],
+        "returned": 4
+    },
+    "stories": {
+        "available": 3,
+        "collectionURI": "http://gateway.marvel.com/v1/public/characters/1009661/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/25936",
+                "name": "It's Clobberin' Time!",
+                "type": "interiorStory"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/29213",
+                "name": "The Killing Time",
+                "type": "interiorStory"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/79826",
+                "name": "Interior #79826",
+                "type": "interiorStory"
+            }
+        ],
+        "returned": 3
+    },
+    "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/characters/1009661/events",
+        "items": [],
+        "returned": 0
+    },
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/characters/1009661/the_watchers?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ]
+}

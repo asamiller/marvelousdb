@@ -1,0 +1,127 @@
+{
+    "id": 46200,
+    "digitalId": 0,
+    "title": "Iron Man (2012) #6 (Mcniven Design Variant)",
+    "issueNumber": 6,
+    "variantDescription": "Mcniven Design Variant",
+    "description": "\r\n\r\n\r\n\r\n<ul><li>Tony Stark. In Space. In a bar. With ladies. What could go wrong?</li><li>Is Tony guilty of a crime he&rsquo;s not even aware of?</li><li>A shocking start to an all-new, all-different direction for IRON MAN.</li></ul>",
+    "modified": "2013-02-04T10:21:51-0500",
+    "isbn": "",
+    "upc": "75960607909400621",
+    "diamondCode": "DEC120601",
+    "ean": "",
+    "issn": "",
+    "format": "Comic",
+    "pageCount": 32,
+    "textObjects": [
+        {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "\r\n\r\n\r\n\r\n<ul><li>Tony Stark. In Space. In a bar. With ladies. What could go wrong?</li><li>Is Tony guilty of a crime he&rsquo;s not even aware of?</li><li>A shocking start to an all-new, all-different direction for IRON MAN.</li></ul>"
+        }
+    ],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/46200",
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/46200/iron_man_2012_6_mcniven_design_variant/mcniven_design_variant?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ],
+    "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/16593",
+        "name": "Iron Man (2012 - Present)"
+    },
+    "variants": [
+        {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/47695",
+            "name": "Iron Man (2012) #6"
+        },
+        {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/46199",
+            "name": "Iron Man (2012) #6"
+        }
+    ],
+    "collections": [],
+    "collectedIssues": [],
+    "dates": [
+        {
+            "type": "onsaleDate",
+            "date": "2013-02-06T00:00:00-0500"
+        },
+        {
+            "type": "focDate",
+            "date": "2013-01-23T00:00:00-0500"
+        }
+    ],
+    "prices": [
+        {
+            "type": "printPrice",
+            "price": 3.99
+        }
+    ],
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/c0/510d734f6b87f",
+        "extension": "jpg"
+    },
+    "images": [
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/c0/510d734f6b87f",
+            "extension": "jpg"
+        },
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/8/80/510ad21c16fe4",
+            "extension": "jpg"
+        }
+    ],
+    "creators": {
+        "available": 3,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/46200/creators",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/8901",
+                "name": "Kieron Gillen",
+                "role": "writer"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/425",
+                "name": "Greg Land",
+                "role": "artist"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/9484",
+                "name": "Steve McNiven",
+                "role": "penciller (cover)"
+            }
+        ],
+        "returned": 3
+    },
+    "characters": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/46200/characters",
+        "items": [],
+        "returned": 0
+    },
+    "stories": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/46200/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/103960",
+                "name": "cover from Iron Man (2012) #6 (PAGULAYAN DESIGN VARIANT)",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/103961",
+                "name": "story from Iron Man (2012) #6 (PAGULAYAN DESIGN VARIANT)",
+                "type": "interiorStory"
+            }
+        ],
+        "returned": 2
+    },
+    "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/46200/events",
+        "items": [],
+        "returned": 0
+    }
+}

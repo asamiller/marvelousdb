@@ -1,0 +1,162 @@
+{
+    "id": 38796,
+    "digitalId": 25060,
+    "title": "Fantastic Four (1998) #601",
+    "issueNumber": 601,
+    "variantDescription": "",
+    "description": "\"Forever\" Part 2 Finally, It's Clobberin' Time. ",
+    "modified": "2013-07-01T13:48:37-0400",
+    "isbn": "",
+    "upc": "5960604456-60111",
+    "diamondCode": "OCT110648",
+    "ean": "",
+    "issn": "0274-5291",
+    "format": "Comic",
+    "pageCount": 32,
+    "textObjects": [
+        {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "\"Forever\" Part 2 Finally, It's Clobberin' Time. "
+        },
+        {
+            "type": "issue_preview_text.",
+            "language": "en-us",
+            "text": "FOREVER PART 2 Finally, It's Clobberin' Time. "
+        }
+    ],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/38796",
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/38796/fantastic_four_1998_601?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/Fantastic-Four-601/digital-comic/25060?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=25060&utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "inAppLink",
+            "url": "http://applink.marvel.com/issue/25060?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ],
+    "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/421",
+        "name": "Fantastic Four (1998 - 2012)"
+    },
+    "variants": [],
+    "collections": [],
+    "collectedIssues": [],
+    "dates": [
+        {
+            "type": "onsaleDate",
+            "date": "2011-12-21T00:00:00-0500"
+        },
+        {
+            "type": "focDate",
+            "date": "2011-12-07T00:00:00-0500"
+        },
+        {
+            "type": "unlimitedDate",
+            "date": "2012-03-01T00:00:00-0500"
+        },
+        {
+            "type": "digitalPurchaseDate",
+            "date": "2011-12-21T00:00:00-0500"
+        }
+    ],
+    "prices": [
+        {
+            "type": "printPrice",
+            "price": 2.99
+        },
+        {
+            "type": "digitalPurchasePrice",
+            "price": 1.99
+        }
+    ],
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/8/60/51dc1b51ab390",
+        "extension": "jpg"
+    },
+    "images": [
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/8/60/51dc1b51ab390",
+            "extension": "jpg"
+        },
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/c0/4e7b47675cb34",
+            "extension": "jpg"
+        }
+    ],
+    "creators": {
+        "available": 5,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/38796/creators",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/1251",
+                "name": "Brett Breeding",
+                "role": "inker"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/374",
+                "name": "Steve Epting",
+                "role": "artist"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/5764",
+                "name": "Ron Frenz",
+                "role": "penciler"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/375",
+                "name": "Bob Harras",
+                "role": "editor"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/11743",
+                "name": "Jonathan Hickman",
+                "role": "writer"
+            }
+        ],
+        "returned": 5
+    },
+    "characters": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/38796/characters",
+        "items": [],
+        "returned": 0
+    },
+    "stories": {
+        "available": 3,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/38796/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/37648",
+                "name": "Cover #37648",
+                "type": ""
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/89812",
+                "name": "Cover #89812",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/89813",
+                "name": "Interior #89813",
+                "type": "interiorStory"
+            }
+        ],
+        "returned": 3
+    },
+    "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/38796/events",
+        "items": [],
+        "returned": 0
+    }
+}

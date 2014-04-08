@@ -1,0 +1,103 @@
+{
+    "id": 46543,
+    "digitalId": 0,
+    "title": "Ultimate Comics Iron Man (2012) #1 (Dell'otto Variant)",
+    "issueNumber": 1,
+    "variantDescription": "Dell'otto Variant",
+    "description": null,
+    "modified": "2012-10-15T09:20:04-0400",
+    "isbn": "",
+    "upc": "75960607831800121",
+    "diamondCode": "AUG120605",
+    "ean": "",
+    "issn": "",
+    "format": "Comic",
+    "pageCount": 32,
+    "textObjects": [],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/46543",
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/46543/ultimate_comics_iron_man_2012_1_dellotto_variant/dellotto_variant?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ],
+    "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/16739",
+        "name": "Ultimate Comics Iron Man (2012 - 2013)"
+    },
+    "variants": [
+        {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/45715",
+            "name": "Ultimate Comics Iron Man (2012) #1"
+        }
+    ],
+    "collections": [],
+    "collectedIssues": [],
+    "dates": [
+        {
+            "type": "onsaleDate",
+            "date": "2012-10-17T00:00:00-0400"
+        },
+        {
+            "type": "focDate",
+            "date": "2012-10-03T00:00:00-0400"
+        }
+    ],
+    "prices": [
+        {
+            "type": "printPrice",
+            "price": 3.99
+        }
+    ],
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/30/507473ffe32b0",
+        "extension": "jpg"
+    },
+    "images": [
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/30/507473ffe32b0",
+            "extension": "jpg"
+        }
+    ],
+    "creators": {
+        "available": 1,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/46543/creators",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/8522",
+                "name": "Gabriele Dell'Otto",
+                "role": "penciller (cover)"
+            }
+        ],
+        "returned": 1
+    },
+    "characters": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/46543/characters",
+        "items": [],
+        "returned": 0
+    },
+    "stories": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/46543/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/104676",
+                "name": "cover from Ultimate Comics Iron Man (2012) #1 (DELL'OTTO VARIANT)",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/104677",
+                "name": "story from Ultimate Comics Iron Man (2012) #1 (DELL'OTTO VARIANT)",
+                "type": "interiorStory"
+            }
+        ],
+        "returned": 2
+    },
+    "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/46543/events",
+        "items": [],
+        "returned": 0
+    }
+}

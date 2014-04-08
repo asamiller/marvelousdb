@@ -1,0 +1,80 @@
+{
+    "id": 1010762,
+    "name": "Pip",
+    "description": "",
+    "modified": "1969-12-31T19:00:00-0500",
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/30/4ce5a30a8249e",
+        "extension": "jpg"
+    },
+    "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010762",
+    "comics": {
+        "available": 3,
+        "collectionURI": "http://gateway.marvel.com/v1/public/characters/1010762/comics",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/comics/23488",
+                "name": "Warlock Chronicles (1993) #6"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/comics/23489",
+                "name": "Warlock Chronicles (1993) #7"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/comics/23490",
+                "name": "Warlock Chronicles (1993) #8"
+            }
+        ],
+        "returned": 3
+    },
+    "series": {
+        "available": 1,
+        "collectionURI": "http://gateway.marvel.com/v1/public/characters/1010762/series",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/series/6686",
+                "name": "Warlock Chronicles (1993 - 1994)"
+            }
+        ],
+        "returned": 1
+    },
+    "stories": {
+        "available": 3,
+        "collectionURI": "http://gateway.marvel.com/v1/public/characters/1010762/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/52067",
+                "name": "Aftermath!",
+                "type": "interiorStory"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/52069",
+                "name": "Guile",
+                "type": "interiorStory"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/52071",
+                "name": "Reunion",
+                "type": "interiorStory"
+            }
+        ],
+        "returned": 3
+    },
+    "events": {
+        "available": 1,
+        "collectionURI": "http://gateway.marvel.com/v1/public/characters/1010762/events",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/events/235",
+                "name": "Blood and Thunder"
+            }
+        ],
+        "returned": 1
+    },
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/characters/1010762/pip?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ]
+}

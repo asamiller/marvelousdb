@@ -1,0 +1,98 @@
+{
+    "id": 45763,
+    "digitalId": 0,
+    "title": "A+X (2012) #1 (2nd Printing Variant)",
+    "issueNumber": 1,
+    "variantDescription": "2nd Printing Variant",
+    "description": null,
+    "modified": "2012-11-14T15:35:28-0500",
+    "isbn": "",
+    "upc": "75960607899800112",
+    "diamondCode": "JUL128186",
+    "ean": "",
+    "issn": "",
+    "format": "Comic",
+    "pageCount": 32,
+    "textObjects": [],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/45763",
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/45763/ax_2012_1_2nd_printing_variant/2nd_printing_variant?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ],
+    "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/16450",
+        "name": "A+X (2012 - Present)"
+    },
+    "variants": [
+        {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/43488",
+            "name": "A+X (2012) #1"
+        }
+    ],
+    "collections": [],
+    "collectedIssues": [],
+    "dates": [
+        {
+            "type": "onsaleDate",
+            "date": "2012-11-21T00:00:00-0500"
+        },
+        {
+            "type": "focDate",
+            "date": "2012-10-17T00:00:00-0400"
+        }
+    ],
+    "prices": [
+        {
+            "type": "printPrice",
+            "price": 3.99
+        }
+    ],
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available",
+        "extension": "jpg"
+    },
+    "images": [],
+    "creators": {
+        "available": 1,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/45763/creators",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/4300",
+                "name": "Nick Lowe",
+                "role": "editor"
+            }
+        ],
+        "returned": 1
+    },
+    "characters": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/45763/characters",
+        "items": [],
+        "returned": 0
+    },
+    "stories": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/45763/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/102980",
+                "name": "cover from A+X (2012) #1 (2ND PRINTING VARIANT)",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/102981",
+                "name": "story from A+X (2012) #1 (2ND PRINTING VARIANT)",
+                "type": "interiorStory"
+            }
+        ],
+        "returned": 2
+    },
+    "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/45763/events",
+        "items": [],
+        "returned": 0
+    }
+}

@@ -1,0 +1,147 @@
+{
+    "id": 47003,
+    "digitalId": 28781,
+    "title": "AGE OF ULTRON (2013) #2",
+    "issueNumber": 2,
+    "variantDescription": "",
+    "description": "For years the heroes of the Marvel Universe have lived in fear that the artificial intelligence known as Ultron would one day evolve to fulfill its desire to wipe out all organic life and take over the Earth -- that day has arrived. This massive 10-part Marvel Universe-spanning event is brought to you by Eisner award-winning writer Brian Michael Bendis and comics legend Bryan Hitch.",
+    "modified": "2013-07-03T10:19:02-0400",
+    "isbn": "",
+    "upc": "",
+    "diamondCode": "JAN130635",
+    "ean": "",
+    "issn": "",
+    "format": "Comic",
+    "pageCount": 32,
+    "textObjects": [
+        {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "For years the heroes of the Marvel Universe have lived in fear that the artificial intelligence known as Ultron would one day evolve to fulfill its desire to wipe out all organic life and take over the Earth -- that day has arrived. This massive 10-part Marvel Universe-spanning event is brought to you by Eisner award-winning writer Brian Michael Bendis and comics legend Bryan Hitch."
+        }
+    ],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/47003",
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/47003/age_of_ultron_2013_2?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/Avengers-Age-of-Ultron-2/digital-comic/28781?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=28781&utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "inAppLink",
+            "url": "http://applink.marvel.com/issue/28781?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ],
+    "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/17318",
+        "name": "AGE OF ULTRON (2013 - Present)"
+    },
+    "variants": [
+        {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/47892",
+            "name": "AGE OF ULTRON (2013) #2 (2nd Printing Variant)"
+        },
+        {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/47002",
+            "name": "AGE OF ULTRON (2013) #2 (Yoon Variant)"
+        }
+    ],
+    "collections": [],
+    "collectedIssues": [],
+    "dates": [
+        {
+            "type": "onsaleDate",
+            "date": "2013-03-13T00:00:00-0400"
+        },
+        {
+            "type": "focDate",
+            "date": "2013-02-27T00:00:00-0500"
+        },
+        {
+            "type": "unlimitedDate",
+            "date": "2013-09-09T00:00:00-0400"
+        },
+        {
+            "type": "digitalPurchaseDate",
+            "date": "2013-03-13T00:00:00-0400"
+        }
+    ],
+    "prices": [
+        {
+            "type": "printPrice",
+            "price": 3.99
+        },
+        {
+            "type": "digitalPurchasePrice",
+            "price": 1.99
+        }
+    ],
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/40/5140f09c2c7fe",
+        "extension": "jpg"
+    },
+    "images": [
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/40/5140f09c2c7fe",
+            "extension": "jpg"
+        }
+    ],
+    "creators": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/47003/creators",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/24",
+                "name": "Brian Michael Bendis",
+                "role": "writer"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/339",
+                "name": "Bryan Hitch",
+                "role": "artist"
+            }
+        ],
+        "returned": 2
+    },
+    "characters": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/47003/characters",
+        "items": [],
+        "returned": 0
+    },
+    "stories": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/47003/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/105618",
+                "name": "cover from Avengers: Age of Ultron (2013) #2 ",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/105619",
+                "name": "story from Avengers: Age of Ultron (2013) #2 (ULTRON VARIANT)",
+                "type": "interiorStory"
+            }
+        ],
+        "returned": 2
+    },
+    "events": {
+        "available": 1,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/47003/events",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/events/314",
+                "name": "Age of Ultron"
+            }
+        ],
+        "returned": 1
+    }
+}

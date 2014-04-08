@@ -1,0 +1,123 @@
+{
+    "id": 6110,
+    "digitalId": 0,
+    "title": "Thunderbolts (2006) #112 (Variant)",
+    "issueNumber": 112,
+    "variantDescription": "Variant",
+    "description": null,
+    "modified": "2013-06-27T10:10:34-0400",
+    "isbn": "",
+    "upc": "5960605602-11221",
+    "diamondCode": "",
+    "ean": "",
+    "issn": "",
+    "format": "Comic",
+    "pageCount": 0,
+    "textObjects": [],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/6110",
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/6110/thunderbolts_2006_112_variant/variant?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ],
+    "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/18527",
+        "name": "Thunderbolts (2006 - 2012)"
+    },
+    "variants": [
+        {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/6121",
+            "name": "Thunderbolts (2006) #112"
+        }
+    ],
+    "collections": [
+        {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/16638",
+            "name": "Thunderbolts by Warren Ellis Vol. 1: Faith in Monsters Premiere (Hardcover)"
+        }
+    ],
+    "collectedIssues": [],
+    "dates": [
+        {
+            "type": "onsaleDate",
+            "date": "2007-03-14T00:00:00-0400"
+        },
+        {
+            "type": "focDate",
+            "date": "-0001-11-30T00:00:00-0500"
+        }
+    ],
+    "prices": [
+        {
+            "type": "printPrice",
+            "price": 2.99
+        }
+    ],
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/5/50/4c361e05d3a01",
+        "extension": "jpg"
+    },
+    "images": [
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/5/50/4c361e05d3a01",
+            "extension": "jpg"
+        }
+    ],
+    "creators": {
+        "available": 1,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/6110/creators",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/312",
+                "name": "Mike Deodato",
+                "role": "penciller (cover)"
+            }
+        ],
+        "returned": 1
+    },
+    "characters": {
+        "available": 1,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/6110/characters",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010360",
+                "name": "Thunderbolts"
+            }
+        ],
+        "returned": 1
+    },
+    "stories": {
+        "available": 4,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/6110/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/7688",
+                "name": "Pasqual Ferry Cover",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/7689",
+                "name": "Pasqual Ferry Cover",
+                "type": "interiorStory"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/8158",
+                "name": "Pasqual Ferry Cover",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/8159",
+                "name": "Pasqual Ferry Cover",
+                "type": "interiorStory"
+            }
+        ],
+        "returned": 4
+    },
+    "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/6110/events",
+        "items": [],
+        "returned": 0
+    }
+}

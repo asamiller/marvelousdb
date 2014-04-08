@@ -1,0 +1,136 @@
+{
+    "id": 38846,
+    "digitalId": 23862,
+    "title": "Ghost Rider (2011) #3",
+    "issueNumber": 3,
+    "variantDescription": "",
+    "description": "FEAR ITSELF TIE-IN\nAmidst the chaos engulfing the planet via Fear Itself the mysterious Adam reveals his plans for the new Ghost Rider and first on the list is ripping the sin from Johnny Blaze. When the true power of the Ghost Rider is revealed the world will suddenly be a far more terrifying place. ",
+    "modified": "2012-10-24T13:43:44-0400",
+    "isbn": "",
+    "upc": "5960607620-00311",
+    "diamondCode": "JUL110589",
+    "ean": "",
+    "issn": "1932-5258",
+    "format": "Comic",
+    "pageCount": 32,
+    "textObjects": [
+        {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "FEAR ITSELF TIE-IN\nAmidst the chaos engulfing the planet via Fear Itself the mysterious Adam reveals his plans for the new Ghost Rider and first on the list is ripping the sin from Johnny Blaze. When the true power of the Ghost Rider is revealed the world will suddenly be a far more terrifying place. "
+        }
+    ],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/38846",
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/38846/ghost_rider_2011_3?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/Ghost-Rider-3/digital-comic/23862?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=23862&utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "inAppLink",
+            "url": "http://applink.marvel.com/issue/23862?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ],
+    "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/14018",
+        "name": "Ghost Rider (2011 - 2012)"
+    },
+    "variants": [],
+    "collections": [],
+    "collectedIssues": [],
+    "dates": [
+        {
+            "type": "onsaleDate",
+            "date": "2011-09-14T00:00:00-0400"
+        },
+        {
+            "type": "focDate",
+            "date": "2011-08-31T00:00:00-0400"
+        },
+        {
+            "type": "unlimitedDate",
+            "date": "2012-11-27T00:00:00-0500"
+        },
+        {
+            "type": "digitalPurchaseDate",
+            "date": "2012-02-21T00:00:00-0500"
+        }
+    ],
+    "prices": [
+        {
+            "type": "printPrice",
+            "price": 2.99
+        },
+        {
+            "type": "digitalPurchasePrice",
+            "price": 1.99
+        }
+    ],
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/f/b0/4e68db7a4fa4f",
+        "extension": "jpg"
+    },
+    "images": [
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/f/b0/4e68db7a4fa4f",
+            "extension": "jpg"
+        },
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/80/4dee7548156a0",
+            "extension": "jpg"
+        }
+    ],
+    "creators": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/38846/creators",
+        "items": [],
+        "returned": 0
+    },
+    "characters": {
+        "available": 1,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/38846/characters",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009318",
+                "name": "Ghost Rider (Johnny Blaze)"
+            }
+        ],
+        "returned": 1
+    },
+    "stories": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/38846/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/93528",
+                "name": "Ghost Rider #3 Cover",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/93619",
+                "name": "Ghost Rider #3",
+                "type": "interiorStory"
+            }
+        ],
+        "returned": 2
+    },
+    "events": {
+        "available": 1,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/38846/events",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/events/302",
+                "name": "Fear Itself"
+            }
+        ],
+        "returned": 1
+    }
+}

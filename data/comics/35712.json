@@ -1,0 +1,166 @@
+{
+    "id": 35712,
+    "digitalId": 21784,
+    "title": "Deadpool (2008) #39",
+    "issueNumber": 39,
+    "variantDescription": "",
+    "description": "Taking on yet another mercenary job, Deadpool is put to the test as he is ordered to assassinate The Punisher. \n",
+    "modified": "2012-04-19T18:48:53-0400",
+    "isbn": "",
+    "upc": "5960606407-03911",
+    "diamondCode": "",
+    "ean": "",
+    "issn": "1946-9292",
+    "format": "Comic",
+    "pageCount": 32,
+    "textObjects": [
+        {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "\"OPERATION: ANNIHILATION,\" PART 2 & 3! Uh-oh...looks like Deadpool made a slight miscalculation. Sure, he wants to die—but he doesn't want to take down thousands of innocent people with him! It was almost impossible for Deadpool to convince Hulk to come after him—how the hell is he supposed to convince him to stop?"
+        },
+        {
+            "type": "issue_preview_text",
+            "language": "en-us",
+            "text": "Taking on yet another mercenary job, Deadpool is put to the test as he is ordered to assassinate The Punisher. \n"
+        }
+    ],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/35712",
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/35712/deadpool_2008_39?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/Deadpool-39/digital-comic/21784?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=21784&utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "inAppLink",
+            "url": "http://applink.marvel.com/issue/21784?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ],
+    "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/5701",
+        "name": "Deadpool (2008 - 2012)"
+    },
+    "variants": [
+        {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/39723",
+            "name": "Deadpool (2008) #39 (I Am Captain America)"
+        }
+    ],
+    "collections": [],
+    "collectedIssues": [],
+    "dates": [
+        {
+            "type": "onsaleDate",
+            "date": "2011-06-22T00:00:00-0400"
+        },
+        {
+            "type": "focDate",
+            "date": "2011-05-30T00:00:00-0400"
+        },
+        {
+            "type": "unlimitedDate",
+            "date": "2012-05-24T00:00:00-0400"
+        },
+        {
+            "type": "digitalPurchaseDate",
+            "date": "2012-05-15T00:00:00-0400"
+        }
+    ],
+    "prices": [
+        {
+            "type": "printPrice",
+            "price": 2.99
+        },
+        {
+            "type": "digitalPurchasePrice",
+            "price": 1.99
+        }
+    ],
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/a/70/51a4ffe999b85",
+        "extension": "jpg"
+    },
+    "images": [
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/a/70/51a4ffe999b85",
+            "extension": "jpg"
+        },
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/f/a0/4df131d69defd",
+            "extension": "jpg"
+        }
+    ],
+    "creators": {
+        "available": 4,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/35712/creators",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/1400",
+                "name": "Bong Dazo",
+                "role": "penciller"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/10432",
+                "name": "Dave Johnson",
+                "role": "penciller (cover)"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/344",
+                "name": "Daniel Way",
+                "role": "writer"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/8822",
+                "name": "Jordan White",
+                "role": "editor"
+            }
+        ],
+        "returned": 4
+    },
+    "characters": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/35712/characters",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009268",
+                "name": "Deadpool"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009351",
+                "name": "Hulk"
+            }
+        ],
+        "returned": 2
+    },
+    "stories": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/35712/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/78730",
+                "name": "Deadpool #39",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/78731",
+                "name": "Interior #78731",
+                "type": "interiorStory"
+            }
+        ],
+        "returned": 2
+    },
+    "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/35712/events",
+        "items": [],
+        "returned": 0
+    }
+}

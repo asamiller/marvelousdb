@@ -1,0 +1,136 @@
+{
+    "id": 507,
+    "digitalId": 7672,
+    "title": "Wolverine/Punisher (2004) #2",
+    "issueNumber": 2,
+    "variantDescription": "",
+    "description": "Deep in the South American jungle there's a place of legend – a final refuge for the nastiest of the nasty to disappear. Now, the Punisher and Wolverine have stumbled upon it, and its residents – once targets of the Punisher – couldn't be happier …or more prepared!\r\n32 PGS./MARVEL PSR …$2.99",
+    "modified": "-0001-11-30T00:00:00-0500",
+    "isbn": "",
+    "upc": "5960605520-00211",
+    "diamondCode": "",
+    "ean": "",
+    "issn": "",
+    "format": "Comic",
+    "pageCount": 0,
+    "textObjects": [
+        {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "Deep in the South American jungle there's a place of legend – a final refuge for the nastiest of the nasty to disappear. Now, the Punisher and Wolverine have stumbled upon it, and its residents – once targets of the Punisher – couldn't be happier …or more prepared!\r\n32 PGS./MARVEL PSR …$2.99"
+        }
+    ],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/507",
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/507/wolverinepunisher_2004_2?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=7672&utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ],
+    "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/720",
+        "name": "Wolverine/Punisher (2004)"
+    },
+    "variants": [],
+    "collections": [
+        {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/1351",
+            "name": "Wolverine/Punisher Vol. 1 (Trade Paperback)"
+        }
+    ],
+    "collectedIssues": [],
+    "dates": [
+        {
+            "type": "onsaleDate",
+            "date": "2004-04-28T00:00:00-0400"
+        },
+        {
+            "type": "focDate",
+            "date": "-0001-11-30T00:00:00-0500"
+        },
+        {
+            "type": "unlimitedDate",
+            "date": "2009-04-17T00:00:00-0400"
+        }
+    ],
+    "prices": [
+        {
+            "type": "printPrice",
+            "price": 2.99
+        }
+    ],
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/40/4bc6913d3b5de",
+        "extension": "jpg"
+    },
+    "images": [
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/40/4bc6913d3b5de",
+            "extension": "jpg"
+        }
+    ],
+    "creators": {
+        "available": 3,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/507/creators",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/308",
+                "name": "Gary Frank",
+                "role": "penciller (cover)"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/94",
+                "name": "Peter Milligan",
+                "role": "writer"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/8991",
+                "name": "Lee Weeks",
+                "role": "penciller"
+            }
+        ],
+        "returned": 3
+    },
+    "characters": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/507/characters",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009368",
+                "name": "Iron Man"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009718",
+                "name": "Wolverine"
+            }
+        ],
+        "returned": 2
+    },
+    "stories": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/507/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/2947",
+                "name": "Cover #2947",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/2948",
+                "name": "Interior #2948",
+                "type": "interiorStory"
+            }
+        ],
+        "returned": 2
+    },
+    "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/507/events",
+        "items": [],
+        "returned": 0
+    }
+}

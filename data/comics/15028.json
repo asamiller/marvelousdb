@@ -1,0 +1,175 @@
+{
+    "id": 15028,
+    "digitalId": 3118,
+    "title": "X-Treme X-Men (2001) #25",
+    "issueNumber": 25,
+    "variantDescription": "",
+    "description": null,
+    "modified": "-0001-11-30T00:00:00-0500",
+    "isbn": "",
+    "upc": "",
+    "diamondCode": "",
+    "ean": "",
+    "issn": "",
+    "format": "Comic",
+    "pageCount": 0,
+    "textObjects": [],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/15028",
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/15028/x-treme_x-men_2001_25?utm_campaign=apiRef&utm_source=060c5822ea4a209732d430019a7e5703"
+        },
+        {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=3118&utm_campaign=apiRef&utm_source=060c5822ea4a209732d430019a7e5703"
+        }
+    ],
+    "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/646",
+        "name": "X-Treme X-Men (2001 - 2004)"
+    },
+    "variants": [],
+    "collections": [
+        {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/1200",
+            "name": "X-Treme X-Men Vol. V: God Loves, Man Kills (Trade Paperback)"
+        },
+        {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/1184",
+            "name": "X-Treme X-Men Vol. 5: God Loves, Man Kills (Trade Paperback)"
+        }
+    ],
+    "collectedIssues": [],
+    "dates": [
+        {
+            "type": "onsaleDate",
+            "date": "2003-07-01T00:00:00-0400"
+        },
+        {
+            "type": "focDate",
+            "date": "-0001-11-30T00:00:00-0500"
+        },
+        {
+            "type": "unlimitedDate",
+            "date": "2007-11-13T00:00:00-0500"
+        }
+    ],
+    "prices": [
+        {
+            "type": "printPrice",
+            "price": 0
+        }
+    ],
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/8/d0/4bc46a262dc43",
+        "extension": "jpg"
+    },
+    "images": [
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/8/d0/4bc46a262dc43",
+            "extension": "jpg"
+        }
+    ],
+    "creators": {
+        "available": 8,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/15028/creators",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/44",
+                "name": "Chris Claremont",
+                "role": "writer"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/409",
+                "name": "Liquid Graphics",
+                "role": "colorist"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/362",
+                "name": "Scott Hanna",
+                "role": "inker"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/116",
+                "name": "Igor Kordey",
+                "role": "penciller"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/11757",
+                "name": "Salvador Larroca",
+                "role": "penciller (cover)"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/4174",
+                "name": "Mike Marts",
+                "role": "editor"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/684",
+                "name": "Mike Raicht",
+                "role": "editor"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/791",
+                "name": "Tom Orzechowski",
+                "role": "letterer"
+            }
+        ],
+        "returned": 8
+    },
+    "characters": {
+        "available": 6,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/15028/characters",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009182",
+                "name": "Bishop"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009219",
+                "name": "Cannonball"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009243",
+                "name": "Colossus"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009472",
+                "name": "Nightcrawler"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009718",
+                "name": "Wolverine"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009726",
+                "name": "X-Men"
+            }
+        ],
+        "returned": 6
+    },
+    "stories": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/15028/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/30569",
+                "name": "Cover #30569",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/30570",
+                "name": "God Loves, Man Kills II Part 1",
+                "type": "interiorStory"
+            }
+        ],
+        "returned": 2
+    },
+    "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/15028/events",
+        "items": [],
+        "returned": 0
+    }
+}

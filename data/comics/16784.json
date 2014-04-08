@@ -1,0 +1,169 @@
+{
+    "id": 16784,
+    "digitalId": 0,
+    "title": "Marvel Mystery Comics (1939) #73",
+    "issueNumber": 73,
+    "variantDescription": "",
+    "description": null,
+    "modified": "-0001-11-30T00:00:00-0500",
+    "isbn": "",
+    "upc": "",
+    "diamondCode": "",
+    "ean": "",
+    "issn": "",
+    "format": "Comic",
+    "pageCount": 52,
+    "textObjects": [],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/16784",
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/16784/marvel_mystery_comics_1939_73?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ],
+    "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/2981",
+        "name": "Marvel Mystery Comics (1939 - 1949)"
+    },
+    "variants": [],
+    "collections": [],
+    "collectedIssues": [],
+    "dates": [
+        {
+            "type": "onsaleDate",
+            "date": "1946-06-10T00:00:00-0400"
+        },
+        {
+            "type": "focDate",
+            "date": "-0001-11-30T00:00:00-0500"
+        }
+    ],
+    "prices": [
+        {
+            "type": "printPrice",
+            "price": 0.1
+        }
+    ],
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available",
+        "extension": "jpg"
+    },
+    "images": [],
+    "creators": {
+        "available": 7,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/16784/creators",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/1452",
+                "name": "Vince Alascia",
+                "role": "penciler"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/1439",
+                "name": "Al Gabriele",
+                "role": "penciler"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/1451",
+                "name": "Charles Nicholas",
+                "role": "penciler"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/1492",
+                "name": "Bob Oksner",
+                "role": "penciler"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/1453",
+                "name": "Allen Simon",
+                "role": "penciler"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/1454",
+                "name": "Jimmy Thompson",
+                "role": "penciler"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/30",
+                "name": "Stan Lee",
+                "role": "editor"
+            }
+        ],
+        "returned": 7
+    },
+    "characters": {
+        "available": 5,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/16784/characters",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009159",
+                "name": "Archangel"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009356",
+                "name": "Human Torch"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1011424",
+                "name": "Miss America"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009492",
+                "name": "Patriot"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010791",
+                "name": "Sub-Mariner"
+            }
+        ],
+        "returned": 5
+    },
+    "stories": {
+        "available": 7,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/16784/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/34944",
+                "name": "Cover #34944",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/34945",
+                "name": "Killer Boss of Westport",
+                "type": "interiorStory"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/34946",
+                "name": "Politicians' Plunder",
+                "type": "interiorStory"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/34947",
+                "name": "The Ghoul of the 13th Floor",
+                "type": "interiorStory"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/34948",
+                "name": "Desert Bandit",
+                "type": "text story"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/34949",
+                "name": "The Case of the Gagging Gangsters",
+                "type": "interiorStory"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/34950",
+                "name": "The Missing Weapon",
+                "type": "interiorStory"
+            }
+        ],
+        "returned": 7
+    },
+    "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/16784/events",
+        "items": [],
+        "returned": 0
+    }
+}

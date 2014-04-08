@@ -1,0 +1,137 @@
+{
+    "id": 590,
+    "digitalId": 6077,
+    "title": "Identity Disc (2004) #2",
+    "issueNumber": 2,
+    "variantDescription": "",
+    "description": "When a sinister collection of six powerful and deadly villains are blackmailed by a mysterious woman, they’re forced to form an uneasy alliance to save the lives of their loved ones. But can this group—which includes Sabretooth, Bullseye, Deadpool, and the Juggernaut—work together to secure a mysterious disc before self-destructing?",
+    "modified": "-0001-11-30T00:00:00-0500",
+    "isbn": "",
+    "upc": "5960605581-00211",
+    "diamondCode": "",
+    "ean": "",
+    "issn": "",
+    "format": "Comic",
+    "pageCount": 0,
+    "textObjects": [
+        {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "When a sinister collection of six powerful and deadly villains are blackmailed by a mysterious woman, they’re forced to form an uneasy alliance to save the lives of their loved ones. But can this group—which includes Sabretooth, Bullseye, Deadpool, and the Juggernaut—work together to secure a mysterious disc before self-destructing?"
+        }
+    ],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/590",
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/590/identity_disc_2004_2?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=6077&utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ],
+    "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/782",
+        "name": "Identity Disc (2004)"
+    },
+    "variants": [],
+    "collections": [
+        {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/1463",
+            "name": "Identity Disc (Trade Paperback)"
+        }
+    ],
+    "collectedIssues": [],
+    "dates": [
+        {
+            "type": "onsaleDate",
+            "date": "2004-07-14T00:00:00-0400"
+        },
+        {
+            "type": "focDate",
+            "date": "-0001-11-30T00:00:00-0500"
+        },
+        {
+            "type": "unlimitedDate",
+            "date": "2008-09-17T00:00:00-0400"
+        }
+    ],
+    "prices": [
+        {
+            "type": "printPrice",
+            "price": 2.99
+        }
+    ],
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/d0/4bc68b47965d0",
+        "extension": "jpg"
+    },
+    "images": [
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/d0/4bc68b47965d0",
+            "extension": "jpg"
+        }
+    ],
+    "creators": {
+        "available": 5,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/590/creators",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/631",
+                "name": "Estudio Fenix",
+                "role": "colorist"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/420",
+                "name": "Sandu Florea",
+                "role": "inker"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/460",
+                "name": "Tony Harris",
+                "role": "penciller (cover)"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/851",
+                "name": "John Higgins",
+                "role": "penciller"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/418",
+                "name": "Rob Rodi",
+                "role": "writer"
+            }
+        ],
+        "returned": 5
+    },
+    "characters": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/590/characters",
+        "items": [],
+        "returned": 0
+    },
+    "stories": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/590/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/3796",
+                "name": "Cover #3796",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/3797",
+                "name": "Interior #3797",
+                "type": "interiorStory"
+            }
+        ],
+        "returned": 2
+    },
+    "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/590/events",
+        "items": [],
+        "returned": 0
+    }
+}

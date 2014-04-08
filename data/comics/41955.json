@@ -1,0 +1,167 @@
+{
+    "id": 41955,
+    "digitalId": 24243,
+    "title": "Avenging Spider-Man Daily Bugle (2011) #1",
+    "issueNumber": 1,
+    "variantDescription": "",
+    "description": "See an amazing preview of the new series - AVENGING SPIDER-MAN - from legendary creators Joe Madureira and Zeb Wells!",
+    "modified": "2011-12-15T12:37:18-0500",
+    "isbn": "",
+    "upc": "",
+    "diamondCode": "",
+    "ean": "",
+    "issn": "",
+    "format": "Comic",
+    "pageCount": 32,
+    "textObjects": [
+        {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "See an amazing preview of the new series - AVENGING SPIDER-MAN - from legendary creators Joe Madureira and Zeb Wells!"
+        }
+    ],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/41955",
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/41955/avenging_spider-man_daily_bugle_2011_1?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/Avenging-Spider-Man-Daily-Bugle-1/digital-comic/24243?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=24243&utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "inAppLink",
+            "url": "http://applink.marvel.com/issue/24243?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ],
+    "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/15623",
+        "name": "Avenging Spider-Man Daily Bugle (2011)"
+    },
+    "variants": [],
+    "collections": [],
+    "collectedIssues": [],
+    "dates": [
+        {
+            "type": "onsaleDate",
+            "date": "2011-10-19T00:00:00-0400"
+        },
+        {
+            "type": "focDate",
+            "date": "-0001-11-30T00:00:00-0500"
+        },
+        {
+            "type": "unlimitedDate",
+            "date": "2011-12-15T12:37:02-0500"
+        },
+        {
+            "type": "digitalPurchaseDate",
+            "date": "2011-10-12T00:00:00-0400"
+        }
+    ],
+    "prices": [
+        {
+            "type": "printPrice",
+            "price": 0
+        },
+        {
+            "type": "digitalPurchasePrice",
+            "price": 0
+        }
+    ],
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/a/50/4e8cb81e87f29",
+        "extension": "jpg"
+    },
+    "images": [
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/a/50/4e8cb81e87f29",
+            "extension": "jpg"
+        }
+    ],
+    "creators": {
+        "available": 7,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/41955/creators",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/4014",
+                "name": "Axel Alonso",
+                "role": "editor"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/10056",
+                "name": "Cory Levine",
+                "role": "editor"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/9471",
+                "name": "Stephen Wacker",
+                "role": "editor"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/5251",
+                "name": "Joe Caramagna",
+                "role": "letterer"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/11473",
+                "name": "Ferran Daniel",
+                "role": "colorist"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/1222",
+                "name": "Joe Madureira",
+                "role": "penciller"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/10409",
+                "name": "Zeb Wells",
+                "role": "writer"
+            }
+        ],
+        "returned": 7
+    },
+    "characters": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/41955/characters",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1011360",
+                "name": "Red Hulk"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009610",
+                "name": "Spider-Man"
+            }
+        ],
+        "returned": 2
+    },
+    "stories": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/41955/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/95123",
+                "name": "Avenging Spider-Man Daily Bugle (2011) #1",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/95124",
+                "name": "Avenging Spider-Man Daily Bugle (2011) #1",
+                "type": "interiorStory"
+            }
+        ],
+        "returned": 2
+    },
+    "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/41955/events",
+        "items": [],
+        "returned": 0
+    }
+}

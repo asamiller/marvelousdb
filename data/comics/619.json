@@ -1,0 +1,137 @@
+{
+    "id": 619,
+    "digitalId": 2100,
+    "title": "Marvel Age Fantastic Four (2004) #2",
+    "issueNumber": 2,
+    "variantDescription": "",
+    "description": "The Fantastic Four have gone mad, leaving nothing but destruction and mayhem in their wake; the only ones who can stop them are...the Fantastic Four? Discover the devious plan of the Skrulls from outer space in this modern retelling of Stan Lee and Jack Kirby's classic!",
+    "modified": "-0001-11-30T00:00:00-0500",
+    "isbn": "",
+    "upc": "5960605541-00211",
+    "diamondCode": "",
+    "ean": "",
+    "issn": "",
+    "format": "Comic",
+    "pageCount": 0,
+    "textObjects": [
+        {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "The Fantastic Four have gone mad, leaving nothing but destruction and mayhem in their wake; the only ones who can stop them are...the Fantastic Four? Discover the devious plan of the Skrulls from outer space in this modern retelling of Stan Lee and Jack Kirby's classic!"
+        }
+    ],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/619",
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/619/marvel_age_fantastic_four_2004_2?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=2100&utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ],
+    "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/741",
+        "name": "Marvel Age Fantastic Four (2004 - 2005)"
+    },
+    "variants": [],
+    "collections": [
+        {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/1307",
+            "name": "Marvel Age Fantastic Four Vol. 1: All for One (Digest)"
+        }
+    ],
+    "collectedIssues": [],
+    "dates": [
+        {
+            "type": "onsaleDate",
+            "date": "2004-05-05T00:00:00-0400"
+        },
+        {
+            "type": "focDate",
+            "date": "-0001-11-30T00:00:00-0500"
+        },
+        {
+            "type": "unlimitedDate",
+            "date": "2007-11-13T00:00:00-0500"
+        }
+    ],
+    "prices": [
+        {
+            "type": "printPrice",
+            "price": 2.25
+        }
+    ],
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/7/20/4bc689793be52",
+        "extension": "jpg"
+    },
+    "images": [
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/7/20/4bc689793be52",
+            "extension": "jpg"
+        }
+    ],
+    "creators": {
+        "available": 4,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/619/creators",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/322",
+                "name": "Gurihiru",
+                "role": "penciller"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/9429",
+                "name": "Sean McKeever",
+                "role": "writer"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/276",
+                "name": "Makoto Nakatsuka",
+                "role": "penciller (cover)"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/500",
+                "name": "Chris Sotomayor",
+                "role": "colorist"
+            }
+        ],
+        "returned": 4
+    },
+    "characters": {
+        "available": 1,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/619/characters",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009299",
+                "name": "Fantastic Four"
+            }
+        ],
+        "returned": 1
+    },
+    "stories": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/619/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/3273",
+                "name": "Cover #3273",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/3274",
+                "name": "Interior #3274",
+                "type": "interiorStory"
+            }
+        ],
+        "returned": 2
+    },
+    "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/619/events",
+        "items": [],
+        "returned": 0
+    }
+}

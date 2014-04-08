@@ -1,0 +1,111 @@
+{
+    "id": 36348,
+    "digitalId": 0,
+    "title": "Ultimate Comics Avengers Vs New Ultimates (2010) #1",
+    "issueNumber": 1,
+    "variantDescription": "",
+    "description": null,
+    "modified": "2011-02-09T15:11:18-0500",
+    "isbn": "",
+    "upc": "5960607406-00111",
+    "diamondCode": "DEC100544",
+    "ean": "",
+    "issn": "",
+    "format": "Comic",
+    "pageCount": 32,
+    "textObjects": [],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/36348",
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/36348/ultimate_comics_avengers_vs_new_ultimates_2010_1?utm_campaign=apiRef&utm_source=046266cc733f0e6ea56d0b992f16d598"
+        }
+    ],
+    "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/12615",
+        "name": "Ultimate Comics Avengers Vs New Ultimates (2010 - 2011)"
+    },
+    "variants": [
+        {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/39343",
+            "name": "Ultimate Comics Avengers Vs New Ultimates (2010) #1 (2nd Printing Variant)"
+        },
+        {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/35582",
+            "name": "Ultimate Comics Avengers Vs New Ultimates (2010) #1"
+        },
+        {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/38620",
+            "name": "Ultimate Comics Avengers Vs New Ultimates (2010) #1 (Hitch Variant)"
+        }
+    ],
+    "collections": [],
+    "collectedIssues": [],
+    "dates": [
+        {
+            "type": "onsaleDate",
+            "date": "2011-02-09T00:00:00-0500"
+        },
+        {
+            "type": "focDate",
+            "date": "2011-01-26T00:00:00-0500"
+        }
+    ],
+    "prices": [
+        {
+            "type": "printPrice",
+            "price": 3.99
+        }
+    ],
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/a/10/515f0ec699cc9",
+        "extension": "jpg"
+    },
+    "images": [
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/a/10/515f0ec699cc9",
+            "extension": "jpg"
+        }
+    ],
+    "creators": {
+        "available": 1,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/36348/creators",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/88",
+                "name": "Mark Millar",
+                "role": "other"
+            }
+        ],
+        "returned": 1
+    },
+    "characters": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/36348/characters",
+        "items": [],
+        "returned": 0
+    },
+    "stories": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/36348/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/80710",
+                "name": "Cover #80710",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/80711",
+                "name": "Interior #80711",
+                "type": "interiorStory"
+            }
+        ],
+        "returned": 2
+    },
+    "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/36348/events",
+        "items": [],
+        "returned": 0
+    }
+}

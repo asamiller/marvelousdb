@@ -1,0 +1,101 @@
+{
+    "id": 1011427,
+    "name": "Nomad (Rikki Barnes)",
+    "description": "",
+    "modified": "2010-11-18T16:43:35-0500",
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/50/4ce5a79501bd6",
+        "extension": "jpg"
+    },
+    "resourceURI": "http://gateway.marvel.com/v1/public/characters/1011427",
+    "comics": {
+        "available": 5,
+        "collectionURI": "http://gateway.marvel.com/v1/public/characters/1011427/comics",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/comics/33346",
+                "name": "Captain America (2004) #606 (HEROIC AGE VARIANT)"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/comics/35416",
+                "name": "Captain America (2004) #609 (WOMEN OF MARVEL VARIANT)"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/comics/38067",
+                "name": "Onslaught Unleashed (2010) #1"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/comics/38057",
+                "name": "Onslaught Unleashed (2010) #1 (LIEFELD VARIANT A)"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/comics/37960",
+                "name": "Onslaught Unleashed (2010) #1 (LIEFELD VARIANT B)"
+            }
+        ],
+        "returned": 5
+    },
+    "series": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/characters/1011427/series",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/series/832",
+                "name": "Captain America (2004 - 2011)"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/series/13602",
+                "name": "Onslaught Unleashed (2010 - 2011)"
+            }
+        ],
+        "returned": 2
+    },
+    "stories": {
+        "available": 5,
+        "collectionURI": "http://gateway.marvel.com/v1/public/characters/1011427/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/85232",
+                "name": "Onslaught Unleashed (2010) #1",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/89279",
+                "name": "Onslaught Unleashed (2010) #1, LIEFELD VARIANT B",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/89280",
+                "name": "Onslaught Unleashed (2010) #1, LIEFELD VARIANT A",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/94772",
+                "name": "Captain America (2004) #606, HEROIC AGE VARIANT",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/94774",
+                "name": "Captain America (2004) #609, WOMEN OF MARVEL VARIANT",
+                "type": "cover"
+            }
+        ],
+        "returned": 5
+    },
+    "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/characters/1011427/events",
+        "items": [],
+        "returned": 0
+    },
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/characters/1011427/nomad_rikki_barnes?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "wiki",
+            "url": "http://marvel.com/universe/Nomad_(Rikki_Barnes)?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ]
+}

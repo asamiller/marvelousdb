@@ -1,0 +1,167 @@
+{
+    "id": 38645,
+    "digitalId": 19226,
+    "title": "Wolverine 1000 (2011) #1",
+    "issueNumber": 1,
+    "variantDescription": "",
+    "description": "Wolverine #1000",
+    "modified": "2011-02-04T09:23:10-0500",
+    "isbn": "",
+    "upc": "5960607175-00121",
+    "diamondCode": "",
+    "ean": "",
+    "issn": "",
+    "format": "Comic",
+    "pageCount": 80,
+    "textObjects": [
+        {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "Wolverine #1000"
+        }
+    ],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/38645",
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/38645/wolverine_1000_2011_1?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=19226&utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ],
+    "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/13919",
+        "name": "Wolverine 1000 (2011)"
+    },
+    "variants": [
+        {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/38632",
+            "name": "Wolverine 1000 (2011) #1 (GARRES VARIANT)"
+        }
+    ],
+    "collections": [],
+    "collectedIssues": [],
+    "dates": [
+        {
+            "type": "onsaleDate",
+            "date": "2011-02-02T00:00:00-0500"
+        },
+        {
+            "type": "focDate",
+            "date": "2011-01-25T00:00:00-0500"
+        },
+        {
+            "type": "unlimitedDate",
+            "date": "2012-01-04T00:00:00-0500"
+        }
+    ],
+    "prices": [
+        {
+            "type": "printPrice",
+            "price": 4.99
+        }
+    ],
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/8/e0/4f04bd81c6d21",
+        "extension": "jpg"
+    },
+    "images": [
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/8/e0/4f04bd81c6d21",
+            "extension": "jpg"
+        }
+    ],
+    "creators": {
+        "available": 10,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/38645/creators",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/10273",
+                "name": "Sarah Cross",
+                "role": "penciller (cover)"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/1018",
+                "name": "Rafa Garres",
+                "role": "penciller"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/5742",
+                "name": "Timothy Green",
+                "role": "penciller"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/8762",
+                "name": "Joao M.P. Lemos",
+                "role": "penciller"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/434",
+                "name": "Michael Ryan",
+                "role": "penciller"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/9468",
+                "name": "Stephen Segovia",
+                "role": "penciller"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/11197",
+                "name": "Vincent D. Hernandez",
+                "role": "writer"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/5052",
+                "name": "Jimmy Palmiotti",
+                "role": "writer"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/11280",
+                "name": "MARK J. SIMMONS",
+                "role": "writer"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/9325",
+                "name": "Rick Spears",
+                "role": "writer"
+            }
+        ],
+        "returned": 10
+    },
+    "characters": {
+        "available": 1,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/38645/characters",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009718",
+                "name": "Wolverine"
+            }
+        ],
+        "returned": 1
+    },
+    "stories": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/38645/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/84840",
+                "name": "Wolverine #1000 ",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/84841",
+                "name": "Wolverine #1000",
+                "type": "interiorStory"
+            }
+        ],
+        "returned": 2
+    },
+    "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/38645/events",
+        "items": [],
+        "returned": 0
+    }
+}

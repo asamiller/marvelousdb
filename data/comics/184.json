@@ -1,0 +1,127 @@
+{
+    "id": 184,
+    "digitalId": 6990,
+    "title": "Spider-Man/Doctor Octopus: Out of Reach (2004) #4",
+    "issueNumber": 4,
+    "variantDescription": "",
+    "description": "The battle between Spider-Man & Doctor Octopus heats up! But will Spider-Man be able to save the young inventor Brigham Fontaine, or will Spidey and Doc Ock need saving from HIM!?",
+    "modified": "1969-12-31T19:00:00-0500",
+    "isbn": "",
+    "upc": "5960601772-14911",
+    "diamondCode": "",
+    "ean": "",
+    "issn": "",
+    "format": "Comic",
+    "pageCount": 0,
+    "textObjects": [
+        {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "The battle between Spider-Man & Doctor Octopus heats up! But will Spider-Man be able to save the young inventor Brigham Fontaine, or will Spidey and Doc Ock need saving from HIM!?"
+        }
+    ],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/184",
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/184/spider-mandoctor_octopus_out_of_reach_2004_4?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=6990&utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ],
+    "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/695",
+        "name": "Spider-Man/Doctor Octopus: Out of Reach (2004)"
+    },
+    "variants": [],
+    "collections": [],
+    "collectedIssues": [],
+    "dates": [
+        {
+            "type": "onsaleDate",
+            "date": "2004-02-25T00:00:00-0500"
+        },
+        {
+            "type": "focDate",
+            "date": "1969-12-31T19:00:00-0500"
+        },
+        {
+            "type": "unlimitedDate",
+            "date": "2009-09-07T00:00:00-0400"
+        }
+    ],
+    "prices": [
+        {
+            "type": "printPrice",
+            "price": 2.99
+        }
+    ],
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/e/e0/4bc6a90abd3b8",
+        "extension": "jpg"
+    },
+    "images": [
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/e/e0/4bc6a90abd3b8",
+            "extension": "jpg"
+        }
+    ],
+    "creators": {
+        "available": 3,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/184/creators",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/415",
+                "name": "Derec Aucoin",
+                "role": "penciller"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/218",
+                "name": "Keron Grant",
+                "role": "penciller (cover)"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/414",
+                "name": "Colin Mitchell",
+                "role": "writer"
+            }
+        ],
+        "returned": 3
+    },
+    "characters": {
+        "available": 1,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/184/characters",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009610",
+                "name": "Spider-Man"
+            }
+        ],
+        "returned": 1
+    },
+    "stories": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/184/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/598",
+                "name": "Cover #598",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/599",
+                "name": "Interior #599",
+                "type": "interiorStory"
+            }
+        ],
+        "returned": 2
+    },
+    "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/184/events",
+        "items": [],
+        "returned": 0
+    }
+}

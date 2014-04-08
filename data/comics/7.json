@@ -1,0 +1,104 @@
+{
+    "id": 7,
+    "digitalId": 0,
+    "title": "Art of Marvel Vol. 2 (Hardcover)",
+    "issueNumber": 0,
+    "variantDescription": "",
+    "description": "This brand-new deluxe hardcover is a follow-up to the best-selling ART OF MARVEL VOL. I. Featuring more than 100 illustrations by the comic book industry’s hottest artists and painters, this new volume features more breathtaking looks at your favorite Marvel heroes and villains, including Spider-Man, the X-Men, the Hulk, Daredevil, Elektra, the Punisher, the Avengers and many, many more! A perfect companion piece to ART OF MARVEL VOL. I, this deluxe coffee-table book showcases the rich artistry of the Marvel Universe like never before!",
+    "modified": "-0001-11-30T00:00:00-0500",
+    "isbn": "0-7851-1361-4",
+    "upc": "5960611361-00111",
+    "diamondCode": "",
+    "ean": "",
+    "issn": "",
+    "format": "Hardcover",
+    "pageCount": 0,
+    "textObjects": [
+        {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "This brand-new deluxe hardcover is a follow-up to the best-selling ART OF MARVEL VOL. I. Featuring more than 100 illustrations by the comic book industry’s hottest artists and painters, this new volume features more breathtaking looks at your favorite Marvel heroes and villains, including Spider-Man, the X-Men, the Hulk, Daredevil, Elektra, the Punisher, the Avengers and many, many more! A perfect companion piece to ART OF MARVEL VOL. I, this deluxe coffee-table book showcases the rich artistry of the Marvel Universe like never before!"
+        }
+    ],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/7",
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/collection/7/art_of_marvel_vol_2_hardcover?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ],
+    "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/1203",
+        "name": "Art of Marvel Vol. 2 (2004)"
+    },
+    "variants": [],
+    "collections": [],
+    "collectedIssues": [],
+    "dates": [
+        {
+            "type": "onsaleDate",
+            "date": "2004-11-10T00:00:00-0500"
+        },
+        {
+            "type": "focDate",
+            "date": "-0001-11-30T00:00:00-0500"
+        }
+    ],
+    "prices": [
+        {
+            "type": "printPrice",
+            "price": 9.99
+        }
+    ],
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/f/10/4c7d67f1ba2da",
+        "extension": "jpg"
+    },
+    "images": [
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/f/10/4c7d67f1ba2da",
+            "extension": "jpg"
+        }
+    ],
+    "creators": {
+        "available": 1,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/7/creators",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/11757",
+                "name": "Salvador Larroca",
+                "role": "penciller (cover)"
+            }
+        ],
+        "returned": 1
+    },
+    "characters": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/7/characters",
+        "items": [],
+        "returned": 0
+    },
+    "stories": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/7/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/6385",
+                "name": "Cover #6385",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/6386",
+                "name": "Interior #6386",
+                "type": "interiorStory"
+            }
+        ],
+        "returned": 2
+    },
+    "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/7/events",
+        "items": [],
+        "returned": 0
+    }
+}

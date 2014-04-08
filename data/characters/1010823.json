@@ -1,0 +1,177 @@
+{
+    "id": 1010823,
+    "name": "Cloud 9",
+    "description": "",
+    "modified": "2013-10-24T13:17:04-0400",
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/80/526955ef00db6",
+        "extension": "jpg"
+    },
+    "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010823",
+    "comics": {
+        "available": 8,
+        "collectionURI": "http://gateway.marvel.com/v1/public/characters/1010823/comics",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/comics/30885",
+                "name": "Age of Heroes (Trade Paperback)"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/comics/20679",
+                "name": "Avengers: The Initiative (2007) #10"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/comics/22299",
+                "name": "Avengers: The Initiative (2007) #18"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/comics/22300",
+                "name": "Avengers: The Initiative (2007) #18 (ZOMBIE VARIANT)"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/comics/38447",
+                "name": "Fear Itself: Youth in Revolt (2011) #1"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/comics/38448",
+                "name": "Fear Itself: Youth in Revolt (2011) #4"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/comics/38444",
+                "name": "Fear Itself: Youth in Revolt (2011) #5"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/comics/38446",
+                "name": "Fear Itself: Youth in Revolt (2011) #6"
+            }
+        ],
+        "returned": 8
+    },
+    "series": {
+        "available": 3,
+        "collectionURI": "http://gateway.marvel.com/v1/public/characters/1010823/series",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/series/10235",
+                "name": "Age of Heroes (2011)"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/series/1945",
+                "name": "Avengers: The Initiative (2007 - 2010)"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/series/13855",
+                "name": "Fear Itself: Youth in Revolt (2011)"
+            }
+        ],
+        "returned": 3
+    },
+    "stories": {
+        "available": 9,
+        "collectionURI": "http://gateway.marvel.com/v1/public/characters/1010823/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/44343",
+                "name": "Avengers: The Initiative (2007) #10",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/49104",
+                "name": "Avengers: The Initiative (2007) #18 - Int",
+                "type": "interiorStory"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/49106",
+                "name": "Avengers: The Initiative (2007) #18, Zombie Variant - Int",
+                "type": "interiorStory"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/70574",
+                "name": "Age of Heroes TPB",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/89800",
+                "name": "Fear Itself: Youth in Revolt #1 cover",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/93006",
+                "name": "Interior #93006",
+                "type": "interiorStory"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/93636",
+                "name": "Fear Itself: Youth in Revolt (2011) #5",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/93637",
+                "name": "Interior #93637",
+                "type": "interiorStory"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/94171",
+                "name": "Fear Itself: Youth in Revolt (2011) #6",
+                "type": "cover"
+            }
+        ],
+        "returned": 9
+    },
+    "events": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/characters/1010823/events",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/events/302",
+                "name": "Fear Itself"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/events/269",
+                "name": "Secret Invasion"
+            }
+        ],
+        "returned": 2
+    },
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/characters/1010823/cloud_9?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "wiki",
+            "url": "http://marvel.com/universe/Cloud_9_(Abigail_Boylen)?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ],
+    "wiki": {
+        "universe": "[[Marvel Universe]]",
+        "blurb": "",
+        "real_name": "Abigail \"Abby\" Boylen",
+        "aliases": "\"Ms. Freak-out,\" \"Head Case\"",
+        "identity": "Known to authorities",
+        "occupation": "Licensed superhero, sniper, instructor",
+        "citizenship": "U.S.A.",
+        "place_of_birth": "Evanston, Illinois",
+        "relatives": "None",
+        "groups": "[[Freedom Force]], Initiative",
+        "education": "High school graduate",
+        "height": "5'2\"",
+        "weight": "105 lbs.",
+        "eyes": "Blue",
+        "hair": "Blonde",
+        "powers": "Cloud 9 controls, what is possibly an extraterrestrial gas that can sustain the weight of several people and used as a mode of transportation. She can also create multiple clouds, of various sizes to create cover or asphyxiate others. The Cloud can travel faster than 6000 mph.",
+        "abilities": "Cloud nine is a top sharp shooter and her emotional distance protects her from fear-based attacks.",
+        "weapons": "She carries a sniper rifle with Adamantium-jacketed bullets, an energy pulse rifle and an automatic grenade launcher.",
+        "paraphernalia": "",
+        "debut": "Avengers: The Initiative #1 (2007)",
+        "origin": "",
+        "significant_issues": "",
+        "main_image": "Ohitsme--Cloud 9.jpg",
+        "bio_text": "Cloud-controlling teen Abigail Boylen was recruited by [[War Machine (James Rhodes)]] for the federal Initiative program. As Cloud 9, she trained at [[Camp Hammond]] in Stamford, Connecticut, where she met fellow cadet [[MVP]] (Michael Van Patrick) after wandering into the mens shower. Intrigued, he observed Cloud 9's training session where cadet [[Trauma (Terrance Ward)]] panicked cadet [[Armory]] (Violet Lightner) into firing her Tactigon weapon randomly. Cloud 9 froze in shock and MVP died saving her from Armory's misfire. Camp officials covered up the incident. Later, Cloud 9's anxiety over this horrific accident triggered Trauma's fear-mirroring power and he briefly transformed her into her greatest fear, a vengeful MVP. Despite her insecurities, Cloud 9 earned the camp's highest firearms score, so War Machine issued her a pulse rifle during an Initiative fight with terrorist group [[Hydra]]; Cloud 9 downed a Hydra jet, killing the pilot. Shaken by this fatality, she struggled during subsequent training with [[Black Widow (Natasha Romanova)]]. The cadets later clashed with [[Zodiac]] terrorist, but were defeated. However, [[Night Thrasher (Donyell Taylor)]]'s [[New Warriors]] chased the Zodiac away at the cost of a teammate's life.",
+        "bio": "Cloud-controlling teen Abigail Boylen was recruited by [[War Machine (James Rhodes)]] for the federal Initiative program. As Cloud 9, she trained at [[Camp Hammond]] in Stamford, Connecticut, where she met fellow cadet [[MVP]] (Michael Van Patrick) after wandering into the mens shower. Intrigued, he observed Cloud 9's training session where cadet [[Trauma (Terrance Ward)]] panicked cadet [[Armory]] (Violet Lightner) into firing her Tactigon weapon randomly. Cloud 9 froze in shock and MVP died saving her from Armory's misfire. Camp officials covered up the incident. Later, Cloud 9's anxiety over this horrific accident triggered Trauma's fear-mirroring power and he briefly transformed her into her greatest fear, a vengeful MVP. Despite her insecurities, Cloud 9 earned the camp's highest firearms score, so War Machine issued her a pulse rifle during an Initiative fight with terrorist group [[Hydra]]; Cloud 9 downed a Hydra jet, killing the pilot. Shaken by this fatality, she struggled during subsequent training with [[Black Widow (Natasha Romanova)]]. The cadets later clashed with [[Zodiac]] terrorist, but were defeated. However, [[Night Thrasher (Donyell Taylor)]]'s [[New Warriors]] chased the Zodiac away at the cost of a teammate's life.",
+        "categories": [
+            "Initiative",
+            "Women"
+        ]
+    }
+}

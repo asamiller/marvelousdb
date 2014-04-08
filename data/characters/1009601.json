@@ -1,0 +1,74 @@
+{
+    "id": 1009601,
+    "name": "Sleeper",
+    "description": "",
+    "modified": "1969-12-31T19:00:00-0500",
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available",
+        "extension": "jpg"
+    },
+    "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009601",
+    "comics": {
+        "available": 3,
+        "collectionURI": "http://gateway.marvel.com/v1/public/characters/1009601/comics",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/comics/4482",
+                "name": "Captain America (2004) #20"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/comics/4798",
+                "name": "Captain America (2004) #21"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/comics/5543",
+                "name": "Captain America: Red Menace Vol. 2 (Trade Paperback)"
+            }
+        ],
+        "returned": 3
+    },
+    "series": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/characters/1009601/series",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/series/832",
+                "name": "Captain America (2004 - 2011)"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/series/1779",
+                "name": "Captain America: Red Menace Vol. 2 (2006)"
+            }
+        ],
+        "returned": 2
+    },
+    "stories": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/characters/1009601/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/4268",
+                "name": "3 of ? - Twenty-first Century Blitz",
+                "type": "interiorStory"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/4270",
+                "name": "4 of ? - Twenty-first Century Blitz",
+                "type": "interiorStory"
+            }
+        ],
+        "returned": 2
+    },
+    "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/characters/1009601/events",
+        "items": [],
+        "returned": 0
+    },
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/characters/1009601/sleeper?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ]
+}

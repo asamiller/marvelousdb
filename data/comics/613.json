@@ -1,0 +1,137 @@
+{
+    "id": 613,
+    "digitalId": 1339,
+    "title": "Alpha Flight (2004) #5",
+    "issueNumber": 5,
+    "variantDescription": "",
+    "description": "“YOU GOTTA BE KIDDIN’ ME” PART 5 (OF 6) Time for another issue of the All-New, All-Different Alpha Flight, eh? Reserve your copy today, or pay the price of a fierce scolding from the RCMP’s Major Mapleleaf himself!  Now that don’t sound too friendly, don’t cha know?",
+    "modified": "-0001-11-30T00:00:00-0500",
+    "isbn": "",
+    "upc": "5960605518-00511",
+    "diamondCode": "",
+    "ean": "",
+    "issn": "",
+    "format": "Comic",
+    "pageCount": 0,
+    "textObjects": [
+        {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "“YOU GOTTA BE KIDDIN’ ME” PART 5 (OF 6) Time for another issue of the All-New, All-Different Alpha Flight, eh? Reserve your copy today, or pay the price of a fierce scolding from the RCMP’s Major Mapleleaf himself!  Now that don’t sound too friendly, don’t cha know?"
+        }
+    ],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/613",
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/613/alpha_flight_2004_5?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=1339&utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ],
+    "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/719",
+        "name": "Alpha Flight (2004 - 2005)"
+    },
+    "variants": [],
+    "collections": [
+        {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/27",
+            "name": "Alpha Flight Vol. 1: You Gotta Be Kiddin' Me (Trade Paperback)"
+        }
+    ],
+    "collectedIssues": [],
+    "dates": [
+        {
+            "type": "onsaleDate",
+            "date": "2004-07-07T00:00:00-0400"
+        },
+        {
+            "type": "focDate",
+            "date": "-0001-11-30T00:00:00-0500"
+        },
+        {
+            "type": "unlimitedDate",
+            "date": "2007-11-13T00:00:00-0500"
+        }
+    ],
+    "prices": [
+        {
+            "type": "printPrice",
+            "price": 2.99
+        }
+    ],
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/7/20/4bc6899641eb6",
+        "extension": "jpg"
+    },
+    "images": [
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/7/20/4bc6899641eb6",
+            "extension": "jpg"
+        }
+    ],
+    "creators": {
+        "available": 4,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/613/creators",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/295",
+                "name": "Clayton Henry",
+                "role": "penciller (cover)"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/454",
+                "name": "Mark Morales",
+                "role": "inker"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/3635",
+                "name": "Joe Quesada",
+                "role": "writer"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/4207",
+                "name": "Avalon Studio",
+                "role": "colorist"
+            }
+        ],
+        "returned": 4
+    },
+    "characters": {
+        "available": 1,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/613/characters",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010370",
+                "name": "Alpha Flight"
+            }
+        ],
+        "returned": 1
+    },
+    "stories": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/613/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/2929",
+                "name": "Cover #2929",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/2930",
+                "name": "Interior #2930",
+                "type": "interiorStory"
+            }
+        ],
+        "returned": 2
+    },
+    "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/613/events",
+        "items": [],
+        "returned": 0
+    }
+}

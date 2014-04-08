@@ -1,0 +1,93 @@
+{
+    "id": 3050,
+    "digitalId": 0,
+    "title": "Marvel Adventures Flip Magazine (2005) #6",
+    "issueNumber": 6,
+    "variantDescription": "",
+    "description": "Includes MARVEL ADVENTURES SPIDER-MAN #6 and MARVEL ADVENTURES FANTASTIC FOUR #6\r<br>\r<br>64 PGS./All Ages …$3.99",
+    "modified": "-0001-11-30T00:00:00-0500",
+    "isbn": "0 71486 01664 01",
+    "upc": "5960605737-00611",
+    "diamondCode": "",
+    "ean": "",
+    "issn": "",
+    "format": "Comic",
+    "pageCount": 64,
+    "textObjects": [
+        {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "Includes MARVEL ADVENTURES SPIDER-MAN #6 and MARVEL ADVENTURES FANTASTIC FOUR #6\r<br>\r<br>64 PGS./All Ages …$3.99"
+        }
+    ],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/3050",
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/3050/marvel_adventures_flip_magazine_2005_6?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ],
+    "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/927",
+        "name": "Marvel Adventures Flip Magazine (2005 - 2007)"
+    },
+    "variants": [],
+    "collections": [],
+    "collectedIssues": [],
+    "dates": [
+        {
+            "type": "onsaleDate",
+            "date": "2005-11-23T00:00:00-0500"
+        },
+        {
+            "type": "focDate",
+            "date": "-0001-11-30T00:00:00-0500"
+        }
+    ],
+    "prices": [
+        {
+            "type": "printPrice",
+            "price": 3.99
+        }
+    ],
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available",
+        "extension": "jpg"
+    },
+    "images": [],
+    "creators": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/3050/creators",
+        "items": [],
+        "returned": 0
+    },
+    "characters": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/3050/characters",
+        "items": [],
+        "returned": 0
+    },
+    "stories": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/3050/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/5001",
+                "name": "Marvel Adventures Spider-Man 6; Marvel Adventures FF 6",
+                "type": "interiorStory"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/65499",
+                "name": "MARVEL ADVENTURES FLIP MAGAZINE 6 cover",
+                "type": "cover"
+            }
+        ],
+        "returned": 2
+    },
+    "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/3050/events",
+        "items": [],
+        "returned": 0
+    }
+}

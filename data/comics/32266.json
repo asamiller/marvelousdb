@@ -1,0 +1,104 @@
+{
+    "id": 32266,
+    "digitalId": 0,
+    "title": "Wonderful Wizard of Oz MGC (2010) #1",
+    "issueNumber": 1,
+    "variantDescription": "",
+    "description": "MARVEL'S GREATEST COMICS\r\n$1.00",
+    "modified": "-0001-11-30T00:00:00-0500",
+    "isbn": "",
+    "upc": "5960607196-00111",
+    "diamondCode": "JAN100565",
+    "ean": "",
+    "issn": "",
+    "format": "Comic",
+    "pageCount": 32,
+    "textObjects": [
+        {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "MARVEL'S GREATEST COMICS\r\n$1.00"
+        }
+    ],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/32266",
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/32266/wonderful_wizard_of_oz_mgc_2010_1?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ],
+    "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/9339",
+        "name": "Wonderful Wizard of Oz MGC (2010)"
+    },
+    "variants": [],
+    "collections": [],
+    "collectedIssues": [],
+    "dates": [
+        {
+            "type": "onsaleDate",
+            "date": "2010-03-10T00:00:00-0500"
+        },
+        {
+            "type": "focDate",
+            "date": "2010-02-18T00:00:00-0500"
+        }
+    ],
+    "prices": [
+        {
+            "type": "printPrice",
+            "price": 1
+        }
+    ],
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/5/20/4bacbaf2db88f",
+        "extension": "jpg"
+    },
+    "images": [
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/5/20/4bacbaf2db88f",
+            "extension": "jpg"
+        }
+    ],
+    "creators": {
+        "available": 1,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/32266/creators",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/7190",
+                "name": "Skottie Young",
+                "role": "penciller"
+            }
+        ],
+        "returned": 1
+    },
+    "characters": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/32266/characters",
+        "items": [],
+        "returned": 0
+    },
+    "stories": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/32266/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/72974",
+                "name": "Interior #72974",
+                "type": "interiorStory"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/73423",
+                "name": "Cover #73423",
+                "type": "cover"
+            }
+        ],
+        "returned": 2
+    },
+    "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/32266/events",
+        "items": [],
+        "returned": 0
+    }
+}

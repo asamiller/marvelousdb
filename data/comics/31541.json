@@ -1,0 +1,153 @@
+{
+    "id": 31541,
+    "digitalId": 23439,
+    "title": "Invincible Iron Man (2008) #507",
+    "issueNumber": 507,
+    "variantDescription": "",
+    "description": "FEAR ITSELF TIE-IN! The heroes' darkest hour is at hand, and Tony Stark gets to work turning the tide of FEAR ITSELF. And as if things weren't grim enough – RESCUE engages HAMMER INDUSTRIES in the ruins of Paris as one of the Serpent's avatars goes on the hunt...",
+    "modified": "2012-04-03T17:49:08-0400",
+    "isbn": "",
+    "upc": "5960606427-50711",
+    "diamondCode": "",
+    "ean": "",
+    "issn": "1933-3080",
+    "format": "Comic",
+    "pageCount": 32,
+    "textObjects": [
+        {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "FEAR ITSELF TIE-IN! The heroes' darkest hour is at hand, and Tony Stark gets to work turning the tide of FEAR ITSELF. And as if things weren't grim enough – RESCUE engages HAMMER INDUSTRIES in the ruins of Paris as one of the Serpent's avatars goes on the hunt..."
+        }
+    ],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/31541",
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/31541/invincible_iron_man_2008_507?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/Invincible-Iron-Man-507/digital-comic/23439?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=23439&utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "inAppLink",
+            "url": "http://applink.marvel.com/issue/23439?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ],
+    "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/4889",
+        "name": "Invincible Iron Man (2008 - 2012)"
+    },
+    "variants": [],
+    "collections": [],
+    "collectedIssues": [],
+    "dates": [
+        {
+            "type": "onsaleDate",
+            "date": "2011-08-17T00:00:00-0400"
+        },
+        {
+            "type": "focDate",
+            "date": "2011-07-25T00:00:00-0400"
+        },
+        {
+            "type": "unlimitedDate",
+            "date": "2012-04-26T00:00:00-0400"
+        },
+        {
+            "type": "digitalPurchaseDate",
+            "date": "2012-07-03T00:00:00-0400"
+        }
+    ],
+    "prices": [
+        {
+            "type": "printPrice",
+            "price": 3.99
+        },
+        {
+            "type": "digitalPurchasePrice",
+            "price": 1.99
+        }
+    ],
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/c0/4fa923f785bf0",
+        "extension": "jpg"
+    },
+    "images": [
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/c0/4fa923f785bf0",
+            "extension": "jpg"
+        }
+    ],
+    "creators": {
+        "available": 4,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/31541/creators",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/5251",
+                "name": "Joe Caramagna",
+                "role": "letterer"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/8504",
+                "name": "Frank D'Armata",
+                "role": "colorist"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/1132",
+                "name": "Matt Fraction",
+                "role": "writer"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/11757",
+                "name": "Salvador Larroca",
+                "role": "penciller"
+            }
+        ],
+        "returned": 4
+    },
+    "characters": {
+        "available": 1,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/31541/characters",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009368",
+                "name": "Iron Man"
+            }
+        ],
+        "returned": 1
+    },
+    "stories": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/31541/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/71724",
+                "name": "Invincible Iron Man (2008) #507",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/71726",
+                "name": "Invincible Iron Man (2008) #507",
+                "type": "interiorStory"
+            }
+        ],
+        "returned": 2
+    },
+    "events": {
+        "available": 1,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/31541/events",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/events/302",
+                "name": "Fear Itself"
+            }
+        ],
+        "returned": 1
+    }
+}

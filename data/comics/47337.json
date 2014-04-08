@@ -1,0 +1,122 @@
+{
+    "id": 47337,
+    "digitalId": 0,
+    "title": "All-New X-Men (2012) #3 (2nd Printing Variant)",
+    "issueNumber": 3,
+    "variantDescription": "2nd Printing Variant",
+    "description": "The flagship X-Book marches on! The original 5 X-Men are back, but that's not all that's happening. What happened to the Phoenix 5 from AVENGERS VS. X-MEN? ",
+    "modified": "2013-01-25T16:14:09-0500",
+    "isbn": "",
+    "upc": "75960607900100312",
+    "diamondCode": "NOV128053",
+    "ean": "",
+    "issn": "",
+    "format": "Comic",
+    "pageCount": 32,
+    "textObjects": [
+        {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "The flagship X-Book marches on! The original 5 X-Men are back, but that's not all that's happening. What happened to the Phoenix 5 from AVENGERS VS. X-MEN? "
+        }
+    ],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/47337",
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/47337/all-new_x-men_2012_3_2nd_printing_variant/2nd_printing_variant?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ],
+    "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/16449",
+        "name": "All-New X-Men (2012 - Present)"
+    },
+    "variants": [
+        {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/47627",
+            "name": "All-New X-Men (2012) #3 (3rd Printing Variant)"
+        },
+        {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/43468",
+            "name": "All-New X-Men (2012) #3"
+        },
+        {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/44580",
+            "name": "All-New X-Men (2012) #3 (Mcguinness Variant)"
+        }
+    ],
+    "collections": [],
+    "collectedIssues": [],
+    "dates": [
+        {
+            "type": "onsaleDate",
+            "date": "2013-01-30T00:00:00-0500"
+        },
+        {
+            "type": "focDate",
+            "date": "2013-01-15T00:00:00-0500"
+        }
+    ],
+    "prices": [
+        {
+            "type": "printPrice",
+            "price": 3.99
+        }
+    ],
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/8/f0/510c690de42eb",
+        "extension": "jpg"
+    },
+    "images": [
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/8/f0/510c690de42eb",
+            "extension": "jpg"
+        }
+    ],
+    "creators": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/47337/creators",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/24",
+                "name": "Brian Michael Bendis",
+                "role": "writer"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/192",
+                "name": "Stuart Immonen",
+                "role": "penciller (cover)"
+            }
+        ],
+        "returned": 2
+    },
+    "characters": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/47337/characters",
+        "items": [],
+        "returned": 0
+    },
+    "stories": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/47337/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/106979",
+                "name": "cover from All-New X-Men (2012) #3 (2ND PRINTING VARIANT)",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/106980",
+                "name": "story from All-New X-Men (2012) #3 (2ND PRINTING VARIANT)",
+                "type": "interiorStory"
+            }
+        ],
+        "returned": 2
+    },
+    "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/47337/events",
+        "items": [],
+        "returned": 0
+    }
+}

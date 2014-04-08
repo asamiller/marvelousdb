@@ -1,0 +1,97 @@
+{
+    "id": 41812,
+    "digitalId": 0,
+    "title": "Herc (2010) #10 (Oeming Variant)",
+    "issueNumber": 10,
+    "variantDescription": "Oeming Variant",
+    "description": null,
+    "modified": "2011-11-22T16:36:56-0500",
+    "isbn": "",
+    "upc": "5960607066-01021",
+    "diamondCode": "SEP110577",
+    "ean": "",
+    "issn": "",
+    "format": "Comic",
+    "pageCount": 40,
+    "textObjects": [],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/41812",
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/41812/herc_2010_10_oeming_variant/oeming_variant?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ],
+    "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/9898",
+        "name": "Herc (2010 - 2011)"
+    },
+    "variants": [
+        {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/29764",
+            "name": "Herc (2010) #10"
+        }
+    ],
+    "collections": [],
+    "collectedIssues": [],
+    "dates": [
+        {
+            "type": "onsaleDate",
+            "date": "2011-11-30T00:00:00-0500"
+        },
+        {
+            "type": "focDate",
+            "date": "2011-11-16T00:00:00-0500"
+        }
+    ],
+    "prices": [
+        {
+            "type": "printPrice",
+            "price": 3.99
+        }
+    ],
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/c0/4ecbf61107ca4",
+        "extension": "jpg"
+    },
+    "images": [
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/c0/4ecbf61107ca4",
+            "extension": "jpg"
+        }
+    ],
+    "creators": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/41812/creators",
+        "items": [],
+        "returned": 0
+    },
+    "characters": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/41812/characters",
+        "items": [],
+        "returned": 0
+    },
+    "stories": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/41812/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/94556",
+                "name": "Cover #94556",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/94557",
+                "name": "Interior #94557",
+                "type": "interiorStory"
+            }
+        ],
+        "returned": 2
+    },
+    "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/41812/events",
+        "items": [],
+        "returned": 0
+    }
+}

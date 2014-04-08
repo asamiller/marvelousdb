@@ -1,0 +1,153 @@
+{
+    "id": 40163,
+    "digitalId": 26079,
+    "title": "Uncanny X-Men (2011) #10",
+    "issueNumber": 10,
+    "variantDescription": "",
+    "description": "Unit, a genocidal fugitive from space, lands on Earth looking for the Mutant Messiah. The X-Men must take arms against the killer, but why is Hope placed in his sights? \n",
+    "modified": "2012-05-24T15:28:50-0400",
+    "isbn": "",
+    "upc": "5960607689-01011",
+    "diamondCode": "FEB120618",
+    "ean": "",
+    "issn": "2164-6155",
+    "format": "Comic",
+    "pageCount": 32,
+    "textObjects": [
+        {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "&bull; The X-Men Vs. Unit, The Galactic Genocidal Fugitive!\r\n&bull; What Is Behind Unit&rsquo;s Sinister Interest In Hope?\r\n&bull; Building Towards Avx!\r\n"
+        },
+        {
+            "type": "issue_preview_text",
+            "language": "en-us",
+            "text": "Unit, a genocidal fugitive from space, lands on Earth looking for the Mutant Messiah. The X-Men must take arms against the killer, but why is Hope placed in his sights? \n"
+        }
+    ],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/40163",
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/40163/uncanny_x-men_2011_10?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/Uncanny-X-Men-10/digital-comic/26079?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=26079&utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "inAppLink",
+            "url": "http://applink.marvel.com/issue/26079?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ],
+    "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/14914",
+        "name": "Uncanny X-Men (2011 - 2012)"
+    },
+    "variants": [],
+    "collections": [],
+    "collectedIssues": [],
+    "dates": [
+        {
+            "type": "onsaleDate",
+            "date": "2012-04-11T00:00:00-0400"
+        },
+        {
+            "type": "focDate",
+            "date": "2012-03-28T00:00:00-0400"
+        },
+        {
+            "type": "unlimitedDate",
+            "date": "2013-04-01T00:00:00-0400"
+        },
+        {
+            "type": "digitalPurchaseDate",
+            "date": "2012-04-11T00:00:00-0400"
+        }
+    ],
+    "prices": [
+        {
+            "type": "printPrice",
+            "price": 3.99
+        },
+        {
+            "type": "digitalPurchasePrice",
+            "price": 1.99
+        }
+    ],
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/60/51895d6d1a2dc",
+        "extension": "jpg"
+    },
+    "images": [
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/60/51895d6d1a2dc",
+            "extension": "jpg"
+        }
+    ],
+    "creators": {
+        "available": 4,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/40163/creators",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/452",
+                "name": "Chris Eliopoulos",
+                "role": "Letterer"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/8901",
+                "name": "Kieron Gillen",
+                "role": "writer"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/101",
+                "name": "Carlos Pacheco",
+                "role": "penciller (cover)"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/480",
+                "name": "Cam Smith",
+                "role": "Inker"
+            }
+        ],
+        "returned": 4
+    },
+    "characters": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/40163/characters",
+        "items": [],
+        "returned": 0
+    },
+    "stories": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/40163/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/91123",
+                "name": "Cover #91123",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/91124",
+                "name": "Interior #91124",
+                "type": "interiorStory"
+            }
+        ],
+        "returned": 2
+    },
+    "events": {
+        "available": 1,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/40163/events",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/events/310",
+                "name": "Avengers VS X-Men"
+            }
+        ],
+        "returned": 1
+    }
+}

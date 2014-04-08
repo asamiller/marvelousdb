@@ -1,0 +1,153 @@
+{
+    "id": 35543,
+    "digitalId": 19166,
+    "title": "Thunderstrike (2010) #3",
+    "issueNumber": 3,
+    "variantDescription": "",
+    "description": "Thunderstrike #3",
+    "modified": "2011-12-23T11:58:17-0500",
+    "isbn": "",
+    "upc": "5960607405-00311",
+    "diamondCode": "NOV100547",
+    "ean": "",
+    "issn": "",
+    "format": "Comic",
+    "pageCount": 32,
+    "textObjects": [
+        {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "Thunderstrike #3"
+        }
+    ],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/35543",
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/35543/thunderstrike_2010_3?utm_campaign=apiRef&utm_source=046266cc733f0e6ea56d0b992f16d598"
+        },
+        {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/Thunderstrike-3/digital-comic/19166?utm_campaign=apiRef&utm_source=046266cc733f0e6ea56d0b992f16d598"
+        },
+        {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=19166&utm_campaign=apiRef&utm_source=046266cc733f0e6ea56d0b992f16d598"
+        },
+        {
+            "type": "inAppLink",
+            "url": "http://applink.marvel.com/issue/19166?utm_campaign=apiRef&utm_source=046266cc733f0e6ea56d0b992f16d598"
+        }
+    ],
+    "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/12578",
+        "name": "Thunderstrike (2010 - 2011)"
+    },
+    "variants": [],
+    "collections": [],
+    "collectedIssues": [],
+    "dates": [
+        {
+            "type": "onsaleDate",
+            "date": "2011-02-09T00:00:00-0500"
+        },
+        {
+            "type": "focDate",
+            "date": "2011-01-25T00:00:00-0500"
+        },
+        {
+            "type": "unlimitedDate",
+            "date": "2012-01-05T00:00:00-0500"
+        },
+        {
+            "type": "digitalPurchaseDate",
+            "date": "2011-02-23T00:00:00-0500"
+        }
+    ],
+    "prices": [
+        {
+            "type": "printPrice",
+            "price": 3.99
+        },
+        {
+            "type": "digitalPurchasePrice",
+            "price": 1.99
+        }
+    ],
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/10/4cb61bae1359f",
+        "extension": "jpg"
+    },
+    "images": [
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/10/4cb61bae1359f",
+            "extension": "jpg"
+        }
+    ],
+    "creators": {
+        "available": 4,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/35543/creators",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/11647",
+                "name": "Tom Brennan",
+                "role": "editor"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/105",
+                "name": "Sal Buscema",
+                "role": "inker"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/9565",
+                "name": "Tom DeFalco",
+                "role": "writer"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/5764",
+                "name": "Ron Frenz",
+                "role": "penciller (cover)"
+            }
+        ],
+        "returned": 4
+    },
+    "characters": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/35543/characters",
+        "items": [],
+        "returned": 0
+    },
+    "stories": {
+        "available": 4,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/35543/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/78609",
+                "name": "Cover #78609",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/78610",
+                "name": "Interior #78610",
+                "type": "interiorStory"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/78659",
+                "name": "Cover #78659",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/78660",
+                "name": "Interior #78660",
+                "type": "interiorStory"
+            }
+        ],
+        "returned": 4
+    },
+    "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/35543/events",
+        "items": [],
+        "returned": 0
+    }
+}

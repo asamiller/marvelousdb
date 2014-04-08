@@ -1,0 +1,118 @@
+{
+    "id": 44528,
+    "digitalId": 0,
+    "title": "Ultimate Spider-Man Infinite (2012) #1",
+    "issueNumber": 1,
+    "variantDescription": "",
+    "description": "See Spidey swing through the streets and fight baddies like never before with this latest Infinite Comic!\n",
+    "modified": "2014-02-19T15:45:46-0500",
+    "isbn": "",
+    "upc": "",
+    "diamondCode": "",
+    "ean": "",
+    "issn": "",
+    "format": "Infinite Comic",
+    "pageCount": 32,
+    "textObjects": [
+        {
+            "type": "issue_preview_text",
+            "language": "en-us",
+            "text": "See Spidey swing through the streets and fight baddies like never before with this latest Infinite Comic!\n"
+        },
+        {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "See Spidey swing through the streets and fight baddies like never before with this latest Infinite Comic!\n"
+        }
+    ],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/44528",
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/44528/ultimate_spider-man_infinite_2012_1?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/Ultimate-Spider-Man-Infinite-1/digital-comic/27804?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ],
+    "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/16804",
+        "name": "Ultimate Spider-Man Infinite (2012)"
+    },
+    "variants": [],
+    "collections": [],
+    "collectedIssues": [],
+    "dates": [
+        {
+            "type": "onsaleDate",
+            "date": "2012-10-24T00:00:00-0400"
+        },
+        {
+            "type": "focDate",
+            "date": "-0001-11-30T00:00:00-0500"
+        }
+    ],
+    "prices": [
+        {
+            "type": "printPrice",
+            "price": 1.99
+        }
+    ],
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/10/52ec129b3dc09",
+        "extension": "jpg"
+    },
+    "images": [
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/10/52ec129b3dc09",
+            "extension": "jpg"
+        }
+    ],
+    "creators": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/44528/creators",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/1045",
+                "name": "Ramon Bachs",
+                "role": "penciller"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/11922",
+                "name": "Yves Bigerel",
+                "role": "writer"
+            }
+        ],
+        "returned": 2
+    },
+    "characters": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/44528/characters",
+        "items": [],
+        "returned": 0
+    },
+    "stories": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/44528/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/106671",
+                "name": "cover from Ultimate Spider-Man Infinite #1",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/113653",
+                "name": "Ultimate Spider-Man Infinite",
+                "type": "interiorStory"
+            }
+        ],
+        "returned": 2
+    },
+    "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/44528/events",
+        "items": [],
+        "returned": 0
+    }
+}

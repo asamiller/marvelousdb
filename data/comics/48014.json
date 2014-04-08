@@ -1,0 +1,104 @@
+{
+    "id": 48014,
+    "digitalId": 0,
+    "title": "Marvel Universe Ultimate Spider-Man (2012) #22",
+    "issueNumber": 22,
+    "variantDescription": "",
+    "description": "SPIDER-MAN goes on a deep- space adventure to save Earth from KORVAC and the CHITAURI. Special guest stars: the GUARDIANS OF THE GALAXY! Based on the hit animated series on DISNEY XD.",
+    "modified": "2014-01-16T09:56:14-0500",
+    "isbn": "",
+    "upc": "75960607768702211",
+    "diamondCode": "NOV130681",
+    "ean": "",
+    "issn": "2161-518X",
+    "format": "Comic",
+    "pageCount": 32,
+    "textObjects": [
+        {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "SPIDER-MAN goes on a deep- space adventure to save Earth from KORVAC and the CHITAURI. Special guest stars: the GUARDIANS OF THE GALAXY! Based on the hit animated series on DISNEY XD."
+        }
+    ],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/48014",
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/48014/marvel_universe_ultimate_spider-man_2012_22?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ],
+    "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/17481",
+        "name": "Marvel Universe Ultimate Spider-Man (2012)"
+    },
+    "variants": [],
+    "collections": [],
+    "collectedIssues": [],
+    "dates": [
+        {
+            "type": "onsaleDate",
+            "date": "2014-01-22T00:00:00-0500"
+        },
+        {
+            "type": "focDate",
+            "date": "2014-01-08T00:00:00-0500"
+        }
+    ],
+    "prices": [
+        {
+            "type": "printPrice",
+            "price": 2.99
+        }
+    ],
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/60/52616118b9b4f",
+        "extension": "jpg"
+    },
+    "images": [
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/60/52616118b9b4f",
+            "extension": "jpg"
+        }
+    ],
+    "creators": {
+        "available": 1,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/48014/creators",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/5251",
+                "name": "Joe Caramagna",
+                "role": "penciller (cover)"
+            }
+        ],
+        "returned": 1
+    },
+    "characters": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/48014/characters",
+        "items": [],
+        "returned": 0
+    },
+    "stories": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/48014/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/108269",
+                "name": "cover from Ultimate Spider-Man (2012) #22",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/108270",
+                "name": "story from Ultimate Spider-Man (2012) #22",
+                "type": "interiorStory"
+            }
+        ],
+        "returned": 2
+    },
+    "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/48014/events",
+        "items": [],
+        "returned": 0
+    }
+}

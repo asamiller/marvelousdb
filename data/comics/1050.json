@@ -1,0 +1,109 @@
+{
+    "id": 1050,
+    "digitalId": 0,
+    "title": "Dr. Strange: A Separate Reality (Trade Paperback)",
+    "issueNumber": 0,
+    "variantDescription": "",
+    "description": "Armed with the Cloak of Levitation and the all-seeing Eye of Agamotto, Dr. Strange defends the planet from mystical menaces and godlike entities while working to strengthen the barriers between our world and other hostile realms.",
+    "modified": "-0001-11-30T00:00:00-0500",
+    "isbn": "0-7851-0836-X",
+    "upc": "",
+    "diamondCode": "",
+    "ean": "",
+    "issn": "",
+    "format": "Trade Paperback",
+    "pageCount": 224,
+    "textObjects": [
+        {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "Armed with the Cloak of Levitation and the all-seeing Eye of Agamotto, Dr. Strange defends the planet from mystical menaces and godlike entities while working to strengthen the barriers between our world and other hostile realms."
+        }
+    ],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/1050",
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/collection/1050/dr_strange_a_separate_reality_trade_paperback?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ],
+    "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/110",
+        "name": "Dr. Strange: A Separate Reality (1999)"
+    },
+    "variants": [],
+    "collections": [],
+    "collectedIssues": [],
+    "dates": [
+        {
+            "type": "onsaleDate",
+            "date": "1999-11-30T00:00:00-0500"
+        },
+        {
+            "type": "focDate",
+            "date": "-0001-11-30T00:00:00-0500"
+        }
+    ],
+    "prices": [
+        {
+            "type": "printPrice",
+            "price": 9.99
+        }
+    ],
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/8/b0/4bc66a4240b5c",
+        "extension": "jpg"
+    },
+    "images": [
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/8/b0/4bc66a4240b5c",
+            "extension": "jpg"
+        }
+    ],
+    "creators": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/1050/creators",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/125",
+                "name": "Frank Brunner",
+                "role": "penciller"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/104",
+                "name": "Steve Englehart",
+                "role": "writer"
+            }
+        ],
+        "returned": 2
+    },
+    "characters": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/1050/characters",
+        "items": [],
+        "returned": 0
+    },
+    "stories": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/1050/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/111",
+                "name": "Armed with the Cloak of Levitation and the all-seeing Eye of Agamotto, Dr. Strange defends the planet from mystical menaces and ",
+                "type": "interiorStory"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/65188",
+                "name": "DR. STRANGE: A SEPARATE REALITY TPB 0 cover",
+                "type": "cover"
+            }
+        ],
+        "returned": 2
+    },
+    "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/1050/events",
+        "items": [],
+        "returned": 0
+    }
+}

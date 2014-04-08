@@ -1,0 +1,142 @@
+{
+    "id": 45972,
+    "digitalId": 29362,
+    "title": "Captain America (2012) #6",
+    "issueNumber": 6,
+    "variantDescription": "",
+    "description": "THE ODD WAR OF DIMENSION Z continues!\r\n\r\n\r\n\r\n<ul><li>Steve Rogers is dead--long live Captain Zola!</li><li>A traitor strikes.</li><li>Arnim Zola gets everything he wants.</li></ul>",
+    "modified": "2013-07-23T16:47:53-0400",
+    "isbn": "",
+    "upc": "75960607904900611",
+    "diamondCode": "FEB130519",
+    "ean": "",
+    "issn": "",
+    "format": "Comic",
+    "pageCount": 32,
+    "textObjects": [
+        {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "THE ODD WAR OF DIMENSION Z continues!\r\n\r\n\r\n\r\n<ul><li>Steve Rogers is dead--long live Captain Zola!</li><li>A traitor strikes.</li><li>Arnim Zola gets everything he wants.</li></ul>"
+        }
+    ],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/45972",
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/45972/captain_america_2012_6?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/Captain-America-6/digital-comic/29362?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=29362&utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "inAppLink",
+            "url": "http://applink.marvel.com/issue/29362?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ],
+    "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/16516",
+        "name": "Captain America (2012 - Present)"
+    },
+    "variants": [
+        {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/47083",
+            "name": "Captain America (2012) #6 (Ferry Iron Man Many Armors Variant)"
+        }
+    ],
+    "collections": [],
+    "collectedIssues": [],
+    "dates": [
+        {
+            "type": "onsaleDate",
+            "date": "2013-04-17T00:00:00-0400"
+        },
+        {
+            "type": "focDate",
+            "date": "2013-04-03T00:00:00-0400"
+        },
+        {
+            "type": "unlimitedDate",
+            "date": "2013-10-14T00:00:00-0400"
+        },
+        {
+            "type": "digitalPurchaseDate",
+            "date": "2013-04-17T00:00:00-0400"
+        }
+    ],
+    "prices": [
+        {
+            "type": "printPrice",
+            "price": 3.99
+        },
+        {
+            "type": "digitalPurchasePrice",
+            "price": 3.99
+        }
+    ],
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/a0/5159dc9423fea",
+        "extension": "jpg"
+    },
+    "images": [
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/a0/5159dc9423fea",
+            "extension": "jpg"
+        },
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/90/511d60c9929b5",
+            "extension": "jpg"
+        }
+    ],
+    "creators": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/45972/creators",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/11835",
+                "name": "Rick Remender",
+                "role": "writer"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/214",
+                "name": "John Romita JR.",
+                "role": "penciller (cover)"
+            }
+        ],
+        "returned": 2
+    },
+    "characters": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/45972/characters",
+        "items": [],
+        "returned": 0
+    },
+    "stories": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/45972/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/103462",
+                "name": "cover from Captain America (2012) #6",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/103463",
+                "name": "story from Captain America (2012) #6",
+                "type": "interiorStory"
+            }
+        ],
+        "returned": 2
+    },
+    "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/45972/events",
+        "items": [],
+        "returned": 0
+    }
+}

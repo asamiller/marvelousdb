@@ -1,0 +1,114 @@
+{
+    "id": 46114,
+    "digitalId": 0,
+    "title": "FF (2012) #4 (Allred Variant)",
+    "issueNumber": 4,
+    "variantDescription": "Allred Variant",
+    "description": "• It’s Valentine’s Day at the Baxter Building! So why does that spell trouble for She-Hulk?",
+    "modified": "2013-02-14T11:34:23-0500",
+    "isbn": "",
+    "upc": "759606079071000421",
+    "diamondCode": "DEC120653",
+    "ean": "",
+    "issn": "",
+    "format": "Comic",
+    "pageCount": 32,
+    "textObjects": [
+        {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "• It’s Valentine’s Day at the Baxter Building! So why does that spell trouble for She-Hulk?"
+        }
+    ],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/46114",
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/46114/ff_2012_4_allred_variant/allred_variant?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ],
+    "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/16561",
+        "name": "FF (2012 - Present)"
+    },
+    "variants": [
+        {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/46113",
+            "name": "FF (2012) #4"
+        }
+    ],
+    "collections": [],
+    "collectedIssues": [],
+    "dates": [
+        {
+            "type": "onsaleDate",
+            "date": "2013-02-27T00:00:00-0500"
+        },
+        {
+            "type": "focDate",
+            "date": "2013-02-13T00:00:00-0500"
+        }
+    ],
+    "prices": [
+        {
+            "type": "printPrice",
+            "price": 2.99
+        }
+    ],
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/2/d0/511d119013f9c",
+        "extension": "jpg"
+    },
+    "images": [
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/2/d0/511d119013f9c",
+            "extension": "jpg"
+        }
+    ],
+    "creators": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/46114/creators",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/95",
+                "name": "Mike Allred",
+                "role": "penciler (cover)"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/1132",
+                "name": "Matt Fraction",
+                "role": "writer"
+            }
+        ],
+        "returned": 2
+    },
+    "characters": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/46114/characters",
+        "items": [],
+        "returned": 0
+    },
+    "stories": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/46114/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/103764",
+                "name": "cover from Ff (2012) #4 (ALLRED VARIANT)",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/103765",
+                "name": "story from Ff (2012) #4 (ALLRED VARIANT)",
+                "type": "interiorStory"
+            }
+        ],
+        "returned": 2
+    },
+    "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/46114/events",
+        "items": [],
+        "returned": 0
+    }
+}

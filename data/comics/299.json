@@ -1,0 +1,137 @@
+{
+    "id": 299,
+    "digitalId": 1844,
+    "title": "Fantastic Four (1998) #506",
+    "issueNumber": 506,
+    "variantDescription": "",
+    "description": "\"AUTHORITATIVE ACTION\" pts. 4 & 5 (of 6)\r\nWhat inner demons are driving Reed Richards to the brink - and can the FF overcome them before the bombs start to rain down on Latveria?\r\n32 PGS. (each)/MARVEL PSR…$2.25 (each)",
+    "modified": "-0001-11-30T00:00:00-0500",
+    "isbn": "",
+    "upc": "5960605427-00911",
+    "diamondCode": "",
+    "ean": "",
+    "issn": "",
+    "format": "Comic",
+    "pageCount": 0,
+    "textObjects": [
+        {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "\"AUTHORITATIVE ACTION\" pts. 4 & 5 (of 6)\r\nWhat inner demons are driving Reed Richards to the brink - and can the FF overcome them before the bombs start to rain down on Latveria?\r\n32 PGS. (each)/MARVEL PSR…$2.25 (each)"
+        }
+    ],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/299",
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/299/fantastic_four_1998_506?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=1844&utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ],
+    "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/421",
+        "name": "Fantastic Four (1998 - 2012)"
+    },
+    "variants": [],
+    "collections": [
+        {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/1699",
+            "name": "Fantastic Four Vol. 2 (Hardcover)"
+        }
+    ],
+    "collectedIssues": [],
+    "dates": [
+        {
+            "type": "onsaleDate",
+            "date": "2003-11-12T00:00:00-0500"
+        },
+        {
+            "type": "focDate",
+            "date": "-0001-11-30T00:00:00-0500"
+        },
+        {
+            "type": "unlimitedDate",
+            "date": "2007-11-13T00:00:00-0500"
+        }
+    ],
+    "prices": [
+        {
+            "type": "printPrice",
+            "price": 2.25
+        }
+    ],
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/03/51dd807045993",
+        "extension": "jpg"
+    },
+    "images": [
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/03/51dd807045993",
+            "extension": "jpg"
+        }
+    ],
+    "creators": {
+        "available": 4,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/299/creators",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/460",
+                "name": "Tony Harris",
+                "role": "penciller (cover)"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/317",
+                "name": "Howard Porter",
+                "role": "penciller"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/461",
+                "name": "Norm Rapmund",
+                "role": "inker"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/119",
+                "name": "Mark Waid",
+                "role": "writer"
+            }
+        ],
+        "returned": 4
+    },
+    "characters": {
+        "available": 1,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/299/characters",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009299",
+                "name": "Fantastic Four"
+            }
+        ],
+        "returned": 1
+    },
+    "stories": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/299/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/1848",
+                "name": "Cover #1848",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/1849",
+                "name": "Interior #1849",
+                "type": "interiorStory"
+            }
+        ],
+        "returned": 2
+    },
+    "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/299/events",
+        "items": [],
+        "returned": 0
+    }
+}

@@ -1,0 +1,114 @@
+{
+    "id": 993,
+    "digitalId": 0,
+    "title": "New X-Men Vol. II: Imperial (Trade Paperback)",
+    "issueNumber": 0,
+    "variantDescription": "",
+    "description": " As protesters lay siege to the Xavier Institute, Professor X lies in a coma, trapped within the shattered form of his evil twin,. Cassandra Nova.",
+    "modified": "1969-12-31T19:00:00-0500",
+    "isbn": "0-7851-0887-4",
+    "upc": "",
+    "diamondCode": "",
+    "ean": "",
+    "issn": "",
+    "format": "Trade Paperback",
+    "pageCount": 224,
+    "textObjects": [
+        {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": " As protesters lay siege to the Xavier Institute, Professor X lies in a coma, trapped within the shattered form of his evil twin,. Cassandra Nova."
+        }
+    ],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/993",
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/collection/993/new_x-men_vol_ii_imperial_trade_paperback?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ],
+    "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/55",
+        "name": "New X-Men Vol. II: Imperial (2002)"
+    },
+    "variants": [],
+    "collections": [],
+    "collectedIssues": [],
+    "dates": [
+        {
+            "type": "onsaleDate",
+            "date": "2002-11-06T00:00:00-0500"
+        },
+        {
+            "type": "focDate",
+            "date": "1969-12-31T19:00:00-0500"
+        }
+    ],
+    "prices": [
+        {
+            "type": "printPrice",
+            "price": 9.99
+        }
+    ],
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available",
+        "extension": "jpg"
+    },
+    "images": [],
+    "creators": {
+        "available": 4,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/993/creators",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/116",
+                "name": "Igor Kordey",
+                "role": "penciller"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/66",
+                "name": "Frank Quitely",
+                "role": "penciller"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/1329",
+                "name": "Ethan Van Sciver",
+                "role": "penciller"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/64",
+                "name": "Grant Morrison",
+                "role": "writer"
+            }
+        ],
+        "returned": 4
+    },
+    "characters": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/993/characters",
+        "items": [],
+        "returned": 0
+    },
+    "stories": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/993/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/56",
+                "name": " As protesters lay siege to the Xavier Institute, Professor X lies in a coma, trapped within the shattered form of his evil twin",
+                "type": "interiorStory"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/65133",
+                "name": "NEW X-MEN VOL. II: IMPERIAL TPB 0 cover",
+                "type": "cover"
+            }
+        ],
+        "returned": 2
+    },
+    "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/993/events",
+        "items": [],
+        "returned": 0
+    }
+}

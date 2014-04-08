@@ -1,0 +1,120 @@
+{
+    "id": 1010841,
+    "name": "Zaran",
+    "description": "",
+    "modified": "1969-12-31T19:00:00-0500",
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available",
+        "extension": "jpg"
+    },
+    "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010841",
+    "comics": {
+        "available": 7,
+        "collectionURI": "http://gateway.marvel.com/v1/public/characters/1010841/comics",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/comics/7739",
+                "name": "Captain America (1968) #358"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/comics/16064",
+                "name": "Marvel Knights (2000) #4"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/comics/16065",
+                "name": "Marvel Knights (2000) #5"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/comics/16066",
+                "name": "Marvel Knights (2000) #6"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/comics/16067",
+                "name": "Marvel Knights (2000) #7"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/comics/16057",
+                "name": "Marvel Knights (2000) #11"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/comics/16058",
+                "name": "Marvel Knights (2000) #12"
+            }
+        ],
+        "returned": 7
+    },
+    "series": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/characters/1010841/series",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/series/1996",
+                "name": "Captain America (1968 - 1996)"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/series/2576",
+                "name": "Marvel Knights (2000 - 2001)"
+            }
+        ],
+        "returned": 2
+    },
+    "stories": {
+        "available": 8,
+        "collectionURI": "http://gateway.marvel.com/v1/public/characters/1010841/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/17986",
+                "name": "Captain America (1968) #358",
+                "type": "interiorStory"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/32756",
+                "name": "Hero for Hire",
+                "type": "interiorStory"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/32758",
+                "name": "The Long, Long Night",
+                "type": "interiorStory"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/32766",
+                "name": "Cover #32766",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/32767",
+                "name": "Zaran",
+                "type": "interiorStory"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/32769",
+                "name": "Family and Friends",
+                "type": "interiorStory"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/32771",
+                "name": "The Reckoning",
+                "type": "interiorStory"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/32773",
+                "name": "Strange Matters",
+                "type": "interiorStory"
+            }
+        ],
+        "returned": 8
+    },
+    "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/characters/1010841/events",
+        "items": [],
+        "returned": 0
+    },
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/characters/1010841/zaran?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ]
+}

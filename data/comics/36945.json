@@ -1,0 +1,132 @@
+{
+    "id": 36945,
+    "digitalId": 0,
+    "title": "Batroc (2010) #1",
+    "issueNumber": 1,
+    "variantDescription": "",
+    "description": "The phone rings. The voice speaks. They want you to fight Captain America. Again. The man who beat you before. The man who you know will beat you again. What can you say? You say “Yes”. Batroc: Traceur shows why and takes you every step of the road he walks. It's time to meet the man behind the greatest moustache in the Marvel Universe. Yeah, Stark. You heard.\n",
+    "modified": "2011-03-22T01:32:07-0400",
+    "isbn": "",
+    "upc": "5960607444-00111",
+    "diamondCode": "JAN110708",
+    "ean": "",
+    "issn": "",
+    "format": "Comic",
+    "pageCount": 40,
+    "textObjects": [
+        {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "The phone rings. The voice speaks. They want you to fight Captain America. Again. The man who beat you before. The man who you know will beat you again. What can you say? You say “Yes”. Batroc: Traceur shows why and takes you every step of the road he walks. It's time to meet the man behind the greatest moustache in the Marvel Universe. Yeah, Stark. You heard.\n"
+        }
+    ],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/36945",
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/36945/batroc_2010_1?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/Batroc-1/digital-comic/19968?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ],
+    "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/13194",
+        "name": "Batroc (2010 - 2011)"
+    },
+    "variants": [],
+    "collections": [],
+    "collectedIssues": [],
+    "dates": [
+        {
+            "type": "onsaleDate",
+            "date": "2011-03-23T00:00:00-0400"
+        },
+        {
+            "type": "focDate",
+            "date": "2011-03-08T00:00:00-0500"
+        }
+    ],
+    "prices": [
+        {
+            "type": "printPrice",
+            "price": 3.99
+        }
+    ],
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/1/80/4d81087689c85",
+        "extension": "jpg"
+    },
+    "images": [
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/1/80/4d81087689c85",
+            "extension": "jpg"
+        }
+    ],
+    "creators": {
+        "available": 4,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/36945/creators",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/937",
+                "name": "Renato Arlem",
+                "role": "penciller"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/8204",
+                "name": "Charlie Beckerman",
+                "role": "editor"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/8901",
+                "name": "Kieron Gillen",
+                "role": "writer"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/653",
+                "name": "Greg Tocchini",
+                "role": "penciller (cover)"
+            }
+        ],
+        "returned": 4
+    },
+    "characters": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/36945/characters",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009172",
+                "name": "Batroc the Leaper"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010740",
+                "name": "The Winter Soldier"
+            }
+        ],
+        "returned": 2
+    },
+    "stories": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/36945/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/81931",
+                "name": "Batroc (2010) #1",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/81932",
+                "name": "Interior #81932",
+                "type": "interiorStory"
+            }
+        ],
+        "returned": 2
+    },
+    "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/36945/events",
+        "items": [],
+        "returned": 0
+    }
+}

@@ -1,0 +1,143 @@
+{
+    "id": 47145,
+    "digitalId": 28780,
+    "title": "Superior Spider-Man (2013) #6",
+    "issueNumber": 6,
+    "variantDescription": "",
+    "description": "The Superior Spider-Man enters the Age of Ultron!",
+    "modified": "2013-06-12T16:19:01-0400",
+    "isbn": "",
+    "upc": "75960607890500111",
+    "diamondCode": "JAN130641",
+    "ean": "",
+    "issn": "",
+    "format": "Comic",
+    "pageCount": 32,
+    "textObjects": [
+        {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "The Superior Spider-Man enters the Age of Ultron!"
+        }
+    ],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/47145",
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/47145/superior_spider-man_2013_6?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/Superior-Spider-Man-6/digital-comic/28780?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=28780&utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "inAppLink",
+            "url": "http://applink.marvel.com/issue/28780?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ],
+    "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/17745",
+        "name": "Superior Spider-Man (2013 - Present)"
+    },
+    "variants": [],
+    "collections": [],
+    "collectedIssues": [],
+    "dates": [
+        {
+            "type": "onsaleDate",
+            "date": "2013-03-27T00:00:00-0400"
+        },
+        {
+            "type": "focDate",
+            "date": "2013-03-13T00:00:00-0400"
+        },
+        {
+            "type": "unlimitedDate",
+            "date": "2013-09-30T00:00:00-0400"
+        },
+        {
+            "type": "digitalPurchaseDate",
+            "date": "2013-03-27T00:00:00-0400"
+        }
+    ],
+    "prices": [
+        {
+            "type": "printPrice",
+            "price": 3.99
+        },
+        {
+            "type": "digitalPurchasePrice",
+            "price": 1.99
+        }
+    ],
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/8/d0/51508c4d2c4ad",
+        "extension": "jpg"
+    },
+    "images": [
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/8/d0/51508c4d2c4ad",
+            "extension": "jpg"
+        }
+    ],
+    "creators": {
+        "available": 3,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/47145/creators",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/11748",
+                "name": "Marco Checchetto",
+                "role": "penciler (cover)"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/11765",
+                "name": "Christos Gage",
+                "role": "writer"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/11904",
+                "name": "Dexter Soy",
+                "role": "artist"
+            }
+        ],
+        "returned": 3
+    },
+    "characters": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/47145/characters",
+        "items": [],
+        "returned": 0
+    },
+    "stories": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/47145/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/105883",
+                "name": "cover from Age of Ultron: Superior Spider-Man (2013) #1",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/105884",
+                "name": "story from Age of Ultron: Superior Spider-Man (2013) #1",
+                "type": "interiorStory"
+            }
+        ],
+        "returned": 2
+    },
+    "events": {
+        "available": 1,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/47145/events",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/events/314",
+                "name": "Age of Ultron"
+            }
+        ],
+        "returned": 1
+    }
+}

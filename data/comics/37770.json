@@ -1,0 +1,178 @@
+{
+    "id": 37770,
+    "digitalId": 16198,
+    "title": "Iron Man (1998) #10",
+    "issueNumber": 10,
+    "variantDescription": "",
+    "description": null,
+    "modified": "2012-11-26T15:22:21-0500",
+    "isbn": "",
+    "upc": "",
+    "diamondCode": "",
+    "ean": "",
+    "issn": "",
+    "format": "Comic",
+    "pageCount": 38,
+    "textObjects": [],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/37770",
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/37770/iron_man_1998_10?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=16198&utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ],
+    "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/2572",
+        "name": "Iron Man (1998 - 2004)"
+    },
+    "variants": [],
+    "collections": [],
+    "collectedIssues": [],
+    "dates": [
+        {
+            "type": "onsaleDate",
+            "date": "1998-11-10T00:00:00-0500"
+        },
+        {
+            "type": "focDate",
+            "date": "1961-01-01T00:00:00-0500"
+        },
+        {
+            "type": "unlimitedDate",
+            "date": "2013-04-30T00:00:22-0400"
+        }
+    ],
+    "prices": [
+        {
+            "type": "printPrice",
+            "price": 1.99
+        }
+    ],
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/60/50b3cf5639812",
+        "extension": "jpg"
+    },
+    "images": [
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/60/50b3cf5639812",
+            "extension": "jpg"
+        }
+    ],
+    "creators": {
+        "available": 7,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/37770/creators",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/807",
+                "name": "Comicraft",
+                "role": "letterer"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/1231",
+                "name": "Kurt Busiek",
+                "role": "writer"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/5075",
+                "name": "Bobbie Chase",
+                "role": "editor"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/174",
+                "name": "Sean Chen",
+                "role": "penciler"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/4394",
+                "name": "Liquid Color",
+                "role": "colorist"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/4205",
+                "name": "Steve Oliff",
+                "role": "colorist"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/4057",
+                "name": "Lary Stucker",
+                "role": "inker"
+            }
+        ],
+        "returned": 7
+    },
+    "characters": {
+        "available": 9,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/37770/characters",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009266",
+                "name": "Darkstar"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009306",
+                "name": "Firestar"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009368",
+                "name": "Iron Man"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010760",
+                "name": "Justice"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010352",
+                "name": "Madame Masque"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009421",
+                "name": "Mandarin"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009562",
+                "name": "Scarlet Witch"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009697",
+                "name": "Vision"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009719",
+                "name": "Wonder Man"
+            }
+        ],
+        "returned": 9
+    },
+    "stories": {
+        "available": 3,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/37770/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/83377",
+                "name": "Revenge of the Mandarin Part Two",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/83378",
+                "name": "",
+                "type": "recap"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/83379",
+                "name": "In the Belly of the Beast!",
+                "type": "interiorStory"
+            }
+        ],
+        "returned": 3
+    },
+    "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/37770/events",
+        "items": [],
+        "returned": 0
+    }
+}

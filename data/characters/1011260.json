@@ -1,0 +1,79 @@
+{
+    "id": 1011260,
+    "name": "Dexter Bennett",
+    "description": "",
+    "modified": "1969-12-31T19:00:00-0500",
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/b0/4ce5a5d5d8932",
+        "extension": "jpg"
+    },
+    "resourceURI": "http://gateway.marvel.com/v1/public/characters/1011260",
+    "comics": {
+        "available": 3,
+        "collectionURI": "http://gateway.marvel.com/v1/public/characters/1011260/comics",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/comics/24414",
+                "name": "Amazing Spider-Man (1999) #607"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/comics/24420",
+                "name": "Amazing Spider-Man (1999) #613"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/comics/29545",
+                "name": "Amazing Spider-Man (1999) #613 (VARIANT)"
+            }
+        ],
+        "returned": 3
+    },
+    "series": {
+        "available": 1,
+        "collectionURI": "http://gateway.marvel.com/v1/public/characters/1011260/series",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/series/454",
+                "name": "Amazing Spider-Man (1999 - 2013)"
+            }
+        ],
+        "returned": 1
+    },
+    "stories": {
+        "available": 3,
+        "collectionURI": "http://gateway.marvel.com/v1/public/characters/1011260/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/54186",
+                "name": "Amazing Spider-Man (1999) #607 - Int",
+                "type": "interiorStory"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/54198",
+                "name": "Amazing Spider-Man (1999) #613 - Int",
+                "type": "interiorStory"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/64242",
+                "name": "Amazing Spider-Man (1999) #613, Variant Edition - Int",
+                "type": "interiorStory"
+            }
+        ],
+        "returned": 3
+    },
+    "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/characters/1011260/events",
+        "items": [],
+        "returned": 0
+    },
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/characters/1011260/dexter_bennett?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "wiki",
+            "url": "http://marvel.com/universe/Bennett,_Dexter?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ]
+}

@@ -1,0 +1,107 @@
+{
+    "id": 32400,
+    "digitalId": 0,
+    "title": "Wolverine MGC (2010) #66",
+    "issueNumber": 66,
+    "variantDescription": "",
+    "description": "$1.00",
+    "modified": "-0001-11-30T00:00:00-0500",
+    "isbn": "",
+    "upc": "5960607212-00111",
+    "diamondCode": "FEB100487",
+    "ean": "",
+    "issn": "",
+    "format": "Comic",
+    "pageCount": 24,
+    "textObjects": [
+        {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "$1.00"
+        }
+    ],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/32400",
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/32400/wolverine_mgc_2010_66?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ],
+    "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/9736",
+        "name": "Wolverine MGC (2010)"
+    },
+    "variants": [],
+    "collections": [],
+    "collectedIssues": [],
+    "dates": [
+        {
+            "type": "onsaleDate",
+            "date": "2010-04-07T00:00:00-0400"
+        },
+        {
+            "type": "focDate",
+            "date": "2010-03-11T00:00:00-0500"
+        }
+    ],
+    "prices": [
+        {
+            "type": "printPrice",
+            "price": 1
+        }
+    ],
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/e/c0/4bac5bc258da3",
+        "extension": "jpg"
+    },
+    "images": [
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/e/c0/4bac5bc258da3",
+            "extension": "jpg"
+        }
+    ],
+    "creators": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/32400/creators",
+        "items": [],
+        "returned": 0
+    },
+    "characters": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/32400/characters",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009368",
+                "name": "Iron Man"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009718",
+                "name": "Wolverine"
+            }
+        ],
+        "returned": 2
+    },
+    "stories": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/32400/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/73208",
+                "name": "Cover #73208",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/73210",
+                "name": "Interior #73210",
+                "type": "interiorStory"
+            }
+        ],
+        "returned": 2
+    },
+    "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/32400/events",
+        "items": [],
+        "returned": 0
+    }
+}

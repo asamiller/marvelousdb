@@ -1,0 +1,105 @@
+{
+    "id": 42261,
+    "digitalId": 0,
+    "title": "Brilliant (2011) #1 (2nd Printing Variant)",
+    "issueNumber": 1,
+    "variantDescription": "2nd Printing Variant",
+    "description": null,
+    "modified": "2011-11-22T16:36:56-0500",
+    "isbn": "",
+    "upc": "5960607683-00112",
+    "diamondCode": "",
+    "ean": "",
+    "issn": "",
+    "format": "Comic",
+    "pageCount": 40,
+    "textObjects": [],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/42261",
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/42261/brilliant_2011_1_2nd_printing_variant/2nd_printing_variant?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ],
+    "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/14803",
+        "name": "Brilliant (2011 - Present)"
+    },
+    "variants": [
+        {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/39920",
+            "name": "Brilliant (2011) #1"
+        },
+        {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/40055",
+            "name": "Brilliant (2011) #1 (Mack Variant)"
+        },
+        {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/40057",
+            "name": "Brilliant (2011) #1 (Oeming Variant)"
+        }
+    ],
+    "collections": [],
+    "collectedIssues": [],
+    "dates": [
+        {
+            "type": "onsaleDate",
+            "date": "2011-11-30T00:00:00-0500"
+        },
+        {
+            "type": "focDate",
+            "date": "2011-11-15T00:00:00-0500"
+        }
+    ],
+    "prices": [
+        {
+            "type": "printPrice",
+            "price": 3.95
+        }
+    ],
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/00/4ecbf32b3065f",
+        "extension": "jpg"
+    },
+    "images": [
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/00/4ecbf32b3065f",
+            "extension": "jpg"
+        }
+    ],
+    "creators": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/42261/creators",
+        "items": [],
+        "returned": 0
+    },
+    "characters": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/42261/characters",
+        "items": [],
+        "returned": 0
+    },
+    "stories": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/42261/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/95414",
+                "name": "Cover #95414",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/95415",
+                "name": "Interior #95415",
+                "type": "interiorStory"
+            }
+        ],
+        "returned": 2
+    },
+    "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/42261/events",
+        "items": [],
+        "returned": 0
+    }
+}

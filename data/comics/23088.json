@@ -1,0 +1,148 @@
+{
+    "id": 23088,
+    "digitalId": 13088,
+    "title": "New Avengers (2004) #49",
+    "issueNumber": 49,
+    "variantDescription": "",
+    "description": "These solicits are classified until the release of Secret Invasion #8.\r<br>Pick up the free Marvel Previews: Dark Reign Edition in-stores the same day as Secret Invasion #8.\r<br>Rated A  …$2.99",
+    "modified": "2012-04-05T16:17:15-0400",
+    "isbn": "",
+    "upc": "5960605547-04911",
+    "diamondCode": "NOV082331",
+    "ean": "",
+    "issn": "",
+    "format": "Comic",
+    "pageCount": 32,
+    "textObjects": [
+        {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "These solicits are classified until the release of Secret Invasion #8.\r<br>Pick up the free Marvel Previews: Dark Reign Edition in-stores the same day as Secret Invasion #8.\r<br>Rated A  …$2.99"
+        }
+    ],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/23088",
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/23088/new_avengers_2004_49?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/New-Avengers-49/digital-comic/13088?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=13088&utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "inAppLink",
+            "url": "http://applink.marvel.com/issue/13088?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ],
+    "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/753",
+        "name": "New Avengers (2004 - 2010)"
+    },
+    "variants": [
+        {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/26026",
+            "name": "New Avengers (2004) #49 (2ND PRINTING VARIANT (DR))"
+        }
+    ],
+    "collections": [],
+    "collectedIssues": [],
+    "dates": [
+        {
+            "type": "onsaleDate",
+            "date": "2009-01-28T00:00:00-0500"
+        },
+        {
+            "type": "focDate",
+            "date": "2009-01-08T00:00:00-0500"
+        },
+        {
+            "type": "unlimitedDate",
+            "date": "2010-01-01T00:00:00-0500"
+        },
+        {
+            "type": "digitalPurchaseDate",
+            "date": "2012-01-17T00:00:00-0500"
+        }
+    ],
+    "prices": [
+        {
+            "type": "printPrice",
+            "price": 3.99
+        },
+        {
+            "type": "digitalPurchasePrice",
+            "price": 1.99
+        }
+    ],
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/a/50/4f7dfd9575f32",
+        "extension": "jpg"
+    },
+    "images": [
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/a/50/4f7dfd9575f32",
+            "extension": "jpg"
+        }
+    ],
+    "creators": {
+        "available": 3,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/23088/creators",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/779",
+                "name": "Matt Banning",
+                "role": "inker"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/426",
+                "name": "Jason Keith",
+                "role": "colorist"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/448",
+                "name": "Billy Tan",
+                "role": "penciller"
+            }
+        ],
+        "returned": 3
+    },
+    "characters": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/23088/characters",
+        "items": [],
+        "returned": 0
+    },
+    "stories": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/23088/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/51203",
+                "name": "New Avengers (2004) #49",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/51204",
+                "name": "Interior #51204",
+                "type": "interiorStory"
+            }
+        ],
+        "returned": 2
+    },
+    "events": {
+        "available": 1,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/23088/events",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/events/318",
+                "name": "Dark Reign"
+            }
+        ],
+        "returned": 1
+    }
+}

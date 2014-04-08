@@ -1,0 +1,167 @@
+{
+    "id": 1221,
+    "digitalId": 0,
+    "title": "X-Men: Evolution Vol. 1 (Digest)",
+    "issueNumber": 0,
+    "variantDescription": "",
+    "description": "Based on the popular TV program, this volume collects a series of stories that reveal the events before the show' first episode - featuring Storm, Wolverine, Cyclops, Jean Grey and Profesor Xavier. Collecting X-Men Evolution Issues 1-4.",
+    "modified": "-0001-11-30T00:00:00-0500",
+    "isbn": "0-7851-0940-4",
+    "upc": "",
+    "diamondCode": "",
+    "ean": "",
+    "issn": "",
+    "format": "Digest",
+    "pageCount": 96,
+    "textObjects": [
+        {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "Based on the popular TV program, this volume collects a series of stories that reveal the events before the show' first episode - featuring Storm, Wolverine, Cyclops, Jean Grey and Profesor Xavier. Collecting X-Men Evolution Issues 1-4."
+        }
+    ],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/1221",
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/collection/1221/x-men_evolution_vol_1_digest?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ],
+    "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/278",
+        "name": "X-Men: Evolution Vol. 1 (1999)"
+    },
+    "variants": [],
+    "collections": [],
+    "collectedIssues": [
+        {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/15794",
+            "name": "X-Men: Evolution (2001) #4"
+        },
+        {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/15791",
+            "name": "X-Men: Evolution (2001) #1"
+        },
+        {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/15793",
+            "name": "X-Men: Evolution (2001) #3"
+        },
+        {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/15792",
+            "name": "X-Men: Evolution (2001) #2"
+        }
+    ],
+    "dates": [
+        {
+            "type": "onsaleDate",
+            "date": "1999-11-30T00:00:00-0500"
+        },
+        {
+            "type": "focDate",
+            "date": "-0001-11-30T00:00:00-0500"
+        }
+    ],
+    "prices": [
+        {
+            "type": "printPrice",
+            "price": 5.99
+        }
+    ],
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/40/4bc468f0163fb",
+        "extension": "jpg"
+    },
+    "images": [
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/40/4bc468f0163fb",
+            "extension": "jpg"
+        },
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/f/30/4bc468eb5bca5",
+            "extension": "jpg"
+        },
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/4/40/4bc468e672749",
+            "extension": "jpg"
+        },
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/30/4bc468e1a5ee1",
+            "extension": "jpg"
+        }
+    ],
+    "creators": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/1221/creators",
+        "items": [],
+        "returned": 0
+    },
+    "characters": {
+        "available": 1,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/1221/characters",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009726",
+                "name": "X-Men"
+            }
+        ],
+        "returned": 1
+    },
+    "stories": {
+        "available": 9,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/1221/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/36761",
+                "name": "Cover #36761",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/36762",
+                "name": "Interior #36762",
+                "type": "interiorStory"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/36763",
+                "name": "Cover #36763",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/36764",
+                "name": "Interior #36764",
+                "type": "interiorStory"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/36765",
+                "name": "Cover #36765",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/36766",
+                "name": "Interior #36766",
+                "type": "interiorStory"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/36767",
+                "name": "Cover #36767",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/36768",
+                "name": "Interior #36768",
+                "type": "interiorStory"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/65311",
+                "name": "X-MEN: EVOLUTION VOL. 1 0 cover",
+                "type": "cover"
+            }
+        ],
+        "returned": 9
+    },
+    "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/1221/events",
+        "items": [],
+        "returned": 0
+    }
+}

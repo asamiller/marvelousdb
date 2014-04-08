@@ -1,0 +1,153 @@
+{
+    "id": 829,
+    "digitalId": 2059,
+    "title": "Madrox (2004) #1",
+    "issueNumber": 1,
+    "variantDescription": "",
+    "description": "X-MEN: RELOAD ANOTHER CLIP!  Jamie Madrox, stabbed, staggering off a bus. Jamie Madrox, setting up a detective agency in the heart of Mutant Town. Jamie Madrox, a peaceful Shaolin priest.  Which is the real Jamie Madrox?  In this noir-esque thriller of a",
+    "modified": "-0001-11-30T00:00:00-0500",
+    "isbn": "",
+    "upc": "5960605555-00111",
+    "diamondCode": "",
+    "ean": "",
+    "issn": "",
+    "format": "Comic",
+    "pageCount": 0,
+    "textObjects": [
+        {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "X-MEN: RELOAD ANOTHER CLIP!  Jamie Madrox, stabbed, staggering off a bus. Jamie Madrox, setting up a detective agency in the heart of Mutant Town. Jamie Madrox, a peaceful Shaolin priest.  Which is the real Jamie Madrox?  In this noir-esque thriller of a"
+        }
+    ],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/829",
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/829/madrox_2004_1?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/Madrox-1/digital-comic/2059?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=2059&utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "inAppLink",
+            "url": "http://applink.marvel.com/issue/2059?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ],
+    "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/762",
+        "name": "Madrox (2004 - 2005)"
+    },
+    "variants": [],
+    "collections": [
+        {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/1734",
+            "name": "Madrox: Multiple Choice (Trade Paperback)"
+        }
+    ],
+    "collectedIssues": [],
+    "dates": [
+        {
+            "type": "onsaleDate",
+            "date": "2004-09-15T00:00:00-0400"
+        },
+        {
+            "type": "focDate",
+            "date": "-0001-11-30T00:00:00-0500"
+        },
+        {
+            "type": "unlimitedDate",
+            "date": "2007-04-28T00:00:00-0400"
+        },
+        {
+            "type": "digitalPurchaseDate",
+            "date": "2010-12-22T00:00:00-0500"
+        }
+    ],
+    "prices": [
+        {
+            "type": "printPrice",
+            "price": 2.99
+        },
+        {
+            "type": "digitalPurchasePrice",
+            "price": 1.99
+        }
+    ],
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/a0/4bc67870dabe8",
+        "extension": "jpg"
+    },
+    "images": [
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/a0/4bc67870dabe8",
+            "extension": "jpg"
+        }
+    ],
+    "creators": {
+        "available": 4,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/829/creators",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/121",
+                "name": "Peter David",
+                "role": "writer"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/813",
+                "name": "David Lloyd",
+                "role": "penciller (cover)"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/814",
+                "name": "Pablo Raimondi",
+                "role": "penciller"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/582",
+                "name": "Brian Reber",
+                "role": "colorist"
+            }
+        ],
+        "returned": 4
+    },
+    "characters": {
+        "available": 1,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/829/characters",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009413",
+                "name": "Madrox"
+            }
+        ],
+        "returned": 1
+    },
+    "stories": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/829/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/3580",
+                "name": "X-MEN: RELOAD ANOTHER CLIP!  Jamie Madrox, stabbed, staggering off a bus. Jamie Madrox, setting up a detective agency in the hea",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/3581",
+                "name": "X-MEN: RELOAD ANOTHER CLIP!  Jamie Madrox, stabbed, staggering off a bus. Jamie Madrox, setting up a detective agency in the hea",
+                "type": "interiorStory"
+            }
+        ],
+        "returned": 2
+    },
+    "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/829/events",
+        "items": [],
+        "returned": 0
+    }
+}

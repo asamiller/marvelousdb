@@ -1,0 +1,158 @@
+{
+    "id": 31538,
+    "digitalId": 22680,
+    "title": "Invincible Iron Man (2008) #506",
+    "issueNumber": 506,
+    "variantDescription": "",
+    "description": "FEAR ITSELF TIE-IN! As Tony Stark falls apart and struggles to rebuild, the world needs Iron Man in action, in battle, out there saving the day. Tony's constructing the future of Asgard and the Marvel Universe, but if he can't even save himself...how can he save anyone else? It all gets personal, as Tony has to face his greatest fear once and for all.",
+    "modified": "2011-07-14T17:46:10-0400",
+    "isbn": "",
+    "upc": "5960606427-50611",
+    "diamondCode": "",
+    "ean": "",
+    "issn": "1933-3080",
+    "format": "Comic",
+    "pageCount": 32,
+    "textObjects": [
+        {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "FEAR ITSELF TIE-IN! As Tony Stark falls apart and struggles to rebuild, the world needs Iron Man in action, in battle, out there saving the day. Tony's constructing the future of Asgard and the Marvel Universe, but if he can't even save himself...how can he save anyone else? It all gets personal, as Tony has to face his greatest fear once and for all."
+        }
+    ],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/31538",
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/31538/invincible_iron_man_2008_506?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/Invincible-Iron-Man-506/digital-comic/22680?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=22680&utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "inAppLink",
+            "url": "http://applink.marvel.com/issue/22680?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ],
+    "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/4889",
+        "name": "Invincible Iron Man (2008 - 2012)"
+    },
+    "variants": [],
+    "collections": [],
+    "collectedIssues": [],
+    "dates": [
+        {
+            "type": "onsaleDate",
+            "date": "2011-07-20T00:00:00-0400"
+        },
+        {
+            "type": "focDate",
+            "date": "2011-06-27T00:00:00-0400"
+        },
+        {
+            "type": "unlimitedDate",
+            "date": "2012-02-29T00:00:00-0500"
+        },
+        {
+            "type": "digitalPurchaseDate",
+            "date": "2012-07-03T00:00:00-0400"
+        }
+    ],
+    "prices": [
+        {
+            "type": "printPrice",
+            "price": 3.99
+        },
+        {
+            "type": "digitalPurchasePrice",
+            "price": 1.99
+        }
+    ],
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/20/4f638ab3be090",
+        "extension": "jpg"
+    },
+    "images": [
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/20/4f638ab3be090",
+            "extension": "jpg"
+        }
+    ],
+    "creators": {
+        "available": 5,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/31538/creators",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/8000",
+                "name": "Alejandro Arbona",
+                "role": "editor"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/5251",
+                "name": "Joe Caramagna",
+                "role": "letterer"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/8504",
+                "name": "Frank D'Armata",
+                "role": "colorist"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/1132",
+                "name": "Matt Fraction",
+                "role": "writer"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/11757",
+                "name": "Salvador Larroca",
+                "role": "penciller (cover)"
+            }
+        ],
+        "returned": 5
+    },
+    "characters": {
+        "available": 1,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/31538/characters",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009368",
+                "name": "Iron Man"
+            }
+        ],
+        "returned": 1
+    },
+    "stories": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/31538/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/71720",
+                "name": "Cover #71720",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/71721",
+                "name": "Interior #71721",
+                "type": "interiorStory"
+            }
+        ],
+        "returned": 2
+    },
+    "events": {
+        "available": 1,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/31538/events",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/events/302",
+                "name": "Fear Itself"
+            }
+        ],
+        "returned": 1
+    }
+}

@@ -1,0 +1,153 @@
+{
+    "id": 713,
+    "digitalId": 3454,
+    "title": "She-Hulk (2004) #4",
+    "issueNumber": 4,
+    "variantDescription": "",
+    "description": "\"WEB OF LIES\" It's the titanic battle that HAD to happen: She-Hulk and guest-star Spider-Man square off against… J. Jonah Jameson and the Daily Bugle?! When the lawyers from She-Hulk’s firm devise a legal and binding way for Spider-Man to take the stand without revealing his secret identity, the wall-crawler finally gets to have his day in court. Can Shulkie help Spidey collect damages for libel...before the Scorpion and the Spider-Slayers inflict some real damage?",
+    "modified": "-0001-11-30T00:00:00-0500",
+    "isbn": "",
+    "upc": "5960605527-00411",
+    "diamondCode": "",
+    "ean": "",
+    "issn": "",
+    "format": "Comic",
+    "pageCount": 0,
+    "textObjects": [
+        {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "\"WEB OF LIES\" It's the titanic battle that HAD to happen: She-Hulk and guest-star Spider-Man square off against… J. Jonah Jameson and the Daily Bugle?! When the lawyers from She-Hulk’s firm devise a legal and binding way for Spider-Man to take the stand without revealing his secret identity, the wall-crawler finally gets to have his day in court. Can Shulkie help Spidey collect damages for libel...before the Scorpion and the Spider-Slayers inflict some real damage?"
+        }
+    ],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/713",
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/713/she-hulk_2004_4?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/She-Hulk-4/digital-comic/3454?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=3454&utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "inAppLink",
+            "url": "http://applink.marvel.com/issue/3454?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ],
+    "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/731",
+        "name": "She-Hulk (2004 - 2005)"
+    },
+    "variants": [],
+    "collections": [
+        {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/33",
+            "name": "She-Hulk Vol. 1: Single Green Female (Trade Paperback)"
+        }
+    ],
+    "collectedIssues": [],
+    "dates": [
+        {
+            "type": "onsaleDate",
+            "date": "2004-06-16T00:00:00-0400"
+        },
+        {
+            "type": "focDate",
+            "date": "-0001-11-30T00:00:00-0500"
+        },
+        {
+            "type": "unlimitedDate",
+            "date": "2007-11-13T00:00:00-0500"
+        },
+        {
+            "type": "digitalPurchaseDate",
+            "date": "2013-08-27T00:00:00-0400"
+        }
+    ],
+    "prices": [
+        {
+            "type": "printPrice",
+            "price": 2.99
+        },
+        {
+            "type": "digitalPurchasePrice",
+            "price": 1.99
+        }
+    ],
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/50/4bc6816cbc842",
+        "extension": "jpg"
+    },
+    "images": [
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/50/4bc6816cbc842",
+            "extension": "jpg"
+        }
+    ],
+    "creators": {
+        "available": 4,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/713/creators",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/441",
+                "name": "Chris Chuckry",
+                "role": "colorist"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/436",
+                "name": "Adi Granov",
+                "role": "penciller (cover)"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/626",
+                "name": "Dan Slott",
+                "role": "writer"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/240",
+                "name": "Marcelo Sosa",
+                "role": "inker"
+            }
+        ],
+        "returned": 4
+    },
+    "characters": {
+        "available": 1,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/713/characters",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009583",
+                "name": "She-Hulk (Jennifer Walters)"
+            }
+        ],
+        "returned": 1
+    },
+    "stories": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/713/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/3139",
+                "name": "Cover #3139",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/3140",
+                "name": "Interior #3140",
+                "type": "interiorStory"
+            }
+        ],
+        "returned": 2
+    },
+    "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/713/events",
+        "items": [],
+        "returned": 0
+    }
+}

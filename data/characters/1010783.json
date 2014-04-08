@@ -1,0 +1,100 @@
+{
+    "id": 1010783,
+    "name": "Kat Farrell",
+    "description": "",
+    "modified": "1969-12-31T19:00:00-0500",
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available",
+        "extension": "jpg"
+    },
+    "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010783",
+    "comics": {
+        "available": 5,
+        "collectionURI": "http://gateway.marvel.com/v1/public/characters/1010783/comics",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/comics/15855",
+                "name": "Mighty Avengers (2007) #4"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/comics/21802",
+                "name": "Mighty Avengers Vol. 1: The Ultron Initiative (Trade Paperback)"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/comics/3123",
+                "name": "New Avengers (2004) #14"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/comics/3348",
+                "name": "New Avengers (2004) #15"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/comics/5033",
+                "name": "New Avengers Vol. 3: Secrets & Lies (Trade Paperback)"
+            }
+        ],
+        "returned": 5
+    },
+    "series": {
+        "available": 4,
+        "collectionURI": "http://gateway.marvel.com/v1/public/characters/1010783/series",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/series/1866",
+                "name": "Mighty Avengers (2007 - 2010)"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/series/5381",
+                "name": "Mighty Avengers Vol. 1: The Ultron Initiative (2008)"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/series/753",
+                "name": "New Avengers (2004 - 2010)"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/series/1446",
+                "name": "New Avengers Vol. 3: Secrets & Lies (2006)"
+            }
+        ],
+        "returned": 4
+    },
+    "stories": {
+        "available": 3,
+        "collectionURI": "http://gateway.marvel.com/v1/public/characters/1010783/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/3477",
+                "name": "1 of 2 - Spider-Woman",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/3479",
+                "name": "2 of 2 - Spider-Woman",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/32378",
+                "name": "4 of 6 - Ultron; THE INITIATIVE BANNER",
+                "type": "interiorStory"
+            }
+        ],
+        "returned": 3
+    },
+    "events": {
+        "available": 1,
+        "collectionURI": "http://gateway.marvel.com/v1/public/characters/1010783/events",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/events/255",
+                "name": "Initiative"
+            }
+        ],
+        "returned": 1
+    },
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/characters/1010783/kat_farrell?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ]
+}

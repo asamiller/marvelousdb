@@ -1,0 +1,147 @@
+{
+    "id": 5735,
+    "digitalId": 26123,
+    "title": "Iron Man/Captain America: Casualties of War (2006) #1",
+    "issueNumber": 1,
+    "variantDescription": "",
+    "description": "In the midst of Civil War, Captain America and Iron Man meet secretly, one last time, to see if there’s any hope of working things out before further tragedy occurs.  Don’t miss this oversized special that reveals how these two men, once the closest of friends and staunchest of allies, could end up leading opposing armies in the conflict tearing apart the Marvel Universe!\r<br>48 PGS./Rated A ...$3.99\r<br>",
+    "modified": "2012-03-09T12:05:38-0500",
+    "isbn": "",
+    "upc": "5960606078-00121",
+    "diamondCode": "",
+    "ean": "",
+    "issn": "",
+    "format": "Comic",
+    "pageCount": 0,
+    "textObjects": [
+        {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "In the midst of Civil War, Captain America and Iron Man meet secretly, one last time, to see if there’s any hope of working things out before further tragedy occurs.  Don’t miss this oversized special that reveals how these two men, once the closest of friends and staunchest of allies, could end up leading opposing armies in the conflict tearing apart the Marvel Universe!\r<br>48 PGS./Rated A ...$3.99\r<br>"
+        }
+    ],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/5735",
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/5735/iron_mancaptain_america_casualties_of_war_2006_1?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/Iron-Man-Captain-America-Casualties-of-War-1/digital-comic/26123?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=26123&utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "inAppLink",
+            "url": "http://applink.marvel.com/issue/26123?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ],
+    "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/1144",
+        "name": "Iron Man/Captain America: Casualties of War (2006)"
+    },
+    "variants": [
+        {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/5730",
+            "name": "Iron Man/Captain America: Casualties of War (2006) #1 (Iron Man Cover)"
+        }
+    ],
+    "collections": [
+        {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/15900",
+            "name": "Civil War: Iron Man (Trade Paperback)"
+        }
+    ],
+    "collectedIssues": [],
+    "dates": [
+        {
+            "type": "onsaleDate",
+            "date": "2006-12-20T00:00:00-0500"
+        },
+        {
+            "type": "focDate",
+            "date": "-0001-11-30T00:00:00-0500"
+        },
+        {
+            "type": "unlimitedDate",
+            "date": "2012-04-24T00:00:00-0400"
+        },
+        {
+            "type": "digitalPurchaseDate",
+            "date": "2011-03-01T00:00:00-0500"
+        }
+    ],
+    "prices": [
+        {
+            "type": "printPrice",
+            "price": 3.99
+        },
+        {
+            "type": "digitalPurchasePrice",
+            "price": 1.99
+        }
+    ],
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/90/4f883c72b840a",
+        "extension": "jpg"
+    },
+    "images": [
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/90/4f883c72b840a",
+            "extension": "jpg"
+        }
+    ],
+    "creators": {
+        "available": 1,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/5735/creators",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/357",
+                "name": "Jim Cheung",
+                "role": "penciller (cover)"
+            }
+        ],
+        "returned": 1
+    },
+    "characters": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/5735/characters",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009220",
+                "name": "Captain America"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009368",
+                "name": "Iron Man"
+            }
+        ],
+        "returned": 2
+    },
+    "stories": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/5735/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/6271",
+                "name": "1 of 1 - Casualties of War",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/6272",
+                "name": "1 of 1 - Casualties of War",
+                "type": "interiorStory"
+            }
+        ],
+        "returned": 2
+    },
+    "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/5735/events",
+        "items": [],
+        "returned": 0
+    }
+}

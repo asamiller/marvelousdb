@@ -1,0 +1,147 @@
+{
+    "id": 40225,
+    "digitalId": 26152,
+    "title": "Invincible Iron Man (2008) #515",
+    "issueNumber": 515,
+    "variantDescription": "",
+    "description": "A hero falls as Tony Stark's enemies draw ever closer.\n",
+    "modified": "2013-04-12T10:21:05-0400",
+    "isbn": "",
+    "upc": "5960606427-51511",
+    "diamondCode": "",
+    "ean": "",
+    "issn": "1933-3080",
+    "format": "Comic",
+    "pageCount": 32,
+    "textObjects": [
+        {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "&rdquo;,&bull; A Hero Falls!,&rdquo;"
+        },
+        {
+            "type": "issue_preview_text",
+            "language": "en-us",
+            "text": "A hero falls as Tony Stark's enemies draw ever closer.\n"
+        }
+    ],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/40225",
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/40225/invincible_iron_man_2008_515?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/Invincible-Iron-Man-515/digital-comic/26152?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=26152&utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "inAppLink",
+            "url": "http://applink.marvel.com/issue/26152?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ],
+    "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/4889",
+        "name": "Invincible Iron Man (2008 - 2012)"
+    },
+    "variants": [
+        {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/42538",
+            "name": "Invincible Iron Man (2008) #515 (Avengers Art Appreciation Variant)"
+        }
+    ],
+    "collections": [],
+    "collectedIssues": [],
+    "dates": [
+        {
+            "type": "onsaleDate",
+            "date": "2012-04-18T00:00:00-0400"
+        },
+        {
+            "type": "focDate",
+            "date": "2012-03-26T00:00:00-0400"
+        },
+        {
+            "type": "unlimitedDate",
+            "date": "2012-10-12T00:00:00-0400"
+        },
+        {
+            "type": "digitalPurchaseDate",
+            "date": "2012-04-18T00:00:00-0400"
+        }
+    ],
+    "prices": [
+        {
+            "type": "printPrice",
+            "price": 3.99
+        },
+        {
+            "type": "digitalPurchasePrice",
+            "price": 1.99
+        }
+    ],
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/b0/517ac670ce6e9",
+        "extension": "jpg"
+    },
+    "images": [
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/b0/517ac670ce6e9",
+            "extension": "jpg"
+        },
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/e/03/4f18794e31535",
+            "extension": "jpg"
+        }
+    ],
+    "creators": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/40225/creators",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/1132",
+                "name": "Matt Fraction",
+                "role": "writer"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/11757",
+                "name": "Salvador Larroca",
+                "role": "artist"
+            }
+        ],
+        "returned": 2
+    },
+    "characters": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/40225/characters",
+        "items": [],
+        "returned": 0
+    },
+    "stories": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/40225/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/91258",
+                "name": "Cover #91258",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/91259",
+                "name": "Interior #91259",
+                "type": "interiorStory"
+            }
+        ],
+        "returned": 2
+    },
+    "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/40225/events",
+        "items": [],
+        "returned": 0
+    }
+}

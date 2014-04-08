@@ -1,0 +1,147 @@
+{
+    "id": 46684,
+    "digitalId": 28758,
+    "title": "Venom (2011) #32",
+    "issueNumber": 32,
+    "variantDescription": "",
+    "description": "• TOXIN’S IN PHILLY. THE DEVIL’S IN JERSEY. VENOM’S GOING TO WAR.",
+    "modified": "2013-02-26T13:56:52-0500",
+    "isbn": "",
+    "upc": "75960607565203211",
+    "diamondCode": "JAN130718",
+    "ean": "",
+    "issn": "",
+    "format": "Comic",
+    "pageCount": 32,
+    "textObjects": [
+        {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "• TOXIN’S IN PHILLY. THE DEVIL’S IN JERSEY. VENOM’S GOING TO WAR."
+        }
+    ],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/46684",
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/46684/venom_2011_32?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/Venom-32/digital-comic/28758?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=28758&utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "inAppLink",
+            "url": "http://applink.marvel.com/issue/28758?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ],
+    "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/13911",
+        "name": "Venom (2011 - Present)"
+    },
+    "variants": [],
+    "collections": [],
+    "collectedIssues": [],
+    "dates": [
+        {
+            "type": "onsaleDate",
+            "date": "2013-03-06T00:00:00-0500"
+        },
+        {
+            "type": "focDate",
+            "date": "2013-02-20T00:00:00-0500"
+        },
+        {
+            "type": "unlimitedDate",
+            "date": "2013-09-02T00:00:08-0400"
+        },
+        {
+            "type": "digitalPurchaseDate",
+            "date": "2013-03-06T00:00:00-0500"
+        }
+    ],
+    "prices": [
+        {
+            "type": "printPrice",
+            "price": 2.99
+        },
+        {
+            "type": "digitalPurchasePrice",
+            "price": 1.99
+        }
+    ],
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/5/d0/511c62fd8c203",
+        "extension": "jpg"
+    },
+    "images": [
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/5/d0/511c62fd8c203",
+            "extension": "jpg"
+        },
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/30/50d23f8ab51f7",
+            "extension": "jpg"
+        }
+    ],
+    "creators": {
+        "available": 3,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/46684/creators",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/10023",
+                "name": "Cullen Bunn",
+                "role": "writer"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/663",
+                "name": "Shane Davis",
+                "role": "penciller (cover)"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/11354",
+                "name": "Declan Shalvey",
+                "role": "artist"
+            }
+        ],
+        "returned": 3
+    },
+    "characters": {
+        "available": 1,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/46684/characters",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009663",
+                "name": "Venom (Flash Thompson)"
+            }
+        ],
+        "returned": 1
+    },
+    "stories": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/46684/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/104962",
+                "name": "cover from Venom (2011) #32",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/104963",
+                "name": "story from Venom (2011) #32",
+                "type": "interiorStory"
+            }
+        ],
+        "returned": 2
+    },
+    "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/46684/events",
+        "items": [],
+        "returned": 0
+    }
+}

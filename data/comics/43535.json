@@ -1,0 +1,151 @@
+{
+    "id": 43535,
+    "digitalId": 28434,
+    "title": "Avengers (2012) #5",
+    "issueNumber": 5,
+    "variantDescription": "",
+    "description": "\r\n\r\n\r\n\r\n<ul><li>Meet Smasher, the first human member of the IMPERIAL GUARD and an Avenger.</li><li>Watch as the Avengers travel across the galaxy to fight off an invading force.</li><li>Watch as the Imperial Guard are broken on a dead moon.</li></ul>",
+    "modified": "2014-02-25T14:34:13-0500",
+    "isbn": "",
+    "upc": "75960607902500511",
+    "diamondCode": "DEC120629",
+    "ean": "",
+    "issn": "",
+    "format": "Comic",
+    "pageCount": 32,
+    "textObjects": [
+        {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "\r\n\r\n\r\n\r\n<ul><li>Meet Smasher, the first human member of the IMPERIAL GUARD and an Avenger.</li><li>Watch as the Avengers travel across the galaxy to fight off an invading force.</li><li>Watch as the Imperial Guard are broken on a dead moon.</li></ul>"
+        }
+    ],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/43535",
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/43535/avengers_2012_5?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/Avengers-5/digital-comic/28434?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=28434&utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "inAppLink",
+            "url": "http://applink.marvel.com/issue/28434?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ],
+    "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/16452",
+        "name": "Avengers (2012 - Present)"
+    },
+    "variants": [
+        {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/47689",
+            "name": "Avengers (2012) #5 (2nd Printing Variant)"
+        },
+        {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/47039",
+            "name": "Avengers (2012) #5 (Pacheco Variant)"
+        },
+        {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/45840",
+            "name": "Avengers (2012) #5 (Rivera Variant)"
+        }
+    ],
+    "collections": [],
+    "collectedIssues": [],
+    "dates": [
+        {
+            "type": "onsaleDate",
+            "date": "2013-02-06T00:00:00-0500"
+        },
+        {
+            "type": "focDate",
+            "date": "2013-01-23T00:00:00-0500"
+        },
+        {
+            "type": "unlimitedDate",
+            "date": "2014-02-27T09:23:22-0500"
+        },
+        {
+            "type": "digitalPurchaseDate",
+            "date": "2013-02-06T00:00:00-0500"
+        }
+    ],
+    "prices": [
+        {
+            "type": "printPrice",
+            "price": 3.99
+        },
+        {
+            "type": "digitalPurchasePrice",
+            "price": 1.99
+        }
+    ],
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/70/51097a8cc8270",
+        "extension": "jpg"
+    },
+    "images": [
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/70/51097a8cc8270",
+            "extension": "jpg"
+        }
+    ],
+    "creators": {
+        "available": 3,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/43535/creators",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/11743",
+                "name": "Jonathan Hickman",
+                "role": "writer"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/2879",
+                "name": "Adam Kubert",
+                "role": "artist"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/8404",
+                "name": "Dustin Weaver",
+                "role": "penciler (cover)"
+            }
+        ],
+        "returned": 3
+    },
+    "characters": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/43535/characters",
+        "items": [],
+        "returned": 0
+    },
+    "stories": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/43535/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/103166",
+                "name": "cover from Avengers (2012) #5",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/103167",
+                "name": "story from Avengers (2012) #5",
+                "type": "interiorStory"
+            }
+        ],
+        "returned": 2
+    },
+    "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/43535/events",
+        "items": [],
+        "returned": 0
+    }
+}

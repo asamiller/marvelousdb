@@ -1,0 +1,132 @@
+{
+    "id": 27696,
+    "digitalId": 13173,
+    "title": "The Black Knight (2009) #1",
+    "issueNumber": 1,
+    "variantDescription": "",
+    "description": "Everyone knows the story of King Arthur and his legendary sword Excalibur, but have you heard of Excalibur's evil counterpart Chaos the Doombringer? Travel back in time with Marvel Digital Comics Unlimited and discover the origin of the Black Knight.",
+    "modified": "-0001-11-30T00:00:00-0500",
+    "isbn": "",
+    "upc": "5960606935-00111",
+    "diamondCode": "SEP090436",
+    "ean": "",
+    "issn": "",
+    "format": "Comic",
+    "pageCount": 40,
+    "textObjects": [
+        {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "Everyone knows the story of King Arthur and his legendary sword Excalibur, but have you heard of Excalibur's evil counterpart Chaos the Doombringer? Travel back in time with Marvel Digital Comics Unlimited and discover the origin of the Black Knight."
+        }
+    ],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/27696",
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/27696/the_black_knight_2009_1?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=13173&utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ],
+    "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/8849",
+        "name": "The Black Knight (2009)"
+    },
+    "variants": [
+        {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/27692",
+            "name": "The Black Knight (2009) #1"
+        }
+    ],
+    "collections": [],
+    "collectedIssues": [],
+    "dates": [
+        {
+            "type": "onsaleDate",
+            "date": "2009-11-18T00:00:00-0500"
+        },
+        {
+            "type": "focDate",
+            "date": "2009-10-29T00:00:00-0400"
+        },
+        {
+            "type": "unlimitedDate",
+            "date": "2009-07-22T00:00:00-0400"
+        }
+    ],
+    "prices": [
+        {
+            "type": "printPrice",
+            "price": 3.99
+        }
+    ],
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/2/b0/4bb401e230658",
+        "extension": "jpg"
+    },
+    "images": [
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/2/b0/4bb401e230658",
+            "extension": "jpg"
+        }
+    ],
+    "creators": {
+        "available": 4,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/27696/creators",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/105",
+                "name": "Sal Buscema",
+                "role": "inker"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/9565",
+                "name": "Tom DeFalco",
+                "role": "writer"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/5764",
+                "name": "Ron Frenz",
+                "role": "penciller"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/500",
+                "name": "Chris Sotomayor",
+                "role": "colorist"
+            }
+        ],
+        "returned": 4
+    },
+    "characters": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/27696/characters",
+        "items": [],
+        "returned": 0
+    },
+    "stories": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/27696/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/60661",
+                "name": "Cover #60661",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/60662",
+                "name": "Interior #60662",
+                "type": "interiorStory"
+            }
+        ],
+        "returned": 2
+    },
+    "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/27696/events",
+        "items": [],
+        "returned": 0
+    }
+}

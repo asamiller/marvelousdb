@@ -1,0 +1,158 @@
+{
+    "id": 799,
+    "digitalId": 213,
+    "title": "Gambit (2004) #1",
+    "issueNumber": 1,
+    "variantDescription": "",
+    "description": "NEW X-MEN SERIES!  The Ragin’ Cajun is back with a vengeance in his very own ongoing series! Ever wonder what GAMBIT gets up to when he’s not out saving the world with the X-MEN? Welcome to the exciting but treacherous terrain of the New Orleans underworl",
+    "modified": "-0001-11-30T00:00:00-0500",
+    "isbn": "",
+    "upc": "5960605575-00111",
+    "diamondCode": "",
+    "ean": "",
+    "issn": "",
+    "format": "Comic",
+    "pageCount": 0,
+    "textObjects": [
+        {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "NEW X-MEN SERIES!  The Ragin’ Cajun is back with a vengeance in his very own ongoing series! Ever wonder what GAMBIT gets up to when he’s not out saving the world with the X-MEN? Welcome to the exciting but treacherous terrain of the New Orleans underworl"
+        }
+    ],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/799",
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/799/gambit_2004_1?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/Gambit-1/digital-comic/213?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=213&utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "inAppLink",
+            "url": "http://applink.marvel.com/issue/213?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ],
+    "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/777",
+        "name": "Gambit (2004 - 2005)"
+    },
+    "variants": [],
+    "collections": [
+        {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/1736",
+            "name": "Gambit: House of Cards (Trade Paperback)"
+        }
+    ],
+    "collectedIssues": [],
+    "dates": [
+        {
+            "type": "onsaleDate",
+            "date": "2004-09-01T00:00:00-0400"
+        },
+        {
+            "type": "focDate",
+            "date": "-0001-11-30T00:00:00-0500"
+        },
+        {
+            "type": "unlimitedDate",
+            "date": "2007-11-13T00:00:00-0500"
+        },
+        {
+            "type": "digitalPurchaseDate",
+            "date": "2011-07-12T00:00:00-0400"
+        }
+    ],
+    "prices": [
+        {
+            "type": "printPrice",
+            "price": 2.99
+        },
+        {
+            "type": "digitalPurchasePrice",
+            "price": 1.99
+        }
+    ],
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/7/20/4bc67b8f25398",
+        "extension": "jpg"
+    },
+    "images": [
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/7/20/4bc67b8f25398",
+            "extension": "jpg"
+        }
+    ],
+    "creators": {
+        "available": 5,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/799/creators",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/562",
+                "name": "Tom Chu",
+                "role": "colorist"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/416",
+                "name": "Don Hillsman",
+                "role": "inker"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/188",
+                "name": "Georges Jeanty",
+                "role": "penciller (cover)"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/796",
+                "name": "John Layman",
+                "role": "writer"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/361",
+                "name": "Cory Petit",
+                "role": "letterer"
+            }
+        ],
+        "returned": 5
+    },
+    "characters": {
+        "available": 1,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/799/characters",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009313",
+                "name": "Gambit"
+            }
+        ],
+        "returned": 1
+    },
+    "stories": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/799/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/3736",
+                "name": "NEW X-MEN SERIES!  The Ragin’ Cajun is back with a vengeance in his very own ongoing series! Ever wonder what GAMBIT gets up to ",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/3737",
+                "name": "NEW X-MEN SERIES!  The Ragin’ Cajun is back with a vengeance in his very own ongoing series! Ever wonder what GAMBIT gets up to ",
+                "type": "interiorStory"
+            }
+        ],
+        "returned": 2
+    },
+    "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/799/events",
+        "items": [],
+        "returned": 0
+    }
+}

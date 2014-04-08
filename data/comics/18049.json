@@ -1,0 +1,170 @@
+{
+    "id": 18049,
+    "digitalId": 0,
+    "title": "X-Force (1991) #8",
+    "issueNumber": 8,
+    "variantDescription": "",
+    "description": null,
+    "modified": "-0001-11-30T00:00:00-0500",
+    "isbn": "",
+    "upc": "",
+    "diamondCode": "",
+    "ean": "",
+    "issn": "",
+    "format": "Comic",
+    "pageCount": 36,
+    "textObjects": [],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/18049",
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/18049/x-force_1991_8?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/X-Force-8/digital-comic/26417?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ],
+    "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/3633",
+        "name": "X-Force (1991 - 2004)"
+    },
+    "variants": [],
+    "collections": [],
+    "collectedIssues": [],
+    "dates": [
+        {
+            "type": "onsaleDate",
+            "date": "1992-03-10T00:00:00-0500"
+        },
+        {
+            "type": "focDate",
+            "date": "-0001-11-30T00:00:00-0500"
+        }
+    ],
+    "prices": [
+        {
+            "type": "printPrice",
+            "price": 1.25
+        }
+    ],
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available",
+        "extension": "jpg"
+    },
+    "images": [],
+    "creators": {
+        "available": 7,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/18049/creators",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/1909",
+                "name": "Steve Buccellato",
+                "role": "colorist"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/452",
+                "name": "Chris Eliopoulos",
+                "role": "letterer"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/2099",
+                "name": "Suzanne Gaffney",
+                "role": "editor"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/375",
+                "name": "Bob Harras",
+                "role": "editor"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/571",
+                "name": "Rob Liefeld",
+                "role": "penciler"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/1926",
+                "name": "Mike Mignola",
+                "role": "penciler"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/6001",
+                "name": "Fabian Nacieza",
+                "role": "writer"
+            }
+        ],
+        "returned": 7
+    },
+    "characters": {
+        "available": 8,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/18049/characters",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010366",
+                "name": "Boom Boom"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009214",
+                "name": "Cable"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009219",
+                "name": "Cannonball"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009277",
+                "name": "Domino"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009359",
+                "name": "Hydra"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009561",
+                "name": "Sauron"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009724",
+                "name": "X-Force"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009726",
+                "name": "X-Men"
+            }
+        ],
+        "returned": 8
+    },
+    "stories": {
+        "available": 4,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/18049/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/38384",
+                "name": "Cable--Past, Present, and Future!",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/38385",
+                "name": "Flashed Before My Eyes",
+                "type": "interiorStory"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/38386",
+                "name": "A Cable Collection",
+                "type": "pinup"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/38387",
+                "name": "A Cable Collection",
+                "type": "pinup"
+            }
+        ],
+        "returned": 4
+    },
+    "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/18049/events",
+        "items": [],
+        "returned": 0
+    }
+}

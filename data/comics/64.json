@@ -1,0 +1,142 @@
+{
+    "id": 64,
+    "digitalId": 101,
+    "title": "New Thunderbolts (2004) #1",
+    "issueNumber": 1,
+    "variantDescription": "",
+    "description": "PART 1 (OF 6)\r\nFrom the ashes of the Avengers a new group of heroes spring forth -- all of whom happen to be FORMER VILLAINS!  This new ongoing series signals a return to greatness for one of Marvel's longest-running titles of the last decade!  And it may look all-new, but longtime fans can relax -- these are the same creative schlubs who brought you the rollicking Avengers/Thunderbolts Limited Series!\r\n",
+    "modified": "-0001-11-30T00:00:00-0500",
+    "isbn": "",
+    "upc": "5960605602-00111",
+    "diamondCode": "",
+    "ean": "",
+    "issn": "",
+    "format": "Comic",
+    "pageCount": 0,
+    "textObjects": [
+        {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "PART 1 (OF 6)\r\nFrom the ashes of the Avengers a new group of heroes spring forth -- all of whom happen to be FORMER VILLAINS!  This new ongoing series signals a return to greatness for one of Marvel's longest-running titles of the last decade!  And it may look all-new, but longtime fans can relax -- these are the same creative schlubs who brought you the rollicking Avengers/Thunderbolts Limited Series!\r\n"
+        }
+    ],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/64",
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/64/new_thunderbolts_2004_1?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=101&utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ],
+    "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/788",
+        "name": "New Thunderbolts (2004 - 2006)"
+    },
+    "variants": [],
+    "collections": [
+        {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/1952",
+            "name": "New Thunderbolts Vol. 1: One Step Forward (Trade Paperback)"
+        }
+    ],
+    "collectedIssues": [],
+    "dates": [
+        {
+            "type": "onsaleDate",
+            "date": "2004-11-10T00:00:00-0500"
+        },
+        {
+            "type": "focDate",
+            "date": "-0001-11-30T00:00:00-0500"
+        },
+        {
+            "type": "unlimitedDate",
+            "date": "2007-11-13T00:00:00-0500"
+        }
+    ],
+    "prices": [
+        {
+            "type": "printPrice",
+            "price": 2.99
+        }
+    ],
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/00/4bc6b22116c9f",
+        "extension": "jpg"
+    },
+    "images": [
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/00/4bc6b22116c9f",
+            "extension": "jpg"
+        }
+    ],
+    "creators": {
+        "available": 6,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/64/creators",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/1231",
+                "name": "Kurt Busiek",
+                "role": "writer"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/6001",
+                "name": "Fabian Nacieza",
+                "role": "writer"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/762",
+                "name": "Gary Erskine",
+                "role": "inker"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/483",
+                "name": "Tom Grummett",
+                "role": "penciller (cover)"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/500",
+                "name": "Chris Sotomayor",
+                "role": "colorist"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/350",
+                "name": "Richard Starkings",
+                "role": "letterer"
+            }
+        ],
+        "returned": 6
+    },
+    "characters": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/64/characters",
+        "items": [],
+        "returned": 0
+    },
+    "stories": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/64/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/3868",
+                "name": "1 of 6 - Zeroes to Heroes",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/3869",
+                "name": "1 of 6 - Zeroes to Heroes",
+                "type": "interiorStory"
+            }
+        ],
+        "returned": 2
+    },
+    "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/64/events",
+        "items": [],
+        "returned": 0
+    }
+}

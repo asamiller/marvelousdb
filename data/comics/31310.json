@@ -1,0 +1,121 @@
+{
+    "id": 31310,
+    "digitalId": 14261,
+    "title": "Spider-Man: Fever (2010) #1",
+    "issueNumber": 1,
+    "variantDescription": "",
+    "description": "One of comics' most innovative and original voices, Brendan McCarthy, brings SPIDER-MAN: FEVER -- a truly unique and surreal story evoking the classic Silver-Age psychedelia of Steve Ditko's Dr Strange. In FEVER, Spider-Man is abducted by a depraved tribe of spider-demons to a bizarre dimension, where he is to be eaten alive. Dr. Strange goes on a perilous occult quest to rescue his friend -- and tangles with some very peculiar characters along the way...\r\nParental Advisory …$3.99",
+    "modified": "-0001-11-30T00:00:00-0500",
+    "isbn": "",
+    "upc": "5960606547-00111",
+    "diamondCode": "FEB100484",
+    "ean": "",
+    "issn": "",
+    "format": "Comic",
+    "pageCount": 32,
+    "textObjects": [
+        {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "One of comics' most innovative and original voices, Brendan McCarthy, brings SPIDER-MAN: FEVER -- a truly unique and surreal story evoking the classic Silver-Age psychedelia of Steve Ditko's Dr Strange. In FEVER, Spider-Man is abducted by a depraved tribe of spider-demons to a bizarre dimension, where he is to be eaten alive. Dr. Strange goes on a perilous occult quest to rescue his friend -- and tangles with some very peculiar characters along the way...\r\nParental Advisory …$3.99"
+        }
+    ],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/31310",
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/31310/spider-man_fever_2010_1?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=14261&utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ],
+    "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/8340",
+        "name": "Spider-Man: Fever (2010)"
+    },
+    "variants": [],
+    "collections": [],
+    "collectedIssues": [],
+    "dates": [
+        {
+            "type": "onsaleDate",
+            "date": "2010-04-07T00:00:00-0400"
+        },
+        {
+            "type": "focDate",
+            "date": "2010-03-11T00:00:00-0500"
+        },
+        {
+            "type": "unlimitedDate",
+            "date": "2010-12-29T00:00:00-0500"
+        }
+    ],
+    "prices": [
+        {
+            "type": "printPrice",
+            "price": 3.99
+        }
+    ],
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/30/4bac5e08655ea",
+        "extension": "jpg"
+    },
+    "images": [
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/30/4bac5e08655ea",
+            "extension": "jpg"
+        }
+    ],
+    "creators": {
+        "available": 1,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/31310/creators",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/8142",
+                "name": "Brendan McCarthy",
+                "role": "penciller"
+            }
+        ],
+        "returned": 1
+    },
+    "characters": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/31310/characters",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009282",
+                "name": "Doctor Strange"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009610",
+                "name": "Spider-Man"
+            }
+        ],
+        "returned": 2
+    },
+    "stories": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/31310/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/71311",
+                "name": "Cover #71311",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/71312",
+                "name": "Interior #71312",
+                "type": "interiorStory"
+            }
+        ],
+        "returned": 2
+    },
+    "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/31310/events",
+        "items": [],
+        "returned": 0
+    }
+}

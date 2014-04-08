@@ -1,0 +1,138 @@
+{
+    "id": 35101,
+    "digitalId": 18992,
+    "title": "Incredible Hulks (2009) #621",
+    "issueNumber": 621,
+    "variantDescription": "",
+    "description": "In the wake of \"Chaos War,\" Bruce Banner has a bone to pick with the gods.  And he's going straight to the top.  Get ready for GOD SMASH, puny mortals!",
+    "modified": "2012-03-08T10:34:56-0500",
+    "isbn": "",
+    "upc": "5960606637-62111",
+    "diamondCode": "NOV100569",
+    "ean": "",
+    "issn": "0274-5275",
+    "format": "Comic",
+    "pageCount": 40,
+    "textObjects": [
+        {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "In the wake of \"Chaos War,\" Bruce Banner has a bone to pick with the gods.  And he's going straight to the top.  Get ready for GOD SMASH, puny mortals!"
+        }
+    ],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/35101",
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/35101/incredible_hulks_2009_621?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/Incredible-Hulks-621/digital-comic/18992?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=18992&utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "inAppLink",
+            "url": "http://applink.marvel.com/issue/18992?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ],
+    "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/8842",
+        "name": "Incredible Hulks (2009 - 2011)"
+    },
+    "variants": [],
+    "collections": [],
+    "collectedIssues": [],
+    "dates": [
+        {
+            "type": "onsaleDate",
+            "date": "2011-01-26T00:00:00-0500"
+        },
+        {
+            "type": "focDate",
+            "date": "2011-01-13T00:00:00-0500"
+        },
+        {
+            "type": "unlimitedDate",
+            "date": "2011-12-15T00:00:00-0500"
+        },
+        {
+            "type": "digitalPurchaseDate",
+            "date": "2012-06-19T00:00:00-0400"
+        }
+    ],
+    "prices": [
+        {
+            "type": "printPrice",
+            "price": 3.99
+        },
+        {
+            "type": "digitalPurchasePrice",
+            "price": 1.99
+        }
+    ],
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/20/4f58d1d4df0a2",
+        "extension": "jpg"
+    },
+    "images": [
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/20/4f58d1d4df0a2",
+            "extension": "jpg"
+        }
+    ],
+    "creators": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/35101/creators",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/536",
+                "name": "Greg Pak",
+                "role": "writer"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/559",
+                "name": "Paul Pelletier",
+                "role": "penciller"
+            }
+        ],
+        "returned": 2
+    },
+    "characters": {
+        "available": 1,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/35101/characters",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009351",
+                "name": "Hulk"
+            }
+        ],
+        "returned": 1
+    },
+    "stories": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/35101/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/77708",
+                "name": "Interior #77708",
+                "type": "interiorStory"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/96372",
+                "name": "Incredible Hulks (2009) #621",
+                "type": "cover"
+            }
+        ],
+        "returned": 2
+    },
+    "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/35101/events",
+        "items": [],
+        "returned": 0
+    }
+}

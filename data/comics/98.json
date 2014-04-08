@@ -1,0 +1,131 @@
+{
+    "id": 98,
+    "digitalId": 3942,
+    "title": "Sentinel (2003) #9",
+    "issueNumber": 9,
+    "variantDescription": "",
+    "description": "\"NO HERO\" pt. 3 (of 3)\r\nAfter the events of last issue, Juston and his giant robot find themselves as the only hope for a group of people struggling for survival. But with the government hot on the Sentinel's trail, will Juston have to choose between saving lives or saving himself?\r\n32 PGS./MARVEL PSR…$2.99 [note price]",
+    "modified": "-0001-11-30T00:00:00-0500",
+    "isbn": "",
+    "upc": "5960605153-02111",
+    "diamondCode": "",
+    "ean": "",
+    "issn": "",
+    "format": "Comic",
+    "pageCount": 0,
+    "textObjects": [
+        {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "\"NO HERO\" pt. 3 (of 3)\r\nAfter the events of last issue, Juston and his giant robot find themselves as the only hope for a group of people struggling for survival. But with the government hot on the Sentinel's trail, will Juston have to choose between saving lives or saving himself?\r\n32 PGS./MARVEL PSR…$2.99 [note price]"
+        }
+    ],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/98",
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/98/sentinel_2003_9?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=3942&utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ],
+    "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/480",
+        "name": "Sentinel (2003 - 2004)"
+    },
+    "variants": [],
+    "collections": [
+        {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/1344",
+            "name": "Sentinel Vol. 2: No Hero (Digest)"
+        }
+    ],
+    "collectedIssues": [],
+    "dates": [
+        {
+            "type": "onsaleDate",
+            "date": "2003-11-05T00:00:00-0500"
+        },
+        {
+            "type": "focDate",
+            "date": "-0001-11-30T00:00:00-0500"
+        },
+        {
+            "type": "unlimitedDate",
+            "date": "2007-11-13T00:00:00-0500"
+        }
+    ],
+    "prices": [
+        {
+            "type": "printPrice",
+            "price": 2.99
+        }
+    ],
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/2/f0/4bc6aef876fec",
+        "extension": "jpg"
+    },
+    "images": [
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/f/60/505b8cdfd3d4e",
+            "extension": "jpg"
+        },
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/2/f0/4bc6aef876fec",
+            "extension": "jpg"
+        }
+    ],
+    "creators": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/98/creators",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/424",
+                "name": "Udon Comics",
+                "role": "penciller (cover)"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/9429",
+                "name": "Sean McKeever",
+                "role": "writer"
+            }
+        ],
+        "returned": 2
+    },
+    "characters": {
+        "available": 1,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/98/characters",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009570",
+                "name": "Sentinel"
+            }
+        ],
+        "returned": 1
+    },
+    "stories": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/98/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/1657",
+                "name": "Cover #1657",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/1658",
+                "name": "Interior #1658",
+                "type": "interiorStory"
+            }
+        ],
+        "returned": 2
+    },
+    "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/98/events",
+        "items": [],
+        "returned": 0
+    }
+}

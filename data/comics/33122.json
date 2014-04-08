@@ -1,0 +1,103 @@
+{
+    "id": 33122,
+    "digitalId": 0,
+    "title": "Civil War: The Underside (Hardcover)",
+    "issueNumber": 0,
+    "variantDescription": "",
+    "description": null,
+    "modified": "2013-07-15T13:20:31-0400",
+    "isbn": "978-0-7851-4883-8",
+    "upc": "5960614883-00111",
+    "diamondCode": "",
+    "ean": "9780785 148838 53999",
+    "issn": "",
+    "format": "Hardcover",
+    "pageCount": 512,
+    "textObjects": [],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/33122",
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/collection/33122/civil_war_the_underside_hardcover?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ],
+    "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/10104",
+        "name": "Civil War: The Underside (2010)"
+    },
+    "variants": [],
+    "collections": [],
+    "collectedIssues": [],
+    "dates": [
+        {
+            "type": "onsaleDate",
+            "date": "2010-12-29T00:00:00-0500"
+        },
+        {
+            "type": "focDate",
+            "date": "2010-08-05T00:00:00-0400"
+        }
+    ],
+    "prices": [
+        {
+            "type": "printPrice",
+            "price": 39.99
+        }
+    ],
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/1/00/4c1295d933578",
+        "extension": "jpg"
+    },
+    "images": [
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/1/00/4c1295d933578",
+            "extension": "jpg"
+        }
+    ],
+    "creators": {
+        "available": 1,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/33122/creators",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/7553",
+                "name": "JEPH YORK",
+                "role": "writer"
+            }
+        ],
+        "returned": 1
+    },
+    "characters": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/33122/characters",
+        "items": [],
+        "returned": 0
+    },
+    "stories": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/33122/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/74566",
+                "name": "Cover #74566",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/74568",
+                "name": "Interior #74568",
+                "type": "interiorStory"
+            }
+        ],
+        "returned": 2
+    },
+    "events": {
+        "available": 1,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/33122/events",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/events/238",
+                "name": "Civil War"
+            }
+        ],
+        "returned": 1
+    }
+}

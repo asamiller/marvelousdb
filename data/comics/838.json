@@ -1,0 +1,153 @@
+{
+    "id": 838,
+    "digitalId": 916,
+    "title": "Nightcrawler (2004) #1",
+    "issueNumber": 1,
+    "variantDescription": "",
+    "description": "X-MEN: RELOAD – ANOTHER CLIP!  New X-MEN ongoing series!  The X-Man known as NIGHTCRAWLER is a man with a foot in two worlds—one the daylight world of super heroes and super-villains, the other a netherworld of demons and angels, ghosts and monsters—human",
+    "modified": "-0001-11-30T00:00:00-0500",
+    "isbn": "",
+    "upc": "5960605515-00111",
+    "diamondCode": "",
+    "ean": "",
+    "issn": "",
+    "format": "Comic",
+    "pageCount": 0,
+    "textObjects": [
+        {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "X-MEN: RELOAD – ANOTHER CLIP!  New X-MEN ongoing series!  The X-Man known as NIGHTCRAWLER is a man with a foot in two worlds—one the daylight world of super heroes and super-villains, the other a netherworld of demons and angels, ghosts and monsters—human"
+        }
+    ],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/838",
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/838/nightcrawler_2004_1?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/Nightcrawler-1/digital-comic/916?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=916&utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "inAppLink",
+            "url": "http://applink.marvel.com/issue/916?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ],
+    "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/717",
+        "name": "Nightcrawler (2004 - 2006)"
+    },
+    "variants": [],
+    "collections": [
+        {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/17470",
+            "name": "Nightcrawler: The Devil Inside (Trade Paperback)"
+        }
+    ],
+    "collectedIssues": [],
+    "dates": [
+        {
+            "type": "onsaleDate",
+            "date": "2004-09-22T00:00:00-0400"
+        },
+        {
+            "type": "focDate",
+            "date": "-0001-11-30T00:00:00-0500"
+        },
+        {
+            "type": "unlimitedDate",
+            "date": "2007-11-13T00:00:00-0500"
+        },
+        {
+            "type": "digitalPurchaseDate",
+            "date": "2013-07-30T00:00:00-0400"
+        }
+    ],
+    "prices": [
+        {
+            "type": "printPrice",
+            "price": 2.99
+        },
+        {
+            "type": "digitalPurchasePrice",
+            "price": 1.99
+        }
+    ],
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/c0/4bc6784420b98",
+        "extension": "jpg"
+    },
+    "images": [
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/c0/4bc6784420b98",
+            "extension": "jpg"
+        }
+    ],
+    "creators": {
+        "available": 4,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/838/creators",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/4627",
+                "name": "Roberto Aguirre-Sacasa",
+                "role": "writer"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/425",
+                "name": "Greg Land",
+                "role": "penciller (cover)"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/527",
+                "name": "Tom Palmer",
+                "role": "inker"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/49",
+                "name": "Darick Robertson",
+                "role": "penciller"
+            }
+        ],
+        "returned": 4
+    },
+    "characters": {
+        "available": 1,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/838/characters",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009472",
+                "name": "Nightcrawler"
+            }
+        ],
+        "returned": 1
+    },
+    "stories": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/838/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/2887",
+                "name": "X-MEN: RELOAD – ANOTHER CLIP!  New X-MEN ongoing series!  The X-Man known as NIGHTCRAWLER is a man with a foot in two worlds—one",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/2888",
+                "name": "X-MEN: RELOAD – ANOTHER CLIP!  New X-MEN ongoing series!  The X-Man known as NIGHTCRAWLER is a man with a foot in two worlds—one",
+                "type": "interiorStory"
+            }
+        ],
+        "returned": 2
+    },
+    "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/838/events",
+        "items": [],
+        "returned": 0
+    }
+}

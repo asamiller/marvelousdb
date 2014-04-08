@@ -1,0 +1,62 @@
+{
+    "id": 1010703,
+    "name": "Hiroim",
+    "description": "",
+    "modified": "2013-11-20T17:14:00-0500",
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/60/528d341abd6d9",
+        "extension": "jpg"
+    },
+    "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010703",
+    "comics": {
+        "available": 1,
+        "collectionURI": "http://gateway.marvel.com/v1/public/characters/1010703/comics",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/comics/5671",
+                "name": "Incredible Hulk (1999) #101"
+            }
+        ],
+        "returned": 1
+    },
+    "series": {
+        "available": 1,
+        "collectionURI": "http://gateway.marvel.com/v1/public/characters/1010703/series",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/series/465",
+                "name": "Incredible Hulk (1999 - 2008)"
+            }
+        ],
+        "returned": 1
+    },
+    "stories": {
+        "available": 1,
+        "collectionURI": "http://gateway.marvel.com/v1/public/characters/1010703/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/1286",
+                "name": "2 of 6",
+                "type": "cover"
+            }
+        ],
+        "returned": 1
+    },
+    "events": {
+        "available": 1,
+        "collectionURI": "http://gateway.marvel.com/v1/public/characters/1010703/events",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/events/212",
+                "name": "Planet Hulk"
+            }
+        ],
+        "returned": 1
+    },
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/characters/1010703/hiroim?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ]
+}

@@ -1,0 +1,137 @@
+{
+    "id": 2,
+    "digitalId": 3855,
+    "title": "The Pulse (2004) #6",
+    "issueNumber": 6,
+    "variantDescription": "",
+    "description": "PART 1 (OF 5)\r<br>Jessica Jones and Luke Cage's lives have been destroyed by the events of the Secret War, so what is Jessica going to do about it?  Fans of Secret War – feel The Pulse as it pounds out more gritty intrigue even as it welcomes a new artist: award-winning comics superstar Brent (RISING STARS, ASTRO CITY) Anderson!  \r<br>Guest-starring: Captain America, Luke Cage, Iron Fist, Nick Fury and many, many more.\r<br>",
+    "modified": "-0001-11-30T00:00:00-0500",
+    "isbn": "",
+    "upc": "5960605483-00611",
+    "diamondCode": "",
+    "ean": "",
+    "issn": "",
+    "format": "Comic",
+    "pageCount": 0,
+    "textObjects": [
+        {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "PART 1 (OF 5)\r<br>Jessica Jones and Luke Cage's lives have been destroyed by the events of the Secret War, so what is Jessica going to do about it?  Fans of Secret War – feel The Pulse as it pounds out more gritty intrigue even as it welcomes a new artist: award-winning comics superstar Brent (RISING STARS, ASTRO CITY) Anderson!  \r<br>Guest-starring: Captain America, Luke Cage, Iron Fist, Nick Fury and many, many more.\r<br>"
+        }
+    ],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/2",
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/2/the_pulse_2004_6?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=3855&utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ],
+    "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/674",
+        "name": "The Pulse (2004 - 2006)"
+    },
+    "variants": [],
+    "collections": [
+        {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/2166",
+            "name": "The Pulse Vol. 2: Secret War (Trade Paperback)"
+        }
+    ],
+    "collectedIssues": [],
+    "dates": [
+        {
+            "type": "onsaleDate",
+            "date": "2004-11-10T00:00:00-0500"
+        },
+        {
+            "type": "focDate",
+            "date": "-0001-11-30T00:00:00-0500"
+        },
+        {
+            "type": "unlimitedDate",
+            "date": "2007-11-13T00:00:00-0500"
+        }
+    ],
+    "prices": [
+        {
+            "type": "printPrice",
+            "price": 2.99
+        }
+    ],
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/30/4bc6b71818260",
+        "extension": "jpg"
+    },
+    "images": [
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/30/4bc6b71818260",
+            "extension": "jpg"
+        }
+    ],
+    "creators": {
+        "available": 5,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/2/creators",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/651",
+                "name": "Brent Anderson",
+                "role": "penciller"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/24",
+                "name": "Brian Michael Bendis",
+                "role": "writer"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/243",
+                "name": "Mike Mayhew",
+                "role": "penciller (cover)"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/652",
+                "name": "Peter Pantazis",
+                "role": "colorist"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/361",
+                "name": "Cory Petit",
+                "role": "letterer"
+            }
+        ],
+        "returned": 5
+    },
+    "characters": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/2/characters",
+        "items": [],
+        "returned": 0
+    },
+    "stories": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/2/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/2333",
+                "name": "1 of 5 - Secret War arc",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/2334",
+                "name": "1 of 5 - Secret War arc",
+                "type": "interiorStory"
+            }
+        ],
+        "returned": 2
+    },
+    "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/2/events",
+        "items": [],
+        "returned": 0
+    }
+}

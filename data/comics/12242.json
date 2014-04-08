@@ -1,0 +1,180 @@
+{
+    "id": 12242,
+    "digitalId": 0,
+    "title": "X-Factor (1986) #26",
+    "issueNumber": 26,
+    "variantDescription": "",
+    "description": null,
+    "modified": "2013-10-18T14:38:51-0400",
+    "isbn": "",
+    "upc": "",
+    "diamondCode": "",
+    "ean": "",
+    "issn": "",
+    "format": "Comic",
+    "pageCount": 36,
+    "textObjects": [],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/12242",
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/12242/x-factor_1986_26?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/X-Factor-26/digital-comic/29718?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ],
+    "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/2098",
+        "name": "X-Factor (1986 - 1998)"
+    },
+    "variants": [],
+    "collections": [],
+    "collectedIssues": [],
+    "dates": [
+        {
+            "type": "onsaleDate",
+            "date": "1988-03-10T00:00:00-0500"
+        },
+        {
+            "type": "focDate",
+            "date": "1969-12-31T19:00:00-0500"
+        }
+    ],
+    "prices": [
+        {
+            "type": "printPrice",
+            "price": 0
+        }
+    ],
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/f/a0/5261801d150c5",
+        "extension": "jpg"
+    },
+    "images": [
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/f/a0/5261801d150c5",
+            "extension": "jpg"
+        }
+    ],
+    "creators": {
+        "available": 9,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/12242/creators",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/2133",
+                "name": "Tom Brevoort",
+                "role": "editor"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/5075",
+                "name": "Bobbie Chase",
+                "role": "editor"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/375",
+                "name": "Bob Harras",
+                "role": "editor"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/3616",
+                "name": "Fall of the Mutants tiein",
+                "role": "editor"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/1759",
+                "name": "Joe Rosen",
+                "role": "letterer"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/2363",
+                "name": "Petra Scotese",
+                "role": "colorist"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/184",
+                "name": "Louise Simonson",
+                "role": "writer"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/5125",
+                "name": "Walter Simonson",
+                "role": "penciller (cover)"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/2030",
+                "name": "Bob Wiacek",
+                "role": "inker"
+            }
+        ],
+        "returned": 9
+    },
+    "characters": {
+        "available": 8,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/12242/characters",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009159",
+                "name": "Archangel"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009175",
+                "name": "Beast"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009216",
+                "name": "Caliban"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009257",
+                "name": "Cyclops"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009298",
+                "name": "Famine"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009362",
+                "name": "Iceman"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009701",
+                "name": "War (Abraham Kieros)"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009726",
+                "name": "X-Men"
+            }
+        ],
+        "returned": 8
+    },
+    "stories": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/12242/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/22226",
+                "name": "Fall of the Mutants",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/22227",
+                "name": "Casualties",
+                "type": "interiorStory"
+            }
+        ],
+        "returned": 2
+    },
+    "events": {
+        "available": 1,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/12242/events",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/events/248",
+                "name": "Fall of the Mutants"
+            }
+        ],
+        "returned": 1
+    }
+}

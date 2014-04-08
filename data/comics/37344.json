@@ -1,0 +1,157 @@
+{
+    "id": 37344,
+    "digitalId": 22882,
+    "title": "Secret Avengers (2010) #15",
+    "issueNumber": 15,
+    "variantDescription": "",
+    "description": "FEAR ITSELF TIE-IN THE NEW AVENGERS and AVENGERS must join forces in the face of true fear! Who will join the New Avengers for the first time ever? The battle for humanity continues! \n",
+    "modified": "2012-04-10T11:27:11-0400",
+    "isbn": "",
+    "upc": "5960607014-01511",
+    "diamondCode": "",
+    "ean": "",
+    "issn": "2153-9898",
+    "format": "Comic",
+    "pageCount": 32,
+    "textObjects": [
+        {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "FEAR ITSELF TIE-IN! With her world falling apart around her and the Avengers in disarray, Black Widow undertakes the most dangerous suicide mission of all -- eliminating the evil mastermind behind FEAR ITSELF!"
+        },
+        {
+            "type": "issue_preview_text",
+            "language": "en-us",
+            "text": "FEAR ITSELF TIE-IN THE NEW AVENGERS and AVENGERS must join forces in the face of true fear! Who will join the New Avengers for the first time ever? The battle for humanity continues! \n"
+        }
+    ],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/37344",
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/37344/secret_avengers_2010_15?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/Secret-Avengers-15/digital-comic/22882?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=22882&utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "inAppLink",
+            "url": "http://applink.marvel.com/issue/22882?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ],
+    "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/9799",
+        "name": "Secret Avengers (2010 - 2012)"
+    },
+    "variants": [],
+    "collections": [],
+    "collectedIssues": [],
+    "dates": [
+        {
+            "type": "onsaleDate",
+            "date": "2011-07-27T00:00:00-0400"
+        },
+        {
+            "type": "focDate",
+            "date": "2011-07-04T00:00:00-0400"
+        },
+        {
+            "type": "unlimitedDate",
+            "date": "2012-05-30T00:00:00-0400"
+        },
+        {
+            "type": "digitalPurchaseDate",
+            "date": "2012-05-08T00:00:00-0400"
+        }
+    ],
+    "prices": [
+        {
+            "type": "printPrice",
+            "price": 3.99
+        },
+        {
+            "type": "digitalPurchasePrice",
+            "price": 1.99
+        }
+    ],
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/90/518973c70e1c4",
+        "extension": "jpg"
+    },
+    "images": [
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/90/518973c70e1c4",
+            "extension": "jpg"
+        },
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/f/a0/4d9cbebd465e4",
+            "extension": "jpg"
+        }
+    ],
+    "creators": {
+        "available": 4,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/37344/creators",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/2133",
+                "name": "Tom Brevoort",
+                "role": "editor"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/5106",
+                "name": "Scot Eaton",
+                "role": "penciller"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/436",
+                "name": "Adi Granov",
+                "role": "penciller (cover)"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/11434",
+                "name": "Nick Spencer",
+                "role": "writer"
+            }
+        ],
+        "returned": 4
+    },
+    "characters": {
+        "available": 1,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/37344/characters",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009189",
+                "name": "Black Widow"
+            }
+        ],
+        "returned": 1
+    },
+    "stories": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/37344/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/82713",
+                "name": "Cover #82713",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/82714",
+                "name": "Interior #82714",
+                "type": "interiorStory"
+            }
+        ],
+        "returned": 2
+    },
+    "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/37344/events",
+        "items": [],
+        "returned": 0
+    }
+}

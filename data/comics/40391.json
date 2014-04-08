@@ -1,0 +1,156 @@
+{
+    "id": 40391,
+    "digitalId": 27788,
+    "title": "Captain America (2011) #18",
+    "issueNumber": 18,
+    "variantDescription": "",
+    "description": "<ul><li>The Omega Madbombs have been unleashed, and no one is safe!</li><li>Agent 13 and Dum Dum Dugan duke it out with Baron Zemo in the depths of space!</li><li>Captain America tackles Codename: Bravo and Queen Hydra with the fate of the world in the balance...But first he has to fight his way through an army of Discordians!</li></ul>",
+    "modified": "2013-04-09T16:09:48-0400",
+    "isbn": "",
+    "upc": "5960607613-01811",
+    "diamondCode": "",
+    "ean": "",
+    "issn": "0274-5267",
+    "format": "Comic",
+    "pageCount": 32,
+    "textObjects": [
+        {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "<ul><li>The Omega Madbombs have been unleashed, and no one is safe!</li><li>Agent 13 and Dum Dum Dugan duke it out with Baron Zemo in the depths of space!</li><li>Captain America tackles Codename: Bravo and Queen Hydra with the fate of the world in the balance...But first he has to fight his way through an army of Discordians!</li></ul>"
+        }
+    ],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/40391",
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/40391/captain_america_2011_18?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/Captain-America-18/digital-comic/27788?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=27788&utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "inAppLink",
+            "url": "http://applink.marvel.com/issue/27788?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ],
+    "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/13830",
+        "name": "Captain America (2011 - 2012)"
+    },
+    "variants": [],
+    "collections": [],
+    "collectedIssues": [],
+    "dates": [
+        {
+            "type": "onsaleDate",
+            "date": "2012-10-10T00:00:00-0400"
+        },
+        {
+            "type": "focDate",
+            "date": "2012-09-26T00:00:00-0400"
+        },
+        {
+            "type": "unlimitedDate",
+            "date": "2013-04-08T00:00:00-0400"
+        },
+        {
+            "type": "digitalPurchaseDate",
+            "date": "2012-10-10T00:00:00-0400"
+        }
+    ],
+    "prices": [
+        {
+            "type": "printPrice",
+            "price": 3.99
+        },
+        {
+            "type": "digitalPurchasePrice",
+            "price": 1.99
+        }
+    ],
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/70/516857a41de34",
+        "extension": "jpg"
+    },
+    "images": [
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/70/516857a41de34",
+            "extension": "jpg"
+        },
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/40/5069aadf05ea8",
+            "extension": "jpg"
+        },
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/d/c0/5060935c16849",
+            "extension": "jpg"
+        }
+    ],
+    "creators": {
+        "available": 4,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/40391/creators",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/367",
+                "name": "Ed Brubaker",
+                "role": "writer"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/10023",
+                "name": "Cullen Bunn",
+                "role": "writer"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/5106",
+                "name": "Scot Eaton",
+                "role": "artist"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/374",
+                "name": "Steve Epting",
+                "role": "penciller (cover)"
+            }
+        ],
+        "returned": 4
+    },
+    "characters": {
+        "available": 1,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/40391/characters",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009220",
+                "name": "Captain America"
+            }
+        ],
+        "returned": 1
+    },
+    "stories": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/40391/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/91604",
+                "name": "Cover #91604",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/91605",
+                "name": "Interior #91605",
+                "type": "interiorStory"
+            }
+        ],
+        "returned": 2
+    },
+    "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/40391/events",
+        "items": [],
+        "returned": 0
+    }
+}

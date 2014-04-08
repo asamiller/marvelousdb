@@ -1,0 +1,101 @@
+{
+    "id": 1010832,
+    "name": "Gargoyle",
+    "description": "",
+    "modified": "2004-04-14T00:00:00-0400",
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available",
+        "extension": "jpg"
+    },
+    "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010832",
+    "comics": {
+        "available": 4,
+        "collectionURI": "http://gateway.marvel.com/v1/public/characters/1010832/comics",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/comics/37192",
+                "name": "Heroes for Hire (2010) #9"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/comics/37193",
+                "name": "Heroes for Hire (2010) #11"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/comics/19827",
+                "name": "Marvel Fanfare (1982) #50"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/comics/33031",
+                "name": "Thor: (Issues 615-619) (Hardcover)"
+            }
+        ],
+        "returned": 4
+    },
+    "series": {
+        "available": 3,
+        "collectionURI": "http://gateway.marvel.com/v1/public/characters/1010832/series",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/series/13330",
+                "name": "Heroes for Hire (2010 - 2011)"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/series/3719",
+                "name": "Marvel Fanfare (1982 - 1992)"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/series/10497",
+                "name": "Thor: (Issues 615-619) (2011)"
+            }
+        ],
+        "returned": 3
+    },
+    "stories": {
+        "available": 4,
+        "collectionURI": "http://gateway.marvel.com/v1/public/characters/1010832/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/42418",
+                "name": "pin-up",
+                "type": ""
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/74394",
+                "name": "Cover #74394",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/82386",
+                "name": "Cover #82386",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/94633",
+                "name": "Heroes for Hire (2010) #11",
+                "type": "cover"
+            }
+        ],
+        "returned": 4
+    },
+    "events": {
+        "available": 1,
+        "collectionURI": "http://gateway.marvel.com/v1/public/characters/1010832/events",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/events/302",
+                "name": "Fear Itself"
+            }
+        ],
+        "returned": 1
+    },
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/characters/1010832/gargoyle?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "wiki",
+            "url": "http://marvel.com/universe/Gargoyle?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ]
+}

@@ -1,0 +1,113 @@
+{
+    "id": 47562,
+    "digitalId": 0,
+    "title": "Superior Spider-Man (2013) #2 (2nd Printing Variant)",
+    "issueNumber": 2,
+    "variantDescription": "2nd Printing Variant",
+    "description": "• The All-Now Supereir Spider-Man battles All-New Sinister Six!\n• PLUS: Spider-Man and Mary Jane...REUNITED!\n• PLUS: Slott and Stegman... REUNITED!\n",
+    "modified": "2013-02-12T11:16:51-0500",
+    "isbn": "",
+    "upc": "75960607912400212",
+    "diamondCode": "DEC128234",
+    "ean": "",
+    "issn": "",
+    "format": "Comic",
+    "pageCount": 32,
+    "textObjects": [
+        {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "• The All-Now Supereir Spider-Man battles All-New Sinister Six!\n• PLUS: Spider-Man and Mary Jane...REUNITED!\n• PLUS: Slott and Stegman... REUNITED!\n"
+        }
+    ],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/47562",
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/47562/superior_spider-man_2013_2_2nd_printing_variant/2nd_printing_variant?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ],
+    "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/17554",
+        "name": "Superior Spider-Man (2013 - Present)"
+    },
+    "variants": [
+        {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/46469",
+            "name": "Superior Spider-Man (2013) #2"
+        },
+        {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/46471",
+            "name": "Superior Spider-Man (2013) #2 (Mcguinness Variant)"
+        }
+    ],
+    "collections": [],
+    "collectedIssues": [],
+    "dates": [
+        {
+            "type": "onsaleDate",
+            "date": "2013-02-20T00:00:00-0500"
+        },
+        {
+            "type": "focDate",
+            "date": "2013-02-06T00:00:00-0500"
+        }
+    ],
+    "prices": [
+        {
+            "type": "printPrice",
+            "price": 3.99
+        }
+    ],
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available",
+        "extension": "jpg"
+    },
+    "images": [],
+    "creators": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/47562/creators",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/626",
+                "name": "Dan Slott",
+                "role": "writer"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/1156",
+                "name": "Ryan Stegman",
+                "role": "penciller (cover)"
+            }
+        ],
+        "returned": 2
+    },
+    "characters": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/47562/characters",
+        "items": [],
+        "returned": 0
+    },
+    "stories": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/47562/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/107405",
+                "name": "cover from Superior Spider-Man (2013) #2 (2ND PRINTING VARIANT)",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/107406",
+                "name": "story from Superior Spider-Man (2013) #2 (2ND PRINTING VARIANT)",
+                "type": "interiorStory"
+            }
+        ],
+        "returned": 2
+    },
+    "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/47562/events",
+        "items": [],
+        "returned": 0
+    }
+}

@@ -1,0 +1,153 @@
+{
+    "id": 42340,
+    "digitalId": 27998,
+    "title": "First X-Men (2011) #4",
+    "issueNumber": 4,
+    "variantDescription": "",
+    "description": "Wolverine and Sabretooth’s X-Men are under attack! See the beginning of the Sentinel program!\n",
+    "modified": "2013-02-22T13:16:12-0500",
+    "isbn": "",
+    "upc": "759606077961000411",
+    "diamondCode": "SEP120670",
+    "ean": "",
+    "issn": "",
+    "format": "Comic",
+    "pageCount": 32,
+    "textObjects": [
+        {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "Wolverine and Sabretooth&rsquo;s X-Men are under attack!\n\n<ul><li>See the beginning of the Sentinel program!</li></ul>"
+        },
+        {
+            "type": "issue_preview_text",
+            "language": "en-us",
+            "text": "Wolverine and Sabretooth’s X-Men are under attack! See the beginning of the Sentinel program!\n"
+        }
+    ],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/42340",
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/42340/first_x-men_2011_4?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/First-X-Men-4/digital-comic/27998?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=27998&utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "inAppLink",
+            "url": "http://applink.marvel.com/issue/27998?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ],
+    "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/16019",
+        "name": "First X-Men (2011 - Present)"
+    },
+    "variants": [],
+    "collections": [],
+    "collectedIssues": [],
+    "dates": [
+        {
+            "type": "onsaleDate",
+            "date": "2012-11-14T00:00:00-0500"
+        },
+        {
+            "type": "focDate",
+            "date": "2012-10-31T00:00:00-0400"
+        },
+        {
+            "type": "unlimitedDate",
+            "date": "2013-05-13T00:00:00-0400"
+        },
+        {
+            "type": "digitalPurchaseDate",
+            "date": "2012-11-14T00:00:00-0500"
+        }
+    ],
+    "prices": [
+        {
+            "type": "printPrice",
+            "price": 3.99
+        },
+        {
+            "type": "digitalPurchasePrice",
+            "price": 1.99
+        }
+    ],
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/2/f0/5023f690a334d",
+        "extension": "jpg"
+    },
+    "images": [
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/2/f0/5023f690a334d",
+            "extension": "jpg"
+        }
+    ],
+    "creators": {
+        "available": 5,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/42340/creators",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/314",
+                "name": "Neal Adams",
+                "role": "inker"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/452",
+                "name": "Chris Eliopoulos",
+                "role": "letterer"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/11765",
+                "name": "Christos Gage",
+                "role": "writer"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/4300",
+                "name": "Nick Lowe",
+                "role": "editor"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/10279",
+                "name": "Matthew Wilson",
+                "role": "colorist"
+            }
+        ],
+        "returned": 5
+    },
+    "characters": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/42340/characters",
+        "items": [],
+        "returned": 0
+    },
+    "stories": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/42340/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/95585",
+                "name": "Cover #95585",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/95586",
+                "name": "Interior #95586",
+                "type": "interiorStory"
+            }
+        ],
+        "returned": 2
+    },
+    "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/42340/events",
+        "items": [],
+        "returned": 0
+    }
+}

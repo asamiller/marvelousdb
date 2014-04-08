@@ -1,0 +1,179 @@
+{
+    "id": 35297,
+    "digitalId": 25034,
+    "title": "Uncanny X-Force (2010) #18",
+    "issueNumber": 18,
+    "variantDescription": "",
+    "description": "Rick Remender (Venom, Fear Agent), Jerome Opeٌa (Punisher, Fear Agent) and Dean White (Avengers, Amazing Spider-Man) bring you a tale of devastation, bravery, and salvation.",
+    "modified": "2014-01-02T13:26:47-0500",
+    "isbn": "",
+    "upc": "5960607227-01811",
+    "diamondCode": "",
+    "ean": "",
+    "issn": "2156-860X",
+    "format": "Comic",
+    "pageCount": 32,
+    "textObjects": [
+        {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "Rick Remender (Venom, Fear Agent), Jerome Opeٌa (Punisher, Fear Agent) and Dean White (Avengers, Amazing Spider-Man) bring you a tale of devastation, bravery, and salvation."
+        }
+    ],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/35297",
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/35297/uncanny_x-force_2010_18?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/Uncanny-X-Force-18/digital-comic/25034?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=25034&utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "inAppLink",
+            "url": "http://applink.marvel.com/issue/25034?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ],
+    "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/9976",
+        "name": "Uncanny X-Force (2010 - 2012)"
+    },
+    "variants": [
+        {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/42366",
+            "name": "Uncanny X-Force (2010) #18 (2nd Printing Variant)"
+        }
+    ],
+    "collections": [],
+    "collectedIssues": [],
+    "dates": [
+        {
+            "type": "onsaleDate",
+            "date": "2011-12-07T00:00:00-0500"
+        },
+        {
+            "type": "focDate",
+            "date": "2011-11-14T00:00:00-0500"
+        },
+        {
+            "type": "unlimitedDate",
+            "date": "2012-12-20T00:00:00-0500"
+        },
+        {
+            "type": "digitalPurchaseDate",
+            "date": "2012-05-01T00:00:00-0400"
+        }
+    ],
+    "prices": [
+        {
+            "type": "printPrice",
+            "price": 3.99
+        },
+        {
+            "type": "digitalPurchasePrice",
+            "price": 1.99
+        }
+    ],
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/f0/52c5af269f845",
+        "extension": "jpg"
+    },
+    "images": [
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/f0/52c5af269f845",
+            "extension": "jpg"
+        },
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/1/03/4e7a051042685",
+            "extension": "jpg"
+        }
+    ],
+    "creators": {
+        "available": 5,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/35297/creators",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/8737",
+                "name": "Jerome Opena",
+                "role": "artist"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/182",
+                "name": "Esad Ribic",
+                "role": "artist"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/361",
+                "name": "Cory Petit",
+                "role": "letterer"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/11835",
+                "name": "Rick Remender",
+                "role": "writer"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/442",
+                "name": "Dean White",
+                "role": "colorist"
+            }
+        ],
+        "returned": 5
+    },
+    "characters": {
+        "available": 4,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/35297/characters",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009268",
+                "name": "Deadpool"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009301",
+                "name": "Fantomex"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009718",
+                "name": "Wolverine"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009726",
+                "name": "X-Men"
+            }
+        ],
+        "returned": 4
+    },
+    "stories": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/35297/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/78008",
+                "name": "Cover #78008",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/78009",
+                "name": "Interior #78009",
+                "type": "interiorStory"
+            }
+        ],
+        "returned": 2
+    },
+    "events": {
+        "available": 1,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/35297/events",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/events/308",
+                "name": "X-Men: Regenesis"
+            }
+        ],
+        "returned": 1
+    }
+}

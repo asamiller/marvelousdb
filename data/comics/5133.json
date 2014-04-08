@@ -1,0 +1,157 @@
+{
+    "id": 5133,
+    "digitalId": 1559,
+    "title": "Blade (2006) #1",
+    "issueNumber": 1,
+    "variantDescription": "",
+    "description": "Spider-Man—a vampire!  Dracula, Lord of the Undead!  A classroom of bloodsucking 4th graders! It's a new series featuring the popular vampire hunter Blade!",
+    "modified": "-0001-11-30T00:00:00-0500",
+    "isbn": "",
+    "upc": "5960606006-00111",
+    "diamondCode": "",
+    "ean": "",
+    "issn": "",
+    "format": "Comic",
+    "pageCount": 0,
+    "textObjects": [
+        {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "Spider-Man—a vampire!  Dracula, Lord of the Undead!  A classroom of bloodsucking 4th graders!  \r<br>And that’s just the first five pages! \r<br>Join Howard Chaykin (Avengers, American Flagg) and Marc Guggenheim (Wolverine, CSI:  \r<br>Miami) for a new series featuring the popular character who has launched three movies and a TV series.  This self-contained first issue is perfect for both new readers and longtime fans.\r<br>32 PGS./Rated T+ ...$2.99\r<br>"
+        },
+        {
+            "type": "issue_preview_text",
+            "language": "en-us",
+            "text": "Spider-Man—a vampire!  Dracula, Lord of the Undead!  A classroom of bloodsucking 4th graders! It's a new series featuring the popular vampire hunter Blade!"
+        }
+    ],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/5133",
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/5133/blade_2006_1?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/Blade-1/digital-comic/1559?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=1559&utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "inAppLink",
+            "url": "http://applink.marvel.com/issue/1559?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ],
+    "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/1123",
+        "name": "Blade (2006 - 2007)"
+    },
+    "variants": [],
+    "collections": [
+        {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/13521",
+            "name": "Blade: Undead Again (Trade Paperback)"
+        }
+    ],
+    "collectedIssues": [],
+    "dates": [
+        {
+            "type": "onsaleDate",
+            "date": "2006-09-20T00:00:00-0400"
+        },
+        {
+            "type": "focDate",
+            "date": "-0001-11-30T00:00:00-0500"
+        },
+        {
+            "type": "unlimitedDate",
+            "date": "2007-11-13T00:00:00-0500"
+        },
+        {
+            "type": "digitalPurchaseDate",
+            "date": "2010-06-02T00:00:00-0400"
+        }
+    ],
+    "prices": [
+        {
+            "type": "printPrice",
+            "price": 2.99
+        },
+        {
+            "type": "digitalPurchasePrice",
+            "price": 1.99
+        }
+    ],
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/00/4bc5c66ecb710",
+        "extension": "jpg"
+    },
+    "images": [
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/00/4bc5c66ecb710",
+            "extension": "jpg"
+        }
+    ],
+    "creators": {
+        "available": 3,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/5133/creators",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/808",
+                "name": "Howard Chaykin",
+                "role": "penciller"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/10288",
+                "name": "Marko Djurdjevic",
+                "role": "penciller (cover)"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/644",
+                "name": "Marc Guggenheim",
+                "role": "writer"
+            }
+        ],
+        "returned": 3
+    },
+    "characters": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/5133/characters",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009191",
+                "name": "Blade"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009610",
+                "name": "Spider-Man"
+            }
+        ],
+        "returned": 2
+    },
+    "stories": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/5133/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/6172",
+                "name": "Cover #6172",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/6173",
+                "name": "Interior #6173",
+                "type": "interiorStory"
+            }
+        ],
+        "returned": 2
+    },
+    "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/5133/events",
+        "items": [],
+        "returned": 0
+    }
+}

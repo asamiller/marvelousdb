@@ -1,0 +1,131 @@
+{
+    "id": 46927,
+    "digitalId": 0,
+    "title": "Avengers (2012) #21",
+    "issueNumber": 21,
+    "variantDescription": "",
+    "description": "INFINITY TIE-IN &ndash; &quot;AVENGERS UNIVERSE: IV&quot;\r\n\r\n\r\n\r\n\r\n<ul><li>The final battle for the Marvel universe begins.</li><li>The fall of a Galactic empire.</li><li>The rise of a new one.</li></ul>",
+    "modified": "2013-10-04T15:08:57-0400",
+    "isbn": "",
+    "upc": "75960607902502111",
+    "diamondCode": "AUG130745",
+    "ean": "",
+    "issn": "",
+    "format": "Comic",
+    "pageCount": 40,
+    "textObjects": [
+        {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "INFINITY TIE-IN &ndash; &quot;AVENGERS UNIVERSE: IV&quot;\r\n\r\n\r\n\r\n\r\n<ul><li>The final battle for the Marvel universe begins.</li><li>The fall of a Galactic empire.</li><li>The rise of a new one.</li></ul>"
+        }
+    ],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/46927",
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/46927/avengers_2012_21?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/Avengers-21/digital-comic/31721?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ],
+    "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/16452",
+        "name": "Avengers (2012 - Present)"
+    },
+    "variants": [
+        {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/49467",
+            "name": "Avengers (2012) #21 (Castellani Lego Sketch Variant)"
+        },
+        {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/48190",
+            "name": "Avengers (2012) #21 (Castellani Lego Variant)"
+        }
+    ],
+    "collections": [],
+    "collectedIssues": [],
+    "dates": [
+        {
+            "type": "onsaleDate",
+            "date": "2013-10-16T00:00:00-0400"
+        },
+        {
+            "type": "focDate",
+            "date": "2013-10-02T00:00:00-0400"
+        }
+    ],
+    "prices": [
+        {
+            "type": "printPrice",
+            "price": 3.99
+        }
+    ],
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/2/70/524eeaa9bfd6d",
+        "extension": "jpg"
+    },
+    "images": [
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/2/70/524eeaa9bfd6d",
+            "extension": "jpg"
+        },
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/c0/5214c9a4b589f",
+            "extension": "jpg"
+        }
+    ],
+    "creators": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/46927/creators",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/11743",
+                "name": "Jonathan Hickman",
+                "role": "writer"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/758",
+                "name": "Leinil Francis Yu",
+                "role": "penciler (cover)"
+            }
+        ],
+        "returned": 2
+    },
+    "characters": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/46927/characters",
+        "items": [],
+        "returned": 0
+    },
+    "stories": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/46927/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/105466",
+                "name": "cover from Avengers (2012) #21",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/105467",
+                "name": "story from Avengers (2012) #21",
+                "type": "interiorStory"
+            }
+        ],
+        "returned": 2
+    },
+    "events": {
+        "available": 1,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/46927/events",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/events/315",
+                "name": "Infinity"
+            }
+        ],
+        "returned": 1
+    }
+}

@@ -1,0 +1,116 @@
+{
+    "id": 49910,
+    "digitalId": 0,
+    "title": "Iron Patriot (2014) #1",
+    "issueNumber": 1,
+    "variantDescription": "",
+    "description": "Jim Rhodes has quit the SECRET AVENGERS!!! As the IRON PATRIOT, he&#39;s bringing his fight against the bad guys to the home front. But a new villain emerges with a brutal plan that could turn Iron Patriot into America&#39;s most wanted!!!",
+    "modified": "2014-03-13T10:35:30-0400",
+    "isbn": "",
+    "upc": "75960608040300111",
+    "diamondCode": "",
+    "ean": "",
+    "issn": "",
+    "format": "Comic",
+    "pageCount": 32,
+    "textObjects": [
+        {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "Jim Rhodes has quit the SECRET AVENGERS!!! As the IRON PATRIOT, he&#39;s bringing his fight against the bad guys to the home front. But a new villain emerges with a brutal plan that could turn Iron Patriot into America&#39;s most wanted!!!"
+        }
+    ],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/49910",
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/49910/iron_patriot_2014_1?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ],
+    "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/18761",
+        "name": "Iron Patriot (2014 - Present)"
+    },
+    "variants": [
+        {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/50367",
+            "name": "Iron Patriot (2014) #1 (Perkins Variant)"
+        },
+        {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/50657",
+            "name": "Iron Patriot (2014) #1 (Young Variant)"
+        }
+    ],
+    "collections": [],
+    "collectedIssues": [],
+    "dates": [
+        {
+            "type": "onsaleDate",
+            "date": "2014-03-26T00:00:00-0400"
+        },
+        {
+            "type": "focDate",
+            "date": "2014-03-12T00:00:00-0400"
+        }
+    ],
+    "prices": [
+        {
+            "type": "printPrice",
+            "price": 3.99
+        }
+    ],
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/1/50/531f73883874e",
+        "extension": "jpg"
+    },
+    "images": [
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/1/50/531f73883874e",
+            "extension": "jpg"
+        },
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/d0/525784ea9e2af",
+            "extension": "jpg"
+        }
+    ],
+    "creators": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/49910/creators",
+        "items": [],
+        "returned": 0
+    },
+    "characters": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/49910/characters",
+        "items": [],
+        "returned": 0
+    },
+    "stories": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/49910/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/111880",
+                "name": "cover from Iron Patriot (2014) #1",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/111881",
+                "name": "story from Iron Patriot (2014) #1",
+                "type": "interiorStory"
+            }
+        ],
+        "returned": 2
+    },
+    "events": {
+        "available": 1,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/49910/events",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/events/311",
+                "name": "Marvel NOW!"
+            }
+        ],
+        "returned": 1
+    }
+}

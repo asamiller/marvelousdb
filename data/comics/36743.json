@@ -1,0 +1,127 @@
+{
+    "id": 36743,
+    "digitalId": 25478,
+    "title": "Marvel Adventures Super Heroes (2010) #23",
+    "issueNumber": 23,
+    "variantDescription": "",
+    "description": "&bull; THING takes on a MOLOID infestation!\r\n<br />&bull; FANTASTIC FOUR v.s. SUPER SKRULL!\r\n<br />&bull; Fantastic fun for the whole family! ",
+    "modified": "2012-01-27T13:56:25-0500",
+    "isbn": "",
+    "upc": "5960607126-02311",
+    "diamondCode": "",
+    "ean": "",
+    "issn": "1938-0380",
+    "format": "Comic",
+    "pageCount": 32,
+    "textObjects": [
+        {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "&bull; THING takes on a MOLOID infestation!\r\n<br />&bull; FANTASTIC FOUR v.s. SUPER SKRULL!\r\n<br />&bull; Fantastic fun for the whole family! "
+        }
+    ],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/36743",
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/36743/marvel_adventures_super_heroes_2010_23?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=25478&utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ],
+    "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/9718",
+        "name": "Marvel Adventures Super Heroes (2010 - 2012)"
+    },
+    "variants": [],
+    "collections": [],
+    "collectedIssues": [],
+    "dates": [
+        {
+            "type": "onsaleDate",
+            "date": "2012-02-08T00:00:00-0500"
+        },
+        {
+            "type": "focDate",
+            "date": "2012-01-16T00:00:00-0500"
+        },
+        {
+            "type": "unlimitedDate",
+            "date": "2013-03-11T00:00:00-0400"
+        }
+    ],
+    "prices": [
+        {
+            "type": "printPrice",
+            "price": 2.99
+        }
+    ],
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/e/30/4ebc06ab152ab",
+        "extension": "jpg"
+    },
+    "images": [
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/e/30/4ebc06ab152ab",
+            "extension": "jpg"
+        }
+    ],
+    "creators": {
+        "available": 4,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/36743/creators",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/11595",
+                "name": "Alejandro Garza",
+                "role": "penciller (cover)"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/9296",
+                "name": "Ray-Anthony Height",
+                "role": "penciller"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/9992",
+                "name": "Tim Levins",
+                "role": "penciller"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/721",
+                "name": "Brian Reed",
+                "role": "writer"
+            }
+        ],
+        "returned": 4
+    },
+    "characters": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/36743/characters",
+        "items": [],
+        "returned": 0
+    },
+    "stories": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/36743/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/81486",
+                "name": "Cover #81486",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/81487",
+                "name": "Interior #81487",
+                "type": "interiorStory"
+            }
+        ],
+        "returned": 2
+    },
+    "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/36743/events",
+        "items": [],
+        "returned": 0
+    }
+}

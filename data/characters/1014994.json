@@ -1,0 +1,88 @@
+{
+    "id": 1014994,
+    "name": "Gwen Stacy (Ultimate)",
+    "description": "",
+    "modified": "2012-07-10T19:38:29-0400",
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available",
+        "extension": "jpg"
+    },
+    "resourceURI": "http://gateway.marvel.com/v1/public/characters/1014994",
+    "comics": {
+        "available": 4,
+        "collectionURI": "http://gateway.marvel.com/v1/public/characters/1014994/comics",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/comics/38400",
+                "name": "Ultimate Comics Spider-Man (2011) #4"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/comics/39967",
+                "name": "Ultimate Fallout (2011) #1"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/comics/40098",
+                "name": "Ultimate Fallout (2011) #1 (Diamond Variant)"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/comics/40031",
+                "name": "Ultimate Fallout (2011) #1 (Djurdjevic Variant)"
+            }
+        ],
+        "returned": 4
+    },
+    "series": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/characters/1014994/series",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/series/13831",
+                "name": "Ultimate Comics Spider-Man (2011 - Present)"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/series/14807",
+                "name": "Ultimate Fallout (2011)"
+            }
+        ],
+        "returned": 2
+    },
+    "stories": {
+        "available": 4,
+        "collectionURI": "http://gateway.marvel.com/v1/public/characters/1014994/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/90701",
+                "name": "Cover #90701",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/90833",
+                "name": "Interior #90833",
+                "type": "interiorStory"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/90985",
+                "name": "Interior #90985",
+                "type": "interiorStory"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/95279",
+                "name": "Ultimate Comics Spider-Man (2011) #4 - Int",
+                "type": "interiorStory"
+            }
+        ],
+        "returned": 4
+    },
+    "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/characters/1014994/events",
+        "items": [],
+        "returned": 0
+    },
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/characters/1014994/gwen_stacy_ultimate?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ]
+}

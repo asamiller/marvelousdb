@@ -1,0 +1,88 @@
+{
+    "id": 1010732,
+    "name": "Master Chief",
+    "description": "",
+    "modified": "2004-04-14T00:00:00-0400",
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/30/4ce5a2b669c3a",
+        "extension": "jpg"
+    },
+    "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010732",
+    "comics": {
+        "available": 4,
+        "collectionURI": "http://gateway.marvel.com/v1/public/characters/1010732/comics",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/comics/33836",
+                "name": "Halo: Fall of Reach - Covenant (2010) #3"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/comics/16011",
+                "name": "Halo: Uprising (2007) #1"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/comics/16192",
+                "name": "Halo: Uprising (2007) #2"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/comics/16602",
+                "name": "Halo: Uprising (2007) #3"
+            }
+        ],
+        "returned": 4
+    },
+    "series": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/characters/1010732/series",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/series/10749",
+                "name": "Halo: Fall of Reach - Covenant (2010 - 2011)"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/series/2543",
+                "name": "Halo: Uprising (2007 - 2009)"
+            }
+        ],
+        "returned": 2
+    },
+    "stories": {
+        "available": 4,
+        "collectionURI": "http://gateway.marvel.com/v1/public/characters/1010732/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/32695",
+                "name": "4XLS 1 of 4",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/33074",
+                "name": "4XLS 2 of 4",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/33484",
+                "name": "4XLS 3 of 4",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/94632",
+                "name": "Halo: Fall of Reach - Covenant (2011) #3",
+                "type": "cover"
+            }
+        ],
+        "returned": 4
+    },
+    "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/characters/1010732/events",
+        "items": [],
+        "returned": 0
+    },
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/characters/1010732/master_chief?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ]
+}

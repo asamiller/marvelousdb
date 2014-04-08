@@ -1,0 +1,98 @@
+{
+    "id": 16616,
+    "digitalId": 0,
+    "title": "Spider-Man Magazine: Great Power (2007)",
+    "issueNumber": 0,
+    "variantDescription": "",
+    "description": "It’s Spider-Man's amazing adventures in the Wall-Crawler's very own magazine! More stories of your friendly neighborhood Spider-Man plus tons of extras that will knock your socks off!\r<br>96 PGS./All Ages …$5.99 \r<br>",
+    "modified": "1969-12-31T19:00:00-0500",
+    "isbn": "",
+    "upc": "5960606295-00111",
+    "diamondCode": "",
+    "ean": "",
+    "issn": "",
+    "format": "MAGAZINE",
+    "pageCount": 0,
+    "textObjects": [
+        {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "It’s Spider-Man's amazing adventures in the Wall-Crawler's very own magazine! More stories of your friendly neighborhood Spider-Man plus tons of extras that will knock your socks off!\r<br>96 PGS./All Ages …$5.99 \r<br>"
+        }
+    ],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/16616",
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/16616/spider-man_magazine_great_power_2007?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ],
+    "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/2917",
+        "name": "Spider-Man Magazine: Great Power (2007)"
+    },
+    "variants": [],
+    "collections": [],
+    "collectedIssues": [],
+    "dates": [
+        {
+            "type": "onsaleDate",
+            "date": "2007-10-31T00:00:00-0400"
+        },
+        {
+            "type": "focDate",
+            "date": "1969-12-31T19:00:00-0500"
+        }
+    ],
+    "prices": [
+        {
+            "type": "printPrice",
+            "price": 6.99
+        }
+    ],
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/10/4bc391028a8d3",
+        "extension": "jpg"
+    },
+    "images": [
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/10/4bc391028a8d3",
+            "extension": "jpg"
+        }
+    ],
+    "creators": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/16616/creators",
+        "items": [],
+        "returned": 0
+    },
+    "characters": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/16616/characters",
+        "items": [],
+        "returned": 0
+    },
+    "stories": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/16616/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/33507",
+                "name": "Interior #33507",
+                "type": "interiorStory"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/67574",
+                "name": "SPIDER-MAN MAGAZINE: GREAT POWER 0 cover",
+                "type": "cover"
+            }
+        ],
+        "returned": 2
+    },
+    "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/16616/events",
+        "items": [],
+        "returned": 0
+    }
+}

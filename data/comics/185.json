@@ -1,0 +1,127 @@
+{
+    "id": 185,
+    "digitalId": 6989,
+    "title": "Spider-Man/Doctor Octopus: Out of Reach (2004) #3",
+    "issueNumber": 3,
+    "variantDescription": "",
+    "description": "Doc Ock has a new teen genius sidekick, Brigham Fontaine, but Brigham is starting to get restless… and tired of Doc stealing all the glory! Meanwhile, Spidey stays busy battling TWO genius villains, and still holds out hope that Brigham can be brought back to the good guy side.\r\n32 PGS./MARVEL PSR…$2.99",
+    "modified": "-0001-11-30T00:00:00-0500",
+    "isbn": "",
+    "upc": "5960605452-00811",
+    "diamondCode": "",
+    "ean": "",
+    "issn": "",
+    "format": "Comic",
+    "pageCount": 0,
+    "textObjects": [
+        {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "Doc Ock has a new teen genius sidekick, Brigham Fontaine, but Brigham is starting to get restless… and tired of Doc stealing all the glory! Meanwhile, Spidey stays busy battling TWO genius villains, and still holds out hope that Brigham can be brought back to the good guy side.\r\n32 PGS./MARVEL PSR…$2.99"
+        }
+    ],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/185",
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/185/spider-mandoctor_octopus_out_of_reach_2004_3?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=6989&utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ],
+    "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/695",
+        "name": "Spider-Man/Doctor Octopus: Out of Reach (2004)"
+    },
+    "variants": [],
+    "collections": [],
+    "collectedIssues": [],
+    "dates": [
+        {
+            "type": "onsaleDate",
+            "date": "2004-01-21T00:00:00-0500"
+        },
+        {
+            "type": "focDate",
+            "date": "-0001-11-30T00:00:00-0500"
+        },
+        {
+            "type": "unlimitedDate",
+            "date": "2009-08-31T00:00:00-0400"
+        }
+    ],
+    "prices": [
+        {
+            "type": "printPrice",
+            "price": 2.99
+        }
+    ],
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/10/4bc6a906801ce",
+        "extension": "jpg"
+    },
+    "images": [
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/10/4bc6a906801ce",
+            "extension": "jpg"
+        }
+    ],
+    "creators": {
+        "available": 3,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/185/creators",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/415",
+                "name": "Derec Aucoin",
+                "role": "penciller"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/218",
+                "name": "Keron Grant",
+                "role": "penciller (cover)"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/414",
+                "name": "Colin Mitchell",
+                "role": "writer"
+            }
+        ],
+        "returned": 3
+    },
+    "characters": {
+        "available": 1,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/185/characters",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009610",
+                "name": "Spider-Man"
+            }
+        ],
+        "returned": 1
+    },
+    "stories": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/185/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/2081",
+                "name": "Cover #2081",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/2082",
+                "name": "Interior #2082",
+                "type": "interiorStory"
+            }
+        ],
+        "returned": 2
+    },
+    "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/185/events",
+        "items": [],
+        "returned": 0
+    }
+}

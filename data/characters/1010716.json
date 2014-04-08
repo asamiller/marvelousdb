@@ -1,0 +1,65 @@
+{
+    "id": 1010716,
+    "name": "Zarda",
+    "description": "",
+    "modified": "1969-12-31T19:00:00-0500",
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available",
+        "extension": "jpg"
+    },
+    "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010716",
+    "comics": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/characters/1010716/comics",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/comics/3908",
+                "name": "Squadron Supreme (2006) #1"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/comics/5425",
+                "name": "Squadron Supreme Vol. 1: The Pre-War Years Premiere (Hardcover)"
+            }
+        ],
+        "returned": 2
+    },
+    "series": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/characters/1010716/series",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/series/944",
+                "name": "Squadron Supreme (2006)"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/series/1791",
+                "name": "Squadron Supreme Vol. 1: The Pre-War Years Premiere (2006)"
+            }
+        ],
+        "returned": 2
+    },
+    "stories": {
+        "available": 1,
+        "collectionURI": "http://gateway.marvel.com/v1/public/characters/1010716/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/5249",
+                "name": "1 of 6 - The Pre-War Years",
+                "type": "cover"
+            }
+        ],
+        "returned": 1
+    },
+    "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/characters/1010716/events",
+        "items": [],
+        "returned": 0
+    },
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/characters/1010716/zarda?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ]
+}

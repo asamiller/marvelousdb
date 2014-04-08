@@ -1,0 +1,96 @@
+{
+    "id": 29236,
+    "digitalId": 0,
+    "title": "Punisher (2008) #1",
+    "issueNumber": 1,
+    "variantDescription": "",
+    "description": null,
+    "modified": "-0001-11-30T00:00:00-0500",
+    "isbn": "",
+    "upc": "",
+    "diamondCode": "",
+    "ean": "",
+    "issn": "",
+    "format": "Digital Comic",
+    "pageCount": 0,
+    "textObjects": [],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/29236",
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/29236/punisher_2008_1?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ],
+    "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/6601",
+        "name": "Punisher (2008 - 2010)"
+    },
+    "variants": [
+        {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/23177",
+            "name": "Punisher (2008) #1 (MCKONE (DR, 50/50 COVER))"
+        },
+        {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/23178",
+            "name": "Punisher (2008) #1"
+        }
+    ],
+    "collections": [],
+    "collectedIssues": [],
+    "dates": [
+        {
+            "type": "onsaleDate",
+            "date": "2009-01-01T00:00:00-0500"
+        },
+        {
+            "type": "focDate",
+            "date": "1961-01-01T00:00:00-0500"
+        }
+    ],
+    "prices": [
+        {
+            "type": "printPrice",
+            "price": 0
+        }
+    ],
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available",
+        "extension": "jpg"
+    },
+    "images": [],
+    "creators": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/29236/creators",
+        "items": [],
+        "returned": 0
+    },
+    "characters": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/29236/characters",
+        "items": [],
+        "returned": 0
+    },
+    "stories": {
+        "available": 1,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/29236/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/68754",
+                "name": "PUNISHER 1 cover",
+                "type": "cover"
+            }
+        ],
+        "returned": 1
+    },
+    "events": {
+        "available": 1,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/29236/events",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/events/318",
+                "name": "Dark Reign"
+            }
+        ],
+        "returned": 1
+    }
+}

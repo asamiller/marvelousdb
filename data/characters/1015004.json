@@ -1,0 +1,65 @@
+{
+    "id": 1015004,
+    "name": "Thanos (Ultimate)",
+    "description": "",
+    "modified": "2014-03-05T13:56:27-0500",
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/5/c0/5317734cbc1d0",
+        "extension": "jpg"
+    },
+    "resourceURI": "http://gateway.marvel.com/v1/public/characters/1015004",
+    "comics": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/characters/1015004/comics",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/comics/5792",
+                "name": "Ultimate Fantastic Four (2003) #38"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/comics/6194",
+                "name": "Ultimate Fantastic Four Vol. 7: God War (Trade Paperback)"
+            }
+        ],
+        "returned": 2
+    },
+    "series": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/characters/1015004/series",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/series/702",
+                "name": "Ultimate Fantastic Four (2003 - 2009)"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/series/1892",
+                "name": "Ultimate Fantastic Four Vol. 7: God War (2007)"
+            }
+        ],
+        "returned": 2
+    },
+    "stories": {
+        "available": 1,
+        "collectionURI": "http://gateway.marvel.com/v1/public/characters/1015004/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/2705",
+                "name": "6 of 6 - God War",
+                "type": "cover"
+            }
+        ],
+        "returned": 1
+    },
+    "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/characters/1015004/events",
+        "items": [],
+        "returned": 0
+    },
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/characters/1015004/thanos_ultimate?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ]
+}

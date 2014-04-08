@@ -1,0 +1,138 @@
+{
+    "id": 43477,
+    "digitalId": 29494,
+    "title": "All-New X-Men (2012) #12",
+    "issueNumber": 12,
+    "variantDescription": "",
+    "description": "\r\n\r\n\r\n\r\n<ul><li>The All-New X-Men find themselves face-to-face with the UNCANNY AVENGERS!</li><li>Young Cyclops meets the adult version of the little brother he thought he may never see again.</li></ul>",
+    "modified": "2013-06-05T19:42:15-0400",
+    "isbn": "",
+    "upc": "75960607900101211",
+    "diamondCode": "APR130600",
+    "ean": "",
+    "issn": "",
+    "format": "Comic",
+    "pageCount": 32,
+    "textObjects": [
+        {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "\r\n\r\n\r\n\r\n<ul><li>The All-New X-Men find themselves face-to-face with the UNCANNY AVENGERS!</li><li>Young Cyclops meets the adult version of the little brother he thought he may never see again.</li></ul>"
+        }
+    ],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/43477",
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/43477/all-new_x-men_2012_12?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/All-New-X-Men-12/digital-comic/29494?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=29494&utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "inAppLink",
+            "url": "http://applink.marvel.com/issue/29494?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ],
+    "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/16449",
+        "name": "All-New X-Men (2012 - Present)"
+    },
+    "variants": [
+        {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/47549",
+            "name": "All-New X-Men (2012) #12 (Yu Wolverine Costume Variant)"
+        }
+    ],
+    "collections": [],
+    "collectedIssues": [],
+    "dates": [
+        {
+            "type": "onsaleDate",
+            "date": "2013-06-05T00:00:00-0400"
+        },
+        {
+            "type": "focDate",
+            "date": "2013-05-22T00:00:00-0400"
+        },
+        {
+            "type": "unlimitedDate",
+            "date": "2013-12-09T00:00:00-0500"
+        },
+        {
+            "type": "digitalPurchaseDate",
+            "date": "2013-06-05T00:00:00-0400"
+        }
+    ],
+    "prices": [
+        {
+            "type": "printPrice",
+            "price": 3.99
+        },
+        {
+            "type": "digitalPurchasePrice",
+            "price": 3.99
+        }
+    ],
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/4/90/51968946bc95e",
+        "extension": "jpg"
+    },
+    "images": [
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/4/90/51968946bc95e",
+            "extension": "jpg"
+        }
+    ],
+    "creators": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/43477/creators",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/24",
+                "name": "Brian Michael Bendis",
+                "role": "writer"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/192",
+                "name": "Stuart Immonen",
+                "role": "penciler (cover)"
+            }
+        ],
+        "returned": 2
+    },
+    "characters": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/43477/characters",
+        "items": [],
+        "returned": 0
+    },
+    "stories": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/43477/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/97140",
+                "name": "cover from A+X (2012) #4",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/97141",
+                "name": "story from A+X (2012) #4",
+                "type": "interiorStory"
+            }
+        ],
+        "returned": 2
+    },
+    "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/43477/events",
+        "items": [],
+        "returned": 0
+    }
+}

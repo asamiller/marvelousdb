@@ -1,0 +1,131 @@
+{
+    "id": 27503,
+    "digitalId": 12629,
+    "title": "War of Kings: Warriors - Crystal (2009) #1",
+    "issueNumber": 1,
+    "variantDescription": "",
+    "description": null,
+    "modified": "-0001-11-30T00:00:00-0500",
+    "isbn": "",
+    "upc": "5960606906-00111",
+    "diamondCode": "",
+    "ean": "",
+    "issn": "",
+    "format": "Digital Comic",
+    "pageCount": 8,
+    "textObjects": [],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/27503",
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/27503/war_of_kings_warriors_-_crystal_2009_1?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=12629&utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ],
+    "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/8794",
+        "name": "War of Kings: Warriors - Crystal (2009)"
+    },
+    "variants": [],
+    "collections": [],
+    "collectedIssues": [],
+    "dates": [
+        {
+            "type": "onsaleDate",
+            "date": "2009-06-03T00:00:00-0400"
+        },
+        {
+            "type": "focDate",
+            "date": "2009-06-01T00:00:00-0400"
+        },
+        {
+            "type": "unlimitedDate",
+            "date": "2009-06-03T00:00:00-0400"
+        }
+    ],
+    "prices": [
+        {
+            "type": "printPrice",
+            "price": 0
+        }
+    ],
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/5/e0/4bb470817c3b2",
+        "extension": "jpg"
+    },
+    "images": [
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/5/e0/4bb470817c3b2",
+            "extension": "jpg"
+        }
+    ],
+    "creators": {
+        "available": 5,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/27503/creators",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/9043",
+                "name": "Mariah Benes",
+                "role": "inker"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/829",
+                "name": "Jay Faerber",
+                "role": "writer"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/621",
+                "name": "Adriana Melo",
+                "role": "penciller"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/9719",
+                "name": "Nei Ruffino",
+                "role": "colorist"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/8429",
+                "name": "Dave Sharpe",
+                "role": "letterer"
+            }
+        ],
+        "returned": 5
+    },
+    "characters": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/27503/characters",
+        "items": [],
+        "returned": 0
+    },
+    "stories": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/27503/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/60313",
+                "name": "Cover #60313",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/60314",
+                "name": "Interior #60314",
+                "type": "interiorStory"
+            }
+        ],
+        "returned": 2
+    },
+    "events": {
+        "available": 1,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/27503/events",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/events/276",
+                "name": "War of Kings"
+            }
+        ],
+        "returned": 1
+    }
+}

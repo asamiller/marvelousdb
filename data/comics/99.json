@@ -1,0 +1,127 @@
+{
+    "id": 99,
+    "digitalId": 3941,
+    "title": "Sentinel (2003) #8",
+    "issueNumber": 8,
+    "variantDescription": "",
+    "description": "\"NO HERO\" parts 1 & 2 (of 3)\r\nIn the aftermath of the events of the first story arc, Juston must decide his next move!  But has the Marvel Universe given birth to a new hero ... or to a monster?\r\n32 PGS.(each)/MARVEL PSR…$2.50 (each)",
+    "modified": "-0001-11-30T00:00:00-0500",
+    "isbn": "",
+    "upc": "5960605481-00311",
+    "diamondCode": "",
+    "ean": "",
+    "issn": "",
+    "format": "Comic",
+    "pageCount": 0,
+    "textObjects": [
+        {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "\"NO HERO\" parts 1 & 2 (of 3)\r\nIn the aftermath of the events of the first story arc, Juston must decide his next move!  But has the Marvel Universe given birth to a new hero ... or to a monster?\r\n32 PGS.(each)/MARVEL PSR…$2.50 (each)"
+        }
+    ],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/99",
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/99/sentinel_2003_8?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=3941&utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ],
+    "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/480",
+        "name": "Sentinel (2003 - 2004)"
+    },
+    "variants": [],
+    "collections": [
+        {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/1344",
+            "name": "Sentinel Vol. 2: No Hero (Digest)"
+        }
+    ],
+    "collectedIssues": [],
+    "dates": [
+        {
+            "type": "onsaleDate",
+            "date": "2003-10-22T00:00:00-0400"
+        },
+        {
+            "type": "focDate",
+            "date": "-0001-11-30T00:00:00-0500"
+        },
+        {
+            "type": "unlimitedDate",
+            "date": "2007-11-13T00:00:00-0500"
+        }
+    ],
+    "prices": [
+        {
+            "type": "printPrice",
+            "price": 2.5
+        }
+    ],
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/f/90/4bc6aef3cc299",
+        "extension": "jpg"
+    },
+    "images": [
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/f/90/4bc6aef3cc299",
+            "extension": "jpg"
+        }
+    ],
+    "creators": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/99/creators",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/424",
+                "name": "Udon Comics",
+                "role": "penciller (cover)"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/9429",
+                "name": "Sean McKeever",
+                "role": "writer"
+            }
+        ],
+        "returned": 2
+    },
+    "characters": {
+        "available": 1,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/99/characters",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009570",
+                "name": "Sentinel"
+            }
+        ],
+        "returned": 1
+    },
+    "stories": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/99/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/2318",
+                "name": "Cover #2318",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/2319",
+                "name": "Interior #2319",
+                "type": "interiorStory"
+            }
+        ],
+        "returned": 2
+    },
+    "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/99/events",
+        "items": [],
+        "returned": 0
+    }
+}

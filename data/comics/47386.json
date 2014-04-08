@@ -1,0 +1,156 @@
+{
+    "id": 47386,
+    "digitalId": 32337,
+    "title": "Superior Spider-Man (2013) #22",
+    "issueNumber": 22,
+    "variantDescription": "",
+    "description": "The first issue in THE DARKEST HOUR &ndash; the Spider-Event of the year!\nFlash Thompson, the Secret Avenger known as Venom, is back in town for his first run-in with the Superior Spider-Man!\nWill their first encounter be friendly, or will Flash sense something perilous about Peter Parker&#39;s presence?",
+    "modified": "2014-02-06T13:18:25-0500",
+    "isbn": "",
+    "upc": "75960607912402211",
+    "diamondCode": "SEP130697",
+    "ean": "",
+    "issn": "",
+    "format": "Comic",
+    "pageCount": 32,
+    "textObjects": [
+        {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "The first issue in THE DARKEST HOUR &ndash; the Spider-Event of the year!\nFlash Thompson, the Secret Avenger known as Venom, is back in town for his first run-in with the Superior Spider-Man!\nWill their first encounter be friendly, or will Flash sense something perilous about Peter Parker&#39;s presence?"
+        }
+    ],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/47386",
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/47386/superior_spider-man_2013_22?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/Superior-Spider-Man-22/digital-comic/32337?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=32337&utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "inAppLink",
+            "url": "http://applink.marvel.com/issue/32337?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ],
+    "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/17554",
+        "name": "Superior Spider-Man (2013 - Present)"
+    },
+    "variants": [
+        {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/48293",
+            "name": "Superior Spider-Man (2013) #22 (Campbell Variant)"
+        },
+        {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/49413",
+            "name": "Superior Spider-Man (2013) #22 (Maos Variant)"
+        }
+    ],
+    "collections": [],
+    "collectedIssues": [],
+    "dates": [
+        {
+            "type": "onsaleDate",
+            "date": "2013-11-27T00:00:00-0500"
+        },
+        {
+            "type": "focDate",
+            "date": "2013-11-13T00:00:00-0500"
+        },
+        {
+            "type": "unlimitedDate",
+            "date": "2014-02-28T00:00:00-0500"
+        },
+        {
+            "type": "digitalPurchaseDate",
+            "date": "2013-11-27T00:00:00-0500"
+        }
+    ],
+    "prices": [
+        {
+            "type": "printPrice",
+            "price": 3.99
+        },
+        {
+            "type": "digitalPurchasePrice",
+            "price": 3.99
+        }
+    ],
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/b0/528bd5de58fc1",
+        "extension": "jpg"
+    },
+    "images": [
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/b0/528bd5de58fc1",
+            "extension": "jpg"
+        },
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/1/70/51e59f7673358",
+            "extension": "jpg"
+        }
+    ],
+    "creators": {
+        "available": 3,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/47386/creators",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/11765",
+                "name": "Christos Gage",
+                "role": "writer"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/626",
+                "name": "Dan Slott",
+                "role": "writer"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/72",
+                "name": "Humberto Ramos",
+                "role": "penciller (cover)"
+            }
+        ],
+        "returned": 3
+    },
+    "characters": {
+        "available": 1,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/47386/characters",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009610",
+                "name": "Spider-Man"
+            }
+        ],
+        "returned": 1
+    },
+    "stories": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/47386/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/107071",
+                "name": "cover from Superior Spider-Man (2013) #22",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/107072",
+                "name": "story from Superior Spider-Man (2013) #22",
+                "type": "interiorStory"
+            }
+        ],
+        "returned": 2
+    },
+    "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/47386/events",
+        "items": [],
+        "returned": 0
+    }
+}

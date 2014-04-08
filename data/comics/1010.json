@@ -1,0 +1,104 @@
+{
+    "id": 1010,
+    "digitalId": 0,
+    "title": "U.S. War Machine Vol. I (Trade Paperback)",
+    "issueNumber": 0,
+    "variantDescription": "",
+    "description": "Fired by Tony Stark and recruited by S.H.I.E.L.D., James Rhodes must lead a team of rookies against the evil alliance known as A.I.M. and the carnage begins with a team of War Machines!",
+    "modified": "-0001-11-30T00:00:00-0500",
+    "isbn": "0-7851-0854-8",
+    "upc": "",
+    "diamondCode": "",
+    "ean": "",
+    "issn": "",
+    "format": "Trade Paperback",
+    "pageCount": 288,
+    "textObjects": [
+        {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "Fired by Tony Stark and recruited by S.H.I.E.L.D., James Rhodes must lead a team of rookies against the evil alliance known as A.I.M. and the carnage begins with a team of War Machines!"
+        }
+    ],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/1010",
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/collection/1010/us_war_machine_vol_i_trade_paperback?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ],
+    "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/72",
+        "name": "U.S. War Machine Vol. I (1999)"
+    },
+    "variants": [],
+    "collections": [],
+    "collectedIssues": [],
+    "dates": [
+        {
+            "type": "onsaleDate",
+            "date": "1999-11-30T00:00:00-0500"
+        },
+        {
+            "type": "focDate",
+            "date": "-0001-11-30T00:00:00-0500"
+        }
+    ],
+    "prices": [
+        {
+            "type": "printPrice",
+            "price": 9.99
+        }
+    ],
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/d0/4bc66d5cd569c",
+        "extension": "jpg"
+    },
+    "images": [
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/d0/4bc66d5cd569c",
+            "extension": "jpg"
+        }
+    ],
+    "creators": {
+        "available": 1,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/1010/creators",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/11",
+                "name": "Chuck Austen",
+                "role": "writer"
+            }
+        ],
+        "returned": 1
+    },
+    "characters": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/1010/characters",
+        "items": [],
+        "returned": 0
+    },
+    "stories": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/1010/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/73",
+                "name": "Fired by Tony Stark and recruited by S.H.I.E.L.D., James Rhodes must lead a team of rookies against the evil alliance known as A",
+                "type": "interiorStory"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/65150",
+                "name": "U.S. WAR MACHINE VOL. I 0 cover",
+                "type": "cover"
+            }
+        ],
+        "returned": 2
+    },
+    "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/1010/events",
+        "items": [],
+        "returned": 0
+    }
+}

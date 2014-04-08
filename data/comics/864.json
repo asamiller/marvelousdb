@@ -1,0 +1,137 @@
+{
+    "id": 864,
+    "digitalId": 2839,
+    "title": "X-Men Unlimited (2004) #5",
+    "issueNumber": 5,
+    "variantDescription": "",
+    "description": "In celebration of his 30th Anniversary, this issue of X-MEN UNLIMITED features two Wolverine stories! In \"Follow the Leader,\" Wolverine is taught a lesson by…William Shakespeare? In \"Bar Stools,\" a night out turns strange when Wolverine crosses paths with some colorful barflies.",
+    "modified": "-0001-11-30T00:00:00-0500",
+    "isbn": "",
+    "upc": "5960605507-00511",
+    "diamondCode": "",
+    "ean": "",
+    "issn": "",
+    "format": "Comic",
+    "pageCount": 0,
+    "textObjects": [
+        {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "In celebration of his 30th Anniversary, this issue of X-MEN UNLIMITED features two Wolverine stories! In \"Follow the Leader,\" Wolverine is taught a lesson by…William Shakespeare? In \"Bar Stools,\" a night out turns strange when Wolverine crosses paths with some colorful barflies."
+        }
+    ],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/864",
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/864/x-men_unlimited_2004_5?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=2839&utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ],
+    "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/714",
+        "name": "X-Men Unlimited (2004 - 2006)"
+    },
+    "variants": [],
+    "collections": [
+        {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/1216",
+            "name": "X-Men Legends Vol. IV: Hated & Feared (Trade Paperback)"
+        }
+    ],
+    "collectedIssues": [],
+    "dates": [
+        {
+            "type": "onsaleDate",
+            "date": "2004-10-20T00:00:00-0400"
+        },
+        {
+            "type": "focDate",
+            "date": "-0001-11-30T00:00:00-0500"
+        },
+        {
+            "type": "unlimitedDate",
+            "date": "2007-11-13T00:00:00-0500"
+        }
+    ],
+    "prices": [
+        {
+            "type": "printPrice",
+            "price": 2.99
+        }
+    ],
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/90/4bc676906f0af",
+        "extension": "jpg"
+    },
+    "images": [
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/90/4bc676906f0af",
+            "extension": "jpg"
+        }
+    ],
+    "creators": {
+        "available": 4,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/864/creators",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/738",
+                "name": "Vito Delsante",
+                "role": "writer"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/737",
+                "name": "Scott Killinger",
+                "role": "writer"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/739",
+                "name": "Lee Ferguson",
+                "role": "penciller"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/490",
+                "name": "Pat Lee",
+                "role": "penciller (cover)"
+            }
+        ],
+        "returned": 4
+    },
+    "characters": {
+        "available": 1,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/864/characters",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009726",
+                "name": "X-Men"
+            }
+        ],
+        "returned": 1
+    },
+    "stories": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/864/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/2827",
+                "name": "In celebration of his 30th Anniversary, this issue of X-MEN UNLIMITED features two Wolverine stories! In \"Follow the Leader,\" Wo",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/2828",
+                "name": "In celebration of his 30th Anniversary, this issue of X-MEN UNLIMITED features two Wolverine stories! In \"Follow the Leader,\" Wo",
+                "type": "interiorStory"
+            }
+        ],
+        "returned": 2
+    },
+    "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/864/events",
+        "items": [],
+        "returned": 0
+    }
+}

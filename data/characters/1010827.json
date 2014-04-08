@@ -1,0 +1,70 @@
+{
+    "id": 1010827,
+    "name": "Armory",
+    "description": "",
+    "modified": "1969-12-31T19:00:00-0500",
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available",
+        "extension": "jpg"
+    },
+    "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010827",
+    "comics": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/characters/1010827/comics",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/comics/17293",
+                "name": "Avengers: The Initiative Annual (2007) #1"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/comics/21085",
+                "name": "Secret Invasion: The Infiltration (Trade Paperback)"
+            }
+        ],
+        "returned": 2
+    },
+    "series": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/characters/1010827/series",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/series/3087",
+                "name": "Avengers: The Initiative Annual (2007)"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/series/4619",
+                "name": "Secret Invasion: The Infiltration (2008)"
+            }
+        ],
+        "returned": 2
+    },
+    "stories": {
+        "available": 1,
+        "collectionURI": "http://gateway.marvel.com/v1/public/characters/1010827/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/36242",
+                "name": "1 of 1",
+                "type": "cover"
+            }
+        ],
+        "returned": 1
+    },
+    "events": {
+        "available": 1,
+        "collectionURI": "http://gateway.marvel.com/v1/public/characters/1010827/events",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/events/269",
+                "name": "Secret Invasion"
+            }
+        ],
+        "returned": 1
+    },
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/characters/1010827/armory?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ]
+}

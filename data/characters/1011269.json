@@ -1,0 +1,78 @@
+{
+    "id": 1011269,
+    "name": "Newton Destine",
+    "description": "",
+    "modified": "1969-12-31T19:00:00-0500",
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available",
+        "extension": "jpg"
+    },
+    "resourceURI": "http://gateway.marvel.com/v1/public/characters/1011269",
+    "comics": {
+        "available": 3,
+        "collectionURI": "http://gateway.marvel.com/v1/public/characters/1011269/comics",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/comics/20731",
+                "name": "Clandestine Classic Premiere (Hardcover)"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/comics/21140",
+                "name": "X-Men: Clan Destine (1996) #1"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/comics/21141",
+                "name": "X-Men: Clan Destine (1996) #2"
+            }
+        ],
+        "returned": 3
+    },
+    "series": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/characters/1011269/series",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/series/3874",
+                "name": "Clandestine Classic Premiere (2008)"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/series/4773",
+                "name": "X-Men: Clan Destine (1996)"
+            }
+        ],
+        "returned": 2
+    },
+    "stories": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/characters/1011269/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/46644",
+                "name": "Dreams of Darkest Destiny",
+                "type": "interiorStory"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/46646",
+                "name": "The Destine's Darkest Dreams",
+                "type": "interiorStory"
+            }
+        ],
+        "returned": 2
+    },
+    "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/characters/1011269/events",
+        "items": [],
+        "returned": 0
+    },
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/characters/1011269/newton_destine?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "wiki",
+            "url": "http://marvel.com/universe/Newton%20Destine?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ]
+}

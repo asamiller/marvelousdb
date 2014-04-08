@@ -1,0 +1,123 @@
+{
+    "id": 41905,
+    "digitalId": 0,
+    "title": "Incredible Hulk (2011) #1 (Portacio Variant)",
+    "issueNumber": 1,
+    "variantDescription": "Portacio Variant",
+    "description": null,
+    "modified": "2011-10-24T13:43:24-0400",
+    "isbn": "",
+    "upc": "5960607292-00116",
+    "diamondCode": "AUG118088",
+    "ean": "",
+    "issn": "",
+    "format": "Comic",
+    "pageCount": 32,
+    "textObjects": [],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/41905",
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/41905/incredible_hulk_2011_1_portacio_variant/portacio_variant?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ],
+    "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/14876",
+        "name": "Incredible Hulk (2011 - 2012)"
+    },
+    "variants": [
+        {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/41151",
+            "name": "Incredible Hulk (2011) #1"
+        },
+        {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/40893",
+            "name": "Incredible Hulk (2011) #1 (Blank Cover Variant)"
+        },
+        {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/40077",
+            "name": "Incredible Hulk (2011) #1 (Neal Adams Variant)"
+        },
+        {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/40894",
+            "name": "Incredible Hulk (2011) #1 (Sketch Variant)"
+        },
+        {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/40896",
+            "name": "Incredible Hulk (2011) #1 (INCREDIBLE HULK 1 KEOWN VARIANT)"
+        },
+        {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/40895",
+            "name": "Incredible Hulk (2011) #1 (INCREDIBLE HULK 1 LADRONN VARIANT)"
+        }
+    ],
+    "collections": [],
+    "collectedIssues": [],
+    "dates": [
+        {
+            "type": "onsaleDate",
+            "date": "2011-10-26T00:00:00-0400"
+        },
+        {
+            "type": "focDate",
+            "date": "2011-10-12T00:00:00-0400"
+        }
+    ],
+    "prices": [
+        {
+            "type": "printPrice",
+            "price": 3.99
+        }
+    ],
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/5/e0/4ea058302e7d1",
+        "extension": "jpg"
+    },
+    "images": [
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/5/e0/4ea058302e7d1",
+            "extension": "jpg"
+        }
+    ],
+    "creators": {
+        "available": 1,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/41905/creators",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/10824",
+                "name": "WHILCE PORTACIO",
+                "role": "penciller (cover)"
+            }
+        ],
+        "returned": 1
+    },
+    "characters": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/41905/characters",
+        "items": [],
+        "returned": 0
+    },
+    "stories": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/41905/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/94812",
+                "name": "Cover #94812",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/94813",
+                "name": "Interior #94813",
+                "type": "interiorStory"
+            }
+        ],
+        "returned": 2
+    },
+    "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/41905/events",
+        "items": [],
+        "returned": 0
+    }
+}

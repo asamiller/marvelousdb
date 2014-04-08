@@ -1,0 +1,187 @@
+{
+    "id": 1941,
+    "digitalId": 2931,
+    "title": "Young Avengers (2005) #4",
+    "issueNumber": 4,
+    "variantDescription": "",
+    "description": "Captain America and Iron Man must join forces with their greatest foe so that they may defeat the Young Avengers!",
+    "modified": "1969-12-31T19:00:00-0500",
+    "isbn": "",
+    "upc": "5960605548-00411",
+    "diamondCode": "",
+    "ean": "",
+    "issn": "",
+    "format": "Comic",
+    "pageCount": 0,
+    "textObjects": [
+        {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "\"SIDEKICKS\"\r<br>The Young Avengers declare war on one of the Avengers’ most powerful and terrifying foes -- but first they must defeat his new allies: Captain America and Iron Man.  It's the Young Avengers versus the old Avengers in a battle for the team's future -- and the kids' survival. Part 4 (of 6).\r<br>32 PGS./Marvel PSR …$2.99\r<br>"
+        },
+        {
+            "type": "issue_preview_text",
+            "language": "en-us",
+            "text": "Captain America and Iron Man must join forces with their greatest foe so that they may defeat the Young Avengers!"
+        }
+    ],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/1941",
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/1941/young_avengers_2005_4?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/Young-Avengers-4/digital-comic/2931?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=2931&utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "inAppLink",
+            "url": "http://applink.marvel.com/issue/2931?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ],
+    "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/756",
+        "name": "Young Avengers (2005 - 2006)"
+    },
+    "variants": [],
+    "collections": [
+        {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/4084",
+            "name": "Young Avengers Vol. 1: Sidekicks (Trade Paperback)"
+        },
+        {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/2396",
+            "name": "Young Avengers Vol. 1: Sidekicks (Hardcover)"
+        }
+    ],
+    "collectedIssues": [],
+    "dates": [
+        {
+            "type": "onsaleDate",
+            "date": "2005-05-11T00:00:00-0400"
+        },
+        {
+            "type": "focDate",
+            "date": "1969-12-31T19:00:00-0500"
+        },
+        {
+            "type": "unlimitedDate",
+            "date": "2007-04-28T00:00:00-0400"
+        },
+        {
+            "type": "digitalPurchaseDate",
+            "date": "2010-10-27T00:00:00-0400"
+        }
+    ],
+    "prices": [
+        {
+            "type": "printPrice",
+            "price": 2.99
+        },
+        {
+            "type": "digitalPurchasePrice",
+            "price": 1.99
+        }
+    ],
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/10/4bc63e3d91062",
+        "extension": "jpg"
+    },
+    "images": [
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/10/4bc63e3d91062",
+            "extension": "jpg"
+        }
+    ],
+    "creators": {
+        "available": 5,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/1941/creators",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/357",
+                "name": "Jim Cheung",
+                "role": "penciller (cover)"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/359",
+                "name": "John Dell",
+                "role": "inker"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/358",
+                "name": "Allan Heinberg",
+                "role": "writer"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/361",
+                "name": "Cory Petit",
+                "role": "letterer"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/360",
+                "name": "Justin Ponsor",
+                "role": "colorist"
+            }
+        ],
+        "returned": 5
+    },
+    "characters": {
+        "available": 6,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/1941/characters",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009220",
+                "name": "Captain America"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010704",
+                "name": "Iron Lad"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009368",
+                "name": "Iron Man"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009384",
+                "name": "Kang"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009492",
+                "name": "Patriot"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010698",
+                "name": "Young Avengers"
+            }
+        ],
+        "returned": 6
+    },
+    "stories": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/1941/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/3508",
+                "name": "4 of 6 - Sidekicks",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/3509",
+                "name": "4 of 6 - Sidekicks",
+                "type": "interiorStory"
+            }
+        ],
+        "returned": 2
+    },
+    "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/1941/events",
+        "items": [],
+        "returned": 0
+    }
+}

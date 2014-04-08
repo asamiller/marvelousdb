@@ -1,0 +1,109 @@
+{
+    "id": 1044,
+    "digitalId": 0,
+    "title": "Captain America: To Serve and Protect (Trade Paperback)",
+    "issueNumber": 0,
+    "variantDescription": "",
+    "description": "Captain America had disappeared and was assumed dead.  After an unexpected return, he must rediscover himself and the world he left behind.",
+    "modified": "-0001-11-30T00:00:00-0500",
+    "isbn": "0-7851-0838-6",
+    "upc": "",
+    "diamondCode": "",
+    "ean": "",
+    "issn": "",
+    "format": "Trade Paperback",
+    "pageCount": 176,
+    "textObjects": [
+        {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "Captain America had disappeared and was assumed dead.  After an unexpected return, he must rediscover himself and the world he left behind."
+        }
+    ],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/1044",
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/collection/1044/captain_america_to_serve_and_protect_trade_paperback?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ],
+    "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/104",
+        "name": "Captain America: To Serve and Protect (1999)"
+    },
+    "variants": [],
+    "collections": [],
+    "collectedIssues": [],
+    "dates": [
+        {
+            "type": "onsaleDate",
+            "date": "1999-11-30T00:00:00-0500"
+        },
+        {
+            "type": "focDate",
+            "date": "-0001-11-30T00:00:00-0500"
+        }
+    ],
+    "prices": [
+        {
+            "type": "printPrice",
+            "price": 9.99
+        }
+    ],
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/f/50/4bc66a5a9ea8a",
+        "extension": "jpg"
+    },
+    "images": [
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/f/50/4bc66a5a9ea8a",
+            "extension": "jpg"
+        }
+    ],
+    "creators": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/1044/creators",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/120",
+                "name": "Ron Garney",
+                "role": "penciller"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/119",
+                "name": "Mark Waid",
+                "role": "writer"
+            }
+        ],
+        "returned": 2
+    },
+    "characters": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/1044/characters",
+        "items": [],
+        "returned": 0
+    },
+    "stories": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/1044/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/105",
+                "name": "Captain America had disappeared and was assumed dead.  After an unexpected return, he must rediscover himself and the world he l",
+                "type": "interiorStory"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/65182",
+                "name": "CAPTAIN AMERICA: TO SERVE AND PROTECT TPB 0 cover",
+                "type": "cover"
+            }
+        ],
+        "returned": 2
+    },
+    "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/1044/events",
+        "items": [],
+        "returned": 0
+    }
+}

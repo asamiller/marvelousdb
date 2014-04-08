@@ -1,0 +1,118 @@
+{
+    "id": 662,
+    "digitalId": 0,
+    "title": "Astonishing X-Men (2004) #1 (Variant)",
+    "issueNumber": 1,
+    "variantDescription": "Variant",
+    "description": "\"GIFTED\" PART 1 (OF 6) Dream-team creators JOSS WHEDON (creator of TV’s Buffy the Vampire Slayer) and JOHN CASSADAY (Planetary, CAPTAIN AMERICA) bring you the explosive #1 issue of the all-new flagship X-Men series! As part of X-MEN: RELOAD, this issue marks a return to classic greatness and the beginning of a brand-new era for the X-Men.",
+    "modified": "-0001-11-30T00:00:00-0500",
+    "isbn": "",
+    "upc": "5960605543-00141",
+    "diamondCode": "",
+    "ean": "",
+    "issn": "",
+    "format": "Comic",
+    "pageCount": 0,
+    "textObjects": [
+        {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "\"GIFTED\" PART 1 (OF 6) Dream-team creators JOSS WHEDON (creator of TV’s Buffy the Vampire Slayer) and JOHN CASSADAY (Planetary, CAPTAIN AMERICA) bring you the explosive #1 issue of the all-new flagship X-Men series! As part of X-MEN: RELOAD, this issue marks a return to classic greatness and the beginning of a brand-new era for the X-Men."
+        }
+    ],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/662",
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/662/astonishing_x-men_2004_1_variant/variant?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ],
+    "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/744",
+        "name": "Astonishing X-Men (2004 - Present)"
+    },
+    "variants": [
+        {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/722",
+            "name": "Astonishing X-Men (2004) #1 (Director's Cut)"
+        },
+        {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/660",
+            "name": "Astonishing X-Men (2004) #1"
+        }
+    ],
+    "collections": [],
+    "collectedIssues": [],
+    "dates": [
+        {
+            "type": "onsaleDate",
+            "date": "2004-05-26T00:00:00-0400"
+        },
+        {
+            "type": "focDate",
+            "date": "-0001-11-30T00:00:00-0500"
+        }
+    ],
+    "prices": [
+        {
+            "type": "printPrice",
+            "price": 2.99
+        }
+    ],
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/c0/4bc684d9b8414",
+        "extension": "jpg"
+    },
+    "images": [
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/c0/4bc684d9b8414",
+            "extension": "jpg"
+        }
+    ],
+    "creators": {
+        "available": 1,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/662/creators",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/8522",
+                "name": "Gabriele Dell'Otto",
+                "role": "penciller (cover)"
+            }
+        ],
+        "returned": 1
+    },
+    "characters": {
+        "available": 1,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/662/characters",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009726",
+                "name": "X-Men"
+            }
+        ],
+        "returned": 1
+    },
+    "stories": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/662/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/3313",
+                "name": "Cover #3313",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/3314",
+                "name": "Interior #3314",
+                "type": "interiorStory"
+            }
+        ],
+        "returned": 2
+    },
+    "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/662/events",
+        "items": [],
+        "returned": 0
+    }
+}

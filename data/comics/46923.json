@@ -1,0 +1,98 @@
+{
+    "id": 46923,
+    "digitalId": 0,
+    "title": "All-New X-Men (2012) #1 (2nd Printing Wraparound Variant)",
+    "issueNumber": 1,
+    "variantDescription": "2nd Printing Wraparound Variant",
+    "description": null,
+    "modified": "2012-11-14T15:35:28-0500",
+    "isbn": "",
+    "upc": "75960607900100112",
+    "diamondCode": "SEP128092",
+    "ean": "",
+    "issn": "",
+    "format": "Comic",
+    "pageCount": 32,
+    "textObjects": [],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/46923",
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/46923/all-new_x-men_2012_1_2nd_printing_wraparound_variant/2nd_printing_wraparound_variant?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ],
+    "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/16449",
+        "name": "All-New X-Men (2012 - Present)"
+    },
+    "variants": [
+        {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/43462",
+            "name": "All-New X-Men (2012) #1"
+        }
+    ],
+    "collections": [],
+    "collectedIssues": [],
+    "dates": [
+        {
+            "type": "onsaleDate",
+            "date": "2012-11-21T00:00:00-0500"
+        },
+        {
+            "type": "focDate",
+            "date": "2012-10-31T00:00:00-0400"
+        }
+    ],
+    "prices": [
+        {
+            "type": "printPrice",
+            "price": 3.99
+        }
+    ],
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available",
+        "extension": "jpg"
+    },
+    "images": [],
+    "creators": {
+        "available": 1,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/46923/creators",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/4300",
+                "name": "Nick Lowe",
+                "role": "editor"
+            }
+        ],
+        "returned": 1
+    },
+    "characters": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/46923/characters",
+        "items": [],
+        "returned": 0
+    },
+    "stories": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/46923/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/105458",
+                "name": "cover from All-New X-Men (2012) #1 (2ND PRINTING VARIANT)",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/105459",
+                "name": "story from All-New X-Men (2012) #1 (2ND PRINTING VARIANT)",
+                "type": "interiorStory"
+            }
+        ],
+        "returned": 2
+    },
+    "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/46923/events",
+        "items": [],
+        "returned": 0
+    }
+}

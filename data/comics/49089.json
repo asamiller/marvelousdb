@@ -1,0 +1,148 @@
+{
+    "id": 49089,
+    "digitalId": 0,
+    "title": "Ms. Marvel (2014) #1",
+    "issueNumber": 1,
+    "variantDescription": "",
+    "description": "The legend has returned!\nMarvel Comics presents the all-new MS. MARVEL, the ground breaking heroine that has become an international sensation! Kamala Khan is just an ordinary girl from Jersey City--until she is suddenly empowered with extraordinary gifts. But who truly is the all-new Ms. Marvel? Teenager? Muslim? Inhuman? Find out as she takes the Marvel Universe by storm, and prepare for an epic tale that will be remembered by generations to come. History in the making is NOW!",
+    "modified": "2014-01-31T10:48:28-0500",
+    "isbn": "",
+    "upc": "75960607997100111",
+    "diamondCode": "DEC130623",
+    "ean": "",
+    "issn": "",
+    "format": "Comic",
+    "pageCount": 32,
+    "textObjects": [
+        {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "The legend has returned!\nMarvel Comics presents the all-new MS. MARVEL, the ground breaking heroine that has become an international sensation! Kamala Khan is just an ordinary girl from Jersey City--until she is suddenly empowered with extraordinary gifts. But who truly is the all-new Ms. Marvel? Teenager? Muslim? Inhuman? Find out as she takes the Marvel Universe by storm, and prepare for an epic tale that will be remembered by generations to come. History in the making is NOW!"
+        }
+    ],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/49089",
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/49089/ms_marvel_2014_1?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/Ms-Marvel-1/digital-comic/32979?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ],
+    "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/18468",
+        "name": "Ms. Marvel (2014 - Present)"
+    },
+    "variants": [
+        {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/49587",
+            "name": "Ms. Marvel (2014) #1 (Adams Sketch Variant)"
+        },
+        {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/49588",
+            "name": "Ms. Marvel (2014) #1 (Adams Variant)"
+        },
+        {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/49584",
+            "name": "Ms. Marvel (2014) #1 (Blank Cover Variant)"
+        },
+        {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/49585",
+            "name": "Ms. Marvel (2014) #1 (Mckelvie Design Variant)"
+        },
+        {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/49586",
+            "name": "Ms. Marvel (2014) #1 (Young Variant)"
+        }
+    ],
+    "collections": [],
+    "collectedIssues": [],
+    "dates": [
+        {
+            "type": "onsaleDate",
+            "date": "2014-02-05T00:00:00-0500"
+        },
+        {
+            "type": "focDate",
+            "date": "2014-01-22T00:00:00-0500"
+        }
+    ],
+    "prices": [
+        {
+            "type": "printPrice",
+            "price": 2.99
+        }
+    ],
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/d0/52e6c3c8df654",
+        "extension": "jpg"
+    },
+    "images": [
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/d0/52e6c3c8df654",
+            "extension": "jpg"
+        },
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/30/527a62363bded",
+            "extension": "jpg"
+        }
+    ],
+    "creators": {
+        "available": 3,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/49089/creators",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/329",
+                "name": "Adrian Alphona",
+                "role": "artist"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/9408",
+                "name": "Sara Pichelli",
+                "role": "penciller (cover)"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/10329",
+                "name": "G. WILLOW WILSON",
+                "role": "writer"
+            }
+        ],
+        "returned": 3
+    },
+    "characters": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/49089/characters",
+        "items": [],
+        "returned": 0
+    },
+    "stories": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/49089/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/110265",
+                "name": "cover from Ms. Marvel (2014) #1",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/110266",
+                "name": "story from Ms. Marvel (2014) #1",
+                "type": "interiorStory"
+            }
+        ],
+        "returned": 2
+    },
+    "events": {
+        "available": 1,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/49089/events",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/events/311",
+                "name": "Marvel NOW!"
+            }
+        ],
+        "returned": 1
+    }
+}

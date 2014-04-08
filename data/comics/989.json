@@ -1,0 +1,163 @@
+{
+    "id": 989,
+    "digitalId": 0,
+    "title": "Marvel Visionaries: Jim Steranko (Trade Paperback)",
+    "issueNumber": 0,
+    "variantDescription": "",
+    "description": "A deep dive into the masterful work of Steranko including a classic Captain America adventure, guest-starring the Incredible Hulk, and an all-time great X-Men story.",
+    "modified": "-0001-11-30T00:00:00-0500",
+    "isbn": "0-7851-0944-7",
+    "upc": "",
+    "diamondCode": "",
+    "ean": "",
+    "issn": "",
+    "format": "Trade Paperback",
+    "pageCount": 128,
+    "textObjects": [
+        {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "A deep dive into the masterful work of Steranko including a classic Captain America adventure, guest-starring the Incredible Hulk, and an all-time great X-Men story."
+        }
+    ],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/989",
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/collection/989/marvel_visionaries_jim_steranko_trade_paperback?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ],
+    "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/51",
+        "name": "Marvel Visionaries: Jim Steranko (1999)"
+    },
+    "variants": [],
+    "collections": [],
+    "collectedIssues": [
+        {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/15392",
+            "name": "Tower of Shadows (1969) #1"
+        }
+    ],
+    "dates": [
+        {
+            "type": "onsaleDate",
+            "date": "1999-11-30T00:00:00-0500"
+        },
+        {
+            "type": "focDate",
+            "date": "-0001-11-30T00:00:00-0500"
+        }
+    ],
+    "prices": [
+        {
+            "type": "printPrice",
+            "price": 9.99
+        }
+    ],
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/e0/4bc66ef9d4624",
+        "extension": "jpg"
+    },
+    "images": [
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/e0/4bc66ef9d4624",
+            "extension": "jpg"
+        },
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/7/50/4bc468f99418d",
+            "extension": "jpg"
+        }
+    ],
+    "creators": {
+        "available": 8,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/989/creators",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/1612",
+                "name": "John Buscema",
+                "role": "penciller"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/1709",
+                "name": "Johnny Craig",
+                "role": "writer"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/61",
+                "name": "Jim Steranko",
+                "role": "writer"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/305",
+                "name": "Don Heck",
+                "role": "inker"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/30",
+                "name": "Stan Lee",
+                "role": "editor"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/214",
+                "name": "John Romita JR.",
+                "role": "penciller (cover)"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/1553",
+                "name": "Sam Rosen",
+                "role": "letterer"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/1548",
+                "name": "Artie Simek",
+                "role": "letterer"
+            }
+        ],
+        "returned": 8
+    },
+    "characters": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/989/characters",
+        "items": [],
+        "returned": 0
+    },
+    "stories": {
+        "available": 5,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/989/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/31018",
+                "name": "Cover #31018",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/31019",
+                "name": "At the Stroke of Midnight*",
+                "type": "interiorStory"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/31020",
+                "name": "From Beyond the Brink",
+                "type": "interiorStory"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/31021",
+                "name": "A Time To Die",
+                "type": "interiorStory"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/65129",
+                "name": "MARVEL VISIONARIES: JIM STERANKO TPB 0 cover",
+                "type": "cover"
+            }
+        ],
+        "returned": 5
+    },
+    "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/989/events",
+        "items": [],
+        "returned": 0
+    }
+}

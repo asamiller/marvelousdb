@@ -1,0 +1,141 @@
+{
+    "id": 825,
+    "digitalId": 3966,
+    "title": "Spider-Man/Doctor Octopus: Year One (2004) #4",
+    "issueNumber": 4,
+    "variantDescription": "",
+    "description": "As poisonous radiation courses through his bloodstream, a vicious Doctor Octopus cracks the secret of Spider-Man and prepares for a battle that will forever define his relationship with the wall crawler.",
+    "modified": "-0001-11-30T00:00:00-0500",
+    "isbn": "",
+    "upc": "5960605536-00411",
+    "diamondCode": "",
+    "ean": "",
+    "issn": "",
+    "format": "Comic",
+    "pageCount": 0,
+    "textObjects": [
+        {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "As poisonous radiation courses through his bloodstream, a vicious Doctor Octopus cracks the secret of Spider-Man and prepares for a battle that will forever define his relationship with the wall crawler."
+        }
+    ],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/825",
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/825/spider-mandoctor_octopus_year_one_2004_4?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=3966&utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ],
+    "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/736",
+        "name": "Spider-Man/Doctor Octopus: Year One (2004)"
+    },
+    "variants": [],
+    "collections": [
+        {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/1845",
+            "name": "Spider-Man/Doctor Octopus: Year One (Trade Paperback)"
+        }
+    ],
+    "collectedIssues": [],
+    "dates": [
+        {
+            "type": "onsaleDate",
+            "date": "2004-11-03T00:00:00-0500"
+        },
+        {
+            "type": "focDate",
+            "date": "-0001-11-30T00:00:00-0500"
+        },
+        {
+            "type": "unlimitedDate",
+            "date": "2007-11-27T00:00:00-0500"
+        }
+    ],
+    "prices": [
+        {
+            "type": "printPrice",
+            "price": 2.99
+        }
+    ],
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/7/30/4bc679c9816c5",
+        "extension": "jpg"
+    },
+    "images": [
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/7/30/4bc679c9816c5",
+            "extension": "jpg"
+        }
+    ],
+    "creators": {
+        "available": 4,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/825/creators",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/191",
+                "name": "Kaare Andrews",
+                "role": "penciller (cover)"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/8429",
+                "name": "Dave Sharpe",
+                "role": "letterer"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/8836",
+                "name": "Jose Villarrubia",
+                "role": "colorist"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/10409",
+                "name": "Zeb Wells",
+                "role": "writer"
+            }
+        ],
+        "returned": 4
+    },
+    "characters": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/825/characters",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009276",
+                "name": "Doctor Octopus"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009610",
+                "name": "Spider-Man"
+            }
+        ],
+        "returned": 2
+    },
+    "stories": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/825/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/3200",
+                "name": "As poisonous radiation courses through his bloodstream, a vicious Doctor Octopus cracks the secret of Spider-Man and prepares fo",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/3201",
+                "name": "As poisonous radiation courses through his bloodstream, a vicious Doctor Octopus cracks the secret of Spider-Man and prepares fo",
+                "type": "interiorStory"
+            }
+        ],
+        "returned": 2
+    },
+    "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/825/events",
+        "items": [],
+        "returned": 0
+    }
+}

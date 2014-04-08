@@ -1,0 +1,133 @@
+{
+    "id": 42567,
+    "digitalId": 27969,
+    "title": "Avenging Spider-Man (2011) #14",
+    "issueNumber": 14,
+    "variantDescription": "",
+    "description": "Horizon Labs take a field trip to the Savage Land! But when has a trip to the Savage Land ever gone right?\nWhen a horde of super-powered lizards attack, it&rsquo;s up to Spider-Man, Devil Dinosaur, and Moon Boy to save the day!\nRaptors are bad enough, but can Spidey overcome a prehistoric language barrier, too?",
+    "modified": "2013-02-22T10:58:41-0500",
+    "isbn": "",
+    "upc": "75960607643701411",
+    "diamondCode": "SEP120619",
+    "ean": "",
+    "issn": "",
+    "format": "Comic",
+    "pageCount": 32,
+    "textObjects": [
+        {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "Horizon Labs take a field trip to the Savage Land! But when has a trip to the Savage Land ever gone right?\nWhen a horde of super-powered lizards attack, it&rsquo;s up to Spider-Man, Devil Dinosaur, and Moon Boy to save the day!\nRaptors are bad enough, but can Spidey overcome a prehistoric language barrier, too?"
+        }
+    ],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/42567",
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/42567/avenging_spider-man_2011_14?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/Avenging-Spider-Man-14/digital-comic/27969?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=27969&utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "inAppLink",
+            "url": "http://applink.marvel.com/issue/27969?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ],
+    "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/14246",
+        "name": "Avenging Spider-Man (2011 - Present)"
+    },
+    "variants": [],
+    "collections": [],
+    "collectedIssues": [],
+    "dates": [
+        {
+            "type": "onsaleDate",
+            "date": "2012-11-07T00:00:00-0500"
+        },
+        {
+            "type": "focDate",
+            "date": "2012-10-24T00:00:00-0400"
+        },
+        {
+            "type": "unlimitedDate",
+            "date": "2013-05-06T00:00:00-0400"
+        },
+        {
+            "type": "digitalPurchaseDate",
+            "date": "2012-11-07T00:00:00-0500"
+        }
+    ],
+    "prices": [
+        {
+            "type": "printPrice",
+            "price": 3.99
+        },
+        {
+            "type": "digitalPurchasePrice",
+            "price": 1.99
+        }
+    ],
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/2/03/5086c193c1613",
+        "extension": "jpg"
+    },
+    "images": [
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/2/03/5086c193c1613",
+            "extension": "jpg"
+        }
+    ],
+    "creators": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/42567/creators",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/10023",
+                "name": "Cullen Bunn",
+                "role": "writer"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/8522",
+                "name": "Gabriele Dell'Otto",
+                "role": "penciller (cover)"
+            }
+        ],
+        "returned": 2
+    },
+    "characters": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/42567/characters",
+        "items": [],
+        "returned": 0
+    },
+    "stories": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/42567/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/95916",
+                "name": "Cover #95916",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/95917",
+                "name": "Interior #95917",
+                "type": "interiorStory"
+            }
+        ],
+        "returned": 2
+    },
+    "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/42567/events",
+        "items": [],
+        "returned": 0
+    }
+}

@@ -1,0 +1,129 @@
+{
+    "id": 38912,
+    "digitalId": 0,
+    "title": "Runaways: The Good Die Young (Digest)",
+    "issueNumber": 1,
+    "variantDescription": "",
+    "description": "A new printing of Runaways #13-18.",
+    "modified": "2011-05-06T09:56:33-0400",
+    "isbn": "978-0-7851-5736-6",
+    "upc": "5960615736-00111",
+    "diamondCode": "MAR110805",
+    "ean": "9780785 157366 50999",
+    "issn": "",
+    "format": "Digest",
+    "pageCount": 152,
+    "textObjects": [
+        {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "A new printing of Runaways #13-18."
+        }
+    ],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/38912",
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/collection/38912/runaways_the_good_die_young_digest?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ],
+    "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/14049",
+        "name": "Runaways: The Good Die Young (2011 - Present)"
+    },
+    "variants": [],
+    "collections": [],
+    "collectedIssues": [],
+    "dates": [
+        {
+            "type": "onsaleDate",
+            "date": "2011-05-11T00:00:00-0400"
+        },
+        {
+            "type": "focDate",
+            "date": "2011-04-26T00:00:00-0400"
+        }
+    ],
+    "prices": [
+        {
+            "type": "printPrice",
+            "price": 9.99
+        }
+    ],
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/20/4d5ad7a61d381",
+        "extension": "jpg"
+    },
+    "images": [
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/20/4d5ad7a61d381",
+            "extension": "jpg"
+        }
+    ],
+    "creators": {
+        "available": 3,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/38912/creators",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/329",
+                "name": "Adrian Alphona",
+                "role": "penciller"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/190",
+                "name": "Brian K. Vaughan",
+                "role": "writer"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/4430",
+                "name": "Jeff Youngquist",
+                "role": "editor"
+            }
+        ],
+        "returned": 3
+    },
+    "characters": {
+        "available": 1,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/38912/characters",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010747",
+                "name": "Runaways"
+            }
+        ],
+        "returned": 1
+    },
+    "stories": {
+        "available": 4,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/38912/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/85387",
+                "name": "Runaways Vol. 3: The Good Die Young Digest (New Printing)",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/85388",
+                "name": "Interior #85388",
+                "type": "interiorStory"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/89877",
+                "name": "Cover #89877",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/89878",
+                "name": "Interior #89878",
+                "type": "interiorStory"
+            }
+        ],
+        "returned": 4
+    },
+    "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/38912/events",
+        "items": [],
+        "returned": 0
+    }
+}

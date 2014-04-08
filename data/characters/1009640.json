@@ -1,0 +1,89 @@
+{
+    "id": 1009640,
+    "name": "Switch",
+    "description": "",
+    "modified": "1969-12-31T19:00:00-0500",
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available",
+        "extension": "jpg"
+    },
+    "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009640",
+    "comics": {
+        "available": 4,
+        "collectionURI": "http://gateway.marvel.com/v1/public/characters/1009640/comics",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/comics/18057",
+                "name": "X-Force (1991) #87"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/comics/18058",
+                "name": "X-Force (1991) #88"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/comics/18059",
+                "name": "X-Force (1991) #89"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/comics/18061",
+                "name": "X-Force (1991) #90"
+            }
+        ],
+        "returned": 4
+    },
+    "series": {
+        "available": 1,
+        "collectionURI": "http://gateway.marvel.com/v1/public/characters/1009640/series",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/series/3633",
+                "name": "X-Force (1991 - 2004)"
+            }
+        ],
+        "returned": 1
+    },
+    "stories": {
+        "available": 5,
+        "collectionURI": "http://gateway.marvel.com/v1/public/characters/1009640/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/38404",
+                "name": "Armageddon Now Part 1: Family Matters",
+                "type": "interiorStory"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/38405",
+                "name": "Battle With the New Hellions Round 1",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/38406",
+                "name": "Armageddon Now Part Two: Blood & Betrayal",
+                "type": "interiorStory"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/38408",
+                "name": "Armageddon Now Part 3: Hellions Triumphant!",
+                "type": "interiorStory"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/38413",
+                "name": "Armageddon Now Part 4: Rude Awakening",
+                "type": "interiorStory"
+            }
+        ],
+        "returned": 5
+    },
+    "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/characters/1009640/events",
+        "items": [],
+        "returned": 0
+    },
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/characters/1009640/switch?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ]
+}

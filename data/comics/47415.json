@@ -1,0 +1,118 @@
+{
+    "id": 47415,
+    "digitalId": 0,
+    "title": "Indestructible Hulk (2012) #2 (2nd Printing Variant)",
+    "issueNumber": 2,
+    "variantDescription": "2nd Printing Variant",
+    "description": "Guest starring IRON MAN! While Bruce Banner and Tony Stark are friends, Hulk and Iron Man are anything but! Eisner Award winning writer Mark Waid (DAREDEVIL) and superstar artist Leinil Yu continue to take the Hulk in an all-new direction! ",
+    "modified": "2013-02-04T10:21:52-0500",
+    "isbn": "",
+    "upc": "75960607908700212",
+    "diamondCode": "NOV128210",
+    "ean": "",
+    "issn": "",
+    "format": "Comic",
+    "pageCount": 32,
+    "textObjects": [
+        {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "Guest starring IRON MAN! While Bruce Banner and Tony Stark are friends, Hulk and Iron Man are anything but! Eisner Award winning writer Mark Waid (DAREDEVIL) and superstar artist Leinil Yu continue to take the Hulk in an all-new direction! "
+        }
+    ],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/47415",
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/47415/indestructible_hulk_2012_2_2nd_printing_variant/2nd_printing_variant?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ],
+    "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/16583",
+        "name": "Indestructible Hulk (2012 - Present)"
+    },
+    "variants": [
+        {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/46166",
+            "name": "Indestructible Hulk (2012) #2 (Deodato Variant)"
+        },
+        {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/45008",
+            "name": "Indestructible Hulk (2012) #2"
+        }
+    ],
+    "collections": [],
+    "collectedIssues": [],
+    "dates": [
+        {
+            "type": "onsaleDate",
+            "date": "2013-02-06T00:00:00-0500"
+        },
+        {
+            "type": "focDate",
+            "date": "2013-01-22T00:00:00-0500"
+        }
+    ],
+    "prices": [
+        {
+            "type": "printPrice",
+            "price": 3.99
+        }
+    ],
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/8/e0/510acd0c8973a",
+        "extension": "jpg"
+    },
+    "images": [
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/8/e0/510acd0c8973a",
+            "extension": "jpg"
+        }
+    ],
+    "creators": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/47415/creators",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/119",
+                "name": "Mark Waid",
+                "role": "writer"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/758",
+                "name": "Leinil Francis Yu",
+                "role": "penciller (cover)"
+            }
+        ],
+        "returned": 2
+    },
+    "characters": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/47415/characters",
+        "items": [],
+        "returned": 0
+    },
+    "stories": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/47415/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/107129",
+                "name": "cover from Indestructible Hulk (2012) #2 (2ND PRINTING VARIANT)",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/107130",
+                "name": "story from Indestructible Hulk (2012) #2 (2ND PRINTING VARIANT)",
+                "type": "interiorStory"
+            }
+        ],
+        "returned": 2
+    },
+    "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/47415/events",
+        "items": [],
+        "returned": 0
+    }
+}

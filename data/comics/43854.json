@@ -1,0 +1,153 @@
+{
+    "id": 43854,
+    "digitalId": 28095,
+    "title": "FF (2012) #1",
+    "issueNumber": 1,
+    "variantDescription": "",
+    "description": "Marvel Now! shows you the future, and it’s fantastic! In the Fantastic Four’s absence, a hand-picked substitute squad—Ant-Man, Medusa, She-Hulk and Miss Thing—must guard Earth and the fledgling Future Foundation for four minutes. What could go wrong?\n",
+    "modified": "2014-01-06T12:31:19-0500",
+    "isbn": "",
+    "upc": "759606079071000111",
+    "diamondCode": "SEP120593",
+    "ean": "",
+    "issn": "",
+    "format": "Comic",
+    "pageCount": 32,
+    "textObjects": [
+        {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "We have seen the future and it will be fantastic! In the absence of the Fantastic Four, a substitute Four, hand-picked by the real deal--Ant-Man, Medusa, She-Hulk and Miss Thing--stand ready to guard the Earth and the nascent Future Foundation for four minutes... NOW! what could possibly go wrong?"
+        },
+        {
+            "type": "issue_preview_text",
+            "language": "en-us",
+            "text": "Marvel Now! shows you the future, and it’s fantastic! In the Fantastic Four’s absence, a hand-picked substitute squad—Ant-Man, Medusa, She-Hulk and Miss Thing—must guard Earth and the fledgling Future Foundation for four minutes. What could go wrong?\n"
+        }
+    ],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/43854",
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/43854/ff_2012_1?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/Ff-1/digital-comic/28095?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=28095&utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "inAppLink",
+            "url": "http://applink.marvel.com/issue/28095?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ],
+    "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/16561",
+        "name": "FF (2012 - Present)"
+    },
+    "variants": [],
+    "collections": [],
+    "collectedIssues": [],
+    "dates": [
+        {
+            "type": "onsaleDate",
+            "date": "2012-11-28T00:00:00-0500"
+        },
+        {
+            "type": "focDate",
+            "date": "2012-11-14T00:00:00-0500"
+        },
+        {
+            "type": "unlimitedDate",
+            "date": "2013-05-27T00:00:00-0400"
+        },
+        {
+            "type": "digitalPurchaseDate",
+            "date": "2012-11-28T00:00:00-0500"
+        }
+    ],
+    "prices": [
+        {
+            "type": "printPrice",
+            "price": 2.99
+        },
+        {
+            "type": "digitalPurchasePrice",
+            "price": 1.99
+        }
+    ],
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/a/03/5164713e1f567",
+        "extension": "jpg"
+    },
+    "images": [
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/a/03/5164713e1f567",
+            "extension": "jpg"
+        }
+    ],
+    "creators": {
+        "available": 5,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/43854/creators",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/11735",
+                "name": "Laura Allred",
+                "role": "colorist"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/95",
+                "name": "Mike Allred",
+                "role": "inker (cover)"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/2133",
+                "name": "Tom Brevoort",
+                "role": "editor"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/452",
+                "name": "Chris Eliopoulos",
+                "role": "letterer"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/1132",
+                "name": "Matt Fraction",
+                "role": "writer"
+            }
+        ],
+        "returned": 5
+    },
+    "characters": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/43854/characters",
+        "items": [],
+        "returned": 0
+    },
+    "stories": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/43854/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/98921",
+                "name": "cover from Ff (2012) #1",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/98922",
+                "name": "story from Ff (2012) #1",
+                "type": "interiorStory"
+            }
+        ],
+        "returned": 2
+    },
+    "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/43854/events",
+        "items": [],
+        "returned": 0
+    }
+}

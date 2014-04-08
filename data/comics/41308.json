@@ -1,0 +1,116 @@
+{
+    "id": 41308,
+    "digitalId": 0,
+    "title": "New Avengers Annual (2010) #1 (Architect Variant)",
+    "issueNumber": 1,
+    "variantDescription": "Architect Variant",
+    "description": null,
+    "modified": "2011-09-02T14:36:54-0400",
+    "isbn": "",
+    "upc": "5960607486-00121",
+    "diamondCode": "JUL110631",
+    "ean": "",
+    "issn": "",
+    "format": "Comic",
+    "pageCount": 48,
+    "textObjects": [],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/41308",
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/41308/new_avengers_annual_2010_1_architect_variant/architect_variant?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ],
+    "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/13315",
+        "name": "New Avengers Annual (2010 - Present)"
+    },
+    "variants": [
+        {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/41862",
+            "name": "New Avengers Annual (2010) #1 (2nd Printing Variant)"
+        },
+        {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/37168",
+            "name": "New Avengers Annual (2010) #1"
+        },
+        {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/41309",
+            "name": "New Avengers Annual (2010) #1 (Architect Sketch Variant)"
+        }
+    ],
+    "collections": [],
+    "collectedIssues": [],
+    "dates": [
+        {
+            "type": "onsaleDate",
+            "date": "2011-09-07T00:00:00-0400"
+        },
+        {
+            "type": "focDate",
+            "date": "2011-08-24T00:00:00-0400"
+        }
+    ],
+    "prices": [
+        {
+            "type": "printPrice",
+            "price": 4.99
+        }
+    ],
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/4/00/4e60e662696f2",
+        "extension": "jpg"
+    },
+    "images": [
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/4/00/4e60e662696f2",
+            "extension": "jpg"
+        }
+    ],
+    "creators": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/41308/creators",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/24",
+                "name": "Brian Michael Bendis",
+                "role": "writer"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/8522",
+                "name": "Gabriele Dell'Otto",
+                "role": "artist"
+            }
+        ],
+        "returned": 2
+    },
+    "characters": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/41308/characters",
+        "items": [],
+        "returned": 0
+    },
+    "stories": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/41308/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/93477",
+                "name": "Cover #93477",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/93478",
+                "name": "Interior #93478",
+                "type": "interiorStory"
+            }
+        ],
+        "returned": 2
+    },
+    "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/41308/events",
+        "items": [],
+        "returned": 0
+    }
+}

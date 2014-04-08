@@ -1,0 +1,106 @@
+{
+    "id": 1009218,
+    "name": "Calypso",
+    "description": "",
+    "modified": "1969-12-31T19:00:00-0500",
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/b0/4ce59f17087ab",
+        "extension": "jpg"
+    },
+    "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009218",
+    "comics": {
+        "available": 5,
+        "collectionURI": "http://gateway.marvel.com/v1/public/characters/1009218/comics",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/comics/8308",
+                "name": "Daredevil (1963) #310"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/comics/10778",
+                "name": "Spider-Man (1990) #2"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/comics/10789",
+                "name": "Spider-Man (1990) #3"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/comics/10800",
+                "name": "Spider-Man (1990) #4"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/comics/10811",
+                "name": "Spider-Man (1990) #5"
+            }
+        ],
+        "returned": 5
+    },
+    "series": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/characters/1009218/series",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/series/2002",
+                "name": "Daredevil (1963 - 1998)"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/series/2069",
+                "name": "Spider-Man (1990 - 1998)"
+            }
+        ],
+        "returned": 2
+    },
+    "stories": {
+        "available": 5,
+        "collectionURI": "http://gateway.marvel.com/v1/public/characters/1009218/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/16191",
+                "name": "Cover #16191",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/23757",
+                "name": "Torment, Part 2",
+                "type": "interiorStory"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/23776",
+                "name": "Torment, Part 3",
+                "type": "interiorStory"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/23808",
+                "name": "Torment, Part 4",
+                "type": "interiorStory"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/23839",
+                "name": "Torment, Part 5",
+                "type": "interiorStory"
+            }
+        ],
+        "returned": 5
+    },
+    "events": {
+        "available": 1,
+        "collectionURI": "http://gateway.marvel.com/v1/public/characters/1009218/events",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/events/29",
+                "name": "Infinity War"
+            }
+        ],
+        "returned": 1
+    },
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/characters/1009218/calypso?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "wiki",
+            "url": "http://marvel.com/universe/Calypso?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ]
+}

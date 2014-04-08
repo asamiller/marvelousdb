@@ -1,0 +1,119 @@
+{
+    "id": 46020,
+    "digitalId": 0,
+    "title": "Daredevil: End of Days (2012) #4 (Mack Variant)",
+    "issueNumber": 4,
+    "variantDescription": "Mack Variant",
+    "description": "The End of Daredevil goes right through his greatest enemy!",
+    "modified": "2012-12-11T12:53:00-0500",
+    "isbn": "",
+    "upc": "75960606046700421",
+    "diamondCode": "NOV120731",
+    "ean": "",
+    "issn": "",
+    "format": "Comic",
+    "pageCount": 32,
+    "textObjects": [
+        {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "The End of Daredevil goes right through his greatest enemy!"
+        }
+    ],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/46020",
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/46020/daredevil_end_of_days_2012_4_mack_variant/mack_variant?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ],
+    "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/13944",
+        "name": "Daredevil: End of Days (2012 - 2013)"
+    },
+    "variants": [
+        {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/38761",
+            "name": "Daredevil: End of Days (2012) #4"
+        }
+    ],
+    "collections": [],
+    "collectedIssues": [],
+    "dates": [
+        {
+            "type": "onsaleDate",
+            "date": "2013-01-02T00:00:00-0500"
+        },
+        {
+            "type": "focDate",
+            "date": "2012-12-12T00:00:00-0500"
+        }
+    ],
+    "prices": [
+        {
+            "type": "printPrice",
+            "price": 3.99
+        }
+    ],
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/1/20/50c75f8567517",
+        "extension": "jpg"
+    },
+    "images": [
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/1/20/50c75f8567517",
+            "extension": "jpg"
+        }
+    ],
+    "creators": {
+        "available": 3,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/46020/creators",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/24",
+                "name": "Brian Michael Bendis",
+                "role": "writer"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/570",
+                "name": "Klaus Janson",
+                "role": "artist"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/23",
+                "name": "David Mack",
+                "role": "penciller (cover)"
+            }
+        ],
+        "returned": 3
+    },
+    "characters": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/46020/characters",
+        "items": [],
+        "returned": 0
+    },
+    "stories": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/46020/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/103564",
+                "name": "cover from Daredevil: End of Days (2012) #4 (TBD ARTIST VARIANT)",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/103565",
+                "name": "story from Daredevil: End of Days (2012) #4 (TBD ARTIST VARIANT)",
+                "type": "interiorStory"
+            }
+        ],
+        "returned": 2
+    },
+    "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/46020/events",
+        "items": [],
+        "returned": 0
+    }
+}

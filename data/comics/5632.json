@@ -1,0 +1,163 @@
+{
+    "id": 5632,
+    "digitalId": 7790,
+    "title": "X-Men (2004) #194",
+    "issueNumber": 194,
+    "variantDescription": "",
+    "description": "“Having barely survived their first mission as a team, Rogue’s squad immediately find themselves up against another new mysterious threat! What does the man called Pan want with the X-Men, and what is he willing to do to get it?!",
+    "modified": "-0001-11-30T00:00:00-0500",
+    "isbn": "",
+    "upc": "5960601772-19411",
+    "diamondCode": "",
+    "ean": "",
+    "issn": "",
+    "format": "Comic",
+    "pageCount": 0,
+    "textObjects": [
+        {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "“PRIMARY INFECTION” Part 1 (of 3)!\r<br>Having barely survived their first mission as a team, Rogue’s squad immediately find themselves up against another new \r<br>mysterious threat! What does the man called Pan want with the X-Men, and what is he willing to do to get it?!\r<br>32 PGS./Rated A ...$2.99\r<br>"
+        },
+        {
+            "type": "issue_preview_text",
+            "language": "en-us",
+            "text": "“Having barely survived their first mission as a team, Rogue’s squad immediately find themselves up against another new mysterious threat! What does the man called Pan want with the X-Men, and what is he willing to do to get it?!"
+        }
+    ],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/5632",
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/5632/x-men_2004_194?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/X-Men-194/digital-comic/7790?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=7790&utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "inAppLink",
+            "url": "http://applink.marvel.com/issue/7790?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ],
+    "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/403",
+        "name": "X-Men (2004 - 2007)"
+    },
+    "variants": [],
+    "collections": [
+        {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/16216",
+            "name": "X-Men: Supernovas (Hardcover)"
+        }
+    ],
+    "collectedIssues": [],
+    "dates": [
+        {
+            "type": "onsaleDate",
+            "date": "2006-12-27T00:00:00-0500"
+        },
+        {
+            "type": "focDate",
+            "date": "-0001-11-30T00:00:00-0500"
+        },
+        {
+            "type": "unlimitedDate",
+            "date": "2007-12-27T00:00:00-0500"
+        },
+        {
+            "type": "digitalPurchaseDate",
+            "date": "2010-06-22T00:00:00-0400"
+        }
+    ],
+    "prices": [
+        {
+            "type": "printPrice",
+            "price": 2.99
+        },
+        {
+            "type": "digitalPurchasePrice",
+            "price": 1.99
+        }
+    ],
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/1/f0/4bb88aeded0c0",
+        "extension": "jpg"
+    },
+    "images": [
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/1/f0/4bb88aeded0c0",
+            "extension": "jpg"
+        }
+    ],
+    "creators": {
+        "available": 5,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/5632/creators",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/366",
+                "name": "Mike Carey",
+                "role": "writer"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/429",
+                "name": "Carlos Alberto cruz Cuevas",
+                "role": "inker"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/430",
+                "name": "Edgar Delgado",
+                "role": "colorist"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/361",
+                "name": "Cory Petit",
+                "role": "letterer"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/72",
+                "name": "Humberto Ramos",
+                "role": "penciller (cover)"
+            }
+        ],
+        "returned": 5
+    },
+    "characters": {
+        "available": 1,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/5632/characters",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009726",
+                "name": "X-Men"
+            }
+        ],
+        "returned": 1
+    },
+    "stories": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/5632/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/686",
+                "name": "1 of 3 - Primary Infection",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/687",
+                "name": "1 of 3 - Primary Infection",
+                "type": "interiorStory"
+            }
+        ],
+        "returned": 2
+    },
+    "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/5632/events",
+        "items": [],
+        "returned": 0
+    }
+}

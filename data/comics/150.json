@@ -1,0 +1,153 @@
+{
+    "id": 150,
+    "digitalId": 4111,
+    "title": "Ultimate Spider-Man (2000) #48",
+    "issueNumber": 48,
+    "variantDescription": "",
+    "description": "CATS AND KINGS PART 2 Distraught over his recent conflict at the Daily Bugle, Peter takes troubles back to high school and winds up directly in the principal's office!  Meanwhile, the Kingpin continues to consolidate power...",
+    "modified": "2014-03-06T09:08:44-0500",
+    "isbn": "",
+    "upc": "5960605441-00711",
+    "diamondCode": "",
+    "ean": "",
+    "issn": "",
+    "format": "Comic",
+    "pageCount": 0,
+    "textObjects": [
+        {
+            "type": "issue_preview_text",
+            "language": "en-us",
+            "text": "CATS AND KINGS PART 2 Distraught over his recent conflict at the Daily Bugle, Peter takes troubles back to high school and winds up directly in the principal's office!  Meanwhile, the Kingpin continues to consolidate power..."
+        },
+        {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "”UNFAIR” \r\nThe Kingpin of Crime is back - and he's got vengeance on his mind, commanding the entire Underworld to find out who Spider-Man really is - at all costs! And the Enforcers are only too happy to take him up on his demand.\r\n\r\n32 PGS ... $2.25"
+        }
+    ],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/150",
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/150/ultimate_spider-man_2000_48?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/Ultimate-Spider-Man-48/digital-comic/4111?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=4111&utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "inAppLink",
+            "url": "http://applink.marvel.com/issue/4111?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ],
+    "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/466",
+        "name": "Ultimate Spider-Man (2000 - 2009)"
+    },
+    "variants": [],
+    "collections": [
+        {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/1284",
+            "name": "Ultimate Spider-Man Vol. 8: Cats & Kings (Trade Paperback)"
+        }
+    ],
+    "collectedIssues": [],
+    "dates": [
+        {
+            "type": "onsaleDate",
+            "date": "2003-12-03T00:00:00-0500"
+        },
+        {
+            "type": "focDate",
+            "date": "-0001-11-30T00:00:00-0500"
+        },
+        {
+            "type": "unlimitedDate",
+            "date": "2008-01-28T00:00:00-0500"
+        },
+        {
+            "type": "digitalPurchaseDate",
+            "date": "2011-01-18T00:00:00-0500"
+        }
+    ],
+    "prices": [
+        {
+            "type": "printPrice",
+            "price": 2.25
+        },
+        {
+            "type": "digitalPurchasePrice",
+            "price": 1.99
+        }
+    ],
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/5/d0/4bc3317552d2c",
+        "extension": "jpg"
+    },
+    "images": [
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/5/d0/4bc3317552d2c",
+            "extension": "jpg"
+        }
+    ],
+    "creators": {
+        "available": 3,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/150/creators",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/87",
+                "name": "Mark Bagley",
+                "role": "penciller (cover)"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/24",
+                "name": "Brian Michael Bendis",
+                "role": "writer"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/568",
+                "name": "Art Thibert",
+                "role": "inker"
+            }
+        ],
+        "returned": 3
+    },
+    "characters": {
+        "available": 1,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/150/characters",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1011010",
+                "name": "Spider-Man (Ultimate)"
+            }
+        ],
+        "returned": 1
+    },
+    "stories": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/150/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/2035",
+                "name": "Cover #2035",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/2036",
+                "name": "Interior #2036",
+                "type": "interiorStory"
+            }
+        ],
+        "returned": 2
+    },
+    "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/150/events",
+        "items": [],
+        "returned": 0
+    }
+}

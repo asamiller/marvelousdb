@@ -1,0 +1,181 @@
+{
+    "id": 12186,
+    "digitalId": 0,
+    "title": "X-Factor (1986) #11",
+    "issueNumber": 11,
+    "variantDescription": "",
+    "description": null,
+    "modified": "2012-11-26T19:58:43-0500",
+    "isbn": "",
+    "upc": "",
+    "diamondCode": "",
+    "ean": "",
+    "issn": "",
+    "format": "Comic",
+    "pageCount": 36,
+    "textObjects": [],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/12186",
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/12186/x-factor_1986_11?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/X-Factor-11/digital-comic/21153?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ],
+    "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/2098",
+        "name": "X-Factor (1986 - 1998)"
+    },
+    "variants": [],
+    "collections": [],
+    "collectedIssues": [],
+    "dates": [
+        {
+            "type": "onsaleDate",
+            "date": "1986-12-10T00:00:00-0500"
+        },
+        {
+            "type": "focDate",
+            "date": "-0001-11-30T00:00:00-0500"
+        }
+    ],
+    "prices": [
+        {
+            "type": "printPrice",
+            "price": 0
+        }
+    ],
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/2/e0/50b41014bf497",
+        "extension": "jpg"
+    },
+    "images": [
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/2/e0/50b41014bf497",
+            "extension": "jpg"
+        }
+    ],
+    "creators": {
+        "available": 6,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/12186/creators",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/375",
+                "name": "Bob Harras",
+                "role": "editor"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/1759",
+                "name": "Joe Rosen",
+                "role": "letterer"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/2363",
+                "name": "Petra Scotese",
+                "role": "colorist"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/184",
+                "name": "Louise Simonson",
+                "role": "writer"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/5125",
+                "name": "Walter Simonson",
+                "role": "penciller (cover)"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/2030",
+                "name": "Bob Wiacek",
+                "role": "inker"
+            }
+        ],
+        "returned": 6
+    },
+    "characters": {
+        "available": 12,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/12186/characters",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009159",
+                "name": "Archangel"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009160",
+                "name": "Arclight"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009175",
+                "name": "Beast"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009200",
+                "name": "Blockbuster"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010366",
+                "name": "Boom Boom"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009216",
+                "name": "Caliban"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009336",
+                "name": "Harpoon"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009362",
+                "name": "Iceman"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010367",
+                "name": "Masque"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009664",
+                "name": "Thor"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010738",
+                "name": "X-Factor"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009726",
+                "name": "X-Men"
+            }
+        ],
+        "returned": 12
+    },
+    "stories": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/12186/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/22109",
+                "name": "Cover #22109",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/22110",
+                "name": "Redemption!",
+                "type": "interiorStory"
+            }
+        ],
+        "returned": 2
+    },
+    "events": {
+        "available": 1,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/12186/events",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/events/263",
+                "name": "Mutant Massacre"
+            }
+        ],
+        "returned": 1
+    }
+}

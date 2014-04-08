@@ -1,0 +1,158 @@
+{
+    "id": 711,
+    "digitalId": 3419,
+    "title": "New X-Men (2004) #2",
+    "issueNumber": 2,
+    "variantDescription": "",
+    "description": "As a new semester begins at the Xavier Institute, the X-Men of tomorrow are just getting comfortable with one another as the devastating news hits: The teachers plan on separating them into different squads! What happens when best friends are torn from one another in the name of school policy? And what do the New X-Men do about it?",
+    "modified": "-0001-11-30T00:00:00-0500",
+    "isbn": "",
+    "upc": "5960605544-00211",
+    "diamondCode": "",
+    "ean": "",
+    "issn": "",
+    "format": "Comic",
+    "pageCount": 0,
+    "textObjects": [
+        {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "\"CHOOSING SIDES\" PART 2 (OF 6) As a new semester begins at the Xavier Institute, the X-Men of tomorrow are just getting comfortable with one another as the devastating news hits: The teachers plan on separating them into different squads! What happens when best friends are torn from one another in the name of school policy? And what do the New X-Men do about it?"
+        },
+        {
+            "type": "issue_preview_text",
+            "language": "en-us",
+            "text": "As a new semester begins at the Xavier Institute, the X-Men of tomorrow are just getting comfortable with one another as the devastating news hits: The teachers plan on separating them into different squads! What happens when best friends are torn from one another in the name of school policy? And what do the New X-Men do about it?"
+        }
+    ],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/711",
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/711/new_x-men_2004_2?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/New-X-Men-2/digital-comic/3419?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=3419&utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "inAppLink",
+            "url": "http://applink.marvel.com/issue/3419?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ],
+    "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/749",
+        "name": "New X-Men (2004 - 2008)"
+    },
+    "variants": [],
+    "collections": [
+        {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/1458",
+            "name": "New X-Men: Academy X Vol. 1: Choosing Sides (Trade Paperback)"
+        }
+    ],
+    "collectedIssues": [],
+    "dates": [
+        {
+            "type": "onsaleDate",
+            "date": "2004-06-16T00:00:00-0400"
+        },
+        {
+            "type": "focDate",
+            "date": "-0001-11-30T00:00:00-0500"
+        },
+        {
+            "type": "unlimitedDate",
+            "date": "2007-11-13T00:00:00-0500"
+        },
+        {
+            "type": "digitalPurchaseDate",
+            "date": "2010-04-01T00:00:00-0400"
+        }
+    ],
+    "prices": [
+        {
+            "type": "printPrice",
+            "price": 2.99
+        },
+        {
+            "type": "digitalPurchasePrice",
+            "price": 1.99
+        }
+    ],
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/d0/4bc68175827b5",
+        "extension": "jpg"
+    },
+    "images": [
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/d0/4bc68175827b5",
+            "extension": "jpg"
+        }
+    ],
+    "creators": {
+        "available": 4,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/711/creators",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/562",
+                "name": "Tom Chu",
+                "role": "colorist"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/422",
+                "name": "Randall Green",
+                "role": "penciller (cover)"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/423",
+                "name": "Rick Ketcham",
+                "role": "inker"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/411",
+                "name": "Christina Weir",
+                "role": "writer"
+            }
+        ],
+        "returned": 4
+    },
+    "characters": {
+        "available": 1,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/711/characters",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009726",
+                "name": "X-Men"
+            }
+        ],
+        "returned": 1
+    },
+    "stories": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/711/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/3361",
+                "name": "Cover #3361",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/3362",
+                "name": "Interior #3362",
+                "type": "interiorStory"
+            }
+        ],
+        "returned": 2
+    },
+    "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/711/events",
+        "items": [],
+        "returned": 0
+    }
+}

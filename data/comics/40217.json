@@ -1,0 +1,147 @@
+{
+    "id": 40217,
+    "digitalId": 26829,
+    "title": "Invincible Iron Man (2008) #519",
+    "issueNumber": 519,
+    "variantDescription": "",
+    "description": "The New Iron Man explodes into action! Spymaster’s rampage within Stark Resilient comes to its bloody end! The assassination of Tony Stark!\n",
+    "modified": "2013-04-12T10:21:27-0400",
+    "isbn": "",
+    "upc": "5960606427-51911",
+    "diamondCode": "APR120647",
+    "ean": "",
+    "issn": "1933-3080",
+    "format": "Comic",
+    "pageCount": 32,
+    "textObjects": [
+        {
+            "type": "issue_preview_text",
+            "language": "en-us",
+            "text": "The New Iron Man explodes into action! Spymaster’s rampage within Stark Resilient comes to its bloody end! The assassination of Tony Stark!\n"
+        },
+        {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "<ul><li>The New Iron Man explodes into action!</li><li> Spymaster’s rampage within Stark Resilient comes to its bloody end!</li><li> THE ASSASSINATION OF TONY STARK!</li><ul>"
+        }
+    ],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/40217",
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/40217/invincible_iron_man_2008_519?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/Invincible-Iron-Man-519/digital-comic/26829?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=26829&utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "inAppLink",
+            "url": "http://applink.marvel.com/issue/26829?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ],
+    "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/4889",
+        "name": "Invincible Iron Man (2008 - 2012)"
+    },
+    "variants": [],
+    "collections": [],
+    "collectedIssues": [],
+    "dates": [
+        {
+            "type": "onsaleDate",
+            "date": "2012-06-20T00:00:00-0400"
+        },
+        {
+            "type": "focDate",
+            "date": "2012-06-06T00:00:00-0400"
+        },
+        {
+            "type": "unlimitedDate",
+            "date": "2013-04-08T00:00:00-0400"
+        },
+        {
+            "type": "digitalPurchaseDate",
+            "date": "2012-06-20T00:00:00-0400"
+        }
+    ],
+    "prices": [
+        {
+            "type": "printPrice",
+            "price": 3.99
+        },
+        {
+            "type": "digitalPurchasePrice",
+            "price": 1.99
+        }
+    ],
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/80/517ac772be5fd",
+        "extension": "jpg"
+    },
+    "images": [
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/80/517ac772be5fd",
+            "extension": "jpg"
+        },
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/f/c0/4fd74d7e0fc4e",
+            "extension": "jpg"
+        }
+    ],
+    "creators": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/40217/creators",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/1132",
+                "name": "Matt Fraction",
+                "role": "writer"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/11757",
+                "name": "Salvador Larroca",
+                "role": "penciller (cover)"
+            }
+        ],
+        "returned": 2
+    },
+    "characters": {
+        "available": 1,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/40217/characters",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009368",
+                "name": "Iron Man"
+            }
+        ],
+        "returned": 1
+    },
+    "stories": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/40217/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/91242",
+                "name": "Cover #91242",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/91243",
+                "name": "Interior #91243",
+                "type": "interiorStory"
+            }
+        ],
+        "returned": 2
+    },
+    "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/40217/events",
+        "items": [],
+        "returned": 0
+    }
+}

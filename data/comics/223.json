@@ -1,0 +1,142 @@
+{
+    "id": 223,
+    "digitalId": 769,
+    "title": "X-Men Unlimited (2004) #1",
+    "issueNumber": 1,
+    "variantDescription": "",
+    "description": "A new bimonthly ongoing series, showcasing short stories featuring a vast array of characters from comics’ largest and most popular family of titles.\r\nIn these two self-contained stories, Sage breaks into a high-rise office building to retrieve a piece of her past … plus the tale of a young mutant at the Xavier Institute on the one night he can walk amongst humans!\r\nFeaturing a cover by THE TRANSFORMERS’ PAT LEE!\r\n32 PGS./MARVEL PSR…$2.99\r\n",
+    "modified": "1969-12-31T19:00:00-0500",
+    "isbn": "",
+    "upc": "5960605456-00111",
+    "diamondCode": "",
+    "ean": "",
+    "issn": "",
+    "format": "Comic",
+    "pageCount": 0,
+    "textObjects": [
+        {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "A new bimonthly ongoing series, showcasing short stories featuring a vast array of characters from comics’ largest and most popular family of titles.\r\nIn these two self-contained stories, Sage breaks into a high-rise office building to retrieve a piece of her past … plus the tale of a young mutant at the Xavier Institute on the one night he can walk amongst humans!\r\nFeaturing a cover by THE TRANSFORMERS’ PAT LEE!\r\n32 PGS./MARVEL PSR…$2.99\r\n"
+        }
+    ],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/223",
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/223/x-men_unlimited_2004_1?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=769&utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ],
+    "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/714",
+        "name": "X-Men Unlimited (2004 - 2006)"
+    },
+    "variants": [],
+    "collections": [
+        {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/1216",
+            "name": "X-Men Legends Vol. IV: Hated & Feared (Trade Paperback)"
+        }
+    ],
+    "collectedIssues": [],
+    "dates": [
+        {
+            "type": "onsaleDate",
+            "date": "2004-02-04T00:00:00-0500"
+        },
+        {
+            "type": "focDate",
+            "date": "1969-12-31T19:00:00-0500"
+        },
+        {
+            "type": "unlimitedDate",
+            "date": "2007-11-13T00:00:00-0500"
+        }
+    ],
+    "prices": [
+        {
+            "type": "printPrice",
+            "price": 2.99
+        }
+    ],
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/e0/4bc6a5d789d5c",
+        "extension": "jpg"
+    },
+    "images": [
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/e0/4bc6a5d789d5c",
+            "extension": "jpg"
+        }
+    ],
+    "creators": {
+        "available": 5,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/223/creators",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/464",
+                "name": "J.t. Krul",
+                "role": "writer"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/629",
+                "name": "Tony Lee",
+                "role": "writer"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/630",
+                "name": "Ray Lai",
+                "role": "penciller"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/597",
+                "name": "Tom Mandrake",
+                "role": "penciller"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/490",
+                "name": "Pat Lee",
+                "role": "penciller (cover)"
+            }
+        ],
+        "returned": 5
+    },
+    "characters": {
+        "available": 1,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/223/characters",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009726",
+                "name": "X-Men"
+            }
+        ],
+        "returned": 1
+    },
+    "stories": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/223/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/2110",
+                "name": "Cover #2110",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/2111",
+                "name": "Interior #2111",
+                "type": "interiorStory"
+            }
+        ],
+        "returned": 2
+    },
+    "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/223/events",
+        "items": [],
+        "returned": 0
+    }
+}

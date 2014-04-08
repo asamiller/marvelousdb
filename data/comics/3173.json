@@ -1,0 +1,87 @@
+{
+    "id": 3173,
+    "digitalId": 0,
+    "title": "Marvel Masterworks: Golden Age All-Winners Comics Vol. 1 - (Hardcover)",
+    "issueNumber": 0,
+    "variantDescription": "",
+    "description": null,
+    "modified": "-0001-11-30T00:00:00-0500",
+    "isbn": "0-7851-1885-3",
+    "upc": "5960611885-00111",
+    "diamondCode": "",
+    "ean": "",
+    "issn": "",
+    "format": "Hardcover",
+    "pageCount": 0,
+    "textObjects": [],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/3173",
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/collection/3173/marvel_masterworks_golden_age_all-winners_comics_vol_1_-_hardcover?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ],
+    "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/1593",
+        "name": "Marvel Masterworks: Golden Age All-Winners Comics Vol. 1 - (2005)"
+    },
+    "variants": [],
+    "collections": [],
+    "collectedIssues": [],
+    "dates": [
+        {
+            "type": "onsaleDate",
+            "date": "2005-12-28T00:00:00-0500"
+        },
+        {
+            "type": "focDate",
+            "date": "-0001-11-30T00:00:00-0500"
+        }
+    ],
+    "prices": [
+        {
+            "type": "printPrice",
+            "price": 9.99
+        }
+    ],
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available",
+        "extension": "jpg"
+    },
+    "images": [],
+    "creators": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/3173/creators",
+        "items": [],
+        "returned": 0
+    },
+    "characters": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/3173/characters",
+        "items": [],
+        "returned": 0
+    },
+    "stories": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/3173/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/7103",
+                "name": "All-Winners Comics 1-4; Vol. 54",
+                "type": "interiorStory"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/65938",
+                "name": "MARVEL MASTERWORKS: GOLDEN AGE ALL-WINNERS COMICS VOL. 1 - 0 cover",
+                "type": "cover"
+            }
+        ],
+        "returned": 2
+    },
+    "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/3173/events",
+        "items": [],
+        "returned": 0
+    }
+}

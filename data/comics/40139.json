@@ -1,0 +1,163 @@
+{
+    "id": 40139,
+    "digitalId": 25254,
+    "title": "Amazing Spider-Man (1999) #678",
+    "issueNumber": 678,
+    "variantDescription": "",
+    "description": "New York City is destroyed because of Spider-Man! A glimpse of the future leaves Spider-Man with 12 hours to figure out how to stop it from happening.\n",
+    "modified": "2012-07-27T16:28:55-0400",
+    "isbn": "",
+    "upc": "5960604716-67811",
+    "diamondCode": "NOV110531",
+    "ean": "",
+    "issn": "0274-5232",
+    "format": "Comic",
+    "pageCount": 32,
+    "textObjects": [
+        {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "<br>NEW YORK CITY IS DESTROYED BECAUSE OF SPIDER-MAN!\r\n<br>A GLIMPSE OF THE FUTURE LEAVES SPIDER-MAN WITH 12 HOURS TO FIGURE OUT HOW TO STOP IT FROM HAPPENING.\r\n"
+        },
+        {
+            "type": "issue_preview_text",
+            "language": "en-us",
+            "text": "New York City is destroyed because of Spider-Man! A glimpse of the future leaves Spider-Man with 12 hours to figure out how to stop it from happening.\n"
+        }
+    ],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/40139",
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/40139/amazing_spider-man_1999_678?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/Amazing-Spider-Man-678/digital-comic/25254?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=25254&utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "inAppLink",
+            "url": "http://applink.marvel.com/issue/25254?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ],
+    "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/454",
+        "name": "Amazing Spider-Man (1999 - 2013)"
+    },
+    "variants": [
+        {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/42143",
+            "name": "Amazing Spider-Man (1999) #678 (Venom Variant)"
+        }
+    ],
+    "collections": [],
+    "collectedIssues": [],
+    "dates": [
+        {
+            "type": "onsaleDate",
+            "date": "2012-01-18T00:00:00-0500"
+        },
+        {
+            "type": "focDate",
+            "date": "2012-01-04T00:00:00-0500"
+        },
+        {
+            "type": "unlimitedDate",
+            "date": "2012-08-14T00:00:00-0400"
+        },
+        {
+            "type": "digitalPurchaseDate",
+            "date": "2012-01-18T00:00:00-0500"
+        }
+    ],
+    "prices": [
+        {
+            "type": "printPrice",
+            "price": 3.99
+        },
+        {
+            "type": "digitalPurchasePrice",
+            "price": 1.99
+        }
+    ],
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/d/00/4e973cf7b3fd4",
+        "extension": "jpg"
+    },
+    "images": [
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/d/00/4e973cf7b3fd4",
+            "extension": "jpg"
+        }
+    ],
+    "creators": {
+        "available": 6,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/40139/creators",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/5251",
+                "name": "Joe Caramagna",
+                "role": "letterer"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/10159",
+                "name": "Michael Del Mundo",
+                "role": "artist"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/447",
+                "name": "Victor Olazaba",
+                "role": "artist"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/72",
+                "name": "Humberto Ramos",
+                "role": "artist"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/430",
+                "name": "Edgar Delgado",
+                "role": "colorist"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/626",
+                "name": "Dan Slott",
+                "role": "writer"
+            }
+        ],
+        "returned": 6
+    },
+    "characters": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/40139/characters",
+        "items": [],
+        "returned": 0
+    },
+    "stories": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/40139/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/91075",
+                "name": "Cover #91075",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/91076",
+                "name": "Interior #91076",
+                "type": "interiorStory"
+            }
+        ],
+        "returned": 2
+    },
+    "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/40139/events",
+        "items": [],
+        "returned": 0
+    }
+}

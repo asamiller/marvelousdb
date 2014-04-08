@@ -1,0 +1,121 @@
+{
+    "id": 42310,
+    "digitalId": 0,
+    "title": "Venom (2011) #13 (Simonson Sketch Variant)",
+    "issueNumber": 13,
+    "variantDescription": "Simonson Sketch Variant",
+    "description": null,
+    "modified": "2012-01-25T17:00:01-0500",
+    "isbn": "",
+    "upc": "5960607565-01321",
+    "diamondCode": "DEC110638",
+    "ean": "",
+    "issn": "2159-3124",
+    "format": "Comic",
+    "pageCount": 40,
+    "textObjects": [],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/42310",
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/42310/venom_2011_13_simonson_sketch_variant/simonson_sketch_variant?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ],
+    "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/13911",
+        "name": "Venom (2011 - Present)"
+    },
+    "variants": [
+        {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/40639",
+            "name": "Venom (2011) #13"
+        },
+        {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/42302",
+            "name": "Venom (2011) #13 (Simonson Variant)"
+        },
+        {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/42303",
+            "name": "Venom (2011) #13 (Moore Variant)"
+        }
+    ],
+    "collections": [],
+    "collectedIssues": [],
+    "dates": [
+        {
+            "type": "onsaleDate",
+            "date": "2012-02-01T00:00:00-0500"
+        },
+        {
+            "type": "focDate",
+            "date": "2012-01-18T00:00:00-0500"
+        }
+    ],
+    "prices": [
+        {
+            "type": "printPrice",
+            "price": 3.99
+        }
+    ],
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/5/60/4f203f2720ba2",
+        "extension": "png"
+    },
+    "images": [
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/5/60/4f203f2720ba2",
+            "extension": "png"
+        }
+    ],
+    "creators": {
+        "available": 3,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/42310/creators",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/437",
+                "name": "Lan Medina",
+                "role": "penciller"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/11835",
+                "name": "Rick Remender",
+                "role": "writer"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/5125",
+                "name": "Walter Simonson",
+                "role": "penciller (cover)"
+            }
+        ],
+        "returned": 3
+    },
+    "characters": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/42310/characters",
+        "items": [],
+        "returned": 0
+    },
+    "stories": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/42310/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/95515",
+                "name": "Cover #95515",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/95516",
+                "name": "Interior #95516",
+                "type": "interiorStory"
+            }
+        ],
+        "returned": 2
+    },
+    "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/42310/events",
+        "items": [],
+        "returned": 0
+    }
+}

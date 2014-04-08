@@ -1,0 +1,150 @@
+{
+    "id": 30216,
+    "digitalId": 19726,
+    "title": "Ultimate Comics Doom (2010) #3",
+    "issueNumber": 3,
+    "variantDescription": "",
+    "description": "The ultimate enemy has revealed himself to be Reed Richards!!! And now the entire Ultimate Universe must band together and stop their old friend from becoming the worst villain the world has ever seen. The penultimate chapter in the most thrilling story in Ultimate Universe history. The fate of many of your favorite ultimate heroes will be decided right here!!",
+    "modified": "2012-05-29T09:39:25-0400",
+    "isbn": "",
+    "upc": "5960607151-00311",
+    "diamondCode": "DEC100547",
+    "ean": "",
+    "issn": "",
+    "format": "Comic",
+    "pageCount": 32,
+    "textObjects": [
+        {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "The ultimate enemy has revealed himself to be Reed Richards!!! And now the entire Ultimate Universe must band together and stop their old friend from becoming the worst villain the world has ever seen. The penultimate chapter in the most thrilling story in Ultimate Universe history. The fate of many of your favorite ultimate heroes will be decided right here!!"
+        }
+    ],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/30216",
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/30216/ultimate_comics_doom_2010_3?utm_campaign=apiRef&utm_source=046266cc733f0e6ea56d0b992f16d598"
+        },
+        {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/Ultimate-Comics-Doom-3/digital-comic/19726?utm_campaign=apiRef&utm_source=046266cc733f0e6ea56d0b992f16d598"
+        },
+        {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=19726&utm_campaign=apiRef&utm_source=046266cc733f0e6ea56d0b992f16d598"
+        },
+        {
+            "type": "inAppLink",
+            "url": "http://applink.marvel.com/issue/19726?utm_campaign=apiRef&utm_source=046266cc733f0e6ea56d0b992f16d598"
+        }
+    ],
+    "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/9958",
+        "name": "Ultimate Comics Doom (2010 - 2011)"
+    },
+    "variants": [],
+    "collections": [],
+    "collectedIssues": [],
+    "dates": [
+        {
+            "type": "onsaleDate",
+            "date": "2011-02-23T00:00:00-0500"
+        },
+        {
+            "type": "focDate",
+            "date": "2011-02-08T00:00:00-0500"
+        },
+        {
+            "type": "unlimitedDate",
+            "date": "2012-01-20T00:00:00-0500"
+        },
+        {
+            "type": "digitalPurchaseDate",
+            "date": "2012-05-29T00:00:00-0400"
+        }
+    ],
+    "prices": [
+        {
+            "type": "printPrice",
+            "price": 3.99
+        },
+        {
+            "type": "digitalPurchasePrice",
+            "price": 1.99
+        }
+    ],
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/00/4f6243b5004b9",
+        "extension": "jpg"
+    },
+    "images": [
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/00/4f6243b5004b9",
+            "extension": "jpg"
+        },
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/5/d0/4d5ae63f53101",
+            "extension": "jpg"
+        }
+    ],
+    "creators": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/30216/creators",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/24",
+                "name": "Brian Michael Bendis",
+                "role": "writer"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/339",
+                "name": "Bryan Hitch",
+                "role": "penciller (cover)"
+            }
+        ],
+        "returned": 2
+    },
+    "characters": {
+        "available": 3,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/30216/characters",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1011102",
+                "name": "Human Torch (Ultimate)"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010934",
+                "name": "Invisible Woman (Ultimate)"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010983",
+                "name": "Thing (Ultimate)"
+            }
+        ],
+        "returned": 3
+    },
+    "stories": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/30216/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/69258",
+                "name": "Ultimate Comics Doom #3",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/69259",
+                "name": "Ultimate Comics Doom #3",
+                "type": "interiorStory"
+            }
+        ],
+        "returned": 2
+    },
+    "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/30216/events",
+        "items": [],
+        "returned": 0
+    }
+}

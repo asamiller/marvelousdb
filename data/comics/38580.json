@@ -1,0 +1,132 @@
+{
+    "id": 38580,
+    "digitalId": 26508,
+    "title": "Wolverine & the X-Men (2011) #11",
+    "issueNumber": 11,
+    "variantDescription": "",
+    "description": "AVX TIE-IN! Cyclops comes to the Jean Grey School! Will Wolverine’s X-Men join Cyclops against the Avengers? Plus, Iceman vs. Red Hulk!\n",
+    "modified": "2013-07-01T14:25:33-0400",
+    "isbn": "",
+    "upc": "5960607566-01111",
+    "diamondCode": "MAR120541",
+    "ean": "",
+    "issn": "",
+    "format": "Comic",
+    "pageCount": 32,
+    "textObjects": [
+        {
+            "type": "issue_preview_text",
+            "language": "en-us",
+            "text": "AVX TIE-IN! Cyclops comes to the Jean Grey School! Will Wolverine’s X-Men join Cyclops against the Avengers? Plus, Iceman vs. Red Hulk!\n"
+        },
+        {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "\t<ul><li> AVX TIE-INS!</li><li> Cyclops comes to the Jean Grey School!</li><li> Will Wolverine's X-Men join Cyclops against the Avengers?</li><li> ICEMAN vs RED HULK!</li></ul>\t "
+        }
+    ],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/38580",
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/38580/wolverine_the_x-men_2011_11?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/Wolverine-the-X-Men-11/digital-comic/26508?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=26508&utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "inAppLink",
+            "url": "http://applink.marvel.com/issue/26508?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ],
+    "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/13910",
+        "name": "Wolverine & the X-Men (2011 - 2014)"
+    },
+    "variants": [],
+    "collections": [],
+    "collectedIssues": [],
+    "dates": [
+        {
+            "type": "onsaleDate",
+            "date": "2012-05-23T00:00:00-0400"
+        },
+        {
+            "type": "focDate",
+            "date": "2012-05-09T00:00:00-0400"
+        },
+        {
+            "type": "unlimitedDate",
+            "date": "2013-04-15T00:00:00-0400"
+        },
+        {
+            "type": "digitalPurchaseDate",
+            "date": "2012-05-30T00:00:00-0400"
+        }
+    ],
+    "prices": [
+        {
+            "type": "printPrice",
+            "price": 3.99
+        },
+        {
+            "type": "digitalPurchasePrice",
+            "price": 1.99
+        }
+    ],
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/1/30/515c39a799914",
+        "extension": "jpg"
+    },
+    "images": [
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/1/30/515c39a799914",
+            "extension": "jpg"
+        }
+    ],
+    "creators": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/38580/creators",
+        "items": [],
+        "returned": 0
+    },
+    "characters": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/38580/characters",
+        "items": [],
+        "returned": 0
+    },
+    "stories": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/38580/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/84703",
+                "name": "Cover #84703",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/84704",
+                "name": "Interior #84704",
+                "type": "interiorStory"
+            }
+        ],
+        "returned": 2
+    },
+    "events": {
+        "available": 1,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/38580/events",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/events/310",
+                "name": "Avengers VS X-Men"
+            }
+        ],
+        "returned": 1
+    }
+}

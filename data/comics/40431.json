@@ -1,0 +1,111 @@
+{
+    "id": 40431,
+    "digitalId": 0,
+    "title": "Ultimate Comics Spider-Man (2011) #1 (Pichelli Variant)",
+    "issueNumber": 1,
+    "variantDescription": "Pichelli Variant",
+    "description": "Meet Miles Morales, the all-new Ultimate Spider-Man! ",
+    "modified": "2011-09-13T01:30:52-0400",
+    "isbn": "",
+    "upc": "5960607612-00121",
+    "diamondCode": "JUL110606",
+    "ean": "",
+    "issn": "",
+    "format": "Comic",
+    "pageCount": 32,
+    "textObjects": [
+        {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "Meet Miles Morales, the all-new Ultimate Spider-Man! "
+        }
+    ],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/40431",
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/40431/ultimate_comics_spider-man_2011_1_pichelli_variant/pichelli_variant?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ],
+    "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/13831",
+        "name": "Ultimate Comics Spider-Man (2011 - Present)"
+    },
+    "variants": [
+        {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/38394",
+            "name": "Ultimate Comics Spider-Man (2011) #1"
+        },
+        {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/41804",
+            "name": "Ultimate Comics Spider-Man (2011) #1 (Miles Variant)"
+        }
+    ],
+    "collections": [],
+    "collectedIssues": [],
+    "dates": [
+        {
+            "type": "onsaleDate",
+            "date": "2011-09-14T00:00:00-0400"
+        },
+        {
+            "type": "focDate",
+            "date": "2011-08-31T00:00:00-0400"
+        }
+    ],
+    "prices": [
+        {
+            "type": "printPrice",
+            "price": 3.99
+        }
+    ],
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/60/4de7bf9a6132c",
+        "extension": "jpg"
+    },
+    "images": [
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/90/4dee4fb21b687",
+            "extension": "jpg"
+        },
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/60/4de7bf9a6132c",
+            "extension": "jpg"
+        }
+    ],
+    "creators": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/40431/creators",
+        "items": [],
+        "returned": 0
+    },
+    "characters": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/40431/characters",
+        "items": [],
+        "returned": 0
+    },
+    "stories": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/40431/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/91684",
+                "name": "Cover #91684",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/91685",
+                "name": "Interior #91685",
+                "type": "interiorStory"
+            }
+        ],
+        "returned": 2
+    },
+    "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/40431/events",
+        "items": [],
+        "returned": 0
+    }
+}

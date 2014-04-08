@@ -1,0 +1,153 @@
+{
+    "id": 574,
+    "digitalId": 3517,
+    "title": "Ultimate Fantastic Four (2003) #9",
+    "issueNumber": 9,
+    "variantDescription": "",
+    "description": "DOOM PART 3 Victor Van Damme has sent a swarm of deadly robotic pests to attack the Fantastic Four at the Baxter Building. Still struggling to understand their new lives, will the Fantastic Four be able to band together and save the day?",
+    "modified": "-0001-11-30T00:00:00-0500",
+    "isbn": "",
+    "upc": "5960605499-00911",
+    "diamondCode": "",
+    "ean": "",
+    "issn": "",
+    "format": "Comic",
+    "pageCount": 0,
+    "textObjects": [
+        {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "PART 3 (OF 6) Part three of the strange saga of young Victor Van Damme, whose hatred of Reed Richards blossoms into a force that threatens civilization itself!"
+        },
+        {
+            "type": "issue_preview_text",
+            "language": "en-us",
+            "text": "DOOM PART 3 Victor Van Damme has sent a swarm of deadly robotic pests to attack the Fantastic Four at the Baxter Building. Still struggling to understand their new lives, will the Fantastic Four be able to band together and save the day?"
+        }
+    ],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/574",
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/574/ultimate_fantastic_four_2003_9?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/Ultimate-Fantastic-Four-9/digital-comic/3517?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=3517&utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "inAppLink",
+            "url": "http://applink.marvel.com/issue/3517?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ],
+    "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/702",
+        "name": "Ultimate Fantastic Four (2003 - 2009)"
+    },
+    "variants": [],
+    "collections": [
+        {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/1433",
+            "name": "Ultimate Fantastic Four Vol. 2: Doom (Trade Paperback)"
+        }
+    ],
+    "collectedIssues": [],
+    "dates": [
+        {
+            "type": "onsaleDate",
+            "date": "2004-07-28T00:00:00-0400"
+        },
+        {
+            "type": "focDate",
+            "date": "-0001-11-30T00:00:00-0500"
+        },
+        {
+            "type": "unlimitedDate",
+            "date": "2008-08-08T00:00:00-0400"
+        },
+        {
+            "type": "digitalPurchaseDate",
+            "date": "2010-08-10T00:00:00-0400"
+        }
+    ],
+    "prices": [
+        {
+            "type": "printPrice",
+            "price": 2.25
+        },
+        {
+            "type": "digitalPurchasePrice",
+            "price": 1.99
+        }
+    ],
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/d0/4bc68cd55bd77",
+        "extension": "jpg"
+    },
+    "images": [
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/d0/4bc68cd55bd77",
+            "extension": "jpg"
+        }
+    ],
+    "creators": {
+        "available": 4,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/574/creators",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/676",
+                "name": "Warren Ellis",
+                "role": "writer"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/552",
+                "name": "Wade von Grawbadger",
+                "role": "inker"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/192",
+                "name": "Stuart Immonen",
+                "role": "penciller (cover)"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/501",
+                "name": "Dave Stewart",
+                "role": "colorist"
+            }
+        ],
+        "returned": 4
+    },
+    "characters": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/574/characters",
+        "items": [],
+        "returned": 0
+    },
+    "stories": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/574/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/2641",
+                "name": "Cover #2641",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/2642",
+                "name": "Interior #2642",
+                "type": "interiorStory"
+            }
+        ],
+        "returned": 2
+    },
+    "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/574/events",
+        "items": [],
+        "returned": 0
+    }
+}

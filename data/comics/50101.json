@@ -1,0 +1,106 @@
+{
+    "id": 50101,
+    "digitalId": 0,
+    "title": "All-New X-Factor (2014) #2 (Tbd Artist Variant B)",
+    "issueNumber": 2,
+    "variantDescription": "Tbd Artist Variant B",
+    "description": null,
+    "modified": "2013-10-18T14:18:01-0400",
+    "isbn": "",
+    "upc": "75960607955100231",
+    "diamondCode": "",
+    "ean": "",
+    "issn": "",
+    "format": "Comic",
+    "pageCount": 32,
+    "textObjects": [],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/50101",
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/50101/all-new_x-factor_2014_2_tbd_artist_variant_b/tbd_artist_variant_b?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ],
+    "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/18136",
+        "name": "All-New X-Factor (2014 - Present)"
+    },
+    "variants": [
+        {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/50793",
+            "name": "All-New X-Factor (2014) #2 (Anka 2nd Printing Variant)"
+        },
+        {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/47963",
+            "name": "All-New X-Factor (2014) #2"
+        },
+        {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/49995",
+            "name": "All-New X-Factor (2014) #2 (Campbell Variant)"
+        }
+    ],
+    "collections": [],
+    "collectedIssues": [],
+    "dates": [
+        {
+            "type": "onsaleDate",
+            "date": "2014-01-22T00:00:00-0500"
+        },
+        {
+            "type": "focDate",
+            "date": "2014-01-08T00:00:00-0500"
+        }
+    ],
+    "prices": [
+        {
+            "type": "printPrice",
+            "price": 3.99
+        }
+    ],
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available",
+        "extension": "jpg"
+    },
+    "images": [],
+    "creators": {
+        "available": 1,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/50101/creators",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/8822",
+                "name": "Jordan White",
+                "role": "editor"
+            }
+        ],
+        "returned": 1
+    },
+    "characters": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/50101/characters",
+        "items": [],
+        "returned": 0
+    },
+    "stories": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/50101/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/112243",
+                "name": "cover from All-New X-Factor (2013) #2 (TBD ARTIST VARIANT B)",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/112244",
+                "name": "story from All-New X-Factor (2013) #2 (TBD ARTIST VARIANT B)",
+                "type": "interiorStory"
+            }
+        ],
+        "returned": 2
+    },
+    "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/50101/events",
+        "items": [],
+        "returned": 0
+    }
+}

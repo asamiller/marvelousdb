@@ -1,0 +1,65 @@
+{
+    "id": 1011079,
+    "name": "Scorpion (Ultimate)",
+    "description": "",
+    "modified": "1969-12-31T19:00:00-0500",
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available",
+        "extension": "jpg"
+    },
+    "resourceURI": "http://gateway.marvel.com/v1/public/characters/1011079",
+    "comics": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/characters/1011079/comics",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/comics/4426",
+                "name": "Ultimate Spider-Man (2000) #97"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/comics/16199",
+                "name": "Ultimate Spider-Man Vol. 17: Clone Saga (Trade Paperback)"
+            }
+        ],
+        "returned": 2
+    },
+    "series": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/characters/1011079/series",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/series/466",
+                "name": "Ultimate Spider-Man (2000 - 2009)"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/series/2692",
+                "name": "Ultimate Spider-Man Vol. 17: Clone Saga (2007)"
+            }
+        ],
+        "returned": 2
+    },
+    "stories": {
+        "available": 1,
+        "collectionURI": "http://gateway.marvel.com/v1/public/characters/1011079/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/1388",
+                "name": "1 of ?",
+                "type": "cover"
+            }
+        ],
+        "returned": 1
+    },
+    "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/characters/1011079/events",
+        "items": [],
+        "returned": 0
+    },
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/characters/1011079/scorpion_ultimate?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ]
+}

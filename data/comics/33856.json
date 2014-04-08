@@ -1,0 +1,119 @@
+{
+    "id": 33856,
+    "digitalId": 0,
+    "title": "Captain America & the Korvac Saga (2010) #2",
+    "issueNumber": 2,
+    "variantDescription": "",
+    "description": "You’re Captain America: You’re kinda strong & you’ve got a shield. They’re the Guardians of the Galaxy: They’re 30th century warriors with craaaazy-big powers. You both want the same thing. TIME FOR A FIGHT!!!!",
+    "modified": "2010-12-14T09:47:25-0500",
+    "isbn": "",
+    "upc": "5960607330-00211",
+    "diamondCode": "NOV100544",
+    "ean": "",
+    "issn": "",
+    "format": "comic",
+    "pageCount": 32,
+    "textObjects": [
+        {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "You’re Captain America: You’re kinda strong & you’ve got a shield. They’re the Guardians of the Galaxy: They’re 30th century warriors with craaaazy-big powers. You both want the same thing. TIME FOR A FIGHT!!!!"
+        }
+    ],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/33856",
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/33856/captain_america_the_korvac_saga_2010_2?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ],
+    "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/10739",
+        "name": "Captain America & the Korvac Saga (2010 - 2011)"
+    },
+    "variants": [],
+    "collections": [],
+    "collectedIssues": [],
+    "dates": [
+        {
+            "type": "onsaleDate",
+            "date": "2011-01-12T00:00:00-0500"
+        },
+        {
+            "type": "focDate",
+            "date": "2010-12-12T00:00:00-0500"
+        }
+    ],
+    "prices": [
+        {
+            "type": "printPrice",
+            "price": 2.99
+        }
+    ],
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/5/c0/4cb608550cb50",
+        "extension": "jpg"
+    },
+    "images": [
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/5/c0/4cb608550cb50",
+            "extension": "jpg"
+        }
+    ],
+    "creators": {
+        "available": 3,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/33856/creators",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/11133",
+                "name": "Ben McCool",
+                "role": "writer"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/8260",
+                "name": "Craig Rousseau",
+                "role": "penciller (cover)"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/690",
+                "name": "Patrick Scherberger",
+                "role": "penciller"
+            }
+        ],
+        "returned": 3
+    },
+    "characters": {
+        "available": 1,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/33856/characters",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009220",
+                "name": "Captain America"
+            }
+        ],
+        "returned": 1
+    },
+    "stories": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/33856/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/76307",
+                "name": "Cover #76307",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/76308",
+                "name": "Interior #76308",
+                "type": "interiorStory"
+            }
+        ],
+        "returned": 2
+    },
+    "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/33856/events",
+        "items": [],
+        "returned": 0
+    }
+}

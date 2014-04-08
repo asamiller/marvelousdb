@@ -1,0 +1,132 @@
+{
+    "id": 728,
+    "digitalId": 2127,
+    "title": "Marvel Age Spider-Man (2004) #6",
+    "issueNumber": 6,
+    "variantDescription": "",
+    "description": "Who is Dr. Curt Connors, and what has he done to lure Peter Parker and J. Jonah Jameson to the darkest corners of the Florida Everglades? What secrets lurk in this alien landscape? MARVEL AGE continues to thrill as Spider-Man battles the Lizard in their unforgettable first encounter! Plus: One of Spider-Man's original nemeses returns! The Vulture is back, and he's looking for revenge!",
+    "modified": "-0001-11-30T00:00:00-0500",
+    "isbn": "",
+    "upc": "5960605505-00611",
+    "diamondCode": "",
+    "ean": "",
+    "issn": "",
+    "format": "Comic",
+    "pageCount": 0,
+    "textObjects": [
+        {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "Who is Dr. Curt Connors, and what has he done to lure Peter Parker and J. Jonah Jameson to the darkest corners of the Florida Everglades? What secrets lurk in this alien landscape? MARVEL AGE continues to thrill as Spider-Man battles the Lizard in their unforgettable first encounter! Plus: One of Spider-Man's original nemeses returns! The Vulture is back, and he's looking for revenge!"
+        }
+    ],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/728",
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/728/marvel_age_spider-man_2004_6?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=2127&utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ],
+    "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/375",
+        "name": "Marvel Age Spider-Man (2004 - 2005)"
+    },
+    "variants": [],
+    "collections": [
+        {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/1308",
+            "name": "Marvel Age Spider-Man Vol. 2: Everyday Hero (Digest)"
+        }
+    ],
+    "collectedIssues": [],
+    "dates": [
+        {
+            "type": "onsaleDate",
+            "date": "2004-06-23T00:00:00-0400"
+        },
+        {
+            "type": "focDate",
+            "date": "-0001-11-30T00:00:00-0500"
+        },
+        {
+            "type": "unlimitedDate",
+            "date": "2007-11-13T00:00:00-0500"
+        }
+    ],
+    "prices": [
+        {
+            "type": "printPrice",
+            "price": 2.25
+        }
+    ],
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/50/4bc6809bdc81b",
+        "extension": "jpg"
+    },
+    "images": [
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/50/4bc6809bdc81b",
+            "extension": "jpg"
+        }
+    ],
+    "creators": {
+        "available": 3,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/728/creators",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/694",
+                "name": "Mark Brooks",
+                "role": "penciller (cover)"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/424",
+                "name": "Udon Comics",
+                "role": "penciller"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/326",
+                "name": "Daniel Quantz",
+                "role": "writer"
+            }
+        ],
+        "returned": 3
+    },
+    "characters": {
+        "available": 1,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/728/characters",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009610",
+                "name": "Spider-Man"
+            }
+        ],
+        "returned": 1
+    },
+    "stories": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/728/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/2771",
+                "name": "Cover #2771",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/2772",
+                "name": "Interior #2772",
+                "type": "interiorStory"
+            }
+        ],
+        "returned": 2
+    },
+    "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/728/events",
+        "items": [],
+        "returned": 0
+    }
+}

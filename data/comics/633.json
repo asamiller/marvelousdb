@@ -1,0 +1,153 @@
+{
+    "id": 633,
+    "digitalId": 6215,
+    "title": "Iron Man (1998) #81",
+    "issueNumber": 81,
+    "variantDescription": "",
+    "description": "THE DEEP END PART 3 (of 4)\nIron Man encounters Vitriol, a villain hell-bent on murdering millions! With an acidic touch and a temper to match, she may provide Stark with an early retirement as Secretary of Defense!",
+    "modified": "2010-11-16T17:11:17-0500",
+    "isbn": "",
+    "upc": "5960604457-08111",
+    "diamondCode": "",
+    "ean": "",
+    "issn": "",
+    "format": "Comic",
+    "pageCount": 0,
+    "textObjects": [
+        {
+            "type": "issue_preview_text",
+            "language": "en-us",
+            "text": "THE DEEP END PART 3 (of 4)\nIron Man encounters Vitriol, a villain hell-bent on murdering millions! With an acidic touch and a temper to match, she may provide Stark with an early retirement as Secretary of Defense!"
+        },
+        {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "\"THE DEEP END\" PART 3 (OF 4) The lady's name is Vitriol! She's a bombshell -- literally! Her touch is acid, and her temper is worse! Only Iron Man can stop her from killing millions, but he's got no defense against her. As Vitriol's threats escalate to their terrifying potential, a face from Iron Man's past arrives on the scene. Not to help -- but to rip Tony Stark's head off! "
+        }
+    ],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/633",
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/633/iron_man_1998_81?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/Iron-Man-81/digital-comic/6215?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=6215&utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "inAppLink",
+            "url": "http://applink.marvel.com/issue/6215?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ],
+    "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/2572",
+        "name": "Iron Man (1998 - 2004)"
+    },
+    "variants": [],
+    "collections": [],
+    "collectedIssues": [],
+    "dates": [
+        {
+            "type": "onsaleDate",
+            "date": "2004-05-12T00:00:00-0400"
+        },
+        {
+            "type": "focDate",
+            "date": "-0001-11-30T00:00:00-0500"
+        },
+        {
+            "type": "unlimitedDate",
+            "date": "2008-09-02T00:00:00-0400"
+        },
+        {
+            "type": "digitalPurchaseDate",
+            "date": "2010-08-04T00:00:00-0400"
+        }
+    ],
+    "prices": [
+        {
+            "type": "printPrice",
+            "price": 2.99
+        },
+        {
+            "type": "digitalPurchasePrice",
+            "price": 1.99
+        }
+    ],
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/8/03/4d24f40637087",
+        "extension": "jpg"
+    },
+    "images": [
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/d/20/4bc687f59ba9c",
+            "extension": "jpg"
+        }
+    ],
+    "creators": {
+        "available": 4,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/633/creators",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/436",
+                "name": "Adi Granov",
+                "role": "penciller (cover)"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/8795",
+                "name": "John Miller",
+                "role": "writer"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/4207",
+                "name": "Avalon Studio",
+                "role": "inker"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/489",
+                "name": "Philip Tan",
+                "role": "penciller"
+            }
+        ],
+        "returned": 4
+    },
+    "characters": {
+        "available": 1,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/633/characters",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009368",
+                "name": "Iron Man"
+            }
+        ],
+        "returned": 1
+    },
+    "stories": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/633/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/991",
+                "name": "Cover #991",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/992",
+                "name": "Interior #992",
+                "type": "interiorStory"
+            }
+        ],
+        "returned": 2
+    },
+    "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/633/events",
+        "items": [],
+        "returned": 0
+    }
+}

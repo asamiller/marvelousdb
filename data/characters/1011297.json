@@ -1,0 +1,101 @@
+{
+    "id": 1011297,
+    "name": "Agent Brand",
+    "description": "",
+    "modified": "2013-10-24T13:09:30-0400",
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/4/60/52695285d6e7e",
+        "extension": "jpg"
+    },
+    "resourceURI": "http://gateway.marvel.com/v1/public/characters/1011297",
+    "comics": {
+        "available": 5,
+        "collectionURI": "http://gateway.marvel.com/v1/public/characters/1011297/comics",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/comics/5477",
+                "name": "Astonishing X-Men (2004) #19 (Variant)"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/comics/38318",
+                "name": "Astonishing X-Men (2004) #38"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/comics/38319",
+                "name": "Astonishing X-Men (2004) #40"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/comics/40024",
+                "name": "Astonishing X-Men (2004) #40 (I Am Captain America Variant)"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/comics/39890",
+                "name": "Heralds (Trade Paperback)"
+            }
+        ],
+        "returned": 5
+    },
+    "series": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/characters/1011297/series",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/series/744",
+                "name": "Astonishing X-Men (2004 - Present)"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/series/13065",
+                "name": "Heralds (2010 - Present)"
+            }
+        ],
+        "returned": 2
+    },
+    "stories": {
+        "available": 5,
+        "collectionURI": "http://gateway.marvel.com/v1/public/characters/1011297/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/3353",
+                "name": "Interior #3353",
+                "type": "interiorStory"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/89900",
+                "name": "Astonishing X-Men (2004) #38",
+                "type": "interiorStory"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/90548",
+                "name": "Heralds TPB",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/90819",
+                "name": "Interior #90819",
+                "type": "interiorStory"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/90853",
+                "name": " Interior  Astonishing X-Men (2004) #40",
+                "type": "interiorStory"
+            }
+        ],
+        "returned": 5
+    },
+    "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/characters/1011297/events",
+        "items": [],
+        "returned": 0
+    },
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/characters/1011297/agent_brand?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "wiki",
+            "url": "http://marvel.com/universe/Agent_Brand?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ]
+}

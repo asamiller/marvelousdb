@@ -1,0 +1,127 @@
+{
+    "id": 42606,
+    "digitalId": 25830,
+    "title": "Ultimate Spider-Man Premiere Comic (2012) #1",
+    "issueNumber": 1,
+    "variantDescription": "",
+    "description": "Get a first look at the upcoming ULTIMATE SPIDER-MAN TV show! This comic is perfect for fans of all ages!\n",
+    "modified": "2013-07-08T16:17:24-0400",
+    "isbn": "",
+    "upc": "5960607805-00111",
+    "diamondCode": "NOV118181",
+    "ean": "",
+    "issn": "",
+    "format": "Comic",
+    "pageCount": 32,
+    "textObjects": [
+        {
+            "type": "issue_preview_text",
+            "language": "en-us",
+            "text": "Get a first look at the upcoming ULTIMATE SPIDER-MAN TV show! This comic is perfect for fans of all ages!\n"
+        },
+        {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "Get a first look at the upcoming ULTIMATE SPIDER-MAN TV show! This comic is perfect for fans of all ages! "
+        }
+    ],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/42606",
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/42606/ultimate_spider-man_premiere_comic_2012_1?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/Ultimate-Spider-Man-Premiere-Comic-1/digital-comic/25830?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=25830&utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "inAppLink",
+            "url": "http://applink.marvel.com/issue/25830?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ],
+    "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/16271",
+        "name": "Ultimate Spider-Man Premiere Comic (2012)"
+    },
+    "variants": [],
+    "collections": [],
+    "collectedIssues": [],
+    "dates": [
+        {
+            "type": "onsaleDate",
+            "date": "2012-03-21T00:00:00-0400"
+        },
+        {
+            "type": "focDate",
+            "date": "2012-03-07T00:00:00-0500"
+        },
+        {
+            "type": "unlimitedDate",
+            "date": "2013-05-23T12:52:55-0400"
+        },
+        {
+            "type": "digitalPurchaseDate",
+            "date": "2013-07-09T00:00:00-0400"
+        }
+    ],
+    "prices": [
+        {
+            "type": "printPrice",
+            "price": 0
+        },
+        {
+            "type": "digitalPurchasePrice",
+            "price": 0
+        }
+    ],
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/c0/4f8ee34b8c5c3",
+        "extension": "jpg"
+    },
+    "images": [
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/c0/4f8ee34b8c5c3",
+            "extension": "jpg"
+        }
+    ],
+    "creators": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/42606/creators",
+        "items": [],
+        "returned": 0
+    },
+    "characters": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/42606/characters",
+        "items": [],
+        "returned": 0
+    },
+    "stories": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/42606/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/95984",
+                "name": "Cover #95984",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/95985",
+                "name": "Interior #95985",
+                "type": "interiorStory"
+            }
+        ],
+        "returned": 2
+    },
+    "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/42606/events",
+        "items": [],
+        "returned": 0
+    }
+}

@@ -1,0 +1,92 @@
+{
+    "id": 1011317,
+    "name": "Ezekiel Stane",
+    "description": "",
+    "modified": "1969-12-31T19:00:00-0500",
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/50/4ce5a64fd283a",
+        "extension": "jpg"
+    },
+    "resourceURI": "http://gateway.marvel.com/v1/public/characters/1011317",
+    "comics": {
+        "available": 4,
+        "collectionURI": "http://gateway.marvel.com/v1/public/characters/1011317/comics",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/comics/21416",
+                "name": "Invincible Iron Man (2008) #2"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/comics/22030",
+                "name": "Invincible Iron Man (2008) #5"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/comics/22355",
+                "name": "Invincible Iron Man (2008) #6"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/comics/23879",
+                "name": "Invincible Iron Man Vol. 1: The Five Nightmares (Trade Paperback)"
+            }
+        ],
+        "returned": 4
+    },
+    "series": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/characters/1011317/series",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/series/4889",
+                "name": "Invincible Iron Man (2008 - 2012)"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/series/7043",
+                "name": "Invincible Iron Man Vol. 1: The Five Nightmares (2009 - Present)"
+            }
+        ],
+        "returned": 2
+    },
+    "stories": {
+        "available": 4,
+        "collectionURI": "http://gateway.marvel.com/v1/public/characters/1011317/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/47285",
+                "name": "Invincible Iron Man (2008) #2",
+                "type": "interiorStory"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/48573",
+                "name": "Invincible Iron Man (2008) #5",
+                "type": "interiorStory"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/49215",
+                "name": "Invincible Iron Man (2008) #6",
+                "type": "interiorStory"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/56300",
+                "name": "Interior #56300",
+                "type": "interiorStory"
+            }
+        ],
+        "returned": 4
+    },
+    "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/characters/1011317/events",
+        "items": [],
+        "returned": 0
+    },
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/characters/1011317/ezekiel_stane?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "wiki",
+            "url": "http://marvel.com/universe/Stane,_Ezekiel?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ]
+}

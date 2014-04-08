@@ -1,0 +1,143 @@
+{
+    "id": 45859,
+    "digitalId": 28432,
+    "title": "Avengers Arena (2012) #4",
+    "issueNumber": 4,
+    "variantDescription": "",
+    "description": "The Runaways vs. Avengers Academy!",
+    "modified": "2013-03-11T09:21:30-0400",
+    "isbn": "",
+    "upc": "75960607903200411",
+    "diamondCode": "DEC120636",
+    "ean": "",
+    "issn": "",
+    "format": "Comic",
+    "pageCount": 32,
+    "textObjects": [
+        {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "The Runaways vs. Avengers Academy!"
+        }
+    ],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/45859",
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/45859/avengers_arena_2012_4?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/Avengers-Arena-4/digital-comic/28432?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=28432&utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "inAppLink",
+            "url": "http://applink.marvel.com/issue/28432?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ],
+    "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/16875",
+        "name": "Avengers Arena (2012 - Present)"
+    },
+    "variants": [
+        {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/45860",
+            "name": "Avengers Arena (2012) #4 (Rubio Variant)"
+        }
+    ],
+    "collections": [],
+    "collectedIssues": [],
+    "dates": [
+        {
+            "type": "onsaleDate",
+            "date": "2013-02-13T00:00:00-0500"
+        },
+        {
+            "type": "focDate",
+            "date": "2013-01-30T00:00:00-0500"
+        },
+        {
+            "type": "unlimitedDate",
+            "date": "2013-08-12T09:20:52-0400"
+        },
+        {
+            "type": "digitalPurchaseDate",
+            "date": "2013-02-13T00:00:00-0500"
+        }
+    ],
+    "prices": [
+        {
+            "type": "printPrice",
+            "price": 2.99
+        },
+        {
+            "type": "digitalPurchasePrice",
+            "price": 1.99
+        }
+    ],
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/a0/51081a8d186e9",
+        "extension": "jpg"
+    },
+    "images": [
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/a0/51081a8d186e9",
+            "extension": "jpg"
+        }
+    ],
+    "creators": {
+        "available": 3,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/45859/creators",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/11901",
+                "name": "Dennis Hopeless",
+                "role": "writer"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/10432",
+                "name": "Dave Johnson",
+                "role": "penciller (cover)"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/10124",
+                "name": "Alessandro Vitti",
+                "role": "artist"
+            }
+        ],
+        "returned": 3
+    },
+    "characters": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/45859/characters",
+        "items": [],
+        "returned": 0
+    },
+    "stories": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/45859/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/103236",
+                "name": "cover from Avengers Arena (2012) #4",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/103237",
+                "name": "story from Avengers Arena (2012) #4",
+                "type": "interiorStory"
+            }
+        ],
+        "returned": 2
+    },
+    "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/45859/events",
+        "items": [],
+        "returned": 0
+    }
+}

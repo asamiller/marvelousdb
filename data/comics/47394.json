@@ -1,0 +1,147 @@
+{
+    "id": 47394,
+    "digitalId": 29312,
+    "title": "Ultron (2013) #1",
+    "issueNumber": 1,
+    "variantDescription": "",
+    "description": "\r\n\r\n\r\n\r\n\r\n<ul><li>Ultron took over the world.</li><li>Ultron killed the heroes.</li><li>Ultron&hellip;is your father.</li><li>When you&rsquo;re Victor Mancha, android teen Runaway, &ldquo;daddy issues&rdquo; doesn&rsquo;t quite cover it.</li></ul>",
+    "modified": "2013-06-19T11:09:06-0400",
+    "isbn": "",
+    "upc": "75960607897400111",
+    "diamondCode": "FEB130485",
+    "ean": "",
+    "issn": "",
+    "format": "Comic",
+    "pageCount": 32,
+    "textObjects": [
+        {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "\r\n\r\n\r\n\r\n\r\n<ul><li>Ultron took over the world.</li><li>Ultron killed the heroes.</li><li>Ultron&hellip;is your father.</li><li>When you&rsquo;re Victor Mancha, android teen Runaway, &ldquo;daddy issues&rdquo; doesn&rsquo;t quite cover it.</li></ul>"
+        }
+    ],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/47394",
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/47394/ultron_2013_1?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/Ultron-1/digital-comic/29312?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=29312&utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "inAppLink",
+            "url": "http://applink.marvel.com/issue/29312?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ],
+    "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/17900",
+        "name": "Ultron (2013 - Present)"
+    },
+    "variants": [],
+    "collections": [],
+    "collectedIssues": [],
+    "dates": [
+        {
+            "type": "onsaleDate",
+            "date": "2013-04-10T00:00:00-0400"
+        },
+        {
+            "type": "focDate",
+            "date": "2013-03-27T00:00:00-0400"
+        },
+        {
+            "type": "unlimitedDate",
+            "date": "2013-10-14T00:00:00-0400"
+        },
+        {
+            "type": "digitalPurchaseDate",
+            "date": "2013-04-10T00:00:00-0400"
+        }
+    ],
+    "prices": [
+        {
+            "type": "printPrice",
+            "price": 3.99
+        },
+        {
+            "type": "digitalPurchasePrice",
+            "price": 3.99
+        }
+    ],
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/80/514a1de97c4b9",
+        "extension": "jpg"
+    },
+    "images": [
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/80/514a1de97c4b9",
+            "extension": "jpg"
+        },
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/5/f0/511d6d23f057b",
+            "extension": "jpg"
+        }
+    ],
+    "creators": {
+        "available": 3,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/47394/creators",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/4994",
+                "name": "Kalman Andrasofszky",
+                "role": "penciler (cover)"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/5144",
+                "name": "Kathryn Immonen",
+                "role": "writer"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/7891",
+                "name": "AMILCAR PINNA",
+                "role": "artist"
+            }
+        ],
+        "returned": 3
+    },
+    "characters": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/47394/characters",
+        "items": [],
+        "returned": 0
+    },
+    "stories": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/47394/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/107087",
+                "name": "cover from Ultron (2013) #1",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/107088",
+                "name": "story from Ultron (2013) #1",
+                "type": "interiorStory"
+            }
+        ],
+        "returned": 2
+    },
+    "events": {
+        "available": 1,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/47394/events",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/events/314",
+                "name": "Age of Ultron"
+            }
+        ],
+        "returned": 1
+    }
+}

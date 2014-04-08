@@ -1,0 +1,129 @@
+{
+    "id": 42632,
+    "digitalId": 0,
+    "title": "Avengers VS X-Men (2012) #12 (Opena Sketch Variant)",
+    "issueNumber": 12,
+    "variantDescription": "Opena Sketch Variant",
+    "description": "Extra-sized final issue! \n* It’s all come down to this! The final battle—as the world burns!\n",
+    "modified": "2012-09-17T12:56:58-0400",
+    "isbn": "",
+    "upc": "5960607748-01231",
+    "diamondCode": "",
+    "ean": "",
+    "issn": "",
+    "format": "Comic",
+    "pageCount": 48,
+    "textObjects": [
+        {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "Extra-sized final issue! \n* It’s all come down to this! The final battle—as the world burns!\n"
+        }
+    ],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/42632",
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/42632/avengers_vs_x-men_2012_12_opena_sketch_variant/opena_sketch_variant?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ],
+    "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/15305",
+        "name": "Avengers VS X-Men (2012)"
+    },
+    "variants": [
+        {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/42976",
+            "name": "Avengers VS X-Men (2012) #12 (Avengers Team Variant)"
+        },
+        {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/42967",
+            "name": "Avengers VS X-Men (2012) #12 (Promo Variant)"
+        },
+        {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/42586",
+            "name": "Avengers VS X-Men (2012) #12 (Opena Variant)"
+        },
+        {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/41278",
+            "name": "Avengers VS X-Men (2012) #12"
+        },
+        {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/42975",
+            "name": "Avengers VS X-Men (2012) #12 (X-Men Team Variant)"
+        },
+        {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/43341",
+            "name": "Avengers VS X-Men (2012) #12 (Kubert Variant)"
+        }
+    ],
+    "collections": [],
+    "collectedIssues": [],
+    "dates": [
+        {
+            "type": "onsaleDate",
+            "date": "2012-10-03T00:00:00-0400"
+        },
+        {
+            "type": "focDate",
+            "date": "2012-09-10T00:00:00-0400"
+        }
+    ],
+    "prices": [
+        {
+            "type": "printPrice",
+            "price": 3.99
+        }
+    ],
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/e0/505754fbaf569",
+        "extension": "jpg"
+    },
+    "images": [
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/e0/505754fbaf569",
+            "extension": "jpg"
+        }
+    ],
+    "creators": {
+        "available": 1,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/42632/creators",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/8737",
+                "name": "Jerome Opena",
+                "role": "penciller (cover)"
+            }
+        ],
+        "returned": 1
+    },
+    "characters": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/42632/characters",
+        "items": [],
+        "returned": 0
+    },
+    "stories": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/42632/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/96019",
+                "name": "Cover #96019",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/96020",
+                "name": "Interior #96020",
+                "type": "interiorStory"
+            }
+        ],
+        "returned": 2
+    },
+    "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/42632/events",
+        "items": [],
+        "returned": 0
+    }
+}

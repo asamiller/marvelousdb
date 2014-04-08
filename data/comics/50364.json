@@ -1,0 +1,104 @@
+{
+    "id": 50364,
+    "digitalId": 0,
+    "title": "Marvel Universe Avengers Assemble (2013) #2",
+    "issueNumber": 2,
+    "variantDescription": "",
+    "description": "Adapted by JOE CARAMAGNA\n• The Red Skull has captured Iron Man’s armor and become The Iron Skull!\n• The Avengers’ deadliest foe now wields the power of the strongest weapon on earth!\n",
+    "modified": "2014-02-05T15:05:28-0500",
+    "isbn": "",
+    "upc": "",
+    "diamondCode": "",
+    "ean": "",
+    "issn": "",
+    "format": "Comic",
+    "pageCount": 32,
+    "textObjects": [
+        {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "Adapted by JOE CARAMAGNA\nâ€¢ The Red Skull has captured Iron Manâ€™s armor and become The Iron Skull!\nâ€¢ The Avengersâ€™ deadliest foe now wields the power of the strongest weapon on earth!\n"
+        }
+    ],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/50364",
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/50364/marvel_universe_avengers_assemble_2013_2?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ],
+    "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/18784",
+        "name": "Marvel Universe Avengers Assemble (2013)"
+    },
+    "variants": [],
+    "collections": [],
+    "collectedIssues": [],
+    "dates": [
+        {
+            "type": "onsaleDate",
+            "date": "2013-11-13T00:00:00-0500"
+        },
+        {
+            "type": "focDate",
+            "date": "-0001-11-30T00:00:00-0500"
+        }
+    ],
+    "prices": [
+        {
+            "type": "printPrice",
+            "price": 2.99
+        }
+    ],
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/f0/527926bd3c69d",
+        "extension": "jpg"
+    },
+    "images": [
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/f0/527926bd3c69d",
+            "extension": "jpg"
+        }
+    ],
+    "creators": {
+        "available": 1,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/50364/creators",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/5251",
+                "name": "Joe Caramagna",
+                "role": "writer"
+            }
+        ],
+        "returned": 1
+    },
+    "characters": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/50364/characters",
+        "items": [],
+        "returned": 0
+    },
+    "stories": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/50364/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/112857",
+                "name": "MARVEL UNIVERSE AVENGERS ASSEMBLE 2",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/112859",
+                "name": "MARVEL UNIVERSE AVENGERS ASSEMBLE 2",
+                "type": "interiorStory"
+            }
+        ],
+        "returned": 2
+    },
+    "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/50364/events",
+        "items": [],
+        "returned": 0
+    }
+}

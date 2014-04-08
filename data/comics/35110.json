@@ -1,0 +1,152 @@
+{
+    "id": 35110,
+    "digitalId": 21470,
+    "title": "Iron Age: Alpha (2010) #1",
+    "issueNumber": 1,
+    "variantDescription": "",
+    "description": "The one true Dark Phoenix returns to the Marvel U with a vengeance!  As the earth is destroyed, Iron Man is swept into the time-stream where the only chance for survival is to gather the greatest heroes from across the eras and change the course of history! The Avengers, Fantastic Four, the X-Men and more will join Iron Man for this trip through all the ages of Marvel! Rising stars Rob Williams (DARK WOLVERINE) and Rebekah Issacs (MS. MARVEL) team up for the century-spanning epic that takes you through the Marvel Universe's greatest moments...and maybe to its last!",
+    "modified": "2013-04-05T10:47:07-0400",
+    "isbn": "",
+    "upc": "5960607385-00111",
+    "diamondCode": "APR110628",
+    "ean": "",
+    "issn": "",
+    "format": "Comic",
+    "pageCount": 32,
+    "textObjects": [
+        {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "The one true Dark Phoenix returns to the Marvel U with a vengeance!  As the earth is destroyed, Iron Man is swept into the time-stream where the only chance for survival is to gather the greatest heroes from across the eras and change the course of history! The Avengers, Fantastic Four, the X-Men and more will join Iron Man for this trip through all the ages of Marvel! Rising stars Rob Williams (DARK WOLVERINE) and Rebekah Issacs (MS. MARVEL) team up for the century-spanning epic that takes you through the Marvel Universe's greatest moments...and maybe to its last!"
+        }
+    ],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/35110",
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/35110/iron_age_alpha_2010_1?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/Iron-Age-Alpha-1/digital-comic/21470?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=21470&utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "inAppLink",
+            "url": "http://applink.marvel.com/issue/21470?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ],
+    "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/12396",
+        "name": "Iron Age: Alpha (2010 - 2011)"
+    },
+    "variants": [
+        {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/39722",
+            "name": "Iron Age: Alpha (2010) #1 (Segovia Variant)"
+        }
+    ],
+    "collections": [],
+    "collectedIssues": [],
+    "dates": [
+        {
+            "type": "onsaleDate",
+            "date": "2011-06-08T00:00:00-0400"
+        },
+        {
+            "type": "focDate",
+            "date": "2011-05-25T00:00:00-0400"
+        },
+        {
+            "type": "unlimitedDate",
+            "date": "2013-04-08T00:00:00-0400"
+        },
+        {
+            "type": "digitalPurchaseDate",
+            "date": "2012-03-27T00:00:00-0400"
+        }
+    ],
+    "prices": [
+        {
+            "type": "printPrice",
+            "price": 2.99
+        },
+        {
+            "type": "digitalPurchasePrice",
+            "price": 1.99
+        }
+    ],
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/e/60/4db1c82cacc30",
+        "extension": "jpg"
+    },
+    "images": [
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/e/60/4db1c82cacc30",
+            "extension": "jpg"
+        }
+    ],
+    "creators": {
+        "available": 3,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/35110/creators",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/10141",
+                "name": "Rebekah Isaacs",
+                "role": "penciller"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/1082",
+                "name": "Ariel Olivetti",
+                "role": "penciller (cover)"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/646",
+                "name": "Rob Williams",
+                "role": "writer"
+            }
+        ],
+        "returned": 3
+    },
+    "characters": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/35110/characters",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009265",
+                "name": "Dark Phoenix"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009368",
+                "name": "Iron Man"
+            }
+        ],
+        "returned": 2
+    },
+    "stories": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/35110/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/77605",
+                "name": "Iron Age: Alpha #1",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/77606",
+                "name": "Supreme Power: The Redemption of Mark Milton (2010) #1",
+                "type": "interiorStory"
+            }
+        ],
+        "returned": 2
+    },
+    "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/35110/events",
+        "items": [],
+        "returned": 0
+    }
+}

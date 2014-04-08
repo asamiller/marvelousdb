@@ -1,0 +1,109 @@
+{
+    "id": 5601,
+    "digitalId": 0,
+    "title": "Fantastic Four: The End (2006) #1 (Rough Cut)",
+    "issueNumber": 1,
+    "variantDescription": "Rough Cut",
+    "description": "Alan Davis writes and pencils the final story of Marvel’s first family! Even the strongest family can be torn apart by tragedy—and in the futuristic world of tomorrow, the members of the once-Fantastic Four are divided and vulnerable to opponents from their past. What events could have caused the FF to go their separate ways, and how does their disbanding set the stage for a conflict that will send shockwaves across the galaxy and beyond?",
+    "modified": "1969-12-31T19:00:00-0500",
+    "isbn": "",
+    "upc": "5960605786-00121",
+    "diamondCode": "",
+    "ean": "",
+    "issn": "",
+    "format": "Comic",
+    "pageCount": 0,
+    "textObjects": [
+        {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "Alan Davis writes and pencils the final story of Marvel’s first family! Even the strongest family can be torn apart by tragedy—and in the futuristic world of tomorrow, the members of the once-Fantastic Four are divided and vulnerable to opponents from their past. What events could have caused the FF to go their separate ways, and how does their disbanding set the stage for a conflict that will send shockwaves across the galaxy and beyond?"
+        }
+    ],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/5601",
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/5601/fantastic_four_the_end_2006_1_rough_cut/rough_cut?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ],
+    "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/965",
+        "name": "Fantastic Four: The End (2006 - 2007)"
+    },
+    "variants": [
+        {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/5358",
+            "name": "Fantastic Four: The End (2006) #1"
+        }
+    ],
+    "collections": [],
+    "collectedIssues": [],
+    "dates": [
+        {
+            "type": "onsaleDate",
+            "date": "2006-11-01T00:00:00-0500"
+        },
+        {
+            "type": "focDate",
+            "date": "1969-12-31T19:00:00-0500"
+        }
+    ],
+    "prices": [
+        {
+            "type": "printPrice",
+            "price": 3.99
+        }
+    ],
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available",
+        "extension": "jpg"
+    },
+    "images": [],
+    "creators": {
+        "available": 1,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/5601/creators",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/30",
+                "name": "Stan Lee",
+                "role": "writer"
+            }
+        ],
+        "returned": 1
+    },
+    "characters": {
+        "available": 1,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/5601/characters",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009299",
+                "name": "Fantastic Four"
+            }
+        ],
+        "returned": 1
+    },
+    "stories": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/5601/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/5417",
+                "name": "Cover #5417",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/5418",
+                "name": "Interior #5418",
+                "type": "interiorStory"
+            }
+        ],
+        "returned": 2
+    },
+    "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/5601/events",
+        "items": [],
+        "returned": 0
+    }
+}

@@ -1,0 +1,103 @@
+{
+    "id": 939,
+    "digitalId": 0,
+    "title": "Best of Spider-Man Vol. I (Hardcover)",
+    "issueNumber": 0,
+    "variantDescription": "",
+    "description": "Volume I collects the past year's most critically acclaimed Spider-Man stories in a hardcover edition, including the web-slinger's reaction to the most horrific tragedy in New York City's history, the events of September 11th. Also featured in this compilation are appearances by Marvel icons Daredevil and The Punisher.",
+    "modified": "-0001-11-30T00:00:00-0500",
+    "isbn": "0-7851-0900-5",
+    "upc": "",
+    "diamondCode": "",
+    "ean": "",
+    "issn": "",
+    "format": "Hardcover",
+    "pageCount": 336,
+    "textObjects": [
+        {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "Volume I collects the past year's most critically acclaimed Spider-Man stories in a hardcover edition, including the web-slinger's reaction to the most horrific tragedy in New York City's history, the events of September 11th. Also featured in this compilation are appearances by Marvel icons Daredevil and The Punisher."
+        }
+    ],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/939",
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/collection/939/best_of_spider-man_vol_i_hardcover?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ],
+    "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/4",
+        "name": "Best of Spider-Man Vol. I (1999)"
+    },
+    "variants": [],
+    "collections": [],
+    "collectedIssues": [
+        {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/10546",
+            "name": "Peter Parker: Spider-Man (1999) #36"
+        }
+    ],
+    "dates": [
+        {
+            "type": "onsaleDate",
+            "date": "1999-11-30T00:00:00-0500"
+        },
+        {
+            "type": "focDate",
+            "date": "-0001-11-30T00:00:00-0500"
+        }
+    ],
+    "prices": [
+        {
+            "type": "printPrice",
+            "price": 9.99
+        }
+    ],
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/00/4bc670e9a43ab",
+        "extension": "jpg"
+    },
+    "images": [
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/00/4bc670e9a43ab",
+            "extension": "jpg"
+        }
+    ],
+    "creators": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/939/creators",
+        "items": [],
+        "returned": 0
+    },
+    "characters": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/939/characters",
+        "items": [],
+        "returned": 0
+    },
+    "stories": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/939/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/25598",
+                "name": "",
+                "type": ""
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/65082",
+                "name": "BEST OF SPIDER-MAN VOL. I HC 0 cover",
+                "type": "cover"
+            }
+        ],
+        "returned": 2
+    },
+    "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/939/events",
+        "items": [],
+        "returned": 0
+    }
+}

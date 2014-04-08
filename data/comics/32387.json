@@ -1,0 +1,102 @@
+{
+    "id": 32387,
+    "digitalId": 0,
+    "title": "Punisher Max MGC (2010) #1",
+    "issueNumber": 1,
+    "variantDescription": "",
+    "description": "MARVEL'S GREATEST COMICS\r\n$1.00",
+    "modified": "-0001-11-30T00:00:00-0500",
+    "isbn": "",
+    "upc": "5960607211-00111",
+    "diamondCode": "JAN100564",
+    "ean": "",
+    "issn": "",
+    "format": "Comic",
+    "pageCount": 32,
+    "textObjects": [
+        {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "MARVEL'S GREATEST COMICS\r\n$1.00"
+        }
+    ],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/32387",
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/32387/punisher_max_mgc_2010_1?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ],
+    "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/9362",
+        "name": "Punisher Max MGC (2010)"
+    },
+    "variants": [],
+    "collections": [],
+    "collectedIssues": [],
+    "dates": [
+        {
+            "type": "onsaleDate",
+            "date": "2010-03-31T00:00:00-0400"
+        },
+        {
+            "type": "focDate",
+            "date": "2010-03-11T00:00:00-0500"
+        }
+    ],
+    "prices": [
+        {
+            "type": "printPrice",
+            "price": 1
+        }
+    ],
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/8/c0/4baa3f4125f62",
+        "extension": "jpg"
+    },
+    "images": [
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/f/c0/4bacdc867ee38",
+            "extension": "jpg"
+        },
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/8/c0/4baa3f4125f62",
+            "extension": "jpg"
+        }
+    ],
+    "creators": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/32387/creators",
+        "items": [],
+        "returned": 0
+    },
+    "characters": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/32387/characters",
+        "items": [],
+        "returned": 0
+    },
+    "stories": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/32387/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/73183",
+                "name": "Cover #73183",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/73185",
+                "name": "Interior #73185",
+                "type": "interiorStory"
+            }
+        ],
+        "returned": 2
+    },
+    "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/32387/events",
+        "items": [],
+        "returned": 0
+    }
+}

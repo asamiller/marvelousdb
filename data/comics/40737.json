@@ -1,0 +1,141 @@
+{
+    "id": 40737,
+    "digitalId": 26373,
+    "title": "New Avengers (2010) #26",
+    "issueNumber": 26,
+    "variantDescription": "",
+    "description": "AVX TIE-IN Attempting to stop the Phoenix Force by any means necessary, Thor gathers the SECRET AVENGERS for a fight against the ancient power that may prove to be a battle that none of the team will be able to return from. \n",
+    "modified": "2013-04-12T10:54:16-0400",
+    "isbn": "",
+    "upc": "5960607247-02611",
+    "diamondCode": "MAR120542",
+    "ean": "",
+    "issn": "0274-5240",
+    "format": "Comic",
+    "pageCount": 32,
+    "textObjects": [
+        {
+            "type": "issue_preview_text",
+            "language": "en-us",
+            "text": "AVX TIE-IN Attempting to stop the Phoenix Force by any means necessary, Thor gathers the SECRET AVENGERS for a fight against the ancient power that may prove to be a battle that none of the team will be able to return from. \n"
+        },
+        {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "\t<ul><li> AVX TIE-IN!</li><li> The secret history of the Phoenix is revealed in K'un Lun's book of the dead Iron Fists. One of the most important chapters in the AVX story. </li><li> What is Danny Rand's secret connection to the Phoenix? </li></ul>\t "
+        }
+    ],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/40737",
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/40737/new_avengers_2010_26?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/New-Avengers-26/digital-comic/26373?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=26373&utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "inAppLink",
+            "url": "http://applink.marvel.com/issue/26373?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ],
+    "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/9922",
+        "name": "New Avengers (2010 - 2012)"
+    },
+    "variants": [],
+    "collections": [],
+    "collectedIssues": [],
+    "dates": [
+        {
+            "type": "onsaleDate",
+            "date": "2012-05-09T00:00:00-0400"
+        },
+        {
+            "type": "focDate",
+            "date": "2012-04-25T00:00:00-0400"
+        },
+        {
+            "type": "unlimitedDate",
+            "date": "2013-04-08T00:00:00-0400"
+        },
+        {
+            "type": "digitalPurchaseDate",
+            "date": "2012-05-09T00:00:00-0400"
+        }
+    ],
+    "prices": [
+        {
+            "type": "printPrice",
+            "price": 3.99
+        },
+        {
+            "type": "digitalPurchasePrice",
+            "price": 1.99
+        }
+    ],
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/4/70/4fabf1a1adc2f",
+        "extension": "jpg"
+    },
+    "images": [
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/4/70/4fabf1a1adc2f",
+            "extension": "jpg"
+        }
+    ],
+    "creators": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/40737/creators",
+        "items": [],
+        "returned": 0
+    },
+    "characters": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/40737/characters",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1011428",
+                "name": "Hope Summers"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009367",
+                "name": "Iron Fist (Danny Rand)"
+            }
+        ],
+        "returned": 2
+    },
+    "stories": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/40737/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/92298",
+                "name": "New Avengers (2010) #26",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/92299",
+                "name": "Interior #92299",
+                "type": "interiorStory"
+            }
+        ],
+        "returned": 2
+    },
+    "events": {
+        "available": 1,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/40737/events",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/events/310",
+                "name": "Avengers VS X-Men"
+            }
+        ],
+        "returned": 1
+    }
+}

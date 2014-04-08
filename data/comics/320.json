@@ -1,0 +1,128 @@
+{
+    "id": 320,
+    "digitalId": 0,
+    "title": "Actor Presents Spider-Man and the Incredible Hulk (2003) #1",
+    "issueNumber": 1,
+    "variantDescription": "",
+    "description": "Marvel Comics and A.C.T.O.R. team up to bring you two stories about Marvel's most popular characters in this special one-shot benefit book for the holiday season. \nProceeds from this book benefit A.C.T.O.R., the charitable organization dedicated to providing financial assistance to disadvantaged comic book creators.\n32 PGS./MARVEL PSR...$2.50\n",
+    "modified": "2011-09-28T15:38:11-0400",
+    "isbn": "",
+    "upc": "5960604716-50311",
+    "diamondCode": "",
+    "ean": "",
+    "issn": "",
+    "format": "Comic",
+    "pageCount": 0,
+    "textObjects": [
+        {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "Marvel Comics and A.C.T.O.R. team up to bring you two stories about Marvel's most popular characters in this special one-shot benefit book for the holiday season. \nProceeds from this book benefit A.C.T.O.R., the charitable organization dedicated to providing financial assistance to disadvantaged comic book creators.\n32 PGS./MARVEL PSR...$2.50\n"
+        }
+    ],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/320",
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/320/actor_presents_spider-man_and_the_incredible_hulk_2003_1?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ],
+    "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/458",
+        "name": "Actor Presents Spider-Man and the Incredible Hulk (2003)"
+    },
+    "variants": [],
+    "collections": [],
+    "collectedIssues": [],
+    "dates": [
+        {
+            "type": "onsaleDate",
+            "date": "2003-12-31T00:00:00-0500"
+        },
+        {
+            "type": "focDate",
+            "date": "-0001-11-30T00:00:00-0500"
+        }
+    ],
+    "prices": [
+        {
+            "type": "printPrice",
+            "price": 2.5
+        }
+    ],
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/d/00/4bc69f37df47b",
+        "extension": "jpg"
+    },
+    "images": [
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/d/00/4bc69f37df47b",
+            "extension": "jpg"
+        }
+    ],
+    "creators": {
+        "available": 4,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/320/creators",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/516",
+                "name": "Troy Hickman",
+                "role": "writer"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/515",
+                "name": "Joseph Michael Linsner",
+                "role": "penciller (cover)"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/517",
+                "name": "Dave Simons",
+                "role": "penciller"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/518",
+                "name": "Al Vey",
+                "role": "inker"
+            }
+        ],
+        "returned": 4
+    },
+    "characters": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/320/characters",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009351",
+                "name": "Hulk"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009610",
+                "name": "Spider-Man"
+            }
+        ],
+        "returned": 2
+    },
+    "stories": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/320/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/1133",
+                "name": "Cover #1133",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/1134",
+                "name": "Interior #1134",
+                "type": "interiorStory"
+            }
+        ],
+        "returned": 2
+    },
+    "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/320/events",
+        "items": [],
+        "returned": 0
+    }
+}

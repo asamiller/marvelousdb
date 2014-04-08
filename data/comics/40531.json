@@ -1,0 +1,147 @@
+{
+    "id": 40531,
+    "digitalId": 26738,
+    "title": "Captain America and... (2012) #632",
+    "issueNumber": 632,
+    "variantDescription": "",
+    "description": "<ul><li> The Hybrid Queen awakens&emdash;in a big way&emdash;and only Cap, Hawkeye, and Stegron (?!) stand in her way!</li><li> And whose side is the mysterious Kashmir Vennema on? (Hint: It’s not Cap and Hawkeye’s!)</li><ul>",
+    "modified": "2013-03-20T14:50:57-0400",
+    "isbn": "",
+    "upc": "5960605652-63211",
+    "diamondCode": "APR120622",
+    "ean": "",
+    "issn": "0274-5267",
+    "format": "Comic",
+    "pageCount": 32,
+    "textObjects": [
+        {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "<ul><li> The Hybrid Queen awakens&emdash;in a big way&emdash;and only Cap, Hawkeye, and Stegron (?!) stand in her way!</li><li> And whose side is the mysterious Kashmir Vennema on? (Hint: It’s not Cap and Hawkeye’s!)</li><ul>"
+        }
+    ],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/40531",
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/40531/captain_america_and._2012_632?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/Captain-America-and-632/digital-comic/26738?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=26738&utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "inAppLink",
+            "url": "http://applink.marvel.com/issue/26738?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ],
+    "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/16325",
+        "name": "Captain America and... (2012)"
+    },
+    "variants": [],
+    "collections": [],
+    "collectedIssues": [],
+    "dates": [
+        {
+            "type": "onsaleDate",
+            "date": "2012-06-13T00:00:00-0400"
+        },
+        {
+            "type": "focDate",
+            "date": "2012-05-30T00:00:00-0400"
+        },
+        {
+            "type": "unlimitedDate",
+            "date": "2013-03-20T14:49:24-0400"
+        },
+        {
+            "type": "digitalPurchaseDate",
+            "date": "2012-06-13T00:00:00-0400"
+        }
+    ],
+    "prices": [
+        {
+            "type": "printPrice",
+            "price": 2.99
+        },
+        {
+            "type": "digitalPurchasePrice",
+            "price": 1.99
+        }
+    ],
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/80/514389bf29ac2",
+        "extension": "jpg"
+    },
+    "images": [
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/80/514389bf29ac2",
+            "extension": "jpg"
+        }
+    ],
+    "creators": {
+        "available": 3,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/40531/creators",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/10023",
+                "name": "Cullen Bunn",
+                "role": "writer"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/10124",
+                "name": "Alessandro Vitti",
+                "role": "artist"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/661",
+                "name": "Patrick Zircher",
+                "role": "penciller (cover)"
+            }
+        ],
+        "returned": 3
+    },
+    "characters": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/40531/characters",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009220",
+                "name": "Captain America"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009338",
+                "name": "Hawkeye"
+            }
+        ],
+        "returned": 2
+    },
+    "stories": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/40531/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/91884",
+                "name": "Cover #91884",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/91885",
+                "name": "Interior #91885",
+                "type": "interiorStory"
+            }
+        ],
+        "returned": 2
+    },
+    "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/40531/events",
+        "items": [],
+        "returned": 0
+    }
+}

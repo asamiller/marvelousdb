@@ -1,0 +1,128 @@
+{
+    "id": 42531,
+    "digitalId": 0,
+    "title": "AVENGERS ASSEMBLE (2012) #2 (Avengers Appreciation Variant)",
+    "issueNumber": 2,
+    "variantDescription": "Avengers Appreciation Variant",
+    "description": "&bull; Who Is The Zodiac?\r\n&bull; The Blockbuster Team Behind Ultimate Spider-Man Bring You An\r\nIn-Continuity Avengers Team For Movie And Comic Book Fans Alike!\r\n",
+    "modified": "2012-04-10T01:31:19-0400",
+    "isbn": "",
+    "upc": "5960607749-00221",
+    "diamondCode": "FEB120555",
+    "ean": "",
+    "issn": "",
+    "format": "Comic",
+    "pageCount": 32,
+    "textObjects": [
+        {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "&bull; Who Is The Zodiac?\r\n&bull; The Blockbuster Team Behind Ultimate Spider-Man Bring You An\r\nIn-Continuity Avengers Team For Movie And Comic Book Fans Alike!\r\n"
+        }
+    ],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/42531",
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/42531/avengers_assemble_2012_2_avengers_appreciation_variant/avengers_appreciation_variant?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ],
+    "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/15373",
+        "name": "AVENGERS ASSEMBLE (2012 - Present)"
+    },
+    "variants": [
+        {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/41357",
+            "name": "AVENGERS ASSEMBLE (2012) #2"
+        }
+    ],
+    "collections": [],
+    "collectedIssues": [],
+    "dates": [
+        {
+            "type": "onsaleDate",
+            "date": "2012-04-11T00:00:00-0400"
+        },
+        {
+            "type": "focDate",
+            "date": "2012-03-28T00:00:00-0400"
+        }
+    ],
+    "prices": [
+        {
+            "type": "printPrice",
+            "price": 3.99
+        }
+    ],
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/f0/4f1d76d7e3b9d",
+        "extension": "jpg"
+    },
+    "images": [
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/2/04/4f1db79ef18ff",
+            "extension": "jpg"
+        },
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/f0/4f1d76d7e3b9d",
+            "extension": "jpg"
+        }
+    ],
+    "creators": {
+        "available": 3,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/42531/creators",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/87",
+                "name": "Mark Bagley",
+                "role": "penciller (cover)"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/24",
+                "name": "Brian Michael Bendis",
+                "role": "writer"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/10785",
+                "name": "Stephanie Hans",
+                "role": "Artist"
+            }
+        ],
+        "returned": 3
+    },
+    "characters": {
+        "available": 1,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/42531/characters",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009165",
+                "name": "Avengers"
+            }
+        ],
+        "returned": 1
+    },
+    "stories": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/42531/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/95867",
+                "name": "Cover #95867",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/95868",
+                "name": "Interior #95868",
+                "type": "interiorStory"
+            }
+        ],
+        "returned": 2
+    },
+    "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/42531/events",
+        "items": [],
+        "returned": 0
+    }
+}

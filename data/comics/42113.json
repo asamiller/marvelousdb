@@ -1,0 +1,103 @@
+{
+    "id": 42113,
+    "digitalId": 0,
+    "title": "Avengers (2010) #21 (Venom Variant)",
+    "issueNumber": 21,
+    "variantDescription": "Venom Variant",
+    "description": " - STORM IS NOW AN AVENGER!\r\n<br>HOW CAN THE AVENGERS BATTLE THE COMBINED FORCES OF HYDRA, AIM, THE HAND, AND H.A.M.M.E.R. UNDER THE LEADERSHIP OF NORMAN OSBORN?\r\n",
+    "modified": "2012-01-13T16:07:20-0500",
+    "isbn": "",
+    "upc": "5960607015-02121",
+    "diamondCode": "NOV110494",
+    "ean": "",
+    "issn": "2153-988X",
+    "format": "Comic",
+    "pageCount": 32,
+    "textObjects": [
+        {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": " - STORM IS NOW AN AVENGER!\r\n<br>HOW CAN THE AVENGERS BATTLE THE COMBINED FORCES OF HYDRA, AIM, THE HAND, AND H.A.M.M.E.R. UNDER THE LEADERSHIP OF NORMAN OSBORN?\r\n"
+        }
+    ],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/42113",
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/42113/avengers_2010_21_venom_variant/venom_variant?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ],
+    "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/9085",
+        "name": "Avengers (2010 - 2012)"
+    },
+    "variants": [
+        {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/35229",
+            "name": "Avengers (2010) #21"
+        }
+    ],
+    "collections": [],
+    "collectedIssues": [],
+    "dates": [
+        {
+            "type": "onsaleDate",
+            "date": "2012-01-18T00:00:00-0500"
+        },
+        {
+            "type": "focDate",
+            "date": "2012-01-04T00:00:00-0500"
+        }
+    ],
+    "prices": [
+        {
+            "type": "printPrice",
+            "price": 3.99
+        }
+    ],
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/2/a0/4f106017127ae",
+        "extension": "jpg"
+    },
+    "images": [
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/2/a0/4f106017127ae",
+            "extension": "jpg"
+        }
+    ],
+    "creators": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/42113/creators",
+        "items": [],
+        "returned": 0
+    },
+    "characters": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/42113/characters",
+        "items": [],
+        "returned": 0
+    },
+    "stories": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/42113/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/95129",
+                "name": "Cover #95129",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/95130",
+                "name": "Interior #95130",
+                "type": "interiorStory"
+            }
+        ],
+        "returned": 2
+    },
+    "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/42113/events",
+        "items": [],
+        "returned": 0
+    }
+}

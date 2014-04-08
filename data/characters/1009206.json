@@ -1,0 +1,88 @@
+{
+    "id": 1009206,
+    "name": "Box",
+    "description": "",
+    "modified": "1969-12-31T19:00:00-0500",
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/e0/4ce59ef63362d",
+        "extension": "jpg"
+    },
+    "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009206",
+    "comics": {
+        "available": 4,
+        "collectionURI": "http://gateway.marvel.com/v1/public/characters/1009206/comics",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/comics/12693",
+                "name": "Alpha Flight (1983) #32"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/comics/12694",
+                "name": "Alpha Flight (1983) #33"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/comics/12716",
+                "name": "Alpha Flight (1983) #53"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/comics/37491",
+                "name": "X-Men: Earth's Mutant Heroes (2010) #1"
+            }
+        ],
+        "returned": 4
+    },
+    "series": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/characters/1009206/series",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/series/2116",
+                "name": "Alpha Flight (1983 - 1994)"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/series/13492",
+                "name": "X-Men: Earth's Mutant Heroes (2010 - 2011)"
+            }
+        ],
+        "returned": 2
+    },
+    "stories": {
+        "available": 4,
+        "collectionURI": "http://gateway.marvel.com/v1/public/characters/1009206/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/21220",
+                "name": "Cover #21220",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/21222",
+                "name": "Cover #21222",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/21267",
+                "name": "Cover #21267",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/82977",
+                "name": "X-Men: Earth's Mutant Heroes #1",
+                "type": "interiorStory"
+            }
+        ],
+        "returned": 4
+    },
+    "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/characters/1009206/events",
+        "items": [],
+        "returned": 0
+    },
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/characters/1009206/box?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ]
+}

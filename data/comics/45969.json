@@ -1,0 +1,124 @@
+{
+    "id": 45969,
+    "digitalId": 0,
+    "title": "Captain America (2012) #4 (Bianchi Variant)",
+    "issueNumber": 4,
+    "variantDescription": "Bianchi Variant",
+    "description": "INTRODUCING JET BLACK! SHE&rsquo;S WAITED HER WHOLE LIFE FOR THE CHANCE TO DESTROY CAPTAIN AMERICA!",
+    "modified": "2013-02-11T16:24:54-0500",
+    "isbn": "",
+    "upc": "75960607904900421",
+    "diamondCode": "DEC120661",
+    "ean": "",
+    "issn": "",
+    "format": "Comic",
+    "pageCount": 32,
+    "textObjects": [
+        {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "INTRODUCING JET BLACK! SHE&rsquo;S WAITED HER WHOLE LIFE FOR THE CHANCE TO DESTROY CAPTAIN AMERICA!"
+        }
+    ],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/45969",
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/45969/captain_america_2012_4_bianchi_variant/bianchi_variant?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ],
+    "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/16516",
+        "name": "Captain America (2012 - Present)"
+    },
+    "variants": [
+        {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/45968",
+            "name": "Captain America (2012) #4"
+        }
+    ],
+    "collections": [],
+    "collectedIssues": [],
+    "dates": [
+        {
+            "type": "onsaleDate",
+            "date": "2013-02-20T00:00:00-0500"
+        },
+        {
+            "type": "focDate",
+            "date": "2013-02-06T00:00:00-0500"
+        }
+    ],
+    "prices": [
+        {
+            "type": "printPrice",
+            "price": 3.99
+        }
+    ],
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/f/b0/51141b177290b",
+        "extension": "jpg"
+    },
+    "images": [
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/f/b0/51141b177290b",
+            "extension": "jpg"
+        }
+    ],
+    "creators": {
+        "available": 4,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/45969/creators",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/648",
+                "name": "Simone Bianchi",
+                "role": "artist (cover)"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/2133",
+                "name": "Tom Brevoort",
+                "role": "editor"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/11835",
+                "name": "Rick Remender",
+                "role": "writer"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/214",
+                "name": "John Romita JR.",
+                "role": "artist"
+            }
+        ],
+        "returned": 4
+    },
+    "characters": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/45969/characters",
+        "items": [],
+        "returned": 0
+    },
+    "stories": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/45969/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/103456",
+                "name": "cover from Captain America (2012) #4 (TBD ARTIST VARIANT)",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/103457",
+                "name": "story from Captain America (2012) #4 (TBD ARTIST VARIANT)",
+                "type": "interiorStory"
+            }
+        ],
+        "returned": 2
+    },
+    "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/45969/events",
+        "items": [],
+        "returned": 0
+    }
+}

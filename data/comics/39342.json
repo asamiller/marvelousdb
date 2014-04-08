@@ -1,0 +1,140 @@
+{
+    "id": 39342,
+    "digitalId": 0,
+    "title": "Ultimate Comics Spider-Man (2009) #153 (2nd Printing Variant)",
+    "issueNumber": 153,
+    "variantDescription": "2nd Printing Variant",
+    "description": "Prelude to the Death of Spider-Man!",
+    "modified": "2011-05-06T09:50:12-0400",
+    "isbn": "",
+    "upc": "5960607496-15341",
+    "diamondCode": "",
+    "ean": "",
+    "issn": "1535-8526",
+    "format": "Comic",
+    "pageCount": 32,
+    "textObjects": [
+        {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "Prelude to the Death of Spider-Man!"
+        }
+    ],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/39342",
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/39342/ultimate_comics_spider-man_2009_153_2nd_printing_variant/2nd_printing_variant?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ],
+    "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/8509",
+        "name": "Ultimate Comics Spider-Man (2009 - 2012)"
+    },
+    "variants": [
+        {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/37459",
+            "name": "Ultimate Comics Spider-Man (2009) #153"
+        },
+        {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/38808",
+            "name": "Ultimate Comics Spider-Man (2009) #153 (PICHELLI VARIANT)"
+        }
+    ],
+    "collections": [],
+    "collectedIssues": [],
+    "dates": [
+        {
+            "type": "onsaleDate",
+            "date": "2011-05-11T00:00:00-0400"
+        },
+        {
+            "type": "focDate",
+            "date": "2011-04-26T00:00:00-0400"
+        }
+    ],
+    "prices": [
+        {
+            "type": "printPrice",
+            "price": 3.99
+        }
+    ],
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/60/4dc303475d7cf",
+        "extension": "jpg"
+    },
+    "images": [
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/60/4dc303475d7cf",
+            "extension": "jpg"
+        },
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/d/40/4d38806530109",
+            "extension": "jpg"
+        },
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/50/4d388041083cf",
+            "extension": "jpg"
+        },
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/e0/4d387fdbd5338",
+            "extension": "jpg"
+        }
+    ],
+    "creators": {
+        "available": 3,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/39342/creators",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/24",
+                "name": "Brian Michael Bendis",
+                "role": "writer"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/7375",
+                "name": "DAVID LAFUENTE",
+                "role": "penciller"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/9408",
+                "name": "Sara Pichelli",
+                "role": "penciller"
+            }
+        ],
+        "returned": 3
+    },
+    "characters": {
+        "available": 1,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/39342/characters",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1011010",
+                "name": "Spider-Man (Ultimate)"
+            }
+        ],
+        "returned": 1
+    },
+    "stories": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/39342/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/82917",
+                "name": "Interior #82917",
+                "type": "interiorStory"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/89304",
+                "name": "Cover #89304",
+                "type": "cover"
+            }
+        ],
+        "returned": 2
+    },
+    "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/39342/events",
+        "items": [],
+        "returned": 0
+    }
+}

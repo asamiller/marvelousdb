@@ -1,0 +1,162 @@
+{
+    "id": 37402,
+    "digitalId": 22106,
+    "title": "FF (2010) #5",
+    "issueNumber": 5,
+    "variantDescription": "",
+    "description": "As the War of Four Cities heats up, the Universal Inhumans enter the fray! What role will the FF play in things to come? \n",
+    "modified": "2011-11-21T13:36:49-0500",
+    "isbn": "",
+    "upc": "5960607495-00511",
+    "diamondCode": "",
+    "ean": "",
+    "issn": "0274-5291",
+    "format": "Comic",
+    "pageCount": 32,
+    "textObjects": [
+        {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "The War of Four Cities: Part Two! As the War of Four Cities heats up, the Universal Inhumans enter the fray! What role will the FF play in things to come? Prepare for epic battles, live lost and saved, and the awaited return of a beloved Marvel hero!"
+        },
+        {
+            "type": "issue_preview_text",
+            "language": "en-us",
+            "text": "As the War of Four Cities heats up, the Universal Inhumans enter the fray! What role will the FF play in things to come? \n"
+        }
+    ],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/37402",
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/37402/ff_2010_5?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/Ff-5/digital-comic/22106?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=22106&utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "inAppLink",
+            "url": "http://applink.marvel.com/issue/22106?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ],
+    "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/13440",
+        "name": "FF (2010 - 2012)"
+    },
+    "variants": [
+        {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/39727",
+            "name": "FF (2010) #5 (I Am Captain America Variant   )"
+        }
+    ],
+    "collections": [],
+    "collectedIssues": [],
+    "dates": [
+        {
+            "type": "onsaleDate",
+            "date": "2011-06-29T00:00:00-0400"
+        },
+        {
+            "type": "focDate",
+            "date": "2011-06-06T00:00:00-0400"
+        },
+        {
+            "type": "unlimitedDate",
+            "date": "2012-03-27T00:00:00-0400"
+        },
+        {
+            "type": "digitalPurchaseDate",
+            "date": "2011-12-13T00:00:00-0500"
+        }
+    ],
+    "prices": [
+        {
+            "type": "printPrice",
+            "price": 2.99
+        },
+        {
+            "type": "digitalPurchasePrice",
+            "price": 1.99
+        }
+    ],
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/00/51f68bb1f3412",
+        "extension": "jpg"
+    },
+    "images": [
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/00/51f68bb1f3412",
+            "extension": "jpg"
+        },
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/50/4d88c3e034d24",
+            "extension": "jpg"
+        }
+    ],
+    "creators": {
+        "available": 4,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/37402/creators",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/87",
+                "name": "Mark Bagley",
+                "role": "penciller (cover)"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/2133",
+                "name": "Tom Brevoort",
+                "role": "editor"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/11743",
+                "name": "Jonathan Hickman",
+                "role": "writer"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/481",
+                "name": "Barry Kitson",
+                "role": "penciller"
+            }
+        ],
+        "returned": 4
+    },
+    "characters": {
+        "available": 1,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/37402/characters",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009299",
+                "name": "Fantastic Four"
+            }
+        ],
+        "returned": 1
+    },
+    "stories": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/37402/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/82803",
+                "name": "FF #5",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/82804",
+                "name": "Interior #82804",
+                "type": "interiorStory"
+            }
+        ],
+        "returned": 2
+    },
+    "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/37402/events",
+        "items": [],
+        "returned": 0
+    }
+}

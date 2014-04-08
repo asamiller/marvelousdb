@@ -1,0 +1,132 @@
+{
+    "id": 5223,
+    "digitalId": 7043,
+    "title": "Stan Lee Meets Dr. Doom (2006) #1",
+    "issueNumber": 1,
+    "variantDescription": "",
+    "description": "The latest in a series of stand-alone specials celebrating the 65th Anniversary of Stan Lee’s employment at Marvel! First, Stan is abducted to Latveria by the sinister Doctor Doom, as depicted by Salvador Larroca! Then, Doom reflects on his long history of villainy in a tale by Jeph Loeb and Ed McGuinness ! And finally, a reprint of the classic Stan-scripted FANTASTIC FOUR #87, in which only Doom’s own monstrous ego can save the FF from his terrible wrath!\r<br>48 PGS./Rated T+ ...$3.99\r<br>",
+    "modified": "-0001-11-30T00:00:00-0500",
+    "isbn": "",
+    "upc": "5960605891-00111",
+    "diamondCode": "",
+    "ean": "",
+    "issn": "",
+    "format": "Comic",
+    "pageCount": 0,
+    "textObjects": [
+        {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "The latest in a series of stand-alone specials celebrating the 65th Anniversary of Stan Lee’s employment at Marvel! First, Stan is abducted to Latveria by the sinister Doctor Doom, as depicted by Salvador Larroca! Then, Doom reflects on his long history of villainy in a tale by Jeph Loeb and Ed McGuinness ! And finally, a reprint of the classic Stan-scripted FANTASTIC FOUR #87, in which only Doom’s own monstrous ego can save the FF from his terrible wrath!\r<br>48 PGS./Rated T+ ...$3.99\r<br>"
+        }
+    ],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/5223",
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/5223/stan_lee_meets_dr_doom_2006_1?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=7043&utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ],
+    "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/1049",
+        "name": "Stan Lee Meets Dr. Doom (2006)"
+    },
+    "variants": [],
+    "collections": [
+        {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/5972",
+            "name": "Stan Lee Meets... (Hardcover)"
+        }
+    ],
+    "collectedIssues": [],
+    "dates": [
+        {
+            "type": "onsaleDate",
+            "date": "2006-11-29T00:00:00-0500"
+        },
+        {
+            "type": "focDate",
+            "date": "-0001-11-30T00:00:00-0500"
+        },
+        {
+            "type": "unlimitedDate",
+            "date": "2007-12-15T00:00:00-0500"
+        }
+    ],
+    "prices": [
+        {
+            "type": "printPrice",
+            "price": 3.99
+        }
+    ],
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/8/f0/4bc5c33cc4139",
+        "extension": "jpg"
+    },
+    "images": [
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/8/f0/4bc5c33cc4139",
+            "extension": "jpg"
+        }
+    ],
+    "creators": {
+        "available": 4,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/5223/creators",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/11757",
+                "name": "Salvador Larroca",
+                "role": "penciller (cover)"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/30",
+                "name": "Stan Lee",
+                "role": "writer"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/18",
+                "name": "Jeph Loeb",
+                "role": "writer"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/649",
+                "name": "Ed McGuinness",
+                "role": "penciller"
+            }
+        ],
+        "returned": 4
+    },
+    "characters": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/5223/characters",
+        "items": [],
+        "returned": 0
+    },
+    "stories": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/5223/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/5812",
+                "name": " Dr. Doom; reprints Fantastic Four #87",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/5813",
+                "name": " Dr. Doom; reprints Fantastic Four #87",
+                "type": "interiorStory"
+            }
+        ],
+        "returned": 2
+    },
+    "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/5223/events",
+        "items": [],
+        "returned": 0
+    }
+}

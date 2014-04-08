@@ -1,0 +1,71 @@
+{
+    "id": 1010924,
+    "name": "Miek",
+    "description": "",
+    "modified": "2013-11-01T16:30:56-0400",
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/30/52740f71b50f5",
+        "extension": "jpg"
+    },
+    "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010924",
+    "comics": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/characters/1010924/comics",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/comics/3955",
+                "name": "Incredible Hulk (1999) #93"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/comics/4446",
+                "name": "Incredible Hulk (1999) #96"
+            }
+        ],
+        "returned": 2
+    },
+    "series": {
+        "available": 1,
+        "collectionURI": "http://gateway.marvel.com/v1/public/characters/1010924/series",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/series/465",
+                "name": "Incredible Hulk (1999 - 2008)"
+            }
+        ],
+        "returned": 1
+    },
+    "stories": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/characters/1010924/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/1268",
+                "name": "Incredible Hulk (1999) #93",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/1274",
+                "name": "Incredible Hulk (1999) #96",
+                "type": "cover"
+            }
+        ],
+        "returned": 2
+    },
+    "events": {
+        "available": 1,
+        "collectionURI": "http://gateway.marvel.com/v1/public/characters/1010924/events",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/events/212",
+                "name": "Planet Hulk"
+            }
+        ],
+        "returned": 1
+    },
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/characters/1010924/miek?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ]
+}

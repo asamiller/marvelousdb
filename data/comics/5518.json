@@ -1,0 +1,132 @@
+{
+    "id": 5518,
+    "digitalId": 7045,
+    "title": "Stan Lee Meets Silver Surfer (2006) #1",
+    "issueNumber": 1,
+    "variantDescription": "",
+    "description": "The last in a series of stand-alone specials celebrating the 65th Anniversary of Stan Lee’s employment at Marvel! First, Stan is summoned by the planet-devourer Galactus to deal with the problem of his silver-skinned herald! Next, Paul Jenkins and Pasqual Ferry pay homage to the life and career of “The Man.” And finally, a classic reprint of the Stan-scripted SILVER SURFER #14, guest-starring Spider-Man! \r<br>48 PGS./Rated T+ ...$3.99\r<br>",
+    "modified": "-0001-11-30T00:00:00-0500",
+    "isbn": "",
+    "upc": "5960605894-00111",
+    "diamondCode": "",
+    "ean": "",
+    "issn": "",
+    "format": "Comic",
+    "pageCount": 0,
+    "textObjects": [
+        {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "The last in a series of stand-alone specials celebrating the 65th Anniversary of Stan Lee’s employment at Marvel! First, Stan is summoned by the planet-devourer Galactus to deal with the problem of his silver-skinned herald! Next, Paul Jenkins and Pasqual Ferry pay homage to the life and career of “The Man.” And finally, a classic reprint of the Stan-scripted SILVER SURFER #14, guest-starring Spider-Man! \r<br>48 PGS./Rated T+ ...$3.99\r<br>"
+        }
+    ],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/5518",
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/5518/stan_lee_meets_silver_surfer_2006_1?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=7045&utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ],
+    "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/1052",
+        "name": "Stan Lee Meets Silver Surfer (2006)"
+    },
+    "variants": [],
+    "collections": [
+        {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/5972",
+            "name": "Stan Lee Meets... (Hardcover)"
+        }
+    ],
+    "collectedIssues": [],
+    "dates": [
+        {
+            "type": "onsaleDate",
+            "date": "2006-12-06T00:00:00-0500"
+        },
+        {
+            "type": "focDate",
+            "date": "-0001-11-30T00:00:00-0500"
+        },
+        {
+            "type": "unlimitedDate",
+            "date": "2007-12-05T00:00:00-0500"
+        }
+    ],
+    "prices": [
+        {
+            "type": "printPrice",
+            "price": 3.99
+        }
+    ],
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/60/4bc5bb85a8238",
+        "extension": "jpg"
+    },
+    "images": [
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/60/4bc5bb85a8238",
+            "extension": "jpg"
+        }
+    ],
+    "creators": {
+        "available": 3,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/5518/creators",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/30",
+                "name": "Stan Lee",
+                "role": "writer"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/2986",
+                "name": "Sean Parsons",
+                "role": "inker"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/206",
+                "name": "Mike Wieringo",
+                "role": "penciller (cover)"
+            }
+        ],
+        "returned": 3
+    },
+    "characters": {
+        "available": 1,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/5518/characters",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009592",
+                "name": "Silver Surfer"
+            }
+        ],
+        "returned": 1
+    },
+    "stories": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/5518/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/5818",
+                "name": "Tales to Astonish: Silver Surfer; reprints Silver Surfer #14",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/5819",
+                "name": "Tales to Astonish: Silver Surfer; reprints Silver Surfer #14",
+                "type": "interiorStory"
+            }
+        ],
+        "returned": 2
+    },
+    "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/5518/events",
+        "items": [],
+        "returned": 0
+    }
+}

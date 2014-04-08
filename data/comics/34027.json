@@ -1,0 +1,152 @@
+{
+    "id": 34027,
+    "digitalId": 25315,
+    "title": "Moon Knight (2010) #9",
+    "issueNumber": 9,
+    "variantDescription": "",
+    "description": "Moon Knight throws down with the Kingpin of Los Angeles! The Battle for LA's soul claims a life - one that will be felt throughout the Marvel U, all the way to Avengers Tower! \n",
+    "modified": "2013-03-08T17:34:57-0500",
+    "isbn": "",
+    "upc": "5960607335-00911",
+    "diamondCode": "NOV110547",
+    "ean": "",
+    "issn": "",
+    "format": "Comic",
+    "pageCount": 32,
+    "textObjects": [
+        {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "<br>MOON KNIGHT throws down with the KINGPIN OF LOS ANGELES!\r\n<br>The Battle for LA's Soul claims a life - one that will be felt throughout the Marvel U,\r\nall the way to Avengers Tower!\r\n<br>Brian Michael Bendis and Alex Maleev continue the adventures of Marvel's Psyche-Splitting Superstar!"
+        },
+        {
+            "type": "issue_preview_text",
+            "language": "en-us",
+            "text": "Moon Knight throws down with the Kingpin of Los Angeles! The Battle for LA's soul claims a life - one that will be felt throughout the Marvel U, all the way to Avengers Tower! \n"
+        }
+    ],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/34027",
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/34027/moon_knight_2010_9?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/Moon-Knight-9/digital-comic/25315?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=25315&utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "inAppLink",
+            "url": "http://applink.marvel.com/issue/25315?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ],
+    "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/10639",
+        "name": "Moon Knight (2010 - 2012)"
+    },
+    "variants": [],
+    "collections": [],
+    "collectedIssues": [],
+    "dates": [
+        {
+            "type": "onsaleDate",
+            "date": "2012-01-18T00:00:00-0500"
+        },
+        {
+            "type": "focDate",
+            "date": "2012-01-04T00:00:00-0500"
+        },
+        {
+            "type": "unlimitedDate",
+            "date": "2012-07-31T00:00:00-0400"
+        },
+        {
+            "type": "digitalPurchaseDate",
+            "date": "2012-02-28T00:00:00-0500"
+        }
+    ],
+    "prices": [
+        {
+            "type": "printPrice",
+            "price": 3.99
+        },
+        {
+            "type": "digitalPurchasePrice",
+            "price": 1.99
+        }
+    ],
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/f/d0/513a67507015c",
+        "extension": "jpg"
+    },
+    "images": [
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/f/d0/513a67507015c",
+            "extension": "jpg"
+        },
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/d/c0/4e97337391017",
+            "extension": "jpg"
+        }
+    ],
+    "creators": {
+        "available": 3,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/34027/creators",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/24",
+                "name": "Brian Michael Bendis",
+                "role": "Writer"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/25",
+                "name": "Alex Maleev",
+                "role": "Artist"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/361",
+                "name": "Cory Petit",
+                "role": "letterer"
+            }
+        ],
+        "returned": 3
+    },
+    "characters": {
+        "available": 1,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/34027/characters",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009452",
+                "name": "Moon Knight"
+            }
+        ],
+        "returned": 1
+    },
+    "stories": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/34027/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/75998",
+                "name": "Cover #75998",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/75999",
+                "name": "Interior #75999",
+                "type": "interiorStory"
+            }
+        ],
+        "returned": 2
+    },
+    "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/34027/events",
+        "items": [],
+        "returned": 0
+    }
+}

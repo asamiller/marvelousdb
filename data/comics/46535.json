@@ -1,0 +1,122 @@
+{
+    "id": 46535,
+    "digitalId": 0,
+    "title": "Thunderbolts (2012) #15",
+    "issueNumber": 15,
+    "variantDescription": "",
+    "description": "\r\n\r\n\r\n<ul><li>Thanos&#39; hordes come crashing down&hellip;</li><li>&hellip;right in the middle of the Thunderbolts&#39; mission!</li></ul>",
+    "modified": "2013-11-19T16:53:41-0500",
+    "isbn": "",
+    "upc": "75960607914801511",
+    "diamondCode": "JUL130595",
+    "ean": "",
+    "issn": "",
+    "format": "Comic",
+    "pageCount": 32,
+    "textObjects": [
+        {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "\r\n\r\n\r\n<ul><li>Thanos&#39; hordes come crashing down&hellip;</li><li>&hellip;right in the middle of the Thunderbolts&#39; mission!</li></ul>"
+        }
+    ],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/46535",
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/46535/thunderbolts_2012_15?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/Thunderbolts-15/digital-comic/31518?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ],
+    "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/17154",
+        "name": "Thunderbolts (2012 - Present)"
+    },
+    "variants": [],
+    "collections": [],
+    "collectedIssues": [],
+    "dates": [
+        {
+            "type": "onsaleDate",
+            "date": "2013-09-18T00:00:00-0400"
+        },
+        {
+            "type": "focDate",
+            "date": "2013-09-04T00:00:00-0400"
+        }
+    ],
+    "prices": [
+        {
+            "type": "printPrice",
+            "price": 2.99
+        }
+    ],
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/70/522f4bc851907",
+        "extension": "jpg"
+    },
+    "images": [
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/70/522f4bc851907",
+            "extension": "jpg"
+        },
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/80/51cc6517ea6f6",
+            "extension": "jpg"
+        }
+    ],
+    "creators": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/46535/creators",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/11575",
+                "name": "Kristafer Anka",
+                "role": "penciller (cover)"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/8728",
+                "name": "Jefte Palo",
+                "role": "artist"
+            }
+        ],
+        "returned": 2
+    },
+    "characters": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/46535/characters",
+        "items": [],
+        "returned": 0
+    },
+    "stories": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/46535/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/104660",
+                "name": "cover from Thunderbolts (2012) #15",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/104661",
+                "name": "story from Thunderbolts (2012) #15",
+                "type": "interiorStory"
+            }
+        ],
+        "returned": 2
+    },
+    "events": {
+        "available": 1,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/46535/events",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/events/315",
+                "name": "Infinity"
+            }
+        ],
+        "returned": 1
+    }
+}

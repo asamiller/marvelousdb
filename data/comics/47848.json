@@ -1,0 +1,127 @@
+{
+    "id": 47848,
+    "digitalId": 0,
+    "title": "Infinity (2013) #6 (Opena Design Variant)",
+    "issueNumber": 6,
+    "variantDescription": "Opena Design Variant",
+    "description": "All roads lead to this!\nThe over-sized conclusion of the Marvel Summer event!\nThe heroes of Earth versus the forces of Thanos!",
+    "modified": "2013-11-14T15:30:45-0500",
+    "isbn": "",
+    "upc": "759606078821000641",
+    "diamondCode": "SEP130663",
+    "ean": "",
+    "issn": "",
+    "format": "Comic",
+    "pageCount": 64,
+    "textObjects": [
+        {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "All roads lead to this!\nThe over-sized conclusion of the Marvel Summer event!\nThe heroes of Earth versus the forces of Thanos!"
+        }
+    ],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/47848",
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/47848/infinity_2013_6_opena_design_variant/opena_design_variant?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ],
+    "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/17735",
+        "name": "Infinity (2013 - Present)"
+    },
+    "variants": [
+        {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/47127",
+            "name": "Infinity (2013) #6"
+        },
+        {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/47846",
+            "name": "Infinity (2013) #6 (Dodson Hero Variant)"
+        },
+        {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/48509",
+            "name": "Infinity (2013) #6 (Young Variant)"
+        }
+    ],
+    "collections": [],
+    "collectedIssues": [],
+    "dates": [
+        {
+            "type": "onsaleDate",
+            "date": "2013-11-27T00:00:00-0500"
+        },
+        {
+            "type": "focDate",
+            "date": "2013-11-13T00:00:00-0500"
+        }
+    ],
+    "prices": [
+        {
+            "type": "printPrice",
+            "price": 5.99
+        }
+    ],
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/f/90/528531ad00452",
+        "extension": "jpg"
+    },
+    "images": [
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/f/90/528531ad00452",
+            "extension": "jpg"
+        }
+    ],
+    "creators": {
+        "available": 3,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/47848/creators",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/357",
+                "name": "Jim Cheung",
+                "role": "artist"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/11743",
+                "name": "Jonathan Hickman",
+                "role": "writer"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/8737",
+                "name": "Jerome Opena",
+                "role": "penciller (cover)"
+            }
+        ],
+        "returned": 3
+    },
+    "characters": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/47848/characters",
+        "items": [],
+        "returned": 0
+    },
+    "stories": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/47848/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/107951",
+                "name": "cover from Thanos/Inhumans Event (2013) #6 (DESIGN VARIANT)",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/107952",
+                "name": "story from Thanos/Inhumans Event (2013) #6 (DESIGN VARIANT)",
+                "type": "interiorStory"
+            }
+        ],
+        "returned": 2
+    },
+    "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/47848/events",
+        "items": [],
+        "returned": 0
+    }
+}

@@ -1,0 +1,131 @@
+{
+    "id": 48761,
+    "digitalId": 0,
+    "title": "Iron Man (2012) #18",
+    "issueNumber": 18,
+    "variantDescription": "",
+    "description": "TONY STARK has returned from space with a vision of a better world.\nWho is his secret ally? What is his secret resource? Who on Earth would stop him?\nThe MANDARIN is dead. He died at the end of Fraction&#39;s run. There&#39;s probably a reason why we&#39;re mentioning it.",
+    "modified": "2014-02-13T18:09:21-0500",
+    "isbn": "",
+    "upc": "75960607909401811",
+    "diamondCode": "SEP130723",
+    "ean": "",
+    "issn": "",
+    "format": "Comic",
+    "pageCount": 32,
+    "textObjects": [
+        {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "TONY STARK has returned from space with a vision of a better world.\nWho is his secret ally? What is his secret resource? Who on Earth would stop him?\nThe MANDARIN is dead. He died at the end of Fraction&#39;s run. There&#39;s probably a reason why we&#39;re mentioning it."
+        }
+    ],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/48761",
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/48761/iron_man_2012_18?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/Iron-Man-18/digital-comic/31977?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ],
+    "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/16593",
+        "name": "Iron Man (2012 - Present)"
+    },
+    "variants": [
+        {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/49407",
+            "name": "Iron Man (2012) #18 (Maos Variant)"
+        },
+        {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/49190",
+            "name": "Iron Man (2012) #18 (Sorayama Metropolis Variant)"
+        }
+    ],
+    "collections": [],
+    "collectedIssues": [],
+    "dates": [
+        {
+            "type": "onsaleDate",
+            "date": "2013-11-06T00:00:00-0500"
+        },
+        {
+            "type": "focDate",
+            "date": "2013-10-23T00:00:00-0400"
+        }
+    ],
+    "prices": [
+        {
+            "type": "printPrice",
+            "price": 3.99
+        }
+    ],
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/a/10/526fecf14879b",
+        "extension": "jpg"
+    },
+    "images": [
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/a/10/526fecf14879b",
+            "extension": "jpg"
+        },
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/20/5228ad7aae535",
+            "extension": "jpg"
+        }
+    ],
+    "creators": {
+        "available": 3,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/48761/creators",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/506",
+                "name": "Joe Bennett",
+                "role": "artist"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/8901",
+                "name": "Kieron Gillen",
+                "role": "writer"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/9234",
+                "name": "Paul Rivoche",
+                "role": "penciller (cover)"
+            }
+        ],
+        "returned": 3
+    },
+    "characters": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/48761/characters",
+        "items": [],
+        "returned": 0
+    },
+    "stories": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/48761/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/109613",
+                "name": "cover from Iron Man (2012) #18",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/109614",
+                "name": "story from Iron Man (2012) #18",
+                "type": "interiorStory"
+            }
+        ],
+        "returned": 2
+    },
+    "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/48761/events",
+        "items": [],
+        "returned": 0
+    }
+}

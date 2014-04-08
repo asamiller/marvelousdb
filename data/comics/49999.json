@@ -1,0 +1,117 @@
+{
+    "id": 49999,
+    "digitalId": 0,
+    "title": "Avengers (2012) #26 (Weaver Variant)",
+    "issueNumber": 26,
+    "variantDescription": "Weaver Variant",
+    "description": "\r\n\r\n\r\n\r\n\r\n\r\n<ul><li>The science war overtakes the world(s).</li><li>The All-New Avengers Strike Back!</li><li>All the answers to the questions you wished remained hidden.</li><li>The collision of Avengers and New Avengers is imminent.</li></ul>",
+    "modified": "2014-02-07T15:25:19-0500",
+    "isbn": "",
+    "upc": "75960607902502631",
+    "diamondCode": "DEC130691",
+    "ean": "",
+    "issn": "",
+    "format": "Comic",
+    "pageCount": 32,
+    "textObjects": [
+        {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "\r\n\r\n\r\n\r\n\r\n\r\n<ul><li>The science war overtakes the world(s).</li><li>The All-New Avengers Strike Back!</li><li>All the answers to the questions you wished remained hidden.</li><li>The collision of Avengers and New Avengers is imminent.</li></ul>"
+        }
+    ],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/49999",
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/49999/avengers_2012_26_weaver_variant/weaver_variant?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ],
+    "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/16452",
+        "name": "Avengers (2012 - Present)"
+    },
+    "variants": [
+        {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/46934",
+            "name": "Avengers (2012) #26"
+        },
+        {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/46935",
+            "name": "Avengers (2012) #26 (Acuna Avengers 50th Anniversary Variant)"
+        },
+        {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/50116",
+            "name": "Avengers (2012) #26 (Tbd Artist Variant B)"
+        }
+    ],
+    "collections": [],
+    "collectedIssues": [],
+    "dates": [
+        {
+            "type": "onsaleDate",
+            "date": "2014-02-12T00:00:00-0500"
+        },
+        {
+            "type": "focDate",
+            "date": "2014-01-29T00:00:00-0500"
+        }
+    ],
+    "prices": [
+        {
+            "type": "printPrice",
+            "price": 3.99
+        }
+    ],
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/40/52f52726cbb6c",
+        "extension": "jpg"
+    },
+    "images": [
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/40/52f52726cbb6c",
+            "extension": "jpg"
+        }
+    ],
+    "creators": {
+        "available": 1,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/49999/creators",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/2133",
+                "name": "Tom Brevoort",
+                "role": "editor"
+            }
+        ],
+        "returned": 1
+    },
+    "characters": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/49999/characters",
+        "items": [],
+        "returned": 0
+    },
+    "stories": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/49999/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/112041",
+                "name": "cover from Avengers (2012) #26 (TBD ARTIST VARIANT)",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/112042",
+                "name": "story from Avengers (2012) #26 (TBD ARTIST VARIANT)",
+                "type": "interiorStory"
+            }
+        ],
+        "returned": 2
+    },
+    "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/49999/events",
+        "items": [],
+        "returned": 0
+    }
+}

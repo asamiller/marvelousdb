@@ -1,0 +1,95 @@
+{
+    "id": 1011417,
+    "name": "Marvex",
+    "description": "",
+    "modified": "1969-12-31T19:00:00-0500",
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available",
+        "extension": "jpg"
+    },
+    "resourceURI": "http://gateway.marvel.com/v1/public/characters/1011417",
+    "comics": {
+        "available": 5,
+        "collectionURI": "http://gateway.marvel.com/v1/public/characters/1011417/comics",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/comics/21152",
+                "name": "Daring Mystery Comics (1944) #3"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/comics/21153",
+                "name": "Daring Mystery Comics (1944) #4"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/comics/21154",
+                "name": "Daring Mystery Comics (1944) #5"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/comics/17676",
+                "name": "Marvel Masterworks: Golden Age Daring Mystery Vol. 1 (Hardcover)"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/comics/17677",
+                "name": "Marvel Masterworks: Golden Age Daring Mystery Vol. 1 (Hardcover)"
+            }
+        ],
+        "returned": 5
+    },
+    "series": {
+        "available": 3,
+        "collectionURI": "http://gateway.marvel.com/v1/public/characters/1011417/series",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/series/4776",
+                "name": "Daring Mystery Comics (1944 - 1945)"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/series/3442",
+                "name": "Marvel Masterworks: Golden Age Daring Mystery Vol. 1 (2008)"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/series/3443",
+                "name": "Marvel Masterworks: Golden Age Daring Mystery Vol. 1 (2008)"
+            }
+        ],
+        "returned": 3
+    },
+    "stories": {
+        "available": 3,
+        "collectionURI": "http://gateway.marvel.com/v1/public/characters/1011417/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/46686",
+                "name": "[The Origin of Marvex the Super-Robot]",
+                "type": "interiorStory"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/46693",
+                "name": "[The Spike Green Case]",
+                "type": "interiorStory"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/46703",
+                "name": "[Battle of the Robots]",
+                "type": "interiorStory"
+            }
+        ],
+        "returned": 3
+    },
+    "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/characters/1011417/events",
+        "items": [],
+        "returned": 0
+    },
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/characters/1011417/marvex?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "wiki",
+            "url": "http://marvel.com/universe/Marvex?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ]
+}

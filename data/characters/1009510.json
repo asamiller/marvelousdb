@@ -1,0 +1,88 @@
+{
+    "id": 1009510,
+    "name": "PsyNapse",
+    "description": "",
+    "modified": "1969-12-31T19:00:00-0500",
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available",
+        "extension": "jpg"
+    },
+    "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009510",
+    "comics": {
+        "available": 4,
+        "collectionURI": "http://gateway.marvel.com/v1/public/characters/1009510/comics",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/comics/12285",
+                "name": "X-Factor (1986) #65"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/comics/12286",
+                "name": "X-Factor (1986) #66"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/comics/12287",
+                "name": "X-Factor (1986) #67"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/comics/14308",
+                "name": "X-Men (1991) #21"
+            }
+        ],
+        "returned": 4
+    },
+    "series": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/characters/1009510/series",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/series/2098",
+                "name": "X-Factor (1986 - 1998)"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/series/2265",
+                "name": "X-Men (1991 - 2001)"
+            }
+        ],
+        "returned": 2
+    },
+    "stories": {
+        "available": 4,
+        "collectionURI": "http://gateway.marvel.com/v1/public/characters/1009510/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/22314",
+                "name": "Endgame Part 1: Malign Influences",
+                "type": "interiorStory"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/22319",
+                "name": "Endgame Part 2: Heroic Effort",
+                "type": "interiorStory"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/22323",
+                "name": "Endgame Part 3: Lunar Opposition",
+                "type": "interiorStory"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/29169",
+                "name": "The Puzzle Box",
+                "type": "interiorStory"
+            }
+        ],
+        "returned": 4
+    },
+    "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/characters/1009510/events",
+        "items": [],
+        "returned": 0
+    },
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/characters/1009510/psynapse?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ]
+}

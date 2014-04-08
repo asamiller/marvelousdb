@@ -1,0 +1,57 @@
+{
+    "id": 1011250,
+    "name": "Katie Power",
+    "description": "",
+    "modified": "1969-12-31T19:00:00-0500",
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/90/4ce5a5bf6b872",
+        "extension": "jpg"
+    },
+    "resourceURI": "http://gateway.marvel.com/v1/public/characters/1011250",
+    "comics": {
+        "available": 1,
+        "collectionURI": "http://gateway.marvel.com/v1/public/characters/1011250/comics",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/comics/23510",
+                "name": "X-Factor Annual (1986) #2"
+            }
+        ],
+        "returned": 1
+    },
+    "series": {
+        "available": 1,
+        "collectionURI": "http://gateway.marvel.com/v1/public/characters/1011250/series",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/series/6689",
+                "name": "X-Factor Annual (1986 - Present)"
+            }
+        ],
+        "returned": 1
+    },
+    "stories": {
+        "available": 1,
+        "collectionURI": "http://gateway.marvel.com/v1/public/characters/1011250/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/51863",
+                "name": "The Man in the Moon",
+                "type": "interiorStory"
+            }
+        ],
+        "returned": 1
+    },
+    "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/characters/1011250/events",
+        "items": [],
+        "returned": 0
+    },
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/characters/1011250/katie_power?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ]
+}

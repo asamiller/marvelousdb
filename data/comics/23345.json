@@ -1,0 +1,113 @@
+{
+    "id": 23345,
+    "digitalId": 0,
+    "title": "Men's Adventures (1950) #17",
+    "issueNumber": 17,
+    "variantDescription": "",
+    "description": null,
+    "modified": "-0001-11-30T00:00:00-0500",
+    "isbn": "",
+    "upc": "",
+    "diamondCode": "",
+    "ean": "",
+    "issn": "",
+    "format": "Comic",
+    "pageCount": 36,
+    "textObjects": [],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/23345",
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/23345/mens_adventures_1950_17?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ],
+    "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/6678",
+        "name": "Men's Adventures (1950 - 1954)"
+    },
+    "variants": [],
+    "collections": [],
+    "collectedIssues": [],
+    "dates": [
+        {
+            "type": "onsaleDate",
+            "date": "1952-12-10T00:00:00-0500"
+        },
+        {
+            "type": "focDate",
+            "date": "-0001-11-30T00:00:00-0500"
+        }
+    ],
+    "prices": [
+        {
+            "type": "printPrice",
+            "price": 0.1
+        }
+    ],
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available",
+        "extension": "jpg"
+    },
+    "images": [],
+    "creators": {
+        "available": 1,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/23345/creators",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/1089",
+                "name": "Sol Brodsky",
+                "role": "penciler"
+            }
+        ],
+        "returned": 1
+    },
+    "characters": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/23345/characters",
+        "items": [],
+        "returned": 0
+    },
+    "stories": {
+        "available": 6,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/23345/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/51520",
+                "name": "Cover #51520",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/51521",
+                "name": "Night Attack!",
+                "type": "none"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/51522",
+                "name": "The Ticking Terror",
+                "type": "text feature"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/51523",
+                "name": "Margin for Error",
+                "type": "none"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/51524",
+                "name": "Sgt. Brody Takes Five",
+                "type": "none"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/51525",
+                "name": "They Came Back",
+                "type": "none"
+            }
+        ],
+        "returned": 6
+    },
+    "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/23345/events",
+        "items": [],
+        "returned": 0
+    }
+}

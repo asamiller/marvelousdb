@@ -1,0 +1,132 @@
+{
+    "id": 758,
+    "digitalId": 3965,
+    "title": "Spider-Man/Doctor Octopus: Year One (2004) #3",
+    "issueNumber": 3,
+    "variantDescription": "",
+    "description": "Emerging from a brutal accident that nearly took his life, Otto takes his first steps into the depths of madness…with the help of four of the deadliest weapons on the face of the Earth. Featuring the first face-to-face encounter between Spider-Man and Doctor Octopus!",
+    "modified": "-0001-11-30T00:00:00-0500",
+    "isbn": "",
+    "upc": "5960605536-00311",
+    "diamondCode": "",
+    "ean": "",
+    "issn": "",
+    "format": "Comic",
+    "pageCount": 0,
+    "textObjects": [
+        {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "Emerging from a brutal accident that nearly took his life, Otto takes his first steps into the depths of madness…with the help of four of the deadliest weapons on the face of the Earth. Featuring the first face-to-face encounter between Spider-Man and Doctor Octopus!"
+        }
+    ],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/758",
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/758/spider-mandoctor_octopus_year_one_2004_3?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=3965&utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ],
+    "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/736",
+        "name": "Spider-Man/Doctor Octopus: Year One (2004)"
+    },
+    "variants": [],
+    "collections": [
+        {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/1845",
+            "name": "Spider-Man/Doctor Octopus: Year One (Trade Paperback)"
+        }
+    ],
+    "collectedIssues": [],
+    "dates": [
+        {
+            "type": "onsaleDate",
+            "date": "2004-08-18T00:00:00-0400"
+        },
+        {
+            "type": "focDate",
+            "date": "-0001-11-30T00:00:00-0500"
+        },
+        {
+            "type": "unlimitedDate",
+            "date": "2007-11-22T00:00:00-0500"
+        }
+    ],
+    "prices": [
+        {
+            "type": "printPrice",
+            "price": 2.99
+        }
+    ],
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/f0/4bc67ec958a09",
+        "extension": "jpg"
+    },
+    "images": [
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/f0/4bc67ec958a09",
+            "extension": "jpg"
+        }
+    ],
+    "creators": {
+        "available": 3,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/758/creators",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/191",
+                "name": "Kaare Andrews",
+                "role": "penciller (cover)"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/8836",
+                "name": "Jose Villarrubia",
+                "role": "colorist"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/10409",
+                "name": "Zeb Wells",
+                "role": "writer"
+            }
+        ],
+        "returned": 3
+    },
+    "characters": {
+        "available": 1,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/758/characters",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009610",
+                "name": "Spider-Man"
+            }
+        ],
+        "returned": 1
+    },
+    "stories": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/758/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/3198",
+                "name": "Cover #3198",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/3199",
+                "name": "Interior #3199",
+                "type": "interiorStory"
+            }
+        ],
+        "returned": 2
+    },
+    "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/758/events",
+        "items": [],
+        "returned": 0
+    }
+}

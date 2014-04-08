@@ -1,0 +1,121 @@
+{
+    "id": 48526,
+    "digitalId": 0,
+    "title": "All-New X-Men (2012) #23",
+    "issueNumber": 23,
+    "variantDescription": "",
+    "description": "&quot;THE TRIAL OF JEAN GREY&quot; PART 3!\r\n\r\n\r\n<ul><li>Jean is on trial and it&#39;s up to the All-New X-Men and Guardians of the Galaxy to get her free.</li></ul>",
+    "modified": "2014-02-11T15:19:59-0500",
+    "isbn": "",
+    "upc": "75960607900102311",
+    "diamondCode": "DEC130692",
+    "ean": "",
+    "issn": "",
+    "format": "Comic",
+    "pageCount": 32,
+    "textObjects": [
+        {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "&quot;THE TRIAL OF JEAN GREY&quot; PART 3!\r\n\r\n\r\n<ul><li>Jean is on trial and it&#39;s up to the All-New X-Men and Guardians of the Galaxy to get her free.</li></ul>"
+        }
+    ],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/48526",
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/48526/all-new_x-men_2012_23?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/All-New-X-Men-23/digital-comic/32962?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ],
+    "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/16449",
+        "name": "All-New X-Men (2012 - Present)"
+    },
+    "variants": [
+        {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/50104",
+            "name": "All-New X-Men (2012) #23 (Tbd Artist Variant B)"
+        },
+        {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/49942",
+            "name": "All-New X-Men (2012) #23 (Keown Variant)"
+        }
+    ],
+    "collections": [],
+    "collectedIssues": [],
+    "dates": [
+        {
+            "type": "onsaleDate",
+            "date": "2014-02-12T00:00:00-0500"
+        },
+        {
+            "type": "focDate",
+            "date": "2014-01-29T00:00:00-0500"
+        }
+    ],
+    "prices": [
+        {
+            "type": "printPrice",
+            "price": 3.99
+        }
+    ],
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/e/f0/52fa84cb8b1bb",
+        "extension": "jpg"
+    },
+    "images": [
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/e/f0/52fa84cb8b1bb",
+            "extension": "jpg"
+        },
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/a/03/52865438320ef",
+            "extension": "jpg"
+        }
+    ],
+    "creators": {
+        "available": 1,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/48526/creators",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/4300",
+                "name": "Nick Lowe",
+                "role": "editor"
+            }
+        ],
+        "returned": 1
+    },
+    "characters": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/48526/characters",
+        "items": [],
+        "returned": 0
+    },
+    "stories": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/48526/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/109147",
+                "name": "cover from All-New X-Men (2012) #23",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/109148",
+                "name": "story from All-New X-Men (2012) #23",
+                "type": "interiorStory"
+            }
+        ],
+        "returned": 2
+    },
+    "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/48526/events",
+        "items": [],
+        "returned": 0
+    }
+}

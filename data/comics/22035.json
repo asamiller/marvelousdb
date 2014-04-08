@@ -1,0 +1,103 @@
+{
+    "id": 22035,
+    "digitalId": 0,
+    "title": "Hulk Chronicles: Wwh (2008) #3",
+    "issueNumber": 3,
+    "variantDescription": "",
+    "description": "INCREDIBLE HULK #108\r<br>WORLD WAR HULK #2\r<br>Rated T+ …$4.99\r<br>",
+    "modified": "-0001-11-30T00:00:00-0500",
+    "isbn": "",
+    "upc": "5960606458-00311",
+    "diamondCode": "JUL082295",
+    "ean": "",
+    "issn": "",
+    "format": "Comic",
+    "pageCount": 72,
+    "textObjects": [
+        {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "INCREDIBLE HULK #108\r<br>WORLD WAR HULK #2\r<br>Rated T+ …$4.99\r<br>"
+        }
+    ],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/22035",
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/22035/hulk_chronicles_wwh_2008_3?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ],
+    "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/5210",
+        "name": "Hulk Chronicles: Wwh (2008)"
+    },
+    "variants": [],
+    "collections": [],
+    "collectedIssues": [],
+    "dates": [
+        {
+            "type": "onsaleDate",
+            "date": "2008-09-10T00:00:00-0400"
+        },
+        {
+            "type": "focDate",
+            "date": "2008-08-21T00:00:00-0400"
+        }
+    ],
+    "prices": [
+        {
+            "type": "printPrice",
+            "price": 4.99
+        }
+    ],
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/60/4bb716c6496b1",
+        "extension": "jpg"
+    },
+    "images": [
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/60/4bb716c6496b1",
+            "extension": "jpg"
+        }
+    ],
+    "creators": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/22035/creators",
+        "items": [],
+        "returned": 0
+    },
+    "characters": {
+        "available": 1,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/22035/characters",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009351",
+                "name": "Hulk"
+            }
+        ],
+        "returned": 1
+    },
+    "stories": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/22035/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/48592",
+                "name": "Cover #48592",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/48593",
+                "name": "Interior #48593",
+                "type": "interiorStory"
+            }
+        ],
+        "returned": 2
+    },
+    "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/22035/events",
+        "items": [],
+        "returned": 0
+    }
+}

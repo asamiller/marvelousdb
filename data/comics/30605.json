@@ -1,0 +1,152 @@
+{
+    "id": 30605,
+    "digitalId": 19120,
+    "title": "Ultimate Comics New Ultimates (2010) #5",
+    "issueNumber": 5,
+    "variantDescription": "",
+    "description": "Thor has returned! Can he put a stop to Loki’s machinations? Or will his rampage result in the death of his teammates? It all ends here, one way or another!\n",
+    "modified": "2012-01-10T11:26:59-0500",
+    "isbn": "",
+    "upc": "5960606093-00511",
+    "diamondCode": "SEP100564",
+    "ean": "",
+    "issn": "",
+    "format": "Comic",
+    "pageCount": 32,
+    "textObjects": [
+        {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "New Ultimates"
+        },
+        {
+            "type": "issue_preview_text",
+            "language": "en-us",
+            "text": "Thor has returned! Can he put a stop to Loki’s machinations? Or will his rampage result in the death of his teammates? It all ends here, one way or another!\n"
+        }
+    ],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/30605",
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/30605/ultimate_comics_new_ultimates_2010_5?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/Ultimate-Comics-New-Ultimates-5/digital-comic/19120?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=19120&utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "inAppLink",
+            "url": "http://applink.marvel.com/issue/19120?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ],
+    "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/9026",
+        "name": "Ultimate Comics New Ultimates (2010 - 2011)"
+    },
+    "variants": [],
+    "collections": [],
+    "collectedIssues": [],
+    "dates": [
+        {
+            "type": "onsaleDate",
+            "date": "2011-02-02T00:00:00-0500"
+        },
+        {
+            "type": "focDate",
+            "date": "2011-01-20T00:00:00-0500"
+        },
+        {
+            "type": "unlimitedDate",
+            "date": "2012-01-10T00:00:00-0500"
+        },
+        {
+            "type": "digitalPurchaseDate",
+            "date": "2012-02-07T00:00:00-0500"
+        }
+    ],
+    "prices": [
+        {
+            "type": "printPrice",
+            "price": 3.99
+        },
+        {
+            "type": "digitalPurchasePrice",
+            "price": 1.99
+        }
+    ],
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/40/515f0ff71ab5f",
+        "extension": "jpg"
+    },
+    "images": [
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/40/515f0ff71ab5f",
+            "extension": "jpg"
+        },
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/d/50/4d49801400747",
+            "extension": "jpg"
+        }
+    ],
+    "creators": {
+        "available": 4,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/30605/creators",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/185",
+                "name": "Frank Cho",
+                "role": "penciller"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/426",
+                "name": "Jason Keith",
+                "role": "colorist"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/18",
+                "name": "Jeph Loeb",
+                "role": "other"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/350",
+                "name": "Richard Starkings",
+                "role": "letterer"
+            }
+        ],
+        "returned": 4
+    },
+    "characters": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/30605/characters",
+        "items": [],
+        "returned": 0
+    },
+    "stories": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/30605/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/70036",
+                "name": "Cover #70036",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/70037",
+                "name": "Interior #70037",
+                "type": "interiorStory"
+            }
+        ],
+        "returned": 2
+    },
+    "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/30605/events",
+        "items": [],
+        "returned": 0
+    }
+}

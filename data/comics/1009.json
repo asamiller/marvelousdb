@@ -1,0 +1,114 @@
+{
+    "id": 1009,
+    "digitalId": 0,
+    "title": "Startling Stories: Banner (Trade Paperback)",
+    "issueNumber": 0,
+    "variantDescription": "",
+    "description": "Tormented by his unstoppable alter ego, Bruce Banner has nowhere to hide. Having located the man-like monstrosity that is the Hulk in the New Mexico desert, gamma-irradiated government operative Doc Samson prepares his troops for a cataclysmic confrontation. ",
+    "modified": "-0001-11-30T00:00:00-0500",
+    "isbn": "0-7851-0853-X",
+    "upc": "",
+    "diamondCode": "",
+    "ean": "",
+    "issn": "",
+    "format": "Trade Paperback",
+    "pageCount": 96,
+    "textObjects": [
+        {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "Tormented by his unstoppable alter ego, Bruce Banner has nowhere to hide. Having located the man-like monstrosity that is the Hulk in the New Mexico desert, gamma-irradiated government operative Doc Samson prepares his troops for a cataclysmic confrontation. "
+        }
+    ],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/1009",
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/collection/1009/startling_stories_banner_trade_paperback?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ],
+    "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/71",
+        "name": "Startling Stories: Banner (1999)"
+    },
+    "variants": [],
+    "collections": [],
+    "collectedIssues": [],
+    "dates": [
+        {
+            "type": "onsaleDate",
+            "date": "1999-11-30T00:00:00-0500"
+        },
+        {
+            "type": "focDate",
+            "date": "-0001-11-30T00:00:00-0500"
+        }
+    ],
+    "prices": [
+        {
+            "type": "printPrice",
+            "price": 9.99
+        }
+    ],
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/20/4bc66d6162b43",
+        "extension": "jpg"
+    },
+    "images": [
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/20/4bc66d6162b43",
+            "extension": "jpg"
+        }
+    ],
+    "creators": {
+        "available": 3,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/1009/creators",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/9",
+                "name": "Brian Azzarello",
+                "role": "writer"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/30",
+                "name": "Stan Lee",
+                "role": "writer"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/10",
+                "name": "Richard Corben",
+                "role": "penciller"
+            }
+        ],
+        "returned": 3
+    },
+    "characters": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/1009/characters",
+        "items": [],
+        "returned": 0
+    },
+    "stories": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/1009/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/72",
+                "name": "Tormented by his unstoppable alter ego, Bruce Banner has nowhere to hide. Having located the man-like monstrosity that is the Hu",
+                "type": "interiorStory"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/65149",
+                "name": "STARTLING STORIES: BANNER TPB 0 cover",
+                "type": "cover"
+            }
+        ],
+        "returned": 2
+    },
+    "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/1009/events",
+        "items": [],
+        "returned": 0
+    }
+}

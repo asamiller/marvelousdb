@@ -1,0 +1,133 @@
+{
+    "id": 1011234,
+    "name": "Prince of Orphans",
+    "description": "",
+    "modified": "2011-05-26T17:52:40-0400",
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available",
+        "extension": "jpg"
+    },
+    "resourceURI": "http://gateway.marvel.com/v1/public/characters/1011234",
+    "comics": {
+        "available": 7,
+        "collectionURI": "http://gateway.marvel.com/v1/public/characters/1011234/comics",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/comics/39767",
+                "name": "Defenders (2011) #8"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/comics/16158",
+                "name": "Immortal Iron Fist (2006) #9"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/comics/17393",
+                "name": "Immortal Iron Fist (2006) #12"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/comics/17635",
+                "name": "Immortal Iron Fist (2006) #13"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/comics/21361",
+                "name": "Immortal Iron Fist (2006) #16"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/comics/24166",
+                "name": "Immortal Iron Fist (2006) #26"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/comics/29795",
+                "name": "Iron Man 2.0 (2011) #6"
+            }
+        ],
+        "returned": 7
+    },
+    "series": {
+        "available": 3,
+        "collectionURI": "http://gateway.marvel.com/v1/public/characters/1011234/series",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/series/14701",
+                "name": "Defenders (2011 - 2012)"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/series/1140",
+                "name": "Immortal Iron Fist (2006 - 2009)"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/series/9924",
+                "name": "Iron Man 2.0 (2011)"
+            }
+        ],
+        "returned": 3
+    },
+    "stories": {
+        "available": 8,
+        "collectionURI": "http://gateway.marvel.com/v1/public/characters/1011234/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/33007",
+                "name": "TBD 2 of 5",
+                "type": "interiorStory"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/36462",
+                "name": "TBD 5 of 7",
+                "type": "interiorStory"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/36902",
+                "name": "TBD 6 of 7",
+                "type": "interiorStory"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/47175",
+                "name": "1 of 2",
+                "type": "interiorStory"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/53549",
+                "name": "4 of 4",
+                "type": "interiorStory"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/64737",
+                "name": "Interior #64737",
+                "type": "interiorStory"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/90270",
+                "name": "Cover #90270",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/90271",
+                "name": "Interior #90271",
+                "type": "interiorStory"
+            }
+        ],
+        "returned": 8
+    },
+    "events": {
+        "available": 1,
+        "collectionURI": "http://gateway.marvel.com/v1/public/characters/1011234/events",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/events/302",
+                "name": "Fear Itself"
+            }
+        ],
+        "returned": 1
+    },
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/characters/1011234/prince_of_orphans?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "wiki",
+            "url": "http://marvel.com/universe/Prince%20of%20Orphans?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ]
+}

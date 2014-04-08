@@ -1,0 +1,127 @@
+{
+    "id": 48763,
+    "digitalId": 0,
+    "title": "Iron Man (2012) #20",
+    "issueNumber": 20,
+    "variantDescription": "",
+    "description": "The skies burn red above IRON METROPOLITAN as the IRON PHALANX faces MANDARIN-SEVEN: RED PERIL. Wait... how on Earth did the Mandarin&#39;s rings in these dangerous hands anyway? Guest starring: JIM RHODES: IRON PATRIOT.",
+    "modified": "2014-01-08T17:13:00-0500",
+    "isbn": "",
+    "upc": "75960607909402011",
+    "diamondCode": "NOV130648",
+    "ean": "",
+    "issn": "",
+    "format": "Comic",
+    "pageCount": 32,
+    "textObjects": [
+        {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "The skies burn red above IRON METROPOLITAN as the IRON PHALANX faces MANDARIN-SEVEN: RED PERIL. Wait... how on Earth did the Mandarin&#39;s rings in these dangerous hands anyway? Guest starring: JIM RHODES: IRON PATRIOT."
+        }
+    ],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/48763",
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/48763/iron_man_2012_20?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/Iron-Man-20/digital-comic/32819?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ],
+    "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/16593",
+        "name": "Iron Man (2012 - Present)"
+    },
+    "variants": [],
+    "collections": [],
+    "collectedIssues": [],
+    "dates": [
+        {
+            "type": "onsaleDate",
+            "date": "2014-01-08T00:00:00-0500"
+        },
+        {
+            "type": "focDate",
+            "date": "2013-12-23T00:00:00-0500"
+        }
+    ],
+    "prices": [
+        {
+            "type": "printPrice",
+            "price": 3.99
+        }
+    ],
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/40/52cae70e42f9b",
+        "extension": "jpg"
+    },
+    "images": [
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/40/52cae70e42f9b",
+            "extension": "jpg"
+        },
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/a/03/52615d4298b09",
+            "extension": "jpg"
+        }
+    ],
+    "creators": {
+        "available": 3,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/48763/creators",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/506",
+                "name": "Joe Bennett",
+                "role": "artist"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/8901",
+                "name": "Kieron Gillen",
+                "role": "writer"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/9234",
+                "name": "Paul Rivoche",
+                "role": "penciller (cover)"
+            }
+        ],
+        "returned": 3
+    },
+    "characters": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/48763/characters",
+        "items": [],
+        "returned": 0
+    },
+    "stories": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/48763/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/109617",
+                "name": "cover from Iron Man (2012) #20",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/109618",
+                "name": "story from Iron Man (2012) #20",
+                "type": "interiorStory"
+            }
+        ],
+        "returned": 2
+    },
+    "events": {
+        "available": 1,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/48763/events",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/events/317",
+                "name": "Inhumanity"
+            }
+        ],
+        "returned": 1
+    }
+}

@@ -1,0 +1,132 @@
+{
+    "id": 25599,
+    "digitalId": 12303,
+    "title": "Kid Colt (2009) #1",
+    "issueNumber": 1,
+    "variantDescription": "",
+    "description": "MARVEL DIGITAL COMICS EXCLUSIVE\r\nTom DeFalco saddles up for a four-part western adventure featuring the classic Marvel western hero. Wanted by the law for killing a man in cold blood, Kid Colt thunders through the Wild West with guns blazing while trying to prove his innocence.",
+    "modified": "1969-12-31T19:00:00-0500",
+    "isbn": "",
+    "upc": "5960606823-00111",
+    "diamondCode": "",
+    "ean": "",
+    "issn": "",
+    "format": "Digital Comic",
+    "pageCount": 8,
+    "textObjects": [
+        {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "MARVEL DIGITAL COMICS EXCLUSIVE\r\nTom DeFalco saddles up for a four-part western adventure featuring the classic Marvel western hero. Wanted by the law for killing a man in cold blood, Kid Colt thunders through the Wild West with guns blazing while trying to prove his innocence."
+        }
+    ],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/25599",
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/25599/kid_colt_2009_1?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=12303&utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ],
+    "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/7937",
+        "name": "Kid Colt (2009)"
+    },
+    "variants": [],
+    "collections": [],
+    "collectedIssues": [],
+    "dates": [
+        {
+            "type": "onsaleDate",
+            "date": "2009-03-04T00:00:00-0500"
+        },
+        {
+            "type": "focDate",
+            "date": "2009-02-23T00:00:00-0500"
+        },
+        {
+            "type": "unlimitedDate",
+            "date": "2009-03-04T00:00:00-0500"
+        }
+    ],
+    "prices": [
+        {
+            "type": "printPrice",
+            "price": 0
+        }
+    ],
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/10/4bb51360ca975",
+        "extension": "jpg"
+    },
+    "images": [
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/10/4bb51360ca975",
+            "extension": "jpg"
+        }
+    ],
+    "creators": {
+        "available": 4,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/25599/creators",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/941",
+                "name": "Rick Burchett",
+                "role": "inker"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/9565",
+                "name": "Tom DeFalco",
+                "role": "writer"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/8678",
+                "name": "Jared Fletcher",
+                "role": "letterer"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/8014",
+                "name": "Allen Passalaqua",
+                "role": "colorist"
+            }
+        ],
+        "returned": 4
+    },
+    "characters": {
+        "available": 1,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/25599/characters",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010893",
+                "name": "Kid Colt"
+            }
+        ],
+        "returned": 1
+    },
+    "stories": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/25599/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/56445",
+                "name": "Cover #56445",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/56446",
+                "name": "Interior #56446",
+                "type": "interiorStory"
+            }
+        ],
+        "returned": 2
+    },
+    "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/25599/events",
+        "items": [],
+        "returned": 0
+    }
+}

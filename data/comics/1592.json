@@ -1,0 +1,143 @@
+{
+    "id": 1592,
+    "digitalId": 696,
+    "title": "Spider-Man/Human Torch (2005) #1",
+    "issueNumber": 1,
+    "variantDescription": "",
+    "description": "Hang tight, True Believer!  It's five ALL NEW old school adventures featuring your favorite web-headed hero and his pal, the walking matchstick!  Follow them through the years – from high school to present day, from the Negative Zone to the Coffee Bean, from Dorrie Evans to Mary Jane Watson-Parker. It's all here!  And first off, see what happens when young Johnny Storm wants some of Spidey's front page exposure... And hires Peter Parker to be HIS personal photographer!  This one has doom written all over it – DOCTOR DOOM that is!",
+    "modified": "-0001-11-30T00:00:00-0500",
+    "isbn": "",
+    "upc": "5960605676-00111",
+    "diamondCode": "",
+    "ean": "",
+    "issn": "",
+    "format": "Comic",
+    "pageCount": 0,
+    "textObjects": [
+        {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "Hang tight, True Believer!  It's five ALL NEW old school adventures featuring your favorite web-headed hero and his pal, the walking matchstick!  Follow them through the years – from high school to present day, from the Negative Zone to the Coffee Bean, from Dorrie Evans to Mary Jane Watson-Parker. It's all here!  And first off, see what happens when young Johnny Storm wants some of Spidey's front page exposure... And hires Peter Parker to be HIS personal photographer!  This one has doom written all over it – DOCTOR DOOM that is!"
+        }
+    ],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/1592",
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/1592/spider-manhuman_torch_2005_1?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/Spider-Man-Human-Torch-1/digital-comic/696?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=696&utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "inAppLink",
+            "url": "http://applink.marvel.com/issue/696?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ],
+    "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/858",
+        "name": "Spider-Man/Human Torch (2005)"
+    },
+    "variants": [],
+    "collections": [
+        {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/2200",
+            "name": "Spider-Man/Human Torch: I'M with Stupid (Digest)"
+        }
+    ],
+    "collectedIssues": [],
+    "dates": [
+        {
+            "type": "onsaleDate",
+            "date": "2005-01-05T00:00:00-0500"
+        },
+        {
+            "type": "focDate",
+            "date": "-0001-11-30T00:00:00-0500"
+        },
+        {
+            "type": "unlimitedDate",
+            "date": "2007-11-13T00:00:00-0500"
+        },
+        {
+            "type": "digitalPurchaseDate",
+            "date": "2011-06-28T00:00:00-0400"
+        }
+    ],
+    "prices": [
+        {
+            "type": "printPrice",
+            "price": 2.99
+        },
+        {
+            "type": "digitalPurchasePrice",
+            "price": 1.99
+        }
+    ],
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/50/4bc6547cd542c",
+        "extension": "jpg"
+    },
+    "images": [
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/50/4bc6547cd542c",
+            "extension": "jpg"
+        }
+    ],
+    "creators": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/1592/creators",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/626",
+                "name": "Dan Slott",
+                "role": "writer"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/918",
+                "name": "Ty Templeton",
+                "role": "penciller"
+            }
+        ],
+        "returned": 2
+    },
+    "characters": {
+        "available": 1,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/1592/characters",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009610",
+                "name": "Spider-Man"
+            }
+        ],
+        "returned": 1
+    },
+    "stories": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/1592/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/4503",
+                "name": "1 of 5",
+                "type": "interiorStory"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/65478",
+                "name": "SPIDER-MAN/HUMAN TORCH 1 cover",
+                "type": "cover"
+            }
+        ],
+        "returned": 2
+    },
+    "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/1592/events",
+        "items": [],
+        "returned": 0
+    }
+}

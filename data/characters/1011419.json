@@ -1,0 +1,77 @@
+{
+    "id": 1011419,
+    "name": "Phantom Reporter",
+    "description": "",
+    "modified": "1969-12-31T19:00:00-0500",
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/90/4ce5a77f0492c",
+        "extension": "jpg"
+    },
+    "resourceURI": "http://gateway.marvel.com/v1/public/characters/1011419",
+    "comics": {
+        "available": 3,
+        "collectionURI": "http://gateway.marvel.com/v1/public/characters/1011419/comics",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/comics/21152",
+                "name": "Daring Mystery Comics (1944) #3"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/comics/17676",
+                "name": "Marvel Masterworks: Golden Age Daring Mystery Vol. 1 (Hardcover)"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/comics/17677",
+                "name": "Marvel Masterworks: Golden Age Daring Mystery Vol. 1 (Hardcover)"
+            }
+        ],
+        "returned": 3
+    },
+    "series": {
+        "available": 3,
+        "collectionURI": "http://gateway.marvel.com/v1/public/characters/1011419/series",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/series/4776",
+                "name": "Daring Mystery Comics (1944 - 1945)"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/series/3443",
+                "name": "Marvel Masterworks: Golden Age Daring Mystery Vol. 1 (2008)"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/series/3442",
+                "name": "Marvel Masterworks: Golden Age Daring Mystery Vol. 1 (2008)"
+            }
+        ],
+        "returned": 3
+    },
+    "stories": {
+        "available": 1,
+        "collectionURI": "http://gateway.marvel.com/v1/public/characters/1011419/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/46683",
+                "name": "[The East Side Murders]",
+                "type": "interiorStory"
+            }
+        ],
+        "returned": 1
+    },
+    "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/characters/1011419/events",
+        "items": [],
+        "returned": 0
+    },
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/characters/1011419/phantom_reporter?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "wiki",
+            "url": "http://marvel.com/universe/Phantom%20Reporter?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ]
+}

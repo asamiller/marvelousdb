@@ -1,0 +1,109 @@
+{
+    "id": 969,
+    "digitalId": 0,
+    "title": "Essential Spider-Man Vol. III (Trade Paperback)",
+    "issueNumber": 0,
+    "variantDescription": "",
+    "description": "Spider-Man's earliest adventures continue with classic stories featuring the Vulture, Dr. Octopus, Mysterio and the Shocker. ",
+    "modified": "-0001-11-30T00:00:00-0500",
+    "isbn": "0-7851-0658-8",
+    "upc": "",
+    "diamondCode": "",
+    "ean": "",
+    "issn": "",
+    "format": "Trade Paperback",
+    "pageCount": 528,
+    "textObjects": [
+        {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "Spider-Man's earliest adventures continue with classic stories featuring the Vulture, Dr. Octopus, Mysterio and the Shocker. "
+        }
+    ],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/969",
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/collection/969/essential_spider-man_vol_iii_trade_paperback?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ],
+    "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/31",
+        "name": "Essential Spider-Man Vol. III (1999)"
+    },
+    "variants": [],
+    "collections": [],
+    "collectedIssues": [],
+    "dates": [
+        {
+            "type": "onsaleDate",
+            "date": "1999-11-30T00:00:00-0500"
+        },
+        {
+            "type": "focDate",
+            "date": "-0001-11-30T00:00:00-0500"
+        }
+    ],
+    "prices": [
+        {
+            "type": "printPrice",
+            "price": 9.99
+        }
+    ],
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/20/4bc66f416df0a",
+        "extension": "jpg"
+    },
+    "images": [
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/20/4bc66f416df0a",
+            "extension": "jpg"
+        }
+    ],
+    "creators": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/969/creators",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/30",
+                "name": "Stan Lee",
+                "role": "writer"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/214",
+                "name": "John Romita JR.",
+                "role": "penciller"
+            }
+        ],
+        "returned": 2
+    },
+    "characters": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/969/characters",
+        "items": [],
+        "returned": 0
+    },
+    "stories": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/969/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/32",
+                "name": "Spider-Man's earliest adventures continue with classic stories featuring the Vulture, Dr. Octopus, Mysterio and the Shocker.",
+                "type": "interiorStory"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/65109",
+                "name": "ESSENTIAL SPIDER-MAN VOL. III TPB 0 cover",
+                "type": "cover"
+            }
+        ],
+        "returned": 2
+    },
+    "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/969/events",
+        "items": [],
+        "returned": 0
+    }
+}

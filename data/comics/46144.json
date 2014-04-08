@@ -1,0 +1,131 @@
+{
+    "id": 46144,
+    "digitalId": 0,
+    "title": "Guardians of the Galaxy (2013) #3 (Mcguinness Variant)",
+    "issueNumber": 3,
+    "variantDescription": "Mcguinness Variant",
+    "description": "\r\n\r\n<ul><li>As the Guardians first story wraps up, the mysteries leading to the next great Marvel event become clearer.</li></ul>",
+    "modified": "2013-05-30T10:10:28-0400",
+    "isbn": "",
+    "upc": "75960607830100321",
+    "diamondCode": "MAR130622",
+    "ean": "",
+    "issn": "",
+    "format": "Comic",
+    "pageCount": 32,
+    "textObjects": [
+        {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "\r\n\r\n<ul><li>As the Guardians first story wraps up, the mysteries leading to the next great Marvel event become clearer.</li></ul>"
+        }
+    ],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/46144",
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/46144/guardians_of_the_galaxy_2013_3_mcguinness_variant/mcguinness_variant?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ],
+    "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/16410",
+        "name": "Guardians of the Galaxy (2013 - Present)"
+    },
+    "variants": [
+        {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/49289",
+            "name": "Guardians of the Galaxy (2013) #3 (2nd Printing Variant)"
+        },
+        {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/43303",
+            "name": "Guardians of the Galaxy (2013) #3"
+        },
+        {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/47422",
+            "name": "Guardians of the Galaxy (2013) #3 (Movie Variant)"
+        },
+        {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/47421",
+            "name": "Guardians of the Galaxy (2013) #3 (Yu Variant)"
+        }
+    ],
+    "collections": [],
+    "collectedIssues": [],
+    "dates": [
+        {
+            "type": "onsaleDate",
+            "date": "2013-06-12T00:00:00-0400"
+        },
+        {
+            "type": "focDate",
+            "date": "2013-05-29T00:00:00-0400"
+        }
+    ],
+    "prices": [
+        {
+            "type": "printPrice",
+            "price": 3.99
+        }
+    ],
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/a0/51a75bd83a99b",
+        "extension": "jpg"
+    },
+    "images": [
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/a0/51a75bd83a99b",
+            "extension": "jpg"
+        }
+    ],
+    "creators": {
+        "available": 3,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/46144/creators",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/24",
+                "name": "Brian Michael Bendis",
+                "role": "writer"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/649",
+                "name": "Ed McGuinness",
+                "role": "penciller (cover)"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/9484",
+                "name": "Steve McNiven",
+                "role": "artist"
+            }
+        ],
+        "returned": 3
+    },
+    "characters": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/46144/characters",
+        "items": [],
+        "returned": 0
+    },
+    "stories": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/46144/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/103836",
+                "name": "cover from Guardians of the Galaxy (2013) #3 (TBD ARTIST VARIANT)",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/103837",
+                "name": "story from Guardians of the Galaxy (2013) #3 (TBD ARTIST VARIANT)",
+                "type": "interiorStory"
+            }
+        ],
+        "returned": 2
+    },
+    "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/46144/events",
+        "items": [],
+        "returned": 0
+    }
+}

@@ -1,0 +1,157 @@
+{
+    "id": 39955,
+    "digitalId": 24715,
+    "title": "Fear Itself: The Fearless (2011) #3",
+    "issueNumber": 3,
+    "variantDescription": "",
+    "description": "Sin, Crossbones, and Valkeryie race across the globe in search of the missing hammers! The Secret Avengers guest-star in a battle against Raizo and an army of zombies!",
+    "modified": "2014-01-02T13:09:07-0500",
+    "isbn": "",
+    "upc": "5960607686-00311",
+    "diamondCode": "SEP110504",
+    "ean": "",
+    "issn": "",
+    "format": "Comic",
+    "pageCount": 32,
+    "textObjects": [
+        {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "Sin, Crossbones, and Valkeryie race across the globe in search of the missing hammers! The Secret Avengers guest-star in a battle against Raizo and an army of zombies!"
+        },
+        {
+            "type": "issue_preview_text",
+            "language": "en-us",
+            "text": "Sin, Crossbones, and Valkeryie race across the globe in search of the missing hammers! The Secret Avengers guest-star in a battle against Raizo and an army of zombies!"
+        }
+    ],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/39955",
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/39955/fear_itself_the_fearless_2011_3?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/Fear-Itself-The-Fearless-3/digital-comic/24715?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=24715&utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "inAppLink",
+            "url": "http://applink.marvel.com/issue/24715?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ],
+    "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/14804",
+        "name": "Fear Itself: The Fearless (2011 - 2012)"
+    },
+    "variants": [],
+    "collections": [],
+    "collectedIssues": [],
+    "dates": [
+        {
+            "type": "onsaleDate",
+            "date": "2011-11-16T00:00:00-0500"
+        },
+        {
+            "type": "focDate",
+            "date": "2011-11-02T00:00:00-0400"
+        },
+        {
+            "type": "unlimitedDate",
+            "date": "2012-11-06T00:00:00-0500"
+        },
+        {
+            "type": "digitalPurchaseDate",
+            "date": "2011-11-16T00:00:00-0500"
+        }
+    ],
+    "prices": [
+        {
+            "type": "printPrice",
+            "price": 2.99
+        },
+        {
+            "type": "digitalPurchasePrice",
+            "price": 1.99
+        }
+    ],
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/90/52c5aaf7b6f66",
+        "extension": "jpg"
+    },
+    "images": [
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/90/52c5aaf7b6f66",
+            "extension": "jpg"
+        },
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/d0/4e656960cedb5",
+            "extension": "jpg"
+        }
+    ],
+    "creators": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/39955/creators",
+        "items": [],
+        "returned": 0
+    },
+    "characters": {
+        "available": 5,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/39955/characters",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010802",
+                "name": "Ant-Man (Eric O Grady)"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009189",
+                "name": "Black Widow"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009538",
+                "name": "Iron Patriot (James Rhodes)"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009577",
+                "name": "Shang-Chi"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009228",
+                "name": "Sharon Carter"
+            }
+        ],
+        "returned": 5
+    },
+    "stories": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/39955/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/90677",
+                "name": "Cover #90677",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/90678",
+                "name": "Interior #90678",
+                "type": "interiorStory"
+            }
+        ],
+        "returned": 2
+    },
+    "events": {
+        "available": 1,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/39955/events",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/events/309",
+                "name": "Shattered Heroes"
+            }
+        ],
+        "returned": 1
+    }
+}

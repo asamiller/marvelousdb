@@ -1,0 +1,145 @@
+{
+    "id": 47126,
+    "digitalId": 0,
+    "title": "Infinity (2013) #5",
+    "issueNumber": 5,
+    "variantDescription": "",
+    "description": "\r\n\r\n\r\n\r\n\r\n<ul><li>The Avengers Universe.</li><li>The Heroes of Earth rally to defeat Thanos.</li><li>The war for Earth begins.</li></ul>",
+    "modified": "2013-11-01T14:19:14-0400",
+    "isbn": "",
+    "upc": "759606078821000511",
+    "diamondCode": "AUG130740",
+    "ean": "",
+    "issn": "",
+    "format": "Comic",
+    "pageCount": 40,
+    "textObjects": [
+        {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "\r\n\r\n\r\n\r\n\r\n<ul><li>The Avengers Universe.</li><li>The Heroes of Earth rally to defeat Thanos.</li><li>The war for Earth begins.</li></ul>"
+        }
+    ],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/47126",
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/47126/infinity_2013_5?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/Infinity-5/digital-comic/31741?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ],
+    "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/17735",
+        "name": "Infinity (2013 - Present)"
+    },
+    "variants": [
+        {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/48508",
+            "name": "Infinity (2013) #5 (Young Variant)"
+        },
+        {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/47845",
+            "name": "Infinity (2013) #5 (Hickman Design Variant)"
+        },
+        {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/47843",
+            "name": "Infinity (2013) #5 (Pichelli Hero Variant)"
+        }
+    ],
+    "collections": [],
+    "collectedIssues": [],
+    "dates": [
+        {
+            "type": "onsaleDate",
+            "date": "2013-10-30T00:00:00-0400"
+        },
+        {
+            "type": "focDate",
+            "date": "2013-10-16T00:00:00-0400"
+        }
+    ],
+    "prices": [
+        {
+            "type": "printPrice",
+            "price": 3.99
+        }
+    ],
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/4/10/526599c4a2c96",
+        "extension": "jpg"
+    },
+    "images": [
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/4/10/526599c4a2c96",
+            "extension": "jpg"
+        },
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/f/20/51cde18b5f3cc",
+            "extension": "jpg"
+        }
+    ],
+    "creators": {
+        "available": 4,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/47126/creators",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/11743",
+                "name": "Jonathan Hickman",
+                "role": "writer"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/2879",
+                "name": "Adam Kubert",
+                "role": "penciler (cover)"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/8737",
+                "name": "Jerome Opena",
+                "role": "artist"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/8404",
+                "name": "Dustin Weaver",
+                "role": "artist"
+            }
+        ],
+        "returned": 4
+    },
+    "characters": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/47126/characters",
+        "items": [],
+        "returned": 0
+    },
+    "stories": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/47126/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/105845",
+                "name": "cover from Thanos/Inhumans Event (2013) #5",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/105846",
+                "name": "story from Thanos/Inhumans Event (2013) #5",
+                "type": "interiorStory"
+            }
+        ],
+        "returned": 2
+    },
+    "events": {
+        "available": 1,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/47126/events",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/events/315",
+                "name": "Infinity"
+            }
+        ],
+        "returned": 1
+    }
+}

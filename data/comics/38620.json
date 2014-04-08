@@ -1,0 +1,126 @@
+{
+    "id": 38620,
+    "digitalId": 0,
+    "title": "Ultimate Comics Avengers Vs New Ultimates (2010) #1 (Hitch Variant)",
+    "issueNumber": 1,
+    "variantDescription": "Hitch Variant",
+    "description": "Ultimate Comics Avengers Vs. New Ultimates",
+    "modified": "2011-02-09T15:08:51-0500",
+    "isbn": "",
+    "upc": "5960607406-00131",
+    "diamondCode": "DEC100546",
+    "ean": "",
+    "issn": "",
+    "format": "Comic",
+    "pageCount": 32,
+    "textObjects": [
+        {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "Ultimate Comics Avengers Vs. New Ultimates"
+        }
+    ],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/38620",
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/38620/ultimate_comics_avengers_vs_new_ultimates_2010_1_hitch_variant/hitch_variant?utm_campaign=apiRef&utm_source=046266cc733f0e6ea56d0b992f16d598"
+        }
+    ],
+    "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/12615",
+        "name": "Ultimate Comics Avengers Vs New Ultimates (2010 - 2011)"
+    },
+    "variants": [
+        {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/39343",
+            "name": "Ultimate Comics Avengers Vs New Ultimates (2010) #1 (2nd Printing Variant)"
+        },
+        {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/35582",
+            "name": "Ultimate Comics Avengers Vs New Ultimates (2010) #1"
+        },
+        {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/36348",
+            "name": "Ultimate Comics Avengers Vs New Ultimates (2010) #1"
+        }
+    ],
+    "collections": [],
+    "collectedIssues": [],
+    "dates": [
+        {
+            "type": "onsaleDate",
+            "date": "2011-02-09T00:00:00-0500"
+        },
+        {
+            "type": "focDate",
+            "date": "2011-01-26T00:00:00-0500"
+        }
+    ],
+    "prices": [
+        {
+            "type": "printPrice",
+            "price": 3.99
+        }
+    ],
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/20/4d52f62c6ac34",
+        "extension": "jpg"
+    },
+    "images": [
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/20/4d52f62c6ac34",
+            "extension": "jpg"
+        },
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/50/4d52f2d13f5f4",
+            "extension": "jpg"
+        }
+    ],
+    "creators": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/38620/creators",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/339",
+                "name": "Bryan Hitch",
+                "role": "penciller (cover)"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/88",
+                "name": "Mark Millar",
+                "role": "writer"
+            }
+        ],
+        "returned": 2
+    },
+    "characters": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/38620/characters",
+        "items": [],
+        "returned": 0
+    },
+    "stories": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/38620/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/89174",
+                "name": "Cover #89174",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/89175",
+                "name": "Interior #89175",
+                "type": "interiorStory"
+            }
+        ],
+        "returned": 2
+    },
+    "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/38620/events",
+        "items": [],
+        "returned": 0
+    }
+}

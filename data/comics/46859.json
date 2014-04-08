@@ -1,0 +1,143 @@
+{
+    "id": 46859,
+    "digitalId": 31330,
+    "title": "Captain Marvel (2012) #15",
+    "issueNumber": 15,
+    "variantDescription": "",
+    "description": "INFINITY TIE-IN\r\n\r\n\r\n\r\n<ul><li>Part 1 of 2, Infinity Event tie-ins, expanding on the capture of Captain Marvel. and Hawkeye!</li><li>Plus: The return of Binary?!</li><li>Fisticuffs! In spaaaaaaaaaaaace!</li></ul>",
+    "modified": "2013-08-19T14:36:25-0400",
+    "isbn": "",
+    "upc": "75960607809701511",
+    "diamondCode": "JUN130590",
+    "ean": "",
+    "issn": "",
+    "format": "Comic",
+    "pageCount": 32,
+    "textObjects": [
+        {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "INFINITY TIE-IN\r\n\r\n\r\n\r\n<ul><li>Part 1 of 2, Infinity Event tie-ins, expanding on the capture of Captain Marvel. and Hawkeye!</li><li>Plus: The return of Binary?!</li><li>Fisticuffs! In spaaaaaaaaaaaace!</li></ul>"
+        }
+    ],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/46859",
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/46859/captain_marvel_2012_15?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/Captain-Marvel-15/digital-comic/31330?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=31330&utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "inAppLink",
+            "url": "http://applink.marvel.com/issue/31330?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ],
+    "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/16280",
+        "name": "Captain Marvel (2012 - Present)"
+    },
+    "variants": [],
+    "collections": [],
+    "collectedIssues": [],
+    "dates": [
+        {
+            "type": "onsaleDate",
+            "date": "2013-08-28T00:00:00-0400"
+        },
+        {
+            "type": "focDate",
+            "date": "2013-08-14T00:00:00-0400"
+        },
+        {
+            "type": "unlimitedDate",
+            "date": "2014-02-24T00:00:00-0500"
+        },
+        {
+            "type": "digitalPurchaseDate",
+            "date": "2013-08-28T00:00:00-0400"
+        }
+    ],
+    "prices": [
+        {
+            "type": "printPrice",
+            "price": 2.99
+        },
+        {
+            "type": "digitalPurchasePrice",
+            "price": 2.99
+        }
+    ],
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/30/5212647d1bf19",
+        "extension": "jpg"
+    },
+    "images": [
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/30/5212647d1bf19",
+            "extension": "jpg"
+        }
+    ],
+    "creators": {
+        "available": 3,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/46859/creators",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/10320",
+                "name": "Kelly Sue DeConnick",
+                "role": "writer"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/12298",
+                "name": "Scott Hepburn",
+                "role": "artist"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/10090",
+                "name": "Joe Quinones",
+                "role": "penciler (cover)"
+            }
+        ],
+        "returned": 3
+    },
+    "characters": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/46859/characters",
+        "items": [],
+        "returned": 0
+    },
+    "stories": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/46859/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/105340",
+                "name": "cover from Captain Marvel (2012) #15",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/105341",
+                "name": "story from Captain Marvel (2012) #15",
+                "type": "interiorStory"
+            }
+        ],
+        "returned": 2
+    },
+    "events": {
+        "available": 1,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/46859/events",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/events/315",
+                "name": "Infinity"
+            }
+        ],
+        "returned": 1
+    }
+}

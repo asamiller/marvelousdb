@@ -1,0 +1,127 @@
+{
+    "id": 48318,
+    "digitalId": 0,
+    "title": "Mighty Avengers (2013) #3",
+    "issueNumber": 3,
+    "variantDescription": "",
+    "description": "The Blue Marvel joins the fight - and the Ebony Maw makes his move!\nA plague of demons is raging through Manhattan, and the only Avenger who can defeat them is... Spider Hero? What?\nSeriously, who is that guy?",
+    "modified": "2014-02-13T18:29:52-0500",
+    "isbn": "",
+    "upc": "75960607959900311",
+    "diamondCode": "SEP130668",
+    "ean": "",
+    "issn": "",
+    "format": "Comic",
+    "pageCount": 32,
+    "textObjects": [
+        {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "The Blue Marvel joins the fight - and the Ebony Maw makes his move!\nA plague of demons is raging through Manhattan, and the only Avenger who can defeat them is... Spider Hero? What?\nSeriously, who is that guy?"
+        }
+    ],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/48318",
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/48318/mighty_avengers_2013_3?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/Mighty-Avengers-3/digital-comic/31982?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ],
+    "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/18309",
+        "name": "Mighty Avengers (2013 - Present)"
+    },
+    "variants": [
+        {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/50091",
+            "name": "Mighty Avengers (2013) #3 (Larroca Eminem Variant)"
+        },
+        {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/48741",
+            "name": "Mighty Avengers (2013) #3 (Wimberly Variant)"
+        }
+    ],
+    "collections": [],
+    "collectedIssues": [],
+    "dates": [
+        {
+            "type": "onsaleDate",
+            "date": "2013-11-06T00:00:00-0500"
+        },
+        {
+            "type": "focDate",
+            "date": "2013-10-23T00:00:00-0400"
+        }
+    ],
+    "prices": [
+        {
+            "type": "printPrice",
+            "price": 3.99
+        }
+    ],
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/5/f0/527005c5a6d6b",
+        "extension": "jpg"
+    },
+    "images": [
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/5/f0/527005c5a6d6b",
+            "extension": "jpg"
+        }
+    ],
+    "creators": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/48318/creators",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/12174",
+                "name": "Al Ewing",
+                "role": "writer"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/425",
+                "name": "Greg Land",
+                "role": "penciller (cover)"
+            }
+        ],
+        "returned": 2
+    },
+    "characters": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/48318/characters",
+        "items": [],
+        "returned": 0
+    },
+    "stories": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/48318/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/108815",
+                "name": "cover from Mighty Avengers (2013) #3",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/108816",
+                "name": "story from Mighty Avengers (2013) #3",
+                "type": "interiorStory"
+            }
+        ],
+        "returned": 2
+    },
+    "events": {
+        "available": 1,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/48318/events",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/events/315",
+                "name": "Infinity"
+            }
+        ],
+        "returned": 1
+    }
+}

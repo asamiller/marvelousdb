@@ -1,0 +1,103 @@
+{
+    "id": 23168,
+    "digitalId": 0,
+    "title": "Spider-Man: Brand New Day (2008) #4",
+    "issueNumber": 4,
+    "variantDescription": "",
+    "description": "AMAZING SPIDER-MAN #552\r<br>AMAZING SPIDER-MAN #553\r<br>56 PGS./Rated A …$3.99 \r<br>",
+    "modified": "-0001-11-30T00:00:00-0500",
+    "isbn": "",
+    "upc": "5960606585-00411",
+    "diamondCode": "NOV082482",
+    "ean": "",
+    "issn": "",
+    "format": "Comic",
+    "pageCount": 56,
+    "textObjects": [
+        {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "AMAZING SPIDER-MAN #552\r<br>AMAZING SPIDER-MAN #553\r<br>56 PGS./Rated A …$3.99 \r<br>"
+        }
+    ],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/23168",
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/23168/spider-man_brand_new_day_2008_4?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ],
+    "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/6002",
+        "name": "Spider-Man: Brand New Day (2008 - 2009)"
+    },
+    "variants": [],
+    "collections": [],
+    "collectedIssues": [],
+    "dates": [
+        {
+            "type": "onsaleDate",
+            "date": "2009-01-14T00:00:00-0500"
+        },
+        {
+            "type": "focDate",
+            "date": "2008-12-18T00:00:00-0500"
+        }
+    ],
+    "prices": [
+        {
+            "type": "printPrice",
+            "price": 3.99
+        }
+    ],
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/8/c0/4bb60451df70b",
+        "extension": "jpg"
+    },
+    "images": [
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/8/c0/4bb60451df70b",
+            "extension": "jpg"
+        }
+    ],
+    "creators": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/23168/creators",
+        "items": [],
+        "returned": 0
+    },
+    "characters": {
+        "available": 1,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/23168/characters",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009610",
+                "name": "Spider-Man"
+            }
+        ],
+        "returned": 1
+    },
+    "stories": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/23168/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/51377",
+                "name": "Interior #51377",
+                "type": "interiorStory"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/58264",
+                "name": "Cover #58264",
+                "type": "cover"
+            }
+        ],
+        "returned": 2
+    },
+    "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/23168/events",
+        "items": [],
+        "returned": 0
+    }
+}

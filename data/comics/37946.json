@@ -1,0 +1,161 @@
+{
+    "id": 37946,
+    "digitalId": 24754,
+    "title": "X-Factor (2005) #227",
+    "issueNumber": 227,
+    "variantDescription": "",
+    "description": "In this issue, a member of X-Factor dies.",
+    "modified": "2012-04-23T17:30:42-0400",
+    "isbn": "",
+    "upc": "5960605878-22711",
+    "diamondCode": "",
+    "ean": "",
+    "issn": "1932-5266",
+    "format": "Comic",
+    "pageCount": 32,
+    "textObjects": [
+        {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "In this issue, a member of X-Factor dies."
+        }
+    ],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/37946",
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/37946/x-factor_2005_227?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/X-Factor-227/digital-comic/24754?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=24754&utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "inAppLink",
+            "url": "http://applink.marvel.com/issue/24754?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ],
+    "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/1035",
+        "name": "X-Factor (2005 - Present)"
+    },
+    "variants": [],
+    "collections": [],
+    "collectedIssues": [],
+    "dates": [
+        {
+            "type": "onsaleDate",
+            "date": "2011-11-16T00:00:00-0500"
+        },
+        {
+            "type": "focDate",
+            "date": "2011-10-24T00:00:00-0400"
+        },
+        {
+            "type": "unlimitedDate",
+            "date": "2012-05-02T00:00:00-0400"
+        },
+        {
+            "type": "digitalPurchaseDate",
+            "date": "2014-02-04T00:00:00-0500"
+        }
+    ],
+    "prices": [
+        {
+            "type": "printPrice",
+            "price": 2.99
+        },
+        {
+            "type": "digitalPurchasePrice",
+            "price": 1.99
+        }
+    ],
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/7/50/4e45749f77dc3",
+        "extension": "jpg"
+    },
+    "images": [
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/70/4eb95d22b4438",
+            "extension": "jpg"
+        },
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/90/4eb95d0269334",
+            "extension": "jpg"
+        },
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/a/10/4eb95cd70f928",
+            "extension": "jpg"
+        },
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/f0/4eb95c932735e",
+            "extension": "jpg"
+        },
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/a/50/4eb95c5f7629e",
+            "extension": "jpg"
+        },
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/7/50/4e45749f77dc3",
+            "extension": "jpg"
+        }
+    ],
+    "creators": {
+        "available": 1,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/37946/creators",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/789",
+                "name": "David Yardin",
+                "role": "penciller (cover)"
+            }
+        ],
+        "returned": 1
+    },
+    "characters": {
+        "available": 3,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/37946/characters",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009580",
+                "name": "Shatterstar"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1011051",
+                "name": "Strong Guy"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010739",
+                "name": "X-Factor Investigations"
+            }
+        ],
+        "returned": 3
+    },
+    "stories": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/37946/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/90997",
+                "name": "X-Factor (1986) #227",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/90998",
+                "name": "Interior #90998",
+                "type": "interiorStory"
+            }
+        ],
+        "returned": 2
+    },
+    "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/37946/events",
+        "items": [],
+        "returned": 0
+    }
+}

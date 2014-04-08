@@ -1,0 +1,155 @@
+{
+    "id": 2018,
+    "digitalId": 1804,
+    "title": "Excalibur (2004) #14",
+    "issueNumber": 14,
+    "variantDescription": "",
+    "description": "A \"HOUSE OF M\" prelude!\r<br>Guest-starring DR. STRANGE! Professor Xavier must call in the help of the Sorcerer Supreme to deal with the increasingly dangerous, reality-altering madness of Wanda Maximoff. And perhaps even more dangerous is the grief and desperation of her father, Magneto.\r<br>32 PGS./Marvel PSR …$2.99 ",
+    "modified": "-0001-11-30T00:00:00-0500",
+    "isbn": "",
+    "upc": "5960605540-01411",
+    "diamondCode": "",
+    "ean": "",
+    "issn": "",
+    "format": "Comic",
+    "pageCount": 0,
+    "textObjects": [
+        {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "A \"HOUSE OF M\" prelude!\r<br>Guest-starring DR. STRANGE! Professor Xavier must call in the help of the Sorcerer Supreme to deal with the increasingly dangerous, reality-altering madness of Wanda Maximoff. And perhaps even more dangerous is the grief and desperation of her father, Magneto.\r<br>32 PGS./Marvel PSR …$2.99 "
+        }
+    ],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/2018",
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/2018/excalibur_2004_14?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=1804&utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ],
+    "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/740",
+        "name": "Excalibur (2004 - 2005)"
+    },
+    "variants": [],
+    "collections": [
+        {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/2232",
+            "name": "House of M: Excalibur - Prelude (Trade Paperback)"
+        }
+    ],
+    "collectedIssues": [],
+    "dates": [
+        {
+            "type": "onsaleDate",
+            "date": "2005-05-25T00:00:00-0400"
+        },
+        {
+            "type": "focDate",
+            "date": "-0001-11-30T00:00:00-0500"
+        },
+        {
+            "type": "unlimitedDate",
+            "date": "2007-04-28T00:00:00-0400"
+        }
+    ],
+    "prices": [
+        {
+            "type": "printPrice",
+            "price": 2.99
+        }
+    ],
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/7/10/4bc638af97285",
+        "extension": "jpg"
+    },
+    "images": [
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/7/10/4bc638af97285",
+            "extension": "jpg"
+        }
+    ],
+    "creators": {
+        "available": 5,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/2018/creators",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/498",
+                "name": "Greg Adams",
+                "role": "inker"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/44",
+                "name": "Chris Claremont",
+                "role": "writer"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/618",
+                "name": "Transparency Digital",
+                "role": "colorist"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/540",
+                "name": "Aaron Lopresti",
+                "role": "penciller (cover)"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/791",
+                "name": "Tom Orzechowski",
+                "role": "letterer"
+            }
+        ],
+        "returned": 5
+    },
+    "characters": {
+        "available": 3,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/2018/characters",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010771",
+                "name": "Excalibur"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009417",
+                "name": "Magneto"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009562",
+                "name": "Scarlet Witch"
+            }
+        ],
+        "returned": 3
+    },
+    "stories": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/2018/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/3265",
+                "name": "2 of 2 - House of M Prelude",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/3266",
+                "name": "2 of 2 - House of M Prelude",
+                "type": "interiorStory"
+            }
+        ],
+        "returned": 2
+    },
+    "events": {
+        "available": 1,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/2018/events",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/events/251",
+                "name": "House of M"
+            }
+        ],
+        "returned": 1
+    }
+}

@@ -1,0 +1,137 @@
+{
+    "id": 14511,
+    "digitalId": 3005,
+    "title": "House of M (2005) #6",
+    "issueNumber": 6,
+    "variantDescription": "",
+    "description": "Both the Avengers and X-Men have come to realize the truth about the House of M, and they cannot let it stand! With the power of S.H.I.E.L.D behind them, their plan is to assault Magneto when he would least expect it: at a gala event held in his honor on his island kingdom of Genosha. The stakes have never been higher, and the heroes will stop at nothing to ensure that the Scarlet Witch returns the world to what it what it once was!",
+    "modified": "-0001-11-30T00:00:00-0500",
+    "isbn": "",
+    "upc": "",
+    "diamondCode": "",
+    "ean": "",
+    "issn": "",
+    "format": "Comic",
+    "pageCount": 0,
+    "textObjects": [
+        {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "Both the Avengers and X-Men have come to realize the truth about the House of M, and they cannot let it stand! With the power of S.H.I.E.L.D behind them, their plan is to assault Magneto when he would least expect it: at a gala event held in his honor on his island kingdom of Genosha. The stakes have never been higher, and the heroes will stop at nothing to ensure that the Scarlet Witch returns the world to what it what it once was!"
+        },
+        {
+            "type": "issue_preview_text",
+            "language": "en-us",
+            "text": "Both the Avengers and X-Men have come to realize the truth about the House of M, and they cannot let it stand! With the power of S.H.I.E.L.D behind them, their plan is to assault Magneto when he would least expect it: at a gala event held in his honor on his island kingdom of Genosha. The stakes have never been higher, and the heroes will stop at nothing to ensure that the Scarlet Witch returns the world to what it what it once was!"
+        }
+    ],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/14511",
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/14511/house_of_m_2005_6?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/House-of-M-6/digital-comic/3005?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=3005&utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "inAppLink",
+            "url": "http://applink.marvel.com/issue/3005?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ],
+    "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/855",
+        "name": "House of M (2005)"
+    },
+    "variants": [],
+    "collections": [
+        {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/4005",
+            "name": "House of M (Trade Paperback)"
+        }
+    ],
+    "collectedIssues": [],
+    "dates": [
+        {
+            "type": "onsaleDate",
+            "date": "1961-01-01T00:00:00-0500"
+        },
+        {
+            "type": "focDate",
+            "date": "1961-01-01T00:00:00-0500"
+        },
+        {
+            "type": "unlimitedDate",
+            "date": "2007-04-28T00:00:00-0400"
+        },
+        {
+            "type": "digitalPurchaseDate",
+            "date": "2010-04-01T00:00:00-0400"
+        }
+    ],
+    "prices": [
+        {
+            "type": "printPrice",
+            "price": 0
+        },
+        {
+            "type": "digitalPurchasePrice",
+            "price": 1.99
+        }
+    ],
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/f/50/4d49e29acf0ad",
+        "extension": "jpg"
+    },
+    "images": [
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/40/4bc46c9e0c3e4",
+            "extension": "jpg"
+        }
+    ],
+    "creators": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/14511/creators",
+        "items": [],
+        "returned": 0
+    },
+    "characters": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/14511/characters",
+        "items": [],
+        "returned": 0
+    },
+    "stories": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/14511/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/36631",
+                "name": "Cover #36631",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/36632",
+                "name": "Interior #36632",
+                "type": "interiorStory"
+            }
+        ],
+        "returned": 2
+    },
+    "events": {
+        "available": 1,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/14511/events",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/events/251",
+                "name": "House of M"
+            }
+        ],
+        "returned": 1
+    }
+}

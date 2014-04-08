@@ -1,0 +1,117 @@
+{
+    "id": 406,
+    "digitalId": 6160,
+    "title": "Iron Fist (2004) #1",
+    "issueNumber": 1,
+    "variantDescription": "",
+    "description": "He's been a warrior, a super hero, and an affluent businessman! But now, in the space of a single moment, the life of the master martial artist known as Iron Fist will be shattered beyond repair – as a dark legend from the musty scrolls of ancient K'un Lun begins to take shape in the mortal world...",
+    "modified": "-0001-11-30T00:00:00-0500",
+    "isbn": "",
+    "upc": "5960605528-00111",
+    "diamondCode": "",
+    "ean": "",
+    "issn": "",
+    "format": "Comic",
+    "pageCount": 0,
+    "textObjects": [
+        {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "He's been a warrior, a super hero, and an affluent businessman! But now, in the space of a single moment, the life of the master martial artist known as Iron Fist will be shattered beyond repair – as a dark legend from the musty scrolls of ancient K'un Lun begins to take shape in the mortal world..."
+        }
+    ],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/406",
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/406/iron_fist_2004_1?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=6160&utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ],
+    "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/732",
+        "name": "Iron Fist (2004)"
+    },
+    "variants": [],
+    "collections": [],
+    "collectedIssues": [],
+    "dates": [
+        {
+            "type": "onsaleDate",
+            "date": "2004-03-10T00:00:00-0500"
+        },
+        {
+            "type": "focDate",
+            "date": "-0001-11-30T00:00:00-0500"
+        },
+        {
+            "type": "unlimitedDate",
+            "date": "2008-12-16T00:00:00-0500"
+        }
+    ],
+    "prices": [
+        {
+            "type": "printPrice",
+            "price": 2.99
+        }
+    ],
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/f/90/4c7d67e4cada7",
+        "extension": "jpg"
+    },
+    "images": [
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/f/90/4c7d67e4cada7",
+            "extension": "jpg"
+        }
+    ],
+    "creators": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/406/creators",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/784",
+                "name": "Kevin Lau",
+                "role": "penciller (cover)"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/785",
+                "name": "Jim Mullaney",
+                "role": "writer"
+            }
+        ],
+        "returned": 2
+    },
+    "characters": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/406/characters",
+        "items": [],
+        "returned": 0
+    },
+    "stories": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/406/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/3151",
+                "name": "Cover #3151",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/3152",
+                "name": "Interior #3152",
+                "type": "interiorStory"
+            }
+        ],
+        "returned": 2
+    },
+    "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/406/events",
+        "items": [],
+        "returned": 0
+    }
+}

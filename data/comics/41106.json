@@ -1,0 +1,122 @@
+{
+    "id": 41106,
+    "digitalId": 0,
+    "title": "Incredible Hulk (2011) #2 (Mc 50th Anniversary Variant)",
+    "issueNumber": 2,
+    "variantDescription": "Mc 50th Anniversary Variant",
+    "description": "• The Hulk and Bruce Banner are now separate entities—but Bruce wants the Hulk back!\n• The Hulk is assigned to take Banner down…but Bruce isn’t going without a fight.",
+    "modified": "2011-11-11T16:44:57-0500",
+    "isbn": "",
+    "upc": "5960607292-00221",
+    "diamondCode": "SEP110508",
+    "ean": "",
+    "issn": "",
+    "format": "Comic",
+    "pageCount": 32,
+    "textObjects": [
+        {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "• The Hulk and Bruce Banner are now separate entities—but Bruce wants the Hulk back!\n• The Hulk is assigned to take Banner down…but Bruce isn’t going without a fight."
+        }
+    ],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/41106",
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/41106/incredible_hulk_2011_2_mc_50th_anniversary_variant/mc_50th_anniversary_variant?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ],
+    "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/14876",
+        "name": "Incredible Hulk (2011 - 2012)"
+    },
+    "variants": [
+        {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/42259",
+            "name": "Incredible Hulk (2011) #2 (Silvestri Variant)"
+        },
+        {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/42180",
+            "name": "Incredible Hulk (2011) #2"
+        }
+    ],
+    "collections": [],
+    "collectedIssues": [],
+    "dates": [
+        {
+            "type": "onsaleDate",
+            "date": "2011-11-16T00:00:00-0500"
+        },
+        {
+            "type": "focDate",
+            "date": "2011-11-02T00:00:00-0400"
+        }
+    ],
+    "prices": [
+        {
+            "type": "printPrice",
+            "price": 3.99
+        }
+    ],
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/d/40/4eaac47769f9e",
+        "extension": "jpg"
+    },
+    "images": [
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/d/40/4eaac47769f9e",
+            "extension": "jpg"
+        },
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/90/4e454efff2441",
+            "extension": "jpg"
+        }
+    ],
+    "creators": {
+        "available": 1,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/41106/creators",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/11489",
+                "name": "Michael Broussard",
+                "role": "penciller"
+            }
+        ],
+        "returned": 1
+    },
+    "characters": {
+        "available": 1,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/41106/characters",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009351",
+                "name": "Hulk"
+            }
+        ],
+        "returned": 1
+    },
+    "stories": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/41106/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/93059",
+                "name": "Incredible Hulk (2011) #2, Mc 50th Anniversary Variant",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/93060",
+                "name": "Incredible Hulk (2011) #2, Mc 50th Anniversary Variant - Int",
+                "type": "interiorStory"
+            }
+        ],
+        "returned": 2
+    },
+    "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/41106/events",
+        "items": [],
+        "returned": 0
+    }
+}

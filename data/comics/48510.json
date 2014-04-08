@@ -1,0 +1,127 @@
+{
+    "id": 48510,
+    "digitalId": 0,
+    "title": "Infinity: Heist (2013) #1",
+    "issueNumber": 1,
+    "variantDescription": "",
+    "description": "\r\n\r\n\r\n\r\n<ul><li>As the Marvel U prepares for Thanos, Spymaster and some of Marvel&#39;s best baddies decided where there is chaos &ndash; there is opportunity!</li><li>It&#39;s the crime of the century and an alien invasion is all the cover they need &ndash; so why is BLIZZARD having doubts?</li><li>Frank Tieri and ARTIST bring you the biggest score &ndash; it&#39;s the Infinity Heist!</li></ul>",
+    "modified": "2013-09-16T14:22:46-0400",
+    "isbn": "",
+    "upc": "75960607974200111",
+    "diamondCode": "JUL130594",
+    "ean": "",
+    "issn": "",
+    "format": "Comic",
+    "pageCount": 32,
+    "textObjects": [
+        {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "\r\n\r\n\r\n\r\n<ul><li>As the Marvel U prepares for Thanos, Spymaster and some of Marvel&#39;s best baddies decided where there is chaos &ndash; there is opportunity!</li><li>It&#39;s the crime of the century and an alien invasion is all the cover they need &ndash; so why is BLIZZARD having doubts?</li><li>Frank Tieri and ARTIST bring you the biggest score &ndash; it&#39;s the Infinity Heist!</li></ul>"
+        }
+    ],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/48510",
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/48510/infinity_heist_2013_1?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/Infinity-Heist-1/digital-comic/31762?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ],
+    "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/18339",
+        "name": "Infinity: Heist (2013 - Present)"
+    },
+    "variants": [],
+    "collections": [],
+    "collectedIssues": [],
+    "dates": [
+        {
+            "type": "onsaleDate",
+            "date": "2013-09-25T00:00:00-0400"
+        },
+        {
+            "type": "focDate",
+            "date": "2013-09-11T00:00:00-0400"
+        }
+    ],
+    "prices": [
+        {
+            "type": "printPrice",
+            "price": 3.99
+        }
+    ],
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/e/50/523747f229588",
+        "extension": "jpg"
+    },
+    "images": [
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/e/50/523747f229588",
+            "extension": "jpg"
+        },
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/00/5203c82087e2b",
+            "extension": "jpg"
+        }
+    ],
+    "creators": {
+        "available": 3,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/48510/creators",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/1045",
+                "name": "Ramon Bachs",
+                "role": "artist"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/11595",
+                "name": "Alejandro Garza",
+                "role": "penciller (cover)"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/91",
+                "name": "Frank Tieri",
+                "role": "writer"
+            }
+        ],
+        "returned": 3
+    },
+    "characters": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/48510/characters",
+        "items": [],
+        "returned": 0
+    },
+    "stories": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/48510/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/109127",
+                "name": "cover from Infinity: Heist (2013) #1",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/109128",
+                "name": "story from Infinity: Heist (2013) #1",
+                "type": "interiorStory"
+            }
+        ],
+        "returned": 2
+    },
+    "events": {
+        "available": 1,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/48510/events",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/events/315",
+                "name": "Infinity"
+            }
+        ],
+        "returned": 1
+    }
+}

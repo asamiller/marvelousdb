@@ -1,0 +1,110 @@
+{
+    "id": 49636,
+    "digitalId": 0,
+    "title": "Nova (2013) #13 (Blank Cover Variant)",
+    "issueNumber": 13,
+    "variantDescription": "Blank Cover Variant",
+    "description": null,
+    "modified": "2013-11-20T09:42:11-0500",
+    "isbn": "",
+    "upc": "75960607829501351",
+    "diamondCode": "",
+    "ean": "",
+    "issn": "",
+    "format": "Comic",
+    "pageCount": 32,
+    "textObjects": [],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/49636",
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/49636/nova_2013_13_blank_cover_variant/blank_cover_variant?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ],
+    "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/17511",
+        "name": "Nova (2013 - Present)"
+    },
+    "variants": [
+        {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/48793",
+            "name": "Nova (2013) #13"
+        },
+        {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/49637",
+            "name": "Nova (2013) #13 (Medina Animal Variant)"
+        },
+        {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/49638",
+            "name": "Nova (2013) #13 (Cho Sketch Variant)"
+        },
+        {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/49639",
+            "name": "Nova (2013) #13 (Cho Variant)"
+        }
+    ],
+    "collections": [],
+    "collectedIssues": [],
+    "dates": [
+        {
+            "type": "onsaleDate",
+            "date": "2014-02-19T00:00:00-0500"
+        },
+        {
+            "type": "focDate",
+            "date": "2014-02-05T00:00:00-0500"
+        }
+    ],
+    "prices": [
+        {
+            "type": "printPrice",
+            "price": 3.99
+        }
+    ],
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available",
+        "extension": "jpg"
+    },
+    "images": [],
+    "creators": {
+        "available": 1,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/49636/creators",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/11879",
+                "name": "Stephen Wacker",
+                "role": "editor"
+            }
+        ],
+        "returned": 1
+    },
+    "characters": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/49636/characters",
+        "items": [],
+        "returned": 0
+    },
+    "stories": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/49636/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/111350",
+                "name": "cover from Nova (2013) #13 (BLANK COVER VARIANT)",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/111351",
+                "name": "story from Nova (2013) #13 (BLANK COVER VARIANT)",
+                "type": "interiorStory"
+            }
+        ],
+        "returned": 2
+    },
+    "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/49636/events",
+        "items": [],
+        "returned": 0
+    }
+}

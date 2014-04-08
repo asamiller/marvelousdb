@@ -1,0 +1,141 @@
+{
+    "id": 41197,
+    "digitalId": 24893,
+    "title": "FF (2010) #12",
+    "issueNumber": 12,
+    "variantDescription": "",
+    "description": "The beginning of a 4-part arc that runs parallel with FOREVER in the Fantastic Four. We've teased it for years, now find out exactly how Doctor Doom and the Future Foundation will save us all.",
+    "modified": "2011-11-22T16:36:56-0500",
+    "isbn": "",
+    "upc": "5960607495-01211",
+    "diamondCode": "",
+    "ean": "",
+    "issn": "0274-5291",
+    "format": "Comic",
+    "pageCount": 32,
+    "textObjects": [
+        {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "The beginning of a 4-part arc that runs parallel with FOREVER in the Fantastic Four. We've teased it for years, now find out exactly how Doctor Doom and the Future Foundation will save us all."
+        }
+    ],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/41197",
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/41197/ff_2010_12?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/Ff-12/digital-comic/24893?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=24893&utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "inAppLink",
+            "url": "http://applink.marvel.com/issue/24893?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ],
+    "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/13440",
+        "name": "FF (2010 - 2012)"
+    },
+    "variants": [
+        {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/41814",
+            "name": "FF (2010) #12 (50th Anniversary Variant)"
+        },
+        {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/41835",
+            "name": "FF (2010) #12 (Dell\\'Otto Variant)"
+        }
+    ],
+    "collections": [],
+    "collectedIssues": [],
+    "dates": [
+        {
+            "type": "onsaleDate",
+            "date": "2011-11-30T00:00:00-0500"
+        },
+        {
+            "type": "focDate",
+            "date": "2011-11-07T00:00:00-0500"
+        },
+        {
+            "type": "unlimitedDate",
+            "date": "2012-10-02T00:00:00-0400"
+        },
+        {
+            "type": "digitalPurchaseDate",
+            "date": "2011-11-30T00:00:00-0500"
+        }
+    ],
+    "prices": [
+        {
+            "type": "printPrice",
+            "price": 2.99
+        },
+        {
+            "type": "digitalPurchasePrice",
+            "price": 1.99
+        }
+    ],
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/c0/51f68cfb59341",
+        "extension": "jpg"
+    },
+    "images": [
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/c0/51f68cfb59341",
+            "extension": "jpg"
+        },
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/8/d0/4e42d230d0bf8",
+            "extension": "jpg"
+        }
+    ],
+    "creators": {
+        "available": 1,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/41197/creators",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/374",
+                "name": "Steve Epting",
+                "role": "penciller (cover)"
+            }
+        ],
+        "returned": 1
+    },
+    "characters": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/41197/characters",
+        "items": [],
+        "returned": 0
+    },
+    "stories": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/41197/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/93253",
+                "name": "Ff (2010) #12",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/93254",
+                "name": "Interior #93254",
+                "type": "interiorStory"
+            }
+        ],
+        "returned": 2
+    },
+    "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/41197/events",
+        "items": [],
+        "returned": 0
+    }
+}

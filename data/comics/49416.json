@@ -1,0 +1,124 @@
+{
+    "id": 49416,
+    "digitalId": 0,
+    "title": "Superior Spider-Man (2013) #25 (Jones Variant)",
+    "issueNumber": 25,
+    "variantDescription": "Jones Variant",
+    "description": "Otto Octavius, the Superior Spider-Man, in a life-or-death struggle against the original Superior Venom! Plus: With one last goblin on his side, the Goblin King&#39;s court is now complete! Guest starring: The Avengers!",
+    "modified": "2014-01-09T13:12:45-0500",
+    "isbn": "",
+    "upc": "75960607912402521",
+    "diamondCode": "NOV130661",
+    "ean": "",
+    "issn": "",
+    "format": "Comic",
+    "pageCount": 40,
+    "textObjects": [
+        {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "Otto Octavius, the Superior Spider-Man, in a life-or-death struggle against the original Superior Venom! Plus: With one last goblin on his side, the Goblin King&#39;s court is now complete! Guest starring: The Avengers!"
+        }
+    ],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/49416",
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/49416/superior_spider-man_2013_25_jones_variant/jones_variant?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ],
+    "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/17554",
+        "name": "Superior Spider-Man (2013 - Present)"
+    },
+    "variants": [
+        {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/48033",
+            "name": "Superior Spider-Man (2013) #25"
+        }
+    ],
+    "collections": [],
+    "collectedIssues": [],
+    "dates": [
+        {
+            "type": "onsaleDate",
+            "date": "2014-01-15T00:00:00-0500"
+        },
+        {
+            "type": "focDate",
+            "date": "2013-12-29T00:00:00-0500"
+        }
+    ],
+    "prices": [
+        {
+            "type": "printPrice",
+            "price": 4.99
+        }
+    ],
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/2/60/52cee4ac7dde5",
+        "extension": "jpg"
+    },
+    "images": [
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/2/60/52cee4ac7dde5",
+            "extension": "jpg"
+        }
+    ],
+    "creators": {
+        "available": 4,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/49416/creators",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/11765",
+                "name": "Christos Gage",
+                "role": "writer"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/626",
+                "name": "Dan Slott",
+                "role": "writer"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/5752",
+                "name": "J. G. Jones",
+                "role": "penciller (cover)"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/72",
+                "name": "Humberto Ramos",
+                "role": "artist"
+            }
+        ],
+        "returned": 4
+    },
+    "characters": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/49416/characters",
+        "items": [],
+        "returned": 0
+    },
+    "stories": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/49416/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/110913",
+                "name": "cover from Superior Spider-Man (2013) #25 (TBD ARTIST VARIANT)",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/110914",
+                "name": "story from Superior Spider-Man (2013) #25 (TBD ARTIST VARIANT)",
+                "type": "interiorStory"
+            }
+        ],
+        "returned": 2
+    },
+    "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/49416/events",
+        "items": [],
+        "returned": 0
+    }
+}

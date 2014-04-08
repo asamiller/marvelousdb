@@ -1,0 +1,141 @@
+{
+    "id": 893,
+    "digitalId": 3298,
+    "title": "Captain America (2002) #32",
+    "issueNumber": 32,
+    "variantDescription": "",
+    "description": "AVENGERS DISASSEMBLED TIE-IN! PART 4 (OF 4) After months of careful planning, the Red Skull makes his move. Captain America and his old sparring partner are in for the most grueling battle they've ever had.  The Red Skull has had some help from a certain",
+    "modified": "-0001-11-30T00:00:00-0500",
+    "isbn": "",
+    "upc": "5960605153-03211",
+    "diamondCode": "",
+    "ean": "",
+    "issn": "",
+    "format": "Comic",
+    "pageCount": 0,
+    "textObjects": [
+        {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "AVENGERS DISASSEMBLED TIE-IN! PART 4 (OF 4) After months of careful planning, the Red Skull makes his move. Captain America and his old sparring partner are in for the most grueling battle they've ever had.  The Red Skull has had some help from a certain"
+        }
+    ],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/893",
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/893/captain_america_2002_32?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=3298&utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ],
+    "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/485",
+        "name": "Captain America (2002 - 2004)"
+    },
+    "variants": [],
+    "collections": [
+        {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/1490",
+            "name": "Avengers Disassembled: Captain America (Trade Paperback)"
+        }
+    ],
+    "collectedIssues": [],
+    "dates": [
+        {
+            "type": "onsaleDate",
+            "date": "2004-10-13T00:00:00-0400"
+        },
+        {
+            "type": "focDate",
+            "date": "-0001-11-30T00:00:00-0500"
+        },
+        {
+            "type": "unlimitedDate",
+            "date": "2007-04-28T00:00:00-0400"
+        }
+    ],
+    "prices": [
+        {
+            "type": "printPrice",
+            "price": 2.99
+        }
+    ],
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/e0/4bc673836e7dc",
+        "extension": "jpg"
+    },
+    "images": [
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/80/4c86941f14e13",
+            "extension": "jpg"
+        },
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/e0/4bc673836e7dc",
+            "extension": "jpg"
+        }
+    ],
+    "creators": {
+        "available": 4,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/893/creators",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/5106",
+                "name": "Scot Eaton",
+                "role": "penciller"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/8635",
+                "name": "Randy Gentile",
+                "role": "letterer"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/476",
+                "name": "Drew Geraci",
+                "role": "inker"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/10432",
+                "name": "Dave Johnson",
+                "role": "penciller (cover)"
+            }
+        ],
+        "returned": 4
+    },
+    "characters": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/893/characters",
+        "items": [],
+        "returned": 0
+    },
+    "stories": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/893/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/1685",
+                "name": "AVENGERS DISASSEMBLED TIE-IN! PART 4 (OF 4) After months of careful planning, the Red Skull makes his move. Captain America and ",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/1686",
+                "name": "AVENGERS DISASSEMBLED TIE-IN! PART 4 (OF 4) After months of careful planning, the Red Skull makes his move. Captain America and ",
+                "type": "interiorStory"
+            }
+        ],
+        "returned": 2
+    },
+    "events": {
+        "available": 1,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/893/events",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/events/234",
+                "name": "Avengers Disassembled"
+            }
+        ],
+        "returned": 1
+    }
+}

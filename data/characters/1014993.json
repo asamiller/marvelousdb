@@ -1,0 +1,73 @@
+{
+    "id": 1014993,
+    "name": "Forge (Ultimate)",
+    "description": "",
+    "modified": "2012-07-10T19:32:29-0400",
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available",
+        "extension": "jpg"
+    },
+    "resourceURI": "http://gateway.marvel.com/v1/public/characters/1014993",
+    "comics": {
+        "available": 3,
+        "collectionURI": "http://gateway.marvel.com/v1/public/characters/1014993/comics",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/comics/15718",
+                "name": "Ultimate X-Men (2000) #27"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/comics/1151",
+                "name": "Ultimate X-Men Vol. 6: Return of the King (Trade Paperback)"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/comics/1186",
+                "name": "Ultimate X-Men Vol. VI: Return of the King (Trade Paperback)"
+            }
+        ],
+        "returned": 3
+    },
+    "series": {
+        "available": 3,
+        "collectionURI": "http://gateway.marvel.com/v1/public/characters/1014993/series",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/series/474",
+                "name": "Ultimate X-Men (2000 - 2009)"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/series/210",
+                "name": "Ultimate X-Men Vol. 6: Return of the King (2003)"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/series/243",
+                "name": "Ultimate X-Men Vol. VI: Return of the King (2003)"
+            }
+        ],
+        "returned": 3
+    },
+    "stories": {
+        "available": 1,
+        "collectionURI": "http://gateway.marvel.com/v1/public/characters/1014993/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/32193",
+                "name": "Magneto Triumphant",
+                "type": "interiorStory"
+            }
+        ],
+        "returned": 1
+    },
+    "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/characters/1014993/events",
+        "items": [],
+        "returned": 0
+    },
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/characters/1014993/forge_ultimate?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ]
+}

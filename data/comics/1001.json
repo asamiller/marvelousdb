@@ -1,0 +1,109 @@
+{
+    "id": 1001,
+    "digitalId": 0,
+    "title": "Punisher, the Vol. II: Army of One (Trade Paperback)",
+    "issueNumber": 0,
+    "variantDescription": "",
+    "description": "Following a team-up with Spider-Man, the Punisher heads to the remote scrap of dirt known as Grand Nixon Island to take down an army of psychotic mercenaries.",
+    "modified": "-0001-11-30T00:00:00-0500",
+    "isbn": "0-7851-0839-4",
+    "upc": "",
+    "diamondCode": "",
+    "ean": "",
+    "issn": "",
+    "format": "Trade Paperback",
+    "pageCount": 160,
+    "textObjects": [
+        {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "Following a team-up with Spider-Man, the Punisher heads to the remote scrap of dirt known as Grand Nixon Island to take down an army of psychotic mercenaries."
+        }
+    ],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/1001",
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/collection/1001/punisher_the_vol_ii_army_of_one_trade_paperback?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ],
+    "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/63",
+        "name": "Punisher, the Vol. II: Army of One (1999)"
+    },
+    "variants": [],
+    "collections": [],
+    "collectedIssues": [],
+    "dates": [
+        {
+            "type": "onsaleDate",
+            "date": "1999-11-30T00:00:00-0500"
+        },
+        {
+            "type": "focDate",
+            "date": "-0001-11-30T00:00:00-0500"
+        }
+    ],
+    "prices": [
+        {
+            "type": "printPrice",
+            "price": 9.99
+        }
+    ],
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/b0/4bc66d8232369",
+        "extension": "jpg"
+    },
+    "images": [
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/b0/4bc66d8232369",
+            "extension": "jpg"
+        }
+    ],
+    "creators": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/1001/creators",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/73",
+                "name": "Steve Dillon",
+                "role": "penciller"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/30",
+                "name": "Stan Lee",
+                "role": "writer"
+            }
+        ],
+        "returned": 2
+    },
+    "characters": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/1001/characters",
+        "items": [],
+        "returned": 0
+    },
+    "stories": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/1001/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/64",
+                "name": "Following a team-up with Spider-Man, the Punisher heads to the remote scrap of dirt known as Grand Nixon Island to take down an ",
+                "type": "interiorStory"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/65141",
+                "name": "PUNISHER, THE VOL. II: ARMY OF ONE TPB 0 cover",
+                "type": "cover"
+            }
+        ],
+        "returned": 2
+    },
+    "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/1001/events",
+        "items": [],
+        "returned": 0
+    }
+}

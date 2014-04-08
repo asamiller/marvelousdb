@@ -1,0 +1,127 @@
+{
+    "id": 30142,
+    "digitalId": 18543,
+    "title": "Marvel Adventures Spider-Man (2010) #9",
+    "issueNumber": 9,
+    "variantDescription": "",
+    "description": "When the Vulture begins robbing rival mobsters, a mob war that will tear New York City apart is in the brewing. But where is he getting his information, and where will he strike next? Spider-Man teams with Wolverine in an undercover adventure to reveal the shocking answer! 32 PGS./MARVEL ADVENTURES/All Ages …$2.99",
+    "modified": "2013-02-15T12:47:56-0500",
+    "isbn": "",
+    "upc": "5960607127-00911",
+    "diamondCode": "OCT100622",
+    "ean": "",
+    "issn": "1548-5056",
+    "format": "Comic",
+    "pageCount": 32,
+    "textObjects": [
+        {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "When the Vulture begins robbing rival mobsters, a mob war that will tear New York City apart is in the brewing. But where is he getting his information, and where will he strike next? Spider-Man teams with Wolverine in an undercover adventure to reveal the shocking answer! 32 PGS./MARVEL ADVENTURES/All Ages …$2.99"
+        }
+    ],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/30142",
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/30142/marvel_adventures_spider-man_2010_9?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=18543&utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ],
+    "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/9748",
+        "name": "Marvel Adventures Spider-Man (2010 - 2012)"
+    },
+    "variants": [],
+    "collections": [],
+    "collectedIssues": [],
+    "dates": [
+        {
+            "type": "onsaleDate",
+            "date": "2010-12-22T00:00:00-0500"
+        },
+        {
+            "type": "focDate",
+            "date": "2010-12-11T00:00:00-0500"
+        },
+        {
+            "type": "unlimitedDate",
+            "date": "2013-03-25T00:00:00-0400"
+        }
+    ],
+    "prices": [
+        {
+            "type": "printPrice",
+            "price": 2.99
+        }
+    ],
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/60/4c90eb0de38a9",
+        "extension": "jpg"
+    },
+    "images": [
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/60/4c90eb0de38a9",
+            "extension": "jpg"
+        }
+    ],
+    "creators": {
+        "available": 3,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/30142/creators",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/9081",
+                "name": "Matteo Lolli",
+                "role": "penciller"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/690",
+                "name": "Patrick Scherberger",
+                "role": "penciller"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/4983",
+                "name": "Paul Tobin",
+                "role": "writer"
+            }
+        ],
+        "returned": 3
+    },
+    "characters": {
+        "available": 1,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/30142/characters",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009610",
+                "name": "Spider-Man"
+            }
+        ],
+        "returned": 1
+    },
+    "stories": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/30142/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/69110",
+                "name": "Cover #69110",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/69111",
+                "name": "Interior #69111",
+                "type": "interiorStory"
+            }
+        ],
+        "returned": 2
+    },
+    "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/30142/events",
+        "items": [],
+        "returned": 0
+    }
+}

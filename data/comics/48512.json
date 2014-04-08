@@ -1,0 +1,122 @@
+{
+    "id": 48512,
+    "digitalId": 0,
+    "title": "Infinity: Heist (2013) #3",
+    "issueNumber": 3,
+    "variantDescription": "",
+    "description": "• Thanos' armies invade – it's the perfect cover for the crime of the century!\nBut as Spymaster unveils his plan, what the hell's wrong with Blizzard?\n• Frank Tieri and Al Barrionuevo continue this trip to the dark side!",
+    "modified": "2013-11-21T15:02:39-0500",
+    "isbn": "",
+    "upc": "75960607974200311",
+    "diamondCode": "AUG130763",
+    "ean": "",
+    "issn": "",
+    "format": "Comic",
+    "pageCount": 32,
+    "textObjects": [
+        {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "• Thanos' armies invade – it's the perfect cover for the crime of the century!\nBut as Spymaster unveils his plan, what the hell's wrong with Blizzard?\n• Frank Tieri and Al Barrionuevo continue this trip to the dark side!"
+        }
+    ],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/48512",
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/48512/infinity_heist_2013_3?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/Infinity-Heist-3/digital-comic/31795?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ],
+    "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/18339",
+        "name": "Infinity: Heist (2013 - Present)"
+    },
+    "variants": [],
+    "collections": [],
+    "collectedIssues": [],
+    "dates": [
+        {
+            "type": "onsaleDate",
+            "date": "2013-11-27T00:00:00-0500"
+        },
+        {
+            "type": "focDate",
+            "date": "2013-11-13T00:00:00-0500"
+        }
+    ],
+    "prices": [
+        {
+            "type": "printPrice",
+            "price": 3.99
+        }
+    ],
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/e0/528535f7e37a4",
+        "extension": "jpg"
+    },
+    "images": [
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/e0/528535f7e37a4",
+            "extension": "jpg"
+        },
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/2/d0/521e3d600472e",
+            "extension": "jpg"
+        }
+    ],
+    "creators": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/48512/creators",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/12125",
+                "name": "Alejandro Barrionuevo Iribarne",
+                "role": "penciller (cover)"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/91",
+                "name": "Frank Tieri",
+                "role": "writer"
+            }
+        ],
+        "returned": 2
+    },
+    "characters": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/48512/characters",
+        "items": [],
+        "returned": 0
+    },
+    "stories": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/48512/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/109131",
+                "name": "cover from Infinity: Heist (2013) #3",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/109132",
+                "name": "story from Infinity: Heist (2013) #3",
+                "type": "interiorStory"
+            }
+        ],
+        "returned": 2
+    },
+    "events": {
+        "available": 1,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/48512/events",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/events/315",
+                "name": "Infinity"
+            }
+        ],
+        "returned": 1
+    }
+}

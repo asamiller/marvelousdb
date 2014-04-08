@@ -1,0 +1,162 @@
+{
+    "id": 38401,
+    "digitalId": 25256,
+    "title": "Ultimate Comics Spider-Man (2011) #6",
+    "issueNumber": 6,
+    "variantDescription": "",
+    "description": "Miles must learn how to be a hero from Peter Parker! Plus, the new Ultimate Scorpion is introduced!\n",
+    "modified": "2012-01-19T12:37:48-0500",
+    "isbn": "",
+    "upc": "5960607612-00611",
+    "diamondCode": "",
+    "ean": "",
+    "issn": "",
+    "format": "Comic",
+    "pageCount": 32,
+    "textObjects": [
+        {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "Miles' journey to becoming Spider-Man continues!<br> Will Miles live up to Peter Parker's legacy?<br> A mysterious figure from Peter Parker's past returns!"
+        },
+        {
+            "type": "issue_preview_text",
+            "language": "en-us",
+            "text": "Miles must learn how to be a hero from Peter Parker! Plus, the new Ultimate Scorpion is introduced!\n"
+        }
+    ],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/38401",
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/38401/ultimate_comics_spider-man_2011_6?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/Ultimate-Comics-Spider-Man-6/digital-comic/25256?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=25256&utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "inAppLink",
+            "url": "http://applink.marvel.com/issue/25256?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ],
+    "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/13831",
+        "name": "Ultimate Comics Spider-Man (2011 - Present)"
+    },
+    "variants": [
+        {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/41941",
+            "name": "Ultimate Comics Spider-Man (2011) #6 (Bagley Varaint)"
+        },
+        {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/41940",
+            "name": "Ultimate Comics Spider-Man (2011) #6 (Tbd Artist Varaint)"
+        }
+    ],
+    "collections": [],
+    "collectedIssues": [],
+    "dates": [
+        {
+            "type": "onsaleDate",
+            "date": "2012-01-18T00:00:00-0500"
+        },
+        {
+            "type": "focDate",
+            "date": "2011-11-28T00:00:00-0500"
+        },
+        {
+            "type": "unlimitedDate",
+            "date": "2013-02-25T00:00:00-0500"
+        },
+        {
+            "type": "digitalPurchaseDate",
+            "date": "2012-01-18T00:00:00-0500"
+        }
+    ],
+    "prices": [
+        {
+            "type": "printPrice",
+            "price": 3.99
+        },
+        {
+            "type": "digitalPurchasePrice",
+            "price": 1.99
+        }
+    ],
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/5/f0/514c96170ba2e",
+        "extension": "jpg"
+    },
+    "images": [
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/5/f0/514c96170ba2e",
+            "extension": "jpg"
+        }
+    ],
+    "creators": {
+        "available": 5,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/38401/creators",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/191",
+                "name": "Kaare Andrews",
+                "role": "artist"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/8221",
+                "name": "Chris Samnee",
+                "role": "artist"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/24",
+                "name": "Brian Michael Bendis",
+                "role": "writer"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/361",
+                "name": "Cory Petit",
+                "role": "letterer"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/360",
+                "name": "Justin Ponsor",
+                "role": "colorist"
+            }
+        ],
+        "returned": 5
+    },
+    "characters": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/38401/characters",
+        "items": [],
+        "returned": 0
+    },
+    "stories": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/38401/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/94890",
+                "name": "Interior #94890",
+                "type": "interiorStory"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/96164",
+                "name": "Ultimate Comics Spider-Man #6 cover",
+                "type": "cover"
+            }
+        ],
+        "returned": 2
+    },
+    "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/38401/events",
+        "items": [],
+        "returned": 0
+    }
+}

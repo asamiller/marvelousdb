@@ -1,0 +1,78 @@
+{
+    "id": 1011222,
+    "name": "Firestar (Ultimate)",
+    "description": "",
+    "modified": "2011-03-10T16:54:12-0500",
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/d0/4ce5a555585c6",
+        "extension": "jpg"
+    },
+    "resourceURI": "http://gateway.marvel.com/v1/public/characters/1011222",
+    "comics": {
+        "available": 3,
+        "collectionURI": "http://gateway.marvel.com/v1/public/characters/1011222/comics",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/comics/30611",
+                "name": "Ultimate Comics X (2010) #4"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/comics/17584",
+                "name": "Ultimate Spider-Man (2000) #118"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/comics/21818",
+                "name": "Ultimate Spider-Man Vol. 20: Ultimate Spider-Man and His Amazing Friends (Trade Paperback)"
+            }
+        ],
+        "returned": 3
+    },
+    "series": {
+        "available": 3,
+        "collectionURI": "http://gateway.marvel.com/v1/public/characters/1011222/series",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/series/8512",
+                "name": "Ultimate Comics X (2010 - 2011)"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/series/466",
+                "name": "Ultimate Spider-Man (2000 - 2009)"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/series/5400",
+                "name": "Ultimate Spider-Man Vol. 20: Ultimate Spider-Man and His Amazing Friends (2008)"
+            }
+        ],
+        "returned": 3
+    },
+    "stories": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/characters/1011222/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/36801",
+                "name": "Spider-Man & His Amazing Friends 1 of 6",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/70048",
+                "name": "ULTIMATE COMICS X 4",
+                "type": "cover"
+            }
+        ],
+        "returned": 2
+    },
+    "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/characters/1011222/events",
+        "items": [],
+        "returned": 0
+    },
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/characters/1011222/firestar_ultimate?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ]
+}

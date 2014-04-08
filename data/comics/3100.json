@@ -1,0 +1,158 @@
+{
+    "id": 3100,
+    "digitalId": 2096,
+    "title": "Marvel Adventures Spider-Man (2005) #9",
+    "issueNumber": 9,
+    "variantDescription": "",
+    "description": "Doctor Doom has finally set the stage for a plot to destroy his most hated enemies, the Fantastic Four! There’s one small piece of the plan that he failed to account for though, and that is your Friendly Neighborhood Spider-Man!",
+    "modified": "-0001-11-30T00:00:00-0500",
+    "isbn": "0-71658 03421 01",
+    "upc": "5960605685-00911",
+    "diamondCode": "",
+    "ean": "",
+    "issn": "",
+    "format": "Comic",
+    "pageCount": 32,
+    "textObjects": [
+        {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "Doctor Doom has finally set the stage for a plot to destroy his most hated enemies! (Hint: There’s four of them, and they’re fantastic.) But there’s one little red-and-blue flaw in his plan he has to do away with first! (Hint: It’s Spider-Man. Sheesh, couldn’t you figure that one out?) Rising-star artist Mike Norton joins his Gravity cohort, EISNER AWARD WINNER SEAN McKEEVER for the all-new, all-ages, all-action fun!\r<br>32 PGS./ALL AGES ...$2.50\r<br>"
+        },
+        {
+            "type": "issue_preview_text",
+            "language": "en-us",
+            "text": "Doctor Doom has finally set the stage for a plot to destroy his most hated enemies, the Fantastic Four! There’s one small piece of the plan that he failed to account for though, and that is your Friendly Neighborhood Spider-Man!"
+        }
+    ],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/3100",
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/3100/marvel_adventures_spider-man_2005_9?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/Marvel-Adventures-Spider-Man-9/digital-comic/2096?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=2096&utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "inAppLink",
+            "url": "http://applink.marvel.com/issue/2096?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ],
+    "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/866",
+        "name": "Marvel Adventures Spider-Man (2005 - 2010)"
+    },
+    "variants": [],
+    "collections": [
+        {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/4291",
+            "name": "Marvel Adventures Spider-Man Vol. 3: Doom with a View (Digest)"
+        }
+    ],
+    "collectedIssues": [],
+    "dates": [
+        {
+            "type": "onsaleDate",
+            "date": "2005-11-02T00:00:00-0500"
+        },
+        {
+            "type": "focDate",
+            "date": "-0001-11-30T00:00:00-0500"
+        },
+        {
+            "type": "unlimitedDate",
+            "date": "2007-11-13T00:00:00-0500"
+        },
+        {
+            "type": "digitalPurchaseDate",
+            "date": "2010-08-17T00:00:00-0400"
+        }
+    ],
+    "prices": [
+        {
+            "type": "printPrice",
+            "price": 2.5
+        },
+        {
+            "type": "digitalPurchasePrice",
+            "price": 1.99
+        }
+    ],
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/d0/4bc61c4383bad",
+        "extension": "jpg"
+    },
+    "images": [
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/d0/4bc61c4383bad",
+            "extension": "jpg"
+        }
+    ],
+    "creators": {
+        "available": 4,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/3100/creators",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/8571",
+                "name": "Guru-eFX",
+                "role": "colorist"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/821",
+                "name": "Jonathan Glapion",
+                "role": "inker"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/9429",
+                "name": "Sean McKeever",
+                "role": "writer"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/805",
+                "name": "Mike Norton",
+                "role": "penciller (cover)"
+            }
+        ],
+        "returned": 4
+    },
+    "characters": {
+        "available": 1,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/3100/characters",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009610",
+                "name": "Spider-Man"
+            }
+        ],
+        "returned": 1
+    },
+    "stories": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/3100/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/4550",
+                "name": "1 of 1",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/4551",
+                "name": "1 of 1",
+                "type": "interiorStory"
+            }
+        ],
+        "returned": 2
+    },
+    "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/3100/events",
+        "items": [],
+        "returned": 0
+    }
+}

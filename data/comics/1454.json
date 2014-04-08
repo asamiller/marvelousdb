@@ -1,0 +1,137 @@
+{
+    "id": 1454,
+    "digitalId": 2120,
+    "title": "Marvel Age Spider-Man (2004) #17",
+    "issueNumber": 17,
+    "variantDescription": "",
+    "description": "\"THE END OF SPIDER-MAN!\"\r<br>Spider-Man Quits?! Following Spidey’s hasty exit from a battle with the Green Goblin, J. Jonah Jameson has all of New York wondering if our favorite Web-Slinger has indeed given up. And it’s a situation that leaves Peter Parker wondering if in fact he should turn in his web-shooters to stay at home and take care of his ailing Aunt May. All this and the return of the Sandman, eager to take revenge on Spider-Man for capturing him last time!\r<br>",
+    "modified": "-0001-11-30T00:00:00-0500",
+    "isbn": "",
+    "upc": "5960605505-01711",
+    "diamondCode": "",
+    "ean": "",
+    "issn": "",
+    "format": "Comic",
+    "pageCount": 0,
+    "textObjects": [
+        {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "\"THE END OF SPIDER-MAN!\"\r<br>Spider-Man Quits?! Following Spidey’s hasty exit from a battle with the Green Goblin, J. Jonah Jameson has all of New York wondering if our favorite Web-Slinger has indeed given up. And it’s a situation that leaves Peter Parker wondering if in fact he should turn in his web-shooters to stay at home and take care of his ailing Aunt May. All this and the return of the Sandman, eager to take revenge on Spider-Man for capturing him last time!\r<br>"
+        }
+    ],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/1454",
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/1454/marvel_age_spider-man_2004_17?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=2120&utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ],
+    "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/375",
+        "name": "Marvel Age Spider-Man (2004 - 2005)"
+    },
+    "variants": [],
+    "collections": [
+        {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/17474",
+            "name": "Spider-Man: Spidey Strikes Back Vol. 1 Digest (Trade Paperback)"
+        }
+    ],
+    "collectedIssues": [],
+    "dates": [
+        {
+            "type": "onsaleDate",
+            "date": "2004-12-01T00:00:00-0500"
+        },
+        {
+            "type": "focDate",
+            "date": "-0001-11-30T00:00:00-0500"
+        },
+        {
+            "type": "unlimitedDate",
+            "date": "2007-11-13T00:00:00-0500"
+        }
+    ],
+    "prices": [
+        {
+            "type": "printPrice",
+            "price": 2.25
+        }
+    ],
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/f/20/4bc65da5cb94a",
+        "extension": "jpg"
+    },
+    "images": [
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/f/20/4bc65da5cb94a",
+            "extension": "jpg"
+        }
+    ],
+    "creators": {
+        "available": 4,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/1454/creators",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/356",
+                "name": "Roger Cruz",
+                "role": "penciller (cover)"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/700",
+                "name": "Logan Lubera",
+                "role": "penciller"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/8429",
+                "name": "Dave Sharpe",
+                "role": "letterer"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/469",
+                "name": "Craig Yeung",
+                "role": "inker"
+            }
+        ],
+        "returned": 4
+    },
+    "characters": {
+        "available": 1,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/1454/characters",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009610",
+                "name": "Spider-Man"
+            }
+        ],
+        "returned": 1
+    },
+    "stories": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/1454/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/2783",
+                "name": "1 of 1",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/2784",
+                "name": "1 of 1",
+                "type": "interiorStory"
+            }
+        ],
+        "returned": 2
+    },
+    "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/1454/events",
+        "items": [],
+        "returned": 0
+    }
+}

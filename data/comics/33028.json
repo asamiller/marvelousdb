@@ -1,0 +1,142 @@
+{
+    "id": 33028,
+    "digitalId": 18860,
+    "title": "Thor the Mighty Avenger (2010) #8",
+    "issueNumber": 8,
+    "variantDescription": "",
+    "description": "Grab the book that ComicsBulletin.com says “just keeps getting better and better, and it started out great.” Our hot-headed Asgardian has battled his way through a sea of robots…but he never expected there to be a MAN inside one of them! It’s THOR and IRON MAN together, for the very first time!",
+    "modified": "2011-01-06T13:16:32-0500",
+    "isbn": "",
+    "upc": "5960606846-00811",
+    "diamondCode": "NOV100546",
+    "ean": "",
+    "issn": "2154-7467",
+    "format": "Comic",
+    "pageCount": 32,
+    "textObjects": [
+        {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "Grab the book that ComicsBulletin.com says “just keeps getting better and better, and it started out great.” Our hot-headed Asgardian has battled his way through a sea of robots…but he never expected there to be a MAN inside one of them! It’s THOR and IRON MAN together, for the very first time!"
+        }
+    ],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/33028",
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/33028/thor_the_mighty_avenger_2010_8?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/Thor-the-Mighty-Avenger-8/digital-comic/18860?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=18860&utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "inAppLink",
+            "url": "http://applink.marvel.com/issue/18860?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ],
+    "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/9953",
+        "name": "Thor the Mighty Avenger (2010 - 2011)"
+    },
+    "variants": [],
+    "collections": [],
+    "collectedIssues": [],
+    "dates": [
+        {
+            "type": "onsaleDate",
+            "date": "2011-01-12T00:00:00-0500"
+        },
+        {
+            "type": "focDate",
+            "date": "2010-12-30T00:00:00-0500"
+        },
+        {
+            "type": "unlimitedDate",
+            "date": "2011-12-08T00:00:00-0500"
+        },
+        {
+            "type": "digitalPurchaseDate",
+            "date": "2013-02-26T00:00:00-0500"
+        }
+    ],
+    "prices": [
+        {
+            "type": "printPrice",
+            "price": 2.99
+        },
+        {
+            "type": "digitalPurchasePrice",
+            "price": 1.99
+        }
+    ],
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/4/00/4f68a896d1532",
+        "extension": "jpg"
+    },
+    "images": [
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/4/00/4f68a896d1532",
+            "extension": "jpg"
+        }
+    ],
+    "creators": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/33028/creators",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/402",
+                "name": "Roger Langridge",
+                "role": "writer"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/8221",
+                "name": "Chris Samnee",
+                "role": "penciller (cover)"
+            }
+        ],
+        "returned": 2
+    },
+    "characters": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/33028/characters",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009368",
+                "name": "Iron Man"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009664",
+                "name": "Thor"
+            }
+        ],
+        "returned": 2
+    },
+    "stories": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/33028/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/74391",
+                "name": "Cover #74391",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/74392",
+                "name": "Interior #74392 ",
+                "type": "interiorStory"
+            }
+        ],
+        "returned": 2
+    },
+    "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/33028/events",
+        "items": [],
+        "returned": 0
+    }
+}

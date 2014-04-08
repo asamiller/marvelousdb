@@ -1,0 +1,142 @@
+{
+    "id": 753,
+    "digitalId": 2113,
+    "title": "Marvel Age Spider-Man (2004) #10",
+    "issueNumber": 10,
+    "variantDescription": "",
+    "description": "\"The Return Of DOCTOR OCTOPUS!\" SPIDER-MAN’S deadliest villain IS BACK!  Doc Ock has escaped from prison with a plan to re-establish himself in the scientific community, and it’s a battle on the high seas as Spider-Man tries to rescue a kidnapped Betty Brant and bring his nemesis to justice!",
+    "modified": "-0001-11-30T00:00:00-0500",
+    "isbn": "",
+    "upc": "5960605505-01011",
+    "diamondCode": "",
+    "ean": "",
+    "issn": "",
+    "format": "Comic",
+    "pageCount": 0,
+    "textObjects": [
+        {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "\"The Return Of DOCTOR OCTOPUS!\" SPIDER-MAN’S deadliest villain IS BACK!  Doc Ock has escaped from prison with a plan to re-establish himself in the scientific community, and it’s a battle on the high seas as Spider-Man tries to rescue a kidnapped Betty Brant and bring his nemesis to justice!"
+        }
+    ],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/753",
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/753/marvel_age_spider-man_2004_10?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=2113&utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ],
+    "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/375",
+        "name": "Marvel Age Spider-Man (2004 - 2005)"
+    },
+    "variants": [],
+    "collections": [
+        {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/1309",
+            "name": "Marvel Age Spider-Man Vol. 3: Swingtime (Digest)"
+        }
+    ],
+    "collectedIssues": [],
+    "dates": [
+        {
+            "type": "onsaleDate",
+            "date": "2004-08-18T00:00:00-0400"
+        },
+        {
+            "type": "focDate",
+            "date": "-0001-11-30T00:00:00-0500"
+        },
+        {
+            "type": "unlimitedDate",
+            "date": "2007-11-13T00:00:00-0500"
+        }
+    ],
+    "prices": [
+        {
+            "type": "printPrice",
+            "price": 2.25
+        }
+    ],
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/50/4bc67ee2265e0",
+        "extension": "jpg"
+    },
+    "images": [
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/50/4bc67ee2265e0",
+            "extension": "jpg"
+        }
+    ],
+    "creators": {
+        "available": 5,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/753/creators",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/682",
+                "name": "Todd Dezago",
+                "role": "writer"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/700",
+                "name": "Logan Lubera",
+                "role": "penciller"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/434",
+                "name": "Michael Ryan",
+                "role": "penciller (cover)"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/697",
+                "name": "Bright Anvil Studios",
+                "role": "colorist"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/469",
+                "name": "Craig Yeung",
+                "role": "inker"
+            }
+        ],
+        "returned": 5
+    },
+    "characters": {
+        "available": 1,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/753/characters",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009610",
+                "name": "Spider-Man"
+            }
+        ],
+        "returned": 1
+    },
+    "stories": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/753/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/2773",
+                "name": "Cover #2773",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/2774",
+                "name": "Interior #2774",
+                "type": "interiorStory"
+            }
+        ],
+        "returned": 2
+    },
+    "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/753/events",
+        "items": [],
+        "returned": 0
+    }
+}

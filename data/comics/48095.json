@@ -1,0 +1,136 @@
+{
+    "id": 48095,
+    "digitalId": 0,
+    "title": "Uncanny X-Men (2013) #13",
+    "issueNumber": 13,
+    "variantDescription": "",
+    "description": "X-MEN: BATTLE OF THE ATOM, PART 8!\r\n\r\n\r\n\r\n<ul><li>Wolverine, who just lost his healing factor, takes a mortal hit!</li><li>And a surprise ending that changes everything in the X-Men Event of 2013!</li></ul>",
+    "modified": "2013-10-08T12:12:32-0400",
+    "isbn": "",
+    "upc": "75960607916201311",
+    "diamondCode": "AUG130841",
+    "ean": "",
+    "issn": "",
+    "format": "Comic",
+    "pageCount": 32,
+    "textObjects": [
+        {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "X-MEN: BATTLE OF THE ATOM, PART 8!\r\n\r\n\r\n\r\n<ul><li>Wolverine, who just lost his healing factor, takes a mortal hit!</li><li>And a surprise ending that changes everything in the X-Men Event of 2013!</li></ul>"
+        }
+    ],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/48095",
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/48095/uncanny_x-men_2013_13?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/Uncanny-X-Men-13/digital-comic/31734?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ],
+    "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/17602",
+        "name": "Uncanny X-Men (2013 - Present)"
+    },
+    "variants": [
+        {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/48113",
+            "name": "Uncanny X-Men (2013) #13 (Bachalo Variant)"
+        }
+    ],
+    "collections": [],
+    "collectedIssues": [],
+    "dates": [
+        {
+            "type": "onsaleDate",
+            "date": "2013-10-16T00:00:00-0400"
+        },
+        {
+            "type": "focDate",
+            "date": "2013-10-02T00:00:00-0400"
+        }
+    ],
+    "prices": [
+        {
+            "type": "printPrice",
+            "price": 3.99
+        }
+    ],
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/80/52542df6db4f5",
+        "extension": "jpg"
+    },
+    "images": [
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/80/52542df6db4f5",
+            "extension": "jpg"
+        },
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/b0/523b1395a67f8",
+            "extension": "jpg"
+        },
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/30/523b12f571d6f",
+            "extension": "jpg"
+        }
+    ],
+    "creators": {
+        "available": 3,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/48095/creators",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/232",
+                "name": "Chris Bachalo",
+                "role": "artist"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/24",
+                "name": "Brian Michael Bendis",
+                "role": "writer"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/649",
+                "name": "Ed McGuinness",
+                "role": "penciller (cover)"
+            }
+        ],
+        "returned": 3
+    },
+    "characters": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/48095/characters",
+        "items": [],
+        "returned": 0
+    },
+    "stories": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/48095/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/108403",
+                "name": "cover from UNCANNY X-MEN (2013) #13",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/108404",
+                "name": "story from UNCANNY X-MEN (2013) #13",
+                "type": "interiorStory"
+            }
+        ],
+        "returned": 2
+    },
+    "events": {
+        "available": 1,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/48095/events",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/events/316",
+                "name": "X-Men: Battle of the Atom"
+            }
+        ],
+        "returned": 1
+    }
+}

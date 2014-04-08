@@ -1,0 +1,112 @@
+{
+    "id": 49063,
+    "digitalId": 0,
+    "title": "Iron Man Annual (2013) #1",
+    "issueNumber": 1,
+    "variantDescription": "",
+    "description": "\r\n\r\n\r\nOnce you&#39;ve passed the fatal, final frontier, can you ever go back?\r\n\r\n<ul><li>FATAL FRONTIER is over. The moon is safe. The Earth is safe. But is Tony&#39;s sanity?</li><li>What comes back from the moon with Tony? What new friends and new enemies?</li></ul>",
+    "modified": "2014-02-14T09:51:35-0500",
+    "isbn": "",
+    "upc": "75960607988900111",
+    "diamondCode": "DEC130739",
+    "ean": "",
+    "issn": "",
+    "format": "Comic",
+    "pageCount": 40,
+    "textObjects": [
+        {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "\r\n\r\n\r\nOnce you&#39;ve passed the fatal, final frontier, can you ever go back?\r\n\r\n<ul><li>FATAL FRONTIER is over. The moon is safe. The Earth is safe. But is Tony&#39;s sanity?</li><li>What comes back from the moon with Tony? What new friends and new enemies?</li></ul>"
+        }
+    ],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/49063",
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/49063/iron_man_annual_2013_1?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/Iron-Man-Annual-1/digital-comic/32972?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ],
+    "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/18463",
+        "name": "Iron Man Annual (2013 - Present)"
+    },
+    "variants": [],
+    "collections": [],
+    "collectedIssues": [],
+    "dates": [
+        {
+            "type": "onsaleDate",
+            "date": "2014-02-19T00:00:00-0500"
+        },
+        {
+            "type": "focDate",
+            "date": "2014-02-05T00:00:00-0500"
+        }
+    ],
+    "prices": [
+        {
+            "type": "printPrice",
+            "price": 4.99
+        }
+    ],
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/90/52fa856dd15d5",
+        "extension": "jpg"
+    },
+    "images": [
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/90/52fa856dd15d5",
+            "extension": "jpg"
+        },
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/90/52865b0d8d5b5",
+            "extension": "jpg"
+        }
+    ],
+    "creators": {
+        "available": 1,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/49063/creators",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/4600",
+                "name": "Mark Paniccia",
+                "role": "editor"
+            }
+        ],
+        "returned": 1
+    },
+    "characters": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/49063/characters",
+        "items": [],
+        "returned": 0
+    },
+    "stories": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/49063/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/110213",
+                "name": "cover from Iron Man Annual (2013) #1",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/110214",
+                "name": "story from Iron Man Annual (2013) #1",
+                "type": "interiorStory"
+            }
+        ],
+        "returned": 2
+    },
+    "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/49063/events",
+        "items": [],
+        "returned": 0
+    }
+}

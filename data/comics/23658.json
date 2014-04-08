@@ -1,0 +1,153 @@
+{
+    "id": 23658,
+    "digitalId": 0,
+    "title": "Black Panther (2008) #1",
+    "issueNumber": 1,
+    "variantDescription": "",
+    "description": "These solicits are classified until the release of Secret Invasion #8.\r\nPick up the free Marvel Previews: Dark Reign Edition in-stores the same day as Secret Invasion #8. (12/3/08)\r\nRated A …$3.99",
+    "modified": "-0001-11-30T00:00:00-0500",
+    "isbn": "",
+    "upc": "5960606631-00111",
+    "diamondCode": "DEC082327",
+    "ean": "",
+    "issn": "",
+    "format": "Comic",
+    "pageCount": 40,
+    "textObjects": [
+        {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "These solicits are classified until the release of Secret Invasion #8.\r\nPick up the free Marvel Previews: Dark Reign Edition in-stores the same day as Secret Invasion #8. (12/3/08)\r\nRated A …$3.99"
+        }
+    ],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/23658",
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/23658/black_panther_2008_1?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ],
+    "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/6804",
+        "name": "Black Panther (2008 - 2010)"
+    },
+    "variants": [
+        {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/23656",
+            "name": "Black Panther (2008) #1 (DJURDJEVIC 70TH ANNIVERSARY VARIANT)"
+        },
+        {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/23657",
+            "name": "Black Panther (2008) #1"
+        }
+    ],
+    "collections": [],
+    "collectedIssues": [],
+    "dates": [
+        {
+            "type": "onsaleDate",
+            "date": "2009-02-04T00:00:00-0500"
+        },
+        {
+            "type": "focDate",
+            "date": "2009-01-15T00:00:00-0500"
+        }
+    ],
+    "prices": [
+        {
+            "type": "printPrice",
+            "price": 3.99
+        }
+    ],
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/2/c0/4bb5d25630415",
+        "extension": "jpg"
+    },
+    "images": [
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/2/c0/4bb5d25630415",
+            "extension": "jpg"
+        }
+    ],
+    "creators": {
+        "available": 7,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/23658/creators",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/430",
+                "name": "Edgar Delgado",
+                "role": "colorist"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/479",
+                "name": "Paul Mounts",
+                "role": "colorist"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/452",
+                "name": "Chris Eliopoulos",
+                "role": "other"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/521",
+                "name": "Reginald Hudlin",
+                "role": "writer"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/1248",
+                "name": "Ken Lashley",
+                "role": "penciller"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/262",
+                "name": "Paul Neary",
+                "role": "inker"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/361",
+                "name": "Cory Petit",
+                "role": "letterer"
+            }
+        ],
+        "returned": 7
+    },
+    "characters": {
+        "available": 1,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/23658/characters",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009187",
+                "name": "Black Panther"
+            }
+        ],
+        "returned": 1
+    },
+    "stories": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/23658/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/52390",
+                "name": "1 of 4; Includes Black Panther Saga (10-page Online Story)",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/52391",
+                "name": "1 of 4; Includes Black Panther Saga (10-page Online Story)",
+                "type": "interiorStory"
+            }
+        ],
+        "returned": 2
+    },
+    "events": {
+        "available": 1,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/23658/events",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/events/318",
+                "name": "Dark Reign"
+            }
+        ],
+        "returned": 1
+    }
+}

@@ -1,0 +1,126 @@
+{
+    "id": 41206,
+    "digitalId": 25332,
+    "title": "FF (2010) #14",
+    "issueNumber": 14,
+    "variantDescription": "",
+    "description": "ALL HOPE LIES IN DOOM PART 3 “Help me Doctor Doom, you’re my only hope.”\n",
+    "modified": "2012-01-24T11:15:44-0500",
+    "isbn": "",
+    "upc": "5960607495-01411",
+    "diamondCode": "",
+    "ean": "",
+    "issn": "0274-5291",
+    "format": "Comic",
+    "pageCount": 32,
+    "textObjects": [
+        {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "<br>ALL HOPE LIES IN DOOM, PART 3\r\n<br>Find out why \"All Hope Lies in Doom\"!"
+        },
+        {
+            "type": "issue_preview_text",
+            "language": "en-us",
+            "text": "ALL HOPE LIES IN DOOM PART 3 “Help me Doctor Doom, you’re my only hope.”\n"
+        }
+    ],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/41206",
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/41206/ff_2010_14?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=25332&utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ],
+    "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/13440",
+        "name": "FF (2010 - 2012)"
+    },
+    "variants": [
+        {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/42138",
+            "name": "FF (2010) #14 (Venom Variant)"
+        }
+    ],
+    "collections": [],
+    "collectedIssues": [],
+    "dates": [
+        {
+            "type": "onsaleDate",
+            "date": "2012-01-25T00:00:00-0500"
+        },
+        {
+            "type": "focDate",
+            "date": "2012-01-02T00:00:00-0500"
+        },
+        {
+            "type": "unlimitedDate",
+            "date": "2012-07-05T00:00:00-0400"
+        }
+    ],
+    "prices": [
+        {
+            "type": "printPrice",
+            "price": 2.99
+        }
+    ],
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/4/60/51f68ce553796",
+        "extension": "jpg"
+    },
+    "images": [
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/4/60/51f68ce553796",
+            "extension": "jpg"
+        },
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/80/4e974c14f2fac",
+            "extension": "jpg"
+        }
+    ],
+    "creators": {
+        "available": 1,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/41206/creators",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/11743",
+                "name": "Jonathan Hickman",
+                "role": "writer"
+            }
+        ],
+        "returned": 1
+    },
+    "characters": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/41206/characters",
+        "items": [],
+        "returned": 0
+    },
+    "stories": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/41206/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/93271",
+                "name": "Cover #93271",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/93272",
+                "name": "Interior #93272",
+                "type": "interiorStory"
+            }
+        ],
+        "returned": 2
+    },
+    "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/41206/events",
+        "items": [],
+        "returned": 0
+    }
+}

@@ -1,0 +1,137 @@
+{
+    "id": 18473,
+    "digitalId": 7367,
+    "title": "Ultimate X-Men (2000) #76",
+    "issueNumber": 76,
+    "variantDescription": "",
+    "description": "CABLE PART 2 Can the X-Men defeat the mysterious man who has invaded the mansion? And what does this grey-haired menace have to do with Logan? Guest-starring Ultimate Bishop!",
+    "modified": "2014-01-16T08:29:43-0500",
+    "isbn": "",
+    "upc": "",
+    "diamondCode": "",
+    "ean": "",
+    "issn": "",
+    "format": "Comic",
+    "pageCount": 0,
+    "textObjects": [
+        {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "CABLE PART 2 Can the X-Men defeat the mysterious man who has invaded the mansion? And what does this grey-haired menace have to do with Logan? Guest-starring Ultimate Bishop!"
+        },
+        {
+            "type": "issue_preview_text",
+            "language": "en-us",
+            "text": "CABLE PART 2 Can the X-Men defeat the mysterious man who has invaded the mansion? And what does this grey-haired menace have to do with Logan? Guest-starring Ultimate Bishop!"
+        }
+    ],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/18473",
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/18473/ultimate_x-men_2000_76?utm_campaign=apiRef&utm_source=fc1409fc63b81f75437e2f064affcc35"
+        },
+        {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/Ultimate-X-Men-76/digital-comic/7367?utm_campaign=apiRef&utm_source=fc1409fc63b81f75437e2f064affcc35"
+        },
+        {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=7367&utm_campaign=apiRef&utm_source=fc1409fc63b81f75437e2f064affcc35"
+        },
+        {
+            "type": "inAppLink",
+            "url": "http://applink.marvel.com/issue/7367?utm_campaign=apiRef&utm_source=fc1409fc63b81f75437e2f064affcc35"
+        }
+    ],
+    "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/474",
+        "name": "Ultimate X-Men (2000 - 2009)"
+    },
+    "variants": [],
+    "collections": [
+        {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/13527",
+            "name": "Ultimate X-Men Vol. 16: Cable (Trade Paperback)"
+        }
+    ],
+    "collectedIssues": [],
+    "dates": [
+        {
+            "type": "onsaleDate",
+            "date": "2007-01-03T00:00:00-0500"
+        },
+        {
+            "type": "focDate",
+            "date": "-0001-11-30T00:00:00-0500"
+        },
+        {
+            "type": "unlimitedDate",
+            "date": "2007-12-18T00:00:00-0500"
+        },
+        {
+            "type": "digitalPurchaseDate",
+            "date": "2011-09-13T00:00:00-0400"
+        }
+    ],
+    "prices": [
+        {
+            "type": "printPrice",
+            "price": 0
+        },
+        {
+            "type": "digitalPurchasePrice",
+            "price": 1.99
+        }
+    ],
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/7/d0/4bb898d82f779",
+        "extension": "jpg"
+    },
+    "images": [
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/7/d0/4bb898d82f779",
+            "extension": "jpg"
+        }
+    ],
+    "creators": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/18473/creators",
+        "items": [],
+        "returned": 0
+    },
+    "characters": {
+        "available": 1,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/18473/characters",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1011109",
+                "name": "X-Men (Ultimate)"
+            }
+        ],
+        "returned": 1
+    },
+    "stories": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/18473/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/45073",
+                "name": "Cover #45073",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/45074",
+                "name": "Interior #45074",
+                "type": "interiorStory"
+            }
+        ],
+        "returned": 2
+    },
+    "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/18473/events",
+        "items": [],
+        "returned": 0
+    }
+}

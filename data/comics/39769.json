@@ -1,0 +1,143 @@
+{
+    "id": 39769,
+    "digitalId": 25839,
+    "title": "Avengers: X-Sanction (2011) #4",
+    "issueNumber": 4,
+    "variantDescription": "",
+    "description": "As the final hours tick down, Cable must take down a berserker Wolverine and a wisecrackin’ Web-Head to ensure a deadly future does not come to pass!\n",
+    "modified": "2013-04-02T15:41:50-0400",
+    "isbn": "",
+    "upc": "5960607673-00411",
+    "diamondCode": "JAN120633",
+    "ean": "",
+    "issn": "",
+    "format": "Comic",
+    "pageCount": 32,
+    "textObjects": [
+        {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "&bull; The Newest Installment Of The Official Marvel Cinematic Universe Tie-In Comics Is Here Just In Time\r\nFor The Avengers Movie! \r\n&bull; How Will S.H.I.E.L.D. Maintain The Status Quo In A World Full Of Gamma-Powered Rage Monsters,\r\nHammer Wielding Gods And Men In Iron Suits? \r\n&bull; What Exactly Is The Avengers Initiative?\r\n&bull; If You Thought You Knew Everything There Was To Know About Director Nick Fury And The Elusive\r\n"
+        },
+        {
+            "type": "issue_preview_text",
+            "language": "en-us",
+            "text": "As the final hours tick down, Cable must take down a berserker Wolverine and a wisecrackin’ Web-Head to ensure a deadly future does not come to pass!\n"
+        }
+    ],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/39769",
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/39769/avengers_x-sanction_2011_4?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/Avengers-X-Sanction-4/digital-comic/25839?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=25839&utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "inAppLink",
+            "url": "http://applink.marvel.com/issue/25839?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ],
+    "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/14703",
+        "name": "Avengers: X-Sanction (2011 - 2012)"
+    },
+    "variants": [],
+    "collections": [],
+    "collectedIssues": [],
+    "dates": [
+        {
+            "type": "onsaleDate",
+            "date": "2012-03-21T00:00:00-0400"
+        },
+        {
+            "type": "focDate",
+            "date": "2012-03-07T00:00:00-0500"
+        },
+        {
+            "type": "unlimitedDate",
+            "date": "2013-02-06T00:00:00-0500"
+        },
+        {
+            "type": "digitalPurchaseDate",
+            "date": "2012-03-21T00:00:00-0400"
+        }
+    ],
+    "prices": [
+        {
+            "type": "printPrice",
+            "price": 3.99
+        },
+        {
+            "type": "digitalPurchasePrice",
+            "price": 1.99
+        }
+    ],
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/60/515b3454a85c7",
+        "extension": "jpg"
+    },
+    "images": [
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/60/515b3454a85c7",
+            "extension": "jpg"
+        }
+    ],
+    "creators": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/39769/creators",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/18",
+                "name": "Jeph Loeb",
+                "role": "writer"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/649",
+                "name": "Ed McGuinness",
+                "role": "penciller (cover)"
+            }
+        ],
+        "returned": 2
+    },
+    "characters": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/39769/characters",
+        "items": [],
+        "returned": 0
+    },
+    "stories": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/39769/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/90279",
+                "name": "Cover #90279",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/90331",
+                "name": "Interior #90331",
+                "type": "interiorStory"
+            }
+        ],
+        "returned": 2
+    },
+    "events": {
+        "available": 1,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/39769/events",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/events/310",
+                "name": "Avengers VS X-Men"
+            }
+        ],
+        "returned": 1
+    }
+}

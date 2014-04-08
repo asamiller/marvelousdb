@@ -1,0 +1,168 @@
+{
+    "id": 31658,
+    "digitalId": 15893,
+    "title": "Origins of Marvel Comics: X-Men (2010) #1",
+    "issueNumber": 1,
+    "variantDescription": "",
+    "description": "The origins of everyone’s favorite X-Men are revealed! Discover the rich history of mutankind’s greatest warriors, and its greatest villains!",
+    "modified": "-0001-11-30T00:00:00-0500",
+    "isbn": "",
+    "upc": "5960607190-00111",
+    "diamondCode": "JUL100620",
+    "ean": "",
+    "issn": "",
+    "format": "Comic",
+    "pageCount": 40,
+    "textObjects": [
+        {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "The origins of your favorite X-Men written and drawn by the best in the industry collected in one place! Cyclops! Wolverine! Magneto! All the big characters’ origins boiled down to one beautiful page that every reader will cut out and tape up on their wall!\r\nRated T  …$3.99"
+        },
+        {
+            "type": "issue_preview_text",
+            "language": "en-us",
+            "text": "The origins of everyone’s favorite X-Men are revealed! Discover the rich history of mutankind’s greatest warriors, and its greatest villains!"
+        }
+    ],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/31658",
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/31658/origins_of_marvel_comics_x-men_2010_1?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/Origins-of-Marvel-Comics-X-Men-1/digital-comic/15893?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=15893&utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "inAppLink",
+            "url": "http://applink.marvel.com/issue/15893?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ],
+    "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/9929",
+        "name": "Origins of Marvel Comics: X-Men (2010)"
+    },
+    "variants": [],
+    "collections": [],
+    "collectedIssues": [],
+    "dates": [
+        {
+            "type": "onsaleDate",
+            "date": "2010-09-01T00:00:00-0400"
+        },
+        {
+            "type": "focDate",
+            "date": "2010-08-12T00:00:00-0400"
+        },
+        {
+            "type": "unlimitedDate",
+            "date": "2011-02-03T15:35:08-0500"
+        },
+        {
+            "type": "digitalPurchaseDate",
+            "date": "2010-09-28T00:00:00-0400"
+        }
+    ],
+    "prices": [
+        {
+            "type": "printPrice",
+            "price": 3.99
+        },
+        {
+            "type": "digitalPurchasePrice",
+            "price": 3.99
+        }
+    ],
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/f0/4c128e68873a6",
+        "extension": "jpg"
+    },
+    "images": [
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/f0/4c128e68873a6",
+            "extension": "jpg"
+        }
+    ],
+    "creators": {
+        "available": 8,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/31658/creators",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/11875",
+                "name": "Nick Bradshaw",
+                "role": "artist"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/694",
+                "name": "Mark Brooks",
+                "role": "artist"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/11309",
+                "name": "Mike Del Mundo",
+                "role": "artist"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/425",
+                "name": "Greg Land",
+                "role": "artist"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/8748",
+                "name": "Jill Thompson",
+                "role": "artist"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/366",
+                "name": "Mike Carey",
+                "role": "writer"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/121",
+                "name": "Peter David",
+                "role": "writer"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/803",
+                "name": "Chris Yost",
+                "role": "writer"
+            }
+        ],
+        "returned": 8
+    },
+    "characters": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/31658/characters",
+        "items": [],
+        "returned": 0
+    },
+    "stories": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/31658/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/71945",
+                "name": "Cover #71945",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/71946",
+                "name": "Interior #71946",
+                "type": "interiorStory"
+            }
+        ],
+        "returned": 2
+    },
+    "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/31658/events",
+        "items": [],
+        "returned": 0
+    }
+}

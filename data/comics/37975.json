@@ -1,0 +1,127 @@
+{
+    "id": 37975,
+    "digitalId": 18825,
+    "title": "Ultimate Comics Captain America (2010) #1",
+    "issueNumber": 1,
+    "variantDescription": "",
+    "description": "Captain America meets his ultimate nemesis—the Captain America of the Vietnam War!  As new enemies face off, old secrets from the super soldier project are revealed. From the superstar Wolverine: Weapon X creative team of Jason Aaron and Ron Garney, get ready for a hard hitting story of one man’s quest to serve his country…and the sacrifices he must make. ",
+    "modified": "2011-03-01T11:31:06-0500",
+    "isbn": "",
+    "upc": "5960607438-00121",
+    "diamondCode": "NOV100523",
+    "ean": "",
+    "issn": "",
+    "format": "comic",
+    "pageCount": 32,
+    "textObjects": [
+        {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "Captain America meets his ultimate nemesis—the Captain America of the Vietnam War!  As new enemies face off, old secrets from the super soldier project are revealed. From the superstar Wolverine: Weapon X creative team of Jason Aaron and Ron Garney, get ready for a hard hitting story of one man’s quest to serve his country…and the sacrifices he must make. "
+        }
+    ],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/37975",
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/37975/ultimate_comics_captain_america_2010_1?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=18825&utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ],
+    "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/13181",
+        "name": "Ultimate Comics Captain America (2010 - 2011)"
+    },
+    "variants": [
+        {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/36930",
+            "name": "Ultimate Comics Captain America (2010) #1"
+        }
+    ],
+    "collections": [],
+    "collectedIssues": [],
+    "dates": [
+        {
+            "type": "onsaleDate",
+            "date": "2011-01-05T00:00:00-0500"
+        },
+        {
+            "type": "focDate",
+            "date": "2010-12-12T00:00:00-0500"
+        },
+        {
+            "type": "unlimitedDate",
+            "date": "2013-04-08T00:00:00-0400"
+        }
+    ],
+    "prices": [
+        {
+            "type": "printPrice",
+            "price": 3.99
+        }
+    ],
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/7/70/4cb777ab67996",
+        "extension": "jpg"
+    },
+    "images": [
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/7/70/4cb777ab67996",
+            "extension": "jpg"
+        }
+    ],
+    "creators": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/37975/creators",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/11463",
+                "name": "Jason Aaron",
+                "role": "writer"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/120",
+                "name": "Ron Garney",
+                "role": "penciller (cover)"
+            }
+        ],
+        "returned": 2
+    },
+    "characters": {
+        "available": 1,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/37975/characters",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010913",
+                "name": "Captain America (Ultimate)"
+            }
+        ],
+        "returned": 1
+    },
+    "stories": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/37975/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/83508",
+                "name": "Cover #83508",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/83509",
+                "name": "Interior #83509",
+                "type": "interiorStory"
+            }
+        ],
+        "returned": 2
+    },
+    "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/37975/events",
+        "items": [],
+        "returned": 0
+    }
+}

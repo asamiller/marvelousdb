@@ -1,0 +1,75 @@
+{
+    "id": 1009460,
+    "name": "Mr. Fixit",
+    "description": "",
+    "modified": "1969-12-31T19:00:00-0500",
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available",
+        "extension": "jpg"
+    },
+    "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009460",
+    "comics": {
+        "available": 3,
+        "collectionURI": "http://gateway.marvel.com/v1/public/characters/1009460/comics",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/comics/14427",
+                "name": "Incredible Hulk (1999) #27"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/comics/14428",
+                "name": "Incredible Hulk (1999) #28"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/comics/14430",
+                "name": "Incredible Hulk (1999) #30"
+            }
+        ],
+        "returned": 3
+    },
+    "series": {
+        "available": 1,
+        "collectionURI": "http://gateway.marvel.com/v1/public/characters/1009460/series",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/series/465",
+                "name": "Incredible Hulk (1999 - 2008)"
+            }
+        ],
+        "returned": 1
+    },
+    "stories": {
+        "available": 3,
+        "collectionURI": "http://gateway.marvel.com/v1/public/characters/1009460/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/29364",
+                "name": "Past Perfect",
+                "type": "interiorStory"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/29366",
+                "name": "Once in a Lifetime",
+                "type": "interiorStory"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/29370",
+                "name": "Spiral Staircase Part 1",
+                "type": "interiorStory"
+            }
+        ],
+        "returned": 3
+    },
+    "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/characters/1009460/events",
+        "items": [],
+        "returned": 0
+    },
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/characters/1009460/mr_fixit?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ]
+}

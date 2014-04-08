@@ -1,0 +1,138 @@
+{
+    "id": 44948,
+    "digitalId": 28096,
+    "title": "FF (2012) #2",
+    "issueNumber": 2,
+    "variantDescription": "",
+    "description": "Variant cover by MIKE ALLRED\n• Ant-Man! She Hulk! Medusa! And, um -- Ms. Thing?\n• How does the rest of the Future Foundation react to the new team?\n• What classic Fantastic Four super-villain can’t wait to get their hands on the new FF?\n",
+    "modified": "2013-02-22T15:28:27-0500",
+    "isbn": "",
+    "upc": "759606079071000211",
+    "diamondCode": "OCT120595",
+    "ean": "",
+    "issn": "",
+    "format": "Comic",
+    "pageCount": 32,
+    "textObjects": [
+        {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "Variant cover by MIKE ALLRED\n• Ant-Man! She Hulk! Medusa! And, um -- Ms. Thing?\n• How does the rest of the Future Foundation react to the new team?\n• What classic Fantastic Four super-villain can’t wait to get their hands on the new FF?\n"
+        }
+    ],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/44948",
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/44948/ff_2012_2?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/Ff-2/digital-comic/28096?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=28096&utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "inAppLink",
+            "url": "http://applink.marvel.com/issue/28096?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ],
+    "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/16561",
+        "name": "FF (2012 - Present)"
+    },
+    "variants": [
+        {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/44950",
+            "name": "FF (2012) #2 (Allred Variant)"
+        }
+    ],
+    "collections": [],
+    "collectedIssues": [],
+    "dates": [
+        {
+            "type": "onsaleDate",
+            "date": "2012-12-19T00:00:00-0500"
+        },
+        {
+            "type": "focDate",
+            "date": "2012-12-04T00:00:00-0500"
+        },
+        {
+            "type": "unlimitedDate",
+            "date": "2013-06-24T00:00:00-0400"
+        },
+        {
+            "type": "digitalPurchaseDate",
+            "date": "2012-12-19T00:00:00-0500"
+        }
+    ],
+    "prices": [
+        {
+            "type": "printPrice",
+            "price": 2.99
+        },
+        {
+            "type": "digitalPurchasePrice",
+            "price": 1.99
+        }
+    ],
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/e0/50884fe35ecfc",
+        "extension": "jpg"
+    },
+    "images": [
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/e0/50884fe35ecfc",
+            "extension": "jpg"
+        }
+    ],
+    "creators": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/44948/creators",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/95",
+                "name": "Mike Allred",
+                "role": "penciller (cover)"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/1132",
+                "name": "Matt Fraction",
+                "role": "writer"
+            }
+        ],
+        "returned": 2
+    },
+    "characters": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/44948/characters",
+        "items": [],
+        "returned": 0
+    },
+    "stories": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/44948/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/101273",
+                "name": "cover from Ff (2012) #2",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/101274",
+                "name": "story from Ff (2012) #2",
+                "type": "interiorStory"
+            }
+        ],
+        "returned": 2
+    },
+    "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/44948/events",
+        "items": [],
+        "returned": 0
+    }
+}

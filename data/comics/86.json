@@ -1,0 +1,132 @@
+{
+    "id": 86,
+    "digitalId": 641,
+    "title": "Spider-Man: India (2004) #1",
+    "issueNumber": 1,
+    "variantDescription": "",
+    "description": "Everybody knows the story of Spider-Man…but what if things had happened differently? What if it wasn’t a New Yorker named Peter Parker, but an Indian teenager named Pavitr Prabhakar who was gifted with the abilities of the spider?  Witness the rebirth of a legend as young Pavitr learns hard lessons about power…and responsibility.",
+    "modified": "-0001-11-30T00:00:00-0500",
+    "isbn": "",
+    "upc": "5960605639-00111",
+    "diamondCode": "",
+    "ean": "",
+    "issn": "",
+    "format": "Comic",
+    "pageCount": 0,
+    "textObjects": [
+        {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "Everybody knows the story of Spider-Man…but what if things had happened differently? What if it wasn’t a New Yorker named Peter Parker, but an Indian teenager named Pavitr Prabhakar who was gifted with the abilities of the spider?  Witness the rebirth of a legend as young Pavitr learns hard lessons about power…and responsibility."
+        }
+    ],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/86",
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/86/spider-man_india_2004_1?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=641&utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ],
+    "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/826",
+        "name": "Spider-Man: India (2004 - 2005)"
+    },
+    "variants": [],
+    "collections": [
+        {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/1861",
+            "name": "Spider-Man: India (Trade Paperback)"
+        }
+    ],
+    "collectedIssues": [],
+    "dates": [
+        {
+            "type": "onsaleDate",
+            "date": "2004-11-17T00:00:00-0500"
+        },
+        {
+            "type": "focDate",
+            "date": "-0001-11-30T00:00:00-0500"
+        },
+        {
+            "type": "unlimitedDate",
+            "date": "2007-11-13T00:00:00-0500"
+        }
+    ],
+    "prices": [
+        {
+            "type": "printPrice",
+            "price": 2.99
+        }
+    ],
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/10/4bc6b0761d93a",
+        "extension": "jpg"
+    },
+    "images": [
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/10/4bc6b0761d93a",
+            "extension": "jpg"
+        }
+    ],
+    "creators": {
+        "available": 4,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/86/creators",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/885",
+                "name": "Sharad Devarajan",
+                "role": "writer"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/884",
+                "name": "Suresh Seetharaman",
+                "role": "writer"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/457",
+                "name": "Gotham Entertainment Group",
+                "role": "colorist"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/883",
+                "name": "Jeevan J. Kang",
+                "role": "penciller (cover)"
+            }
+        ],
+        "returned": 4
+    },
+    "characters": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/86/characters",
+        "items": [],
+        "returned": 0
+    },
+    "stories": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/86/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/4201",
+                "name": "1 of 4",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/4202",
+                "name": "1 of 4",
+                "type": "interiorStory"
+            }
+        ],
+        "returned": 2
+    },
+    "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/86/events",
+        "items": [],
+        "returned": 0
+    }
+}

@@ -1,0 +1,75 @@
+{
+    "id": 1012295,
+    "name": "Spider-Man (Noir)",
+    "description": "",
+    "modified": "2014-03-05T13:50:50-0500",
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/40/531771a14fcf6",
+        "extension": "jpg"
+    },
+    "resourceURI": "http://gateway.marvel.com/v1/public/characters/1012295",
+    "comics": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/characters/1012295/comics",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/comics/24312",
+                "name": "Spider-Man Noir (Hardcover)"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/comics/41148",
+                "name": "Spider-Man Noir GN-TPB (Reprint) (Trade Paperback)"
+            }
+        ],
+        "returned": 2
+    },
+    "series": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/characters/1012295/series",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/series/7511",
+                "name": "Spider-Man Noir (2009 - Present)"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/series/15284",
+                "name": "Spider-Man Noir GN-TPB (Reprint) (2011 - Present)"
+            }
+        ],
+        "returned": 2
+    },
+    "stories": {
+        "available": 3,
+        "collectionURI": "http://gateway.marvel.com/v1/public/characters/1012295/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/53865",
+                "name": "Spider-Man Noir 1-4",
+                "type": "interiorStory"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/93153",
+                "name": "Cover #93153",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/93154",
+                "name": "Interior #93154",
+                "type": "interiorStory"
+            }
+        ],
+        "returned": 3
+    },
+    "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/characters/1012295/events",
+        "items": [],
+        "returned": 0
+    },
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/characters/1012295/spider-man_noir?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ]
+}

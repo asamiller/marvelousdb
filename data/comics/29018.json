@@ -1,0 +1,138 @@
+{
+    "id": 29018,
+    "digitalId": 14138,
+    "title": "New Avengers (2004) #63",
+    "issueNumber": 63,
+    "variantDescription": "",
+    "description": "SIEGE BLOCKBUSTER TIE-IN!! \r\nThe battle for Asgard is in full force. One of\r\nthe biggest battles in all of Marvel history!\r\nAnd at the heart of that war is a battle so intense and crucial that the entire future of\r\nthe Marvel Universe relies on who emerges\r\nvictorious. This is the story of that battle!\r\nRated A  …$3.99",
+    "modified": "2012-04-10T09:12:11-0400",
+    "isbn": "",
+    "upc": "5960605547-06311",
+    "diamondCode": "JAN100508",
+    "ean": "",
+    "issn": "",
+    "format": "Comic",
+    "pageCount": 32,
+    "textObjects": [
+        {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "SIEGE BLOCKBUSTER TIE-IN!! \r\nThe battle for Asgard is in full force. One of\r\nthe biggest battles in all of Marvel history!\r\nAnd at the heart of that war is a battle so intense and crucial that the entire future of\r\nthe Marvel Universe relies on who emerges\r\nvictorious. This is the story of that battle!\r\nRated A  …$3.99"
+        }
+    ],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/29018",
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/29018/new_avengers_2004_63?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/New-Avengers-63/digital-comic/14138?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=14138&utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "inAppLink",
+            "url": "http://applink.marvel.com/issue/14138?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ],
+    "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/753",
+        "name": "New Avengers (2004 - 2010)"
+    },
+    "variants": [],
+    "collections": [],
+    "collectedIssues": [],
+    "dates": [
+        {
+            "type": "onsaleDate",
+            "date": "2010-03-24T00:00:00-0400"
+        },
+        {
+            "type": "focDate",
+            "date": "2010-03-04T00:00:00-0500"
+        },
+        {
+            "type": "unlimitedDate",
+            "date": "2010-12-21T00:00:00-0500"
+        },
+        {
+            "type": "digitalPurchaseDate",
+            "date": "2012-04-10T00:00:00-0400"
+        }
+    ],
+    "prices": [
+        {
+            "type": "printPrice",
+            "price": 3.99
+        },
+        {
+            "type": "digitalPurchasePrice",
+            "price": 1.99
+        }
+    ],
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/a/10/4f7da9d7245b9",
+        "extension": "jpg"
+    },
+    "images": [
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/a/10/4f7da9d7245b9",
+            "extension": "jpg"
+        }
+    ],
+    "creators": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/29018/creators",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/24",
+                "name": "Brian Michael Bendis",
+                "role": "writer"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/192",
+                "name": "Stuart Immonen",
+                "role": "penciller"
+            }
+        ],
+        "returned": 2
+    },
+    "characters": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/29018/characters",
+        "items": [],
+        "returned": 0
+    },
+    "stories": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/29018/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/63227",
+                "name": "New Avengers (2004) #63",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/63228",
+                "name": "Interior #63228",
+                "type": "interiorStory"
+            }
+        ],
+        "returned": 2
+    },
+    "events": {
+        "available": 1,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/29018/events",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/events/273",
+                "name": "Siege"
+            }
+        ],
+        "returned": 1
+    }
+}

@@ -1,0 +1,123 @@
+{
+    "id": 45839,
+    "digitalId": 0,
+    "title": "Avengers (2012) #4 (Keown Variant)",
+    "issueNumber": 4,
+    "variantDescription": "Keown Variant",
+    "description": "\r\n\r\n\r\n\r\n<ul><li>The Secret Origin of Hyperion.</li><li>The Legacy of the Garden unfolds in the Savage Land.</li><li>&ldquo;We&rsquo;ll have to field test our theories here. NOW.&rdquo; --Dr. Deeds</li></ul>",
+    "modified": "2013-01-30T14:53:36-0500",
+    "isbn": "",
+    "upc": "75960607902500431",
+    "diamondCode": "NOV120668",
+    "ean": "",
+    "issn": "",
+    "format": "Comic",
+    "pageCount": 32,
+    "textObjects": [
+        {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "\r\n\r\n\r\n\r\n<ul><li>The Secret Origin of Hyperion.</li><li>The Legacy of the Garden unfolds in the Savage Land.</li><li>&ldquo;We&rsquo;ll have to field test our theories here. NOW.&rdquo; --Dr. Deeds</li></ul>"
+        }
+    ],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/45839",
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/45839/avengers_2012_4_keown_variant/keown_variant?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ],
+    "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/16452",
+        "name": "Avengers (2012 - Present)"
+    },
+    "variants": [
+        {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/47632",
+            "name": "Avengers (2012) #4 (2nd Printing Variant)"
+        },
+        {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/43534",
+            "name": "Avengers (2012) #4"
+        }
+    ],
+    "collections": [],
+    "collectedIssues": [],
+    "dates": [
+        {
+            "type": "onsaleDate",
+            "date": "2013-01-30T00:00:00-0500"
+        },
+        {
+            "type": "focDate",
+            "date": "2013-01-16T00:00:00-0500"
+        }
+    ],
+    "prices": [
+        {
+            "type": "printPrice",
+            "price": 3.99
+        }
+    ],
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/f0/510979ef81de2",
+        "extension": "jpg"
+    },
+    "images": [
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/f0/510979ef81de2",
+            "extension": "jpg"
+        }
+    ],
+    "creators": {
+        "available": 3,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/45839/creators",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/2133",
+                "name": "Tom Brevoort",
+                "role": "editor"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/8504",
+                "name": "Frank D'Armata",
+                "role": "colorist (cover)"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/241",
+                "name": "Dale Keown",
+                "role": "penciler (cover)"
+            }
+        ],
+        "returned": 3
+    },
+    "characters": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/45839/characters",
+        "items": [],
+        "returned": 0
+    },
+    "stories": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/45839/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/103164",
+                "name": "cover from Avengers (2012) #4 ",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/103165",
+                "name": "story from Avengers (2012) #4 (RIBIC VARIANT)",
+                "type": "interiorStory"
+            }
+        ],
+        "returned": 2
+    },
+    "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/45839/events",
+        "items": [],
+        "returned": 0
+    }
+}

@@ -1,0 +1,122 @@
+{
+    "id": 49189,
+    "digitalId": 0,
+    "title": "Inhumanity (2013) #1",
+    "issueNumber": 1,
+    "variantDescription": "",
+    "description": "\n\n\n<ul><li>After INFINITY, The Marvel Universe has changed.</li><li>The Avengers find themselves face to face with Karnak who has discovered The secret of The Inhumans THAT will shake The Marvel U to its core.</li></ul>",
+    "modified": "2014-02-06T15:12:52-0500",
+    "isbn": "",
+    "upc": "75960608006900111",
+    "diamondCode": "",
+    "ean": "",
+    "issn": "",
+    "format": "Comic",
+    "pageCount": 40,
+    "textObjects": [
+        {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "\n\n\n<ul><li>After INFINITY, The Marvel Universe has changed.</li><li>The Avengers find themselves face to face with Karnak who has discovered The secret of The Inhumans THAT will shake The Marvel U to its core.</li></ul>"
+        }
+    ],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/49189",
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/49189/inhumanity_2013_1?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/Inhumanity-1/digital-comic/32440?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ],
+    "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/18499",
+        "name": "Inhumanity (2013 - Present)"
+    },
+    "variants": [],
+    "collections": [],
+    "collectedIssues": [],
+    "dates": [
+        {
+            "type": "onsaleDate",
+            "date": "2013-12-04T00:00:00-0500"
+        },
+        {
+            "type": "focDate",
+            "date": "2013-11-20T00:00:00-0500"
+        }
+    ],
+    "prices": [
+        {
+            "type": "printPrice",
+            "price": 3.99
+        }
+    ],
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/8/c0/529e0a9aa033d",
+        "extension": "jpg"
+    },
+    "images": [
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/8/c0/529e0a9aa033d",
+            "extension": "jpg"
+        },
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/d/d0/522a362389955",
+            "extension": "jpg"
+        }
+    ],
+    "creators": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/49189/creators",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/6170",
+                "name": "Olivier Coipel",
+                "role": "penciller (cover)"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/1132",
+                "name": "Matt Fraction",
+                "role": "writer"
+            }
+        ],
+        "returned": 2
+    },
+    "characters": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/49189/characters",
+        "items": [],
+        "returned": 0
+    },
+    "stories": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/49189/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/110463",
+                "name": "cover from Inhumanity (2013) #1",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/110464",
+                "name": "story from Inhumanity (2013) #1",
+                "type": "interiorStory"
+            }
+        ],
+        "returned": 2
+    },
+    "events": {
+        "available": 1,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/49189/events",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/events/317",
+                "name": "Inhumanity"
+            }
+        ],
+        "returned": 1
+    }
+}

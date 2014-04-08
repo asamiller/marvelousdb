@@ -1,0 +1,133 @@
+{
+    "id": 42677,
+    "digitalId": 27470,
+    "title": "Captain Marvel (2012) #2",
+    "issueNumber": 2,
+    "variantDescription": "",
+    "description": "â€¢  Captain Marvel canâ€™t walk away from a challenge from her past!! Whoâ€™s the better pilot?\nâ€¢ Introducing the THE BANSHEE SQUADRON!\nâ€¢ Avenger Time Travel Protocols: Engage! \n",
+    "modified": "2013-03-08T13:13:49-0500",
+    "isbn": "",
+    "upc": "5960607809-00211",
+    "diamondCode": "",
+    "ean": "",
+    "issn": "",
+    "format": "Comic",
+    "pageCount": 32,
+    "textObjects": [
+        {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "•  Captain Marvel can’t walk away from a challenge from her past!! Who’s the better pilot?\n• Introducing the THE BANSHEE SQUADRON!\n• Avenger Time Travel Protocols: Engage! \n"
+        }
+    ],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/42677",
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/42677/captain_marvel_2012_2?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/Captain-Marvel-2/digital-comic/27470?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=27470&utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "inAppLink",
+            "url": "http://applink.marvel.com/issue/27470?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ],
+    "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/16280",
+        "name": "Captain Marvel (2012 - Present)"
+    },
+    "variants": [],
+    "collections": [],
+    "collectedIssues": [],
+    "dates": [
+        {
+            "type": "onsaleDate",
+            "date": "2012-08-15T00:00:00-0400"
+        },
+        {
+            "type": "focDate",
+            "date": "2012-07-31T00:00:00-0400"
+        },
+        {
+            "type": "unlimitedDate",
+            "date": "2013-03-08T13:13:40-0500"
+        },
+        {
+            "type": "digitalPurchaseDate",
+            "date": "2012-08-15T00:00:00-0400"
+        }
+    ],
+    "prices": [
+        {
+            "type": "printPrice",
+            "price": 2.99
+        },
+        {
+            "type": "digitalPurchasePrice",
+            "price": 1.99
+        }
+    ],
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/30/501fd442edc75",
+        "extension": "jpg"
+    },
+    "images": [
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/30/501fd442edc75",
+            "extension": "jpg"
+        }
+    ],
+    "creators": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/42677/creators",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/10320",
+                "name": "Kelly Sue DeConnick",
+                "role": "writer"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/649",
+                "name": "Ed McGuinness",
+                "role": "penciller (cover)"
+            }
+        ],
+        "returned": 2
+    },
+    "characters": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/42677/characters",
+        "items": [],
+        "returned": 0
+    },
+    "stories": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/42677/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/96102",
+                "name": "Cover #96102",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/96103",
+                "name": "Interior #96103",
+                "type": "interiorStory"
+            }
+        ],
+        "returned": 2
+    },
+    "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/42677/events",
+        "items": [],
+        "returned": 0
+    }
+}

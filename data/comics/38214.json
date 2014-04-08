@@ -1,0 +1,148 @@
+{
+    "id": 38214,
+    "digitalId": 25329,
+    "title": "The Mighty Thor (2011) #10",
+    "issueNumber": 10,
+    "variantDescription": "",
+    "description": "Tanarus vs. Heimdall! Thor struggles to free himself before the Demogorge consumes him and a starship full of other fallen gods! What did Loki and the Surfer find in the desert and how can it help a god no one can remember?\n",
+    "modified": "2012-11-14T15:07:49-0500",
+    "isbn": "",
+    "upc": "5960607526-01011",
+    "diamondCode": "",
+    "ean": "",
+    "issn": "2160-1496",
+    "format": "Comic",
+    "pageCount": 32,
+    "textObjects": [
+        {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "<br>TANARUS VS. HEIMDALL!\r\n<br>THOR struggles to free himself before the DEMOGORGE consumes him and a starship full\r\nof other fallen gods!\r\n<br>What did Loki and the Surfer find in the desert and how can it help a god no one can remember?"
+        },
+        {
+            "type": "issue_preview_text",
+            "language": "en-us",
+            "text": "Tanarus vs. Heimdall! Thor struggles to free himself before the Demogorge consumes him and a starship full of other fallen gods! What did Loki and the Surfer find in the desert and how can it help a god no one can remember?\n"
+        }
+    ],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/38214",
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/38214/the_mighty_thor_2011_10?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/The-Mighty-Thor-10/digital-comic/25329?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=25329&utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "inAppLink",
+            "url": "http://applink.marvel.com/issue/25329?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ],
+    "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/13757",
+        "name": "The Mighty Thor (2011 - 2012)"
+    },
+    "variants": [
+        {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/42132",
+            "name": "The Mighty Thor (2011) #10 (Venom Variant)"
+        }
+    ],
+    "collections": [],
+    "collectedIssues": [],
+    "dates": [
+        {
+            "type": "onsaleDate",
+            "date": "2012-01-25T00:00:00-0500"
+        },
+        {
+            "type": "focDate",
+            "date": "2012-01-02T00:00:00-0500"
+        },
+        {
+            "type": "unlimitedDate",
+            "date": "2013-01-28T00:00:00-0500"
+        },
+        {
+            "type": "digitalPurchaseDate",
+            "date": "2012-01-25T00:00:00-0500"
+        }
+    ],
+    "prices": [
+        {
+            "type": "printPrice",
+            "price": 3.99
+        },
+        {
+            "type": "digitalPurchasePrice",
+            "price": 1.99
+        }
+    ],
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/e/20/4e97356537164",
+        "extension": "jpg"
+    },
+    "images": [
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/e/20/4e97356537164",
+            "extension": "jpg"
+        }
+    ],
+    "creators": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/38214/creators",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/365",
+                "name": "Pasqual Ferry",
+                "role": "artist"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/1132",
+                "name": "Matt Fraction",
+                "role": "writer"
+            }
+        ],
+        "returned": 2
+    },
+    "characters": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/38214/characters",
+        "items": [],
+        "returned": 0
+    },
+    "stories": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/38214/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/95264",
+                "name": "THE MIGHTY THOR 10 story",
+                "type": "interiorStory"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/95268",
+                "name": "THE MIGHTY THOR 10 cover",
+                "type": "cover"
+            }
+        ],
+        "returned": 2
+    },
+    "events": {
+        "available": 1,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/38214/events",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/events/309",
+                "name": "Shattered Heroes"
+            }
+        ],
+        "returned": 1
+    }
+}

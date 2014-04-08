@@ -1,0 +1,114 @@
+{
+    "id": 41900,
+    "digitalId": 0,
+    "title": "New Avengers (2010) #21 (Movie Variant)",
+    "issueNumber": 21,
+    "variantDescription": "Movie Variant",
+    "description": "&bull; The New Avengers battle the Dark Avengers.\r\n<br />&bull; One Avenger leaves the team in defeat.\r\n<br />&bull; RAGNAROK!",
+    "modified": "2012-02-01T17:17:10-0500",
+    "isbn": "",
+    "upc": "5960607247-02121",
+    "diamondCode": "DEC110611",
+    "ean": "",
+    "issn": "0274-5240",
+    "format": "Comic",
+    "pageCount": 32,
+    "textObjects": [
+        {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "&bull; The New Avengers battle the Dark Avengers.\r\n<br />&bull; One Avenger leaves the team in defeat.\r\n<br />&bull; RAGNAROK!"
+        }
+    ],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/41900",
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/41900/new_avengers_2010_21_movie_variant/movie_variant?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ],
+    "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/9922",
+        "name": "New Avengers (2010 - 2012)"
+    },
+    "variants": [
+        {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/35251",
+            "name": "New Avengers (2010) #21"
+        }
+    ],
+    "collections": [],
+    "collectedIssues": [],
+    "dates": [
+        {
+            "type": "onsaleDate",
+            "date": "2012-02-15T00:00:00-0500"
+        },
+        {
+            "type": "focDate",
+            "date": "2012-02-01T00:00:00-0500"
+        }
+    ],
+    "prices": [
+        {
+            "type": "printPrice",
+            "price": 3.99
+        }
+    ],
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/5/40/4f2301910c4aa",
+        "extension": "png"
+    },
+    "images": [
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/5/40/4f2301910c4aa",
+            "extension": "png"
+        }
+    ],
+    "creators": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/41900/creators",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/24",
+                "name": "Brian Michael Bendis",
+                "role": "writer"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/312",
+                "name": "Mike Deodato",
+                "role": "penciller (cover)"
+            }
+        ],
+        "returned": 2
+    },
+    "characters": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/41900/characters",
+        "items": [],
+        "returned": 0
+    },
+    "stories": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/41900/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/94802",
+                "name": "Cover #94802",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/94803",
+                "name": "Interior #94803",
+                "type": "interiorStory"
+            }
+        ],
+        "returned": 2
+    },
+    "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/41900/events",
+        "items": [],
+        "returned": 0
+    }
+}

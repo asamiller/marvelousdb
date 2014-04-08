@@ -1,0 +1,147 @@
+{
+    "id": 793,
+    "digitalId": 2114,
+    "title": "Marvel Age Spider-Man (2004) #11",
+    "issueNumber": 11,
+    "variantDescription": "",
+    "description": "\"UNMASKED BY DOCTOR OCTOPUS!\" Desperate to clear his name and rid himself of the accursed SPIDER-MAN, DOCTOR OCTOPUS draws the wall-crawler out and DEFEATS him! But that’s not all! Ock UNMASKS Spidey before the very eyes of J. JONAH JAMESON! Get ready for",
+    "modified": "-0001-11-30T00:00:00-0500",
+    "isbn": "",
+    "upc": "5960605505-01111",
+    "diamondCode": "",
+    "ean": "",
+    "issn": "",
+    "format": "Comic",
+    "pageCount": 0,
+    "textObjects": [
+        {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "\"UNMASKED BY DOCTOR OCTOPUS!\" Desperate to clear his name and rid himself of the accursed SPIDER-MAN, DOCTOR OCTOPUS draws the wall-crawler out and DEFEATS him! But that’s not all! Ock UNMASKS Spidey before the very eyes of J. JONAH JAMESON! Get ready for"
+        }
+    ],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/793",
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/793/marvel_age_spider-man_2004_11?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=2114&utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ],
+    "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/375",
+        "name": "Marvel Age Spider-Man (2004 - 2005)"
+    },
+    "variants": [],
+    "collections": [
+        {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/1309",
+            "name": "Marvel Age Spider-Man Vol. 3: Swingtime (Digest)"
+        }
+    ],
+    "collectedIssues": [],
+    "dates": [
+        {
+            "type": "onsaleDate",
+            "date": "2004-09-01T00:00:00-0400"
+        },
+        {
+            "type": "focDate",
+            "date": "-0001-11-30T00:00:00-0500"
+        },
+        {
+            "type": "unlimitedDate",
+            "date": "2007-11-13T00:00:00-0500"
+        }
+    ],
+    "prices": [
+        {
+            "type": "printPrice",
+            "price": 2.25
+        }
+    ],
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/f/90/4bc67baba88f6",
+        "extension": "jpg"
+    },
+    "images": [
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/f/90/4bc67baba88f6",
+            "extension": "jpg"
+        }
+    ],
+    "creators": {
+        "available": 6,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/793/creators",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/8571",
+                "name": "Guru-eFX",
+                "role": "colorist"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/682",
+                "name": "Todd Dezago",
+                "role": "writer"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/778",
+                "name": "Valentine De Landro",
+                "role": "penciller"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/699",
+                "name": "Norman Lee",
+                "role": "inker"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/361",
+                "name": "Cory Petit",
+                "role": "letterer"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/434",
+                "name": "Michael Ryan",
+                "role": "penciller (cover)"
+            }
+        ],
+        "returned": 6
+    },
+    "characters": {
+        "available": 1,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/793/characters",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009610",
+                "name": "Spider-Man"
+            }
+        ],
+        "returned": 1
+    },
+    "stories": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/793/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/2775",
+                "name": "\"UNMASKED BY DOCTOR OCTOPUS!\" Desperate to clear his name and rid himself of the accursed SPIDER-MAN, DOCTOR OCTOPUS draws the w",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/2776",
+                "name": "\"UNMASKED BY DOCTOR OCTOPUS!\" Desperate to clear his name and rid himself of the accursed SPIDER-MAN, DOCTOR OCTOPUS draws the w",
+                "type": "interiorStory"
+            }
+        ],
+        "returned": 2
+    },
+    "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/793/events",
+        "items": [],
+        "returned": 0
+    }
+}

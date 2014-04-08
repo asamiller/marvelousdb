@@ -1,0 +1,137 @@
+{
+    "id": 36563,
+    "digitalId": 21219,
+    "title": "Marvel Adventures Spider-Man (2010) #14",
+    "issueNumber": 14,
+    "variantDescription": "",
+    "description": "Spider-Man takes the wheel in order to solve a huge crime wave of armoured car robberies. But will New York survive his driving, and will HE survive the secret behind the robberies, and the deadly illusions of... Mysterio?",
+    "modified": "2012-01-26T12:59:34-0500",
+    "isbn": "",
+    "upc": "5960607127-01411",
+    "diamondCode": "",
+    "ean": "",
+    "issn": "1548-5056",
+    "format": "Comic",
+    "pageCount": 32,
+    "textObjects": [
+        {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "Spider-Man takes the wheel in order to solve a huge crime wave of armoured car robberies. But will New York survive his driving, and will HE survive the secret behind the robberies, and the deadly illusions of... Mysterio?"
+        }
+    ],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/36563",
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/36563/marvel_adventures_spider-man_2010_14?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=21219&utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ],
+    "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/9748",
+        "name": "Marvel Adventures Spider-Man (2010 - 2012)"
+    },
+    "variants": [],
+    "collections": [],
+    "collectedIssues": [],
+    "dates": [
+        {
+            "type": "onsaleDate",
+            "date": "2011-05-25T00:00:00-0400"
+        },
+        {
+            "type": "focDate",
+            "date": "2011-05-02T00:00:00-0400"
+        },
+        {
+            "type": "unlimitedDate",
+            "date": "2012-02-06T00:00:00-0500"
+        }
+    ],
+    "prices": [
+        {
+            "type": "printPrice",
+            "price": 2.99
+        }
+    ],
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/2/80/4d556fdabea6f",
+        "extension": "jpg"
+    },
+    "images": [
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/2/80/4d556fdabea6f",
+            "extension": "jpg"
+        }
+    ],
+    "creators": {
+        "available": 5,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/36563/creators",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/9081",
+                "name": "Matteo Lolli",
+                "role": "penciller"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/690",
+                "name": "Patrick Scherberger",
+                "role": "penciller (cover)"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/8429",
+                "name": "Dave Sharpe",
+                "role": "letterer"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/4983",
+                "name": "Paul Tobin",
+                "role": "writer"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/9471",
+                "name": "Stephen Wacker",
+                "role": "editor"
+            }
+        ],
+        "returned": 5
+    },
+    "characters": {
+        "available": 1,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/36563/characters",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009610",
+                "name": "Spider-Man"
+            }
+        ],
+        "returned": 1
+    },
+    "stories": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/36563/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/81150",
+                "name": "Spider-Man #14",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/81151",
+                "name": "Spider-Man #14",
+                "type": "interiorStory"
+            }
+        ],
+        "returned": 2
+    },
+    "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/36563/events",
+        "items": [],
+        "returned": 0
+    }
+}

@@ -1,0 +1,83 @@
+{
+    "id": 1010826,
+    "name": "MVP",
+    "description": "",
+    "modified": "1969-12-31T19:00:00-0500",
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/50/4ce5a36f31b94",
+        "extension": "jpg"
+    },
+    "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010826",
+    "comics": {
+        "available": 3,
+        "collectionURI": "http://gateway.marvel.com/v1/public/characters/1010826/comics",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/comics/20877",
+                "name": "Avengers: The Initiative (2007) #11"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/comics/17293",
+                "name": "Avengers: The Initiative Annual (2007) #1"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/comics/21085",
+                "name": "Secret Invasion: The Infiltration (Trade Paperback)"
+            }
+        ],
+        "returned": 3
+    },
+    "series": {
+        "available": 3,
+        "collectionURI": "http://gateway.marvel.com/v1/public/characters/1010826/series",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/series/1945",
+                "name": "Avengers: The Initiative (2007 - 2010)"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/series/3087",
+                "name": "Avengers: The Initiative Annual (2007)"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/series/4619",
+                "name": "Secret Invasion: The Infiltration (2008)"
+            }
+        ],
+        "returned": 3
+    },
+    "stories": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/characters/1010826/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/36242",
+                "name": "1 of 1",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/44704",
+                "name": "Avengers: The Initiative (2007) #11",
+                "type": "cover"
+            }
+        ],
+        "returned": 2
+    },
+    "events": {
+        "available": 1,
+        "collectionURI": "http://gateway.marvel.com/v1/public/characters/1010826/events",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/events/269",
+                "name": "Secret Invasion"
+            }
+        ],
+        "returned": 1
+    },
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/characters/1010826/mvp?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ]
+}

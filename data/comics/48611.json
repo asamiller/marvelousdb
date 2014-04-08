@@ -1,0 +1,108 @@
+{
+    "id": 48611,
+    "digitalId": 0,
+    "title": "Deadpool (2012) #23",
+    "issueNumber": 23,
+    "variantDescription": "",
+    "description": "&quot;Deadpool vs. S.H.I.E.L.D.&quot; Part 3\r\n\r\n\r\n\r\n\r\n\r\n<ul><li>One helicarrier full of troops&hellip;</li><li>One deadly creature intent on killing them all&hellip;</li><li>A creature&hellip;named Deadpool.</li></ul>",
+    "modified": "2014-02-07T15:25:17-0500",
+    "isbn": "",
+    "upc": "75960607905602311",
+    "diamondCode": "DEC130751",
+    "ean": "",
+    "issn": "",
+    "format": "Comic",
+    "pageCount": 32,
+    "textObjects": [
+        {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "&quot;Deadpool vs. S.H.I.E.L.D.&quot; Part 3\r\n\r\n\r\n\r\n\r\n\r\n<ul><li>One helicarrier full of troops&hellip;</li><li>One deadly creature intent on killing them all&hellip;</li><li>A creature&hellip;named Deadpool.</li></ul>"
+        }
+    ],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/48611",
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/48611/deadpool_2012_23?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/Deadpool-23/digital-comic/32970?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ],
+    "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/16542",
+        "name": "Deadpool (2012 - Present)"
+    },
+    "variants": [],
+    "collections": [],
+    "collectedIssues": [],
+    "dates": [
+        {
+            "type": "onsaleDate",
+            "date": "2014-02-12T00:00:00-0500"
+        },
+        {
+            "type": "focDate",
+            "date": "2014-01-29T00:00:00-0500"
+        }
+    ],
+    "prices": [
+        {
+            "type": "printPrice",
+            "price": 2.99
+        }
+    ],
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/03/5286584b0490c",
+        "extension": "jpg"
+    },
+    "images": [
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/03/5286584b0490c",
+            "extension": "jpg"
+        }
+    ],
+    "creators": {
+        "available": 1,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/48611/creators",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/8822",
+                "name": "Jordan White",
+                "role": "editor"
+            }
+        ],
+        "returned": 1
+    },
+    "characters": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/48611/characters",
+        "items": [],
+        "returned": 0
+    },
+    "stories": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/48611/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/109317",
+                "name": "cover from Deadpool (2012) #23",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/109318",
+                "name": "story from Deadpool (2012) #23",
+                "type": "interiorStory"
+            }
+        ],
+        "returned": 2
+    },
+    "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/48611/events",
+        "items": [],
+        "returned": 0
+    }
+}

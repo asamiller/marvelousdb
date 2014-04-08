@@ -1,0 +1,98 @@
+{
+    "id": 39509,
+    "digitalId": 0,
+    "title": "Spider-Man: Spider-Manhattan (Hardcover)",
+    "issueNumber": 1,
+    "variantDescription": "",
+    "description": "",
+    "modified": "2012-01-10T01:33:17-0500",
+    "isbn": "978-0-7851-5104-3",
+    "upc": "",
+    "diamondCode": "NOV110605",
+    "ean": "9780785 151043 53999",
+    "issn": "",
+    "format": "Hardcover",
+    "pageCount": 376,
+    "textObjects": [
+        {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": ""
+        }
+    ],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/39509",
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/collection/39509/spider-man_spider-manhattan_hardcover?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ],
+    "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/14464",
+        "name": "Spider-Man: Spider-Manhattan (2011 - Present)"
+    },
+    "variants": [],
+    "collections": [],
+    "collectedIssues": [],
+    "dates": [
+        {
+            "type": "onsaleDate",
+            "date": "2012-01-11T00:00:00-0500"
+        },
+        {
+            "type": "focDate",
+            "date": "2011-12-27T00:00:00-0500"
+        }
+    ],
+    "prices": [
+        {
+            "type": "printPrice",
+            "price": 39.99
+        }
+    ],
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/a/70/4e9d7e81495fc",
+        "extension": "jpg"
+    },
+    "images": [
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/a/70/4e9d7e81495fc",
+            "extension": "jpg"
+        }
+    ],
+    "creators": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/39509/creators",
+        "items": [],
+        "returned": 0
+    },
+    "characters": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/39509/characters",
+        "items": [],
+        "returned": 0
+    },
+    "stories": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/39509/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/89639",
+                "name": "Cover #89639",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/89640",
+                "name": "Interior #89640",
+                "type": "interiorStory"
+            }
+        ],
+        "returned": 2
+    },
+    "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/39509/events",
+        "items": [],
+        "returned": 0
+    }
+}

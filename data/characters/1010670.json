@@ -1,0 +1,84 @@
+{
+    "id": 1010670,
+    "name": "Frog-Man",
+    "description": "",
+    "modified": "2011-06-08T12:00:18-0400",
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/f/60/4def9bf15ce30",
+        "extension": "jpg"
+    },
+    "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010670",
+    "comics": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/characters/1010670/comics",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/comics/39753",
+                "name": "Spider-Island: Avengers (2011) #1"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/comics/38126",
+                "name": "Spider-Man: New York Stories (Trade Paperback)"
+            }
+        ],
+        "returned": 2
+    },
+    "series": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/characters/1010670/series",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/series/14698",
+                "name": "Spider-Island: Avengers (2011)"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/series/13721",
+                "name": "Spider-Man: New York Stories (2011 - Present)"
+            }
+        ],
+        "returned": 2
+    },
+    "stories": {
+        "available": 3,
+        "collectionURI": "http://gateway.marvel.com/v1/public/characters/1010670/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/83788",
+                "name": "Spider-Man: New York Stories (0000) #1",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/90242",
+                "name": "Spider-Island: Avengers (2011) #1",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/90243",
+                "name": "Spider-Island: Avengers (2011) #1",
+                "type": "interiorStory"
+            }
+        ],
+        "returned": 3
+    },
+    "events": {
+        "available": 1,
+        "collectionURI": "http://gateway.marvel.com/v1/public/characters/1010670/events",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/events/305",
+                "name": "Spider-Island"
+            }
+        ],
+        "returned": 1
+    },
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/characters/1010670/frog-man?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "wiki",
+            "url": "http://marvel.com/universe/Frog-Man?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ]
+}

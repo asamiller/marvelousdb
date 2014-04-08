@@ -1,0 +1,148 @@
+{
+    "id": 29017,
+    "digitalId": 13931,
+    "title": "New Avengers (2004) #62",
+    "issueNumber": 62,
+    "variantDescription": "",
+    "description": "SIEGE BLOCKBUSTER TIE-IN!!\r\n The New Avengers are being hunted at the worst possible moment. The Hood has powered up his crew in ways that the Avengers can't\r\npossibly defeat. But they must find a way in order to save Asgard from Osborn’s advancing forces.\r\nRated A …$3.99",
+    "modified": "2012-04-10T09:11:37-0400",
+    "isbn": "",
+    "upc": "5960605547-06211",
+    "diamondCode": "DEC090435",
+    "ean": "",
+    "issn": "",
+    "format": "Comic",
+    "pageCount": 32,
+    "textObjects": [
+        {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "SIEGE BLOCKBUSTER TIE-IN!!\r\n The New Avengers are being hunted at the worst possible moment. The Hood has powered up his crew in ways that the Avengers can't\r\npossibly defeat. But they must find a way in order to save Asgard from Osborn’s advancing forces.\r\nRated A …$3.99"
+        }
+    ],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/29017",
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/29017/new_avengers_2004_62?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/New-Avengers-62/digital-comic/13931?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=13931&utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "inAppLink",
+            "url": "http://applink.marvel.com/issue/13931?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ],
+    "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/753",
+        "name": "New Avengers (2004 - 2010)"
+    },
+    "variants": [],
+    "collections": [],
+    "collectedIssues": [],
+    "dates": [
+        {
+            "type": "onsaleDate",
+            "date": "2010-02-24T00:00:00-0500"
+        },
+        {
+            "type": "focDate",
+            "date": "2010-02-04T00:00:00-0500"
+        },
+        {
+            "type": "unlimitedDate",
+            "date": "2010-11-23T00:00:00-0500"
+        },
+        {
+            "type": "digitalPurchaseDate",
+            "date": "2012-04-10T00:00:00-0400"
+        }
+    ],
+    "prices": [
+        {
+            "type": "printPrice",
+            "price": 3.99
+        },
+        {
+            "type": "digitalPurchasePrice",
+            "price": 1.99
+        }
+    ],
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/d0/4f7da945417dd",
+        "extension": "jpg"
+    },
+    "images": [
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/d0/4f7da945417dd",
+            "extension": "jpg"
+        }
+    ],
+    "creators": {
+        "available": 4,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/29017/creators",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/24",
+                "name": "Brian Michael Bendis",
+                "role": "writer"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/552",
+                "name": "Wade von Grawbadger",
+                "role": "inker"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/192",
+                "name": "Stuart Immonen",
+                "role": "penciller"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/8331",
+                "name": "Dave McCaig",
+                "role": "colorist"
+            }
+        ],
+        "returned": 4
+    },
+    "characters": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/29017/characters",
+        "items": [],
+        "returned": 0
+    },
+    "stories": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/29017/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/63225",
+                "name": "New Avengers (2004) #62",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/63226",
+                "name": "Interior #63226",
+                "type": "interiorStory"
+            }
+        ],
+        "returned": 2
+    },
+    "events": {
+        "available": 1,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/29017/events",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/events/273",
+                "name": "Siege"
+            }
+        ],
+        "returned": 1
+    }
+}

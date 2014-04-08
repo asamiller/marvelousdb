@@ -1,0 +1,96 @@
+{
+    "id": 1011123,
+    "name": "Omega the Unknown",
+    "description": "",
+    "modified": "1969-12-31T19:00:00-0500",
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/f/10/4ce5a4e4cd15d",
+        "extension": "jpg"
+    },
+    "resourceURI": "http://gateway.marvel.com/v1/public/characters/1011123",
+    "comics": {
+        "available": 5,
+        "collectionURI": "http://gateway.marvel.com/v1/public/characters/1011123/comics",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/comics/17471",
+                "name": "Omega: The Unknown (Trade Paperback)"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/comics/10443",
+                "name": "Omega: The Unknown (1976) #1"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/comics/10446",
+                "name": "Omega: The Unknown (1976) #3"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/comics/10451",
+                "name": "Omega: The Unknown (1976) #8"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/comics/3218",
+                "name": "Omega: The Unknown Classic (Trade Paperback)"
+            }
+        ],
+        "returned": 5
+    },
+    "series": {
+        "available": 3,
+        "collectionURI": "http://gateway.marvel.com/v1/public/characters/1011123/series",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/series/3303",
+                "name": "Omega: The Unknown (0000 - Present)"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/series/2056",
+                "name": "Omega: The Unknown (1976 - 1977)"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/series/1658",
+                "name": "Omega: The Unknown Classic (2005)"
+            }
+        ],
+        "returned": 3
+    },
+    "stories": {
+        "available": 4,
+        "collectionURI": "http://gateway.marvel.com/v1/public/characters/1011123/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/20542",
+                "name": "Omega the Unknown",
+                "type": "interiorStory"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/20547",
+                "name": "Cover #20547",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/20557",
+                "name": "Cover #20557",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/20558",
+                "name": "A Blast From the Past",
+                "type": "interiorStory"
+            }
+        ],
+        "returned": 4
+    },
+    "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/characters/1011123/events",
+        "items": [],
+        "returned": 0
+    },
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/characters/1011123/omega_the_unknown?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ]
+}

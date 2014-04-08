@@ -1,0 +1,135 @@
+{
+    "id": 90,
+    "digitalId": 5251,
+    "title": "Avengers Finale (2004) #1",
+    "issueNumber": 1,
+    "variantDescription": "",
+    "description": "AVENGERS DISASSEMBLED EPILOGUE!\r\n<br>In the wreckage of Avengers Mansion, Earth's Mightiest Heroes meet for the very last time! It's the end of an era, brought to you by Brian Bendis and an all-star cast of artists - including names like GEORGE PEREZ, STEVE EPTING, JIM CHEUNG, ERIC POWELL, DARICK ROBERTSON, MIKE OEMING, ALEX MALEEV, DAVID MACK and many more! Surely, there isn’t a dry eye in the House of Ideas, True Believer.\r\n<br>",
+    "modified": "2012-03-27T17:49:35-0400",
+    "isbn": "",
+    "upc": "5960605642-00111",
+    "diamondCode": "",
+    "ean": "",
+    "issn": "",
+    "format": "Comic",
+    "pageCount": 0,
+    "textObjects": [
+        {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "AVENGERS DISASSEMBLED EPILOGUE!\r\n<br>In the wreckage of Avengers Mansion, Earth's Mightiest Heroes meet for the very last time! It's the end of an era, brought to you by Brian Bendis and an all-star cast of artists - including names like GEORGE PEREZ, STEVE EPTING, JIM CHEUNG, ERIC POWELL, DARICK ROBERTSON, MIKE OEMING, ALEX MALEEV, DAVID MACK and many more! Surely, there isn’t a dry eye in the House of Ideas, True Believer.\r\n<br>"
+        }
+    ],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/90",
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/90/avengers_finale_2004_1?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=5251&utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ],
+    "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/829",
+        "name": "Avengers Finale (2004)"
+    },
+    "variants": [],
+    "collections": [
+        {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/5685",
+            "name": "Avengers Disassembled (Hardcover)"
+        },
+        {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/1703",
+            "name": "Avengers Disassembled (Trade Paperback)"
+        }
+    ],
+    "collectedIssues": [],
+    "dates": [
+        {
+            "type": "onsaleDate",
+            "date": "2004-11-10T00:00:00-0500"
+        },
+        {
+            "type": "focDate",
+            "date": "-0001-11-30T00:00:00-0500"
+        },
+        {
+            "type": "unlimitedDate",
+            "date": "2008-06-17T00:00:00-0400"
+        }
+    ],
+    "prices": [
+        {
+            "type": "printPrice",
+            "price": 3.5
+        }
+    ],
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/5/b0/51e045c27a7b0",
+        "extension": "jpg"
+    },
+    "images": [
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/5/b0/51e045c27a7b0",
+            "extension": "jpg"
+        },
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/20/4bc6b067369a0",
+            "extension": "jpg"
+        }
+    ],
+    "creators": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/90/creators",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/314",
+                "name": "Neal Adams",
+                "role": "penciller (cover)"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/24",
+                "name": "Brian Michael Bendis",
+                "role": "writer"
+            }
+        ],
+        "returned": 2
+    },
+    "characters": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/90/characters",
+        "items": [],
+        "returned": 0
+    },
+    "stories": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/90/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/4221",
+                "name": "Avengers Finale (2004) #1",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/4222",
+                "name": "1 of 1 - Disassembled Epilogue",
+                "type": "interiorStory"
+            }
+        ],
+        "returned": 2
+    },
+    "events": {
+        "available": 1,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/90/events",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/events/234",
+                "name": "Avengers Disassembled"
+            }
+        ],
+        "returned": 1
+    }
+}

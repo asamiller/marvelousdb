@@ -1,0 +1,118 @@
+{
+    "id": 46455,
+    "digitalId": 0,
+    "title": "Secret Avengers (2013) #11",
+    "issueNumber": 11,
+    "variantDescription": "",
+    "description": "The Junkman of Brooklyn!\nWill our new hero ever choose a name?\nAnd...oh yeah...Fury, Coulson and Iron Patriot face certain death. No biggie.",
+    "modified": "2014-02-06T10:13:29-0500",
+    "isbn": "",
+    "upc": "75960607911701111",
+    "diamondCode": "SEP130675",
+    "ean": "",
+    "issn": "",
+    "format": "Comic",
+    "pageCount": 32,
+    "textObjects": [
+        {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "The Junkman of Brooklyn!\nWill our new hero ever choose a name?\nAnd...oh yeah...Fury, Coulson and Iron Patriot face certain death. No biggie."
+        }
+    ],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/46455",
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/46455/secret_avengers_2013_11?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/Secret-Avengers-11/digital-comic/32306?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ],
+    "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/17547",
+        "name": "Secret Avengers (2013 - Present)"
+    },
+    "variants": [],
+    "collections": [],
+    "collectedIssues": [],
+    "dates": [
+        {
+            "type": "onsaleDate",
+            "date": "2013-11-20T00:00:00-0500"
+        },
+        {
+            "type": "focDate",
+            "date": "2013-11-06T00:00:00-0500"
+        }
+    ],
+    "prices": [
+        {
+            "type": "printPrice",
+            "price": 3.99
+        }
+    ],
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/f/b0/528105e0a4731",
+        "extension": "jpg"
+    },
+    "images": [
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/f/b0/528105e0a4731",
+            "extension": "jpg"
+        }
+    ],
+    "creators": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/46455/creators",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/4989",
+                "name": "Nic Klein",
+                "role": "penciller (cover)"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/2338",
+                "name": "Luke Ross",
+                "role": "artist"
+            }
+        ],
+        "returned": 2
+    },
+    "characters": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/46455/characters",
+        "items": [],
+        "returned": 0
+    },
+    "stories": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/46455/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/104496",
+                "name": "cover from Secret Avengers (2013) #11",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/104497",
+                "name": "story from Secret Avengers (2013) #11",
+                "type": "interiorStory"
+            }
+        ],
+        "returned": 2
+    },
+    "events": {
+        "available": 1,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/46455/events",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/events/315",
+                "name": "Infinity"
+            }
+        ],
+        "returned": 1
+    }
+}

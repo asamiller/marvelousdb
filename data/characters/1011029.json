@@ -1,0 +1,92 @@
+{
+    "id": 1011029,
+    "name": "Kulan Gath",
+    "description": "",
+    "modified": "1969-12-31T19:00:00-0500",
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available",
+        "extension": "jpg"
+    },
+    "resourceURI": "http://gateway.marvel.com/v1/public/characters/1011029",
+    "comics": {
+        "available": 4,
+        "collectionURI": "http://gateway.marvel.com/v1/public/characters/1011029/comics",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/comics/17510",
+                "name": "Avengers (1998) #28"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/comics/17511",
+                "name": "Avengers (1998) #29"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/comics/17513",
+                "name": "Avengers (1998) #30"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/comics/4461",
+                "name": "Avengers Assemble Vol. 3 (Hardcover)"
+            }
+        ],
+        "returned": 4
+    },
+    "series": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/characters/1011029/series",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/series/354",
+                "name": "Avengers (1998 - 2004)"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/series/1737",
+                "name": "Avengers Assemble Vol. 3 (2006)"
+            }
+        ],
+        "returned": 2
+    },
+    "stories": {
+        "available": 4,
+        "collectionURI": "http://gateway.marvel.com/v1/public/characters/1011029/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/37382",
+                "name": "The Death-Song of Kulan Gath: Long Shadows of Forgotten Spires",
+                "type": "interiorStory"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/37384",
+                "name": "The Death-Song of Kulan Gath: A Dream of Bitter Ash",
+                "type": "interiorStory"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/37387",
+                "name": "Cover #37387",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/37388",
+                "name": "The Death-Song of Kulan Gath: Conclusion!",
+                "type": "interiorStory"
+            }
+        ],
+        "returned": 4
+    },
+    "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/characters/1011029/events",
+        "items": [],
+        "returned": 0
+    },
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/characters/1011029/kulan_gath?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "wiki",
+            "url": "http://marvel.com/universe/http://www.marvel.com/universe3zx/index.php?t&utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ]
+}

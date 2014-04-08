@@ -1,0 +1,103 @@
+{
+    "id": 45254,
+    "digitalId": 0,
+    "title": "Red She-Hulk (2012) #60 (Stevens Variant)",
+    "issueNumber": 60,
+    "variantDescription": "Stevens Variant",
+    "description": null,
+    "modified": "2012-12-03T16:41:26-0500",
+    "isbn": "",
+    "upc": "75960605992806021",
+    "diamondCode": "OCT120618",
+    "ean": "",
+    "issn": "1941-2142",
+    "format": "Comic",
+    "pageCount": 32,
+    "textObjects": [],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/45254",
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/45254/red_she-hulk_2012_60_stevens_variant/stevens_variant?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ],
+    "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/17113",
+        "name": "Red She-Hulk (2012 - Present)"
+    },
+    "variants": [
+        {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/40623",
+            "name": "Red She-Hulk (2012) #60"
+        }
+    ],
+    "collections": [],
+    "collectedIssues": [],
+    "dates": [
+        {
+            "type": "onsaleDate",
+            "date": "2012-12-05T00:00:00-0500"
+        },
+        {
+            "type": "focDate",
+            "date": "2012-11-20T00:00:00-0500"
+        }
+    ],
+    "prices": [
+        {
+            "type": "printPrice",
+            "price": 2.99
+        }
+    ],
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/7/50/50bcdacb6beab",
+        "extension": "jpg"
+    },
+    "images": [
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/7/50/50bcdacb6beab",
+            "extension": "jpg"
+        }
+    ],
+    "creators": {
+        "available": 1,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/45254/creators",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/10264",
+                "name": "Chris Stevens",
+                "role": "penciller (cover)"
+            }
+        ],
+        "returned": 1
+    },
+    "characters": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/45254/characters",
+        "items": [],
+        "returned": 0
+    },
+    "stories": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/45254/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/101931",
+                "name": "cover from Red She-Hulk (2012) #60 (STEVENS VARIANT)",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/101932",
+                "name": "story from Red She-Hulk (2012) #60 (STEVENS VARIANT)",
+                "type": "interiorStory"
+            }
+        ],
+        "returned": 2
+    },
+    "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/45254/events",
+        "items": [],
+        "returned": 0
+    }
+}

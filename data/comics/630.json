@@ -1,0 +1,137 @@
+{
+    "id": 630,
+    "digitalId": 4125,
+    "title": "District X (2004) #1",
+    "issueNumber": 1,
+    "variantDescription": "",
+    "description": "\"MR. M\" PART 1 (OF 6) A new MARVEL KNIGHTS series! Welcome to Mutant Town, the dark corner of New York City where the long arm of the law has been severed clean. Here, the mutant population doesn’t sport GQ style or champagne dreams. They eke out each day in squalid tenement rows and filthy streets where only one man and one law can be trusted: the X-Man Bishop.",
+    "modified": "-0001-11-30T00:00:00-0500",
+    "isbn": "",
+    "upc": "5960605530-00111",
+    "diamondCode": "",
+    "ean": "",
+    "issn": "",
+    "format": "Comic",
+    "pageCount": 0,
+    "textObjects": [
+        {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "\"MR. M\" PART 1 (OF 6) A new MARVEL KNIGHTS series! Welcome to Mutant Town, the dark corner of New York City where the long arm of the law has been severed clean. Here, the mutant population doesn’t sport GQ style or champagne dreams. They eke out each day in squalid tenement rows and filthy streets where only one man and one law can be trusted: the X-Man Bishop."
+        }
+    ],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/630",
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/630/district_x_2004_1?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=4125&utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ],
+    "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/733",
+        "name": "District X (2004 - 2005)"
+    },
+    "variants": [],
+    "collections": [
+        {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/1527",
+            "name": "District X Vol. 1: Mr. M (Trade Paperback)"
+        }
+    ],
+    "collectedIssues": [],
+    "dates": [
+        {
+            "type": "onsaleDate",
+            "date": "2004-05-12T00:00:00-0400"
+        },
+        {
+            "type": "focDate",
+            "date": "-0001-11-30T00:00:00-0500"
+        },
+        {
+            "type": "unlimitedDate",
+            "date": "2007-11-13T00:00:00-0500"
+        }
+    ],
+    "prices": [
+        {
+            "type": "printPrice",
+            "price": 2.99
+        }
+    ],
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/50/4bc68803ae54c",
+        "extension": "jpg"
+    },
+    "images": [
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/50/4bc68803ae54c",
+            "extension": "jpg"
+        }
+    ],
+    "creators": {
+        "available": 5,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/630/creators",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/371",
+                "name": "David Hine",
+                "role": "writer"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/9484",
+                "name": "Steve McNiven",
+                "role": "penciller (cover)"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/788",
+                "name": "Alejandro Sicat",
+                "role": "inker"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/4207",
+                "name": "Avalon Studio",
+                "role": "colorist"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/789",
+                "name": "David Yardin",
+                "role": "penciller"
+            }
+        ],
+        "returned": 5
+    },
+    "characters": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/630/characters",
+        "items": [],
+        "returned": 0
+    },
+    "stories": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/630/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/3169",
+                "name": "Cover #3169",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/3170",
+                "name": "Interior #3170",
+                "type": "interiorStory"
+            }
+        ],
+        "returned": 2
+    },
+    "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/630/events",
+        "items": [],
+        "returned": 0
+    }
+}

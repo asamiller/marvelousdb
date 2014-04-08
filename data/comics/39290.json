@@ -1,0 +1,138 @@
+{
+    "id": 39290,
+    "digitalId": 19784,
+    "title": "Fear Itself Sketchbook (2011) #1",
+    "issueNumber": 1,
+    "variantDescription": "",
+    "description": "What do you fear?  Take a look at a behind the scene's look at 2011's biggest event - FEAR ITSELF!",
+    "modified": "2011-03-01T01:30:19-0500",
+    "isbn": "",
+    "upc": "5960607645-00111",
+    "diamondCode": "DEC108202",
+    "ean": "",
+    "issn": "",
+    "format": "Comic",
+    "pageCount": 16,
+    "textObjects": [
+        {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "What do you fear?  Take a look at a behind the scene's look at 2011's biggest event - FEAR ITSELF!"
+        }
+    ],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/39290",
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/39290/fear_itself_sketchbook_2011_1?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/Fear-Itself-Sketchbook-1/digital-comic/19784?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=19784&utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "inAppLink",
+            "url": "http://applink.marvel.com/issue/19784?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ],
+    "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/14267",
+        "name": "Fear Itself Sketchbook (2011)"
+    },
+    "variants": [],
+    "collections": [],
+    "collectedIssues": [],
+    "dates": [
+        {
+            "type": "onsaleDate",
+            "date": "2011-03-02T00:00:00-0500"
+        },
+        {
+            "type": "focDate",
+            "date": "2011-02-16T00:00:00-0500"
+        },
+        {
+            "type": "unlimitedDate",
+            "date": "2011-03-01T09:50:00-0500"
+        },
+        {
+            "type": "digitalPurchaseDate",
+            "date": "2011-03-01T00:00:00-0500"
+        }
+    ],
+    "prices": [
+        {
+            "type": "printPrice",
+            "price": 0
+        },
+        {
+            "type": "digitalPurchasePrice",
+            "price": 0
+        }
+    ],
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/20/4d66d180e2531",
+        "extension": "jpg"
+    },
+    "images": [
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/20/4d66d180e2531",
+            "extension": "jpg"
+        }
+    ],
+    "creators": {
+        "available": 3,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/39290/creators",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/11401",
+                "name": "various",
+                "role": "writer"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/9484",
+                "name": "Steve McNiven",
+                "role": "penciller (cover)"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/9141",
+                "name": "Mike Pasciullo",
+                "role": "editor"
+            }
+        ],
+        "returned": 3
+    },
+    "characters": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/39290/characters",
+        "items": [],
+        "returned": 0
+    },
+    "stories": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/39290/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/89170",
+                "name": "Fear Itself Sketchbook #1",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/89171",
+                "name": "Interior #89171",
+                "type": "interiorStory"
+            }
+        ],
+        "returned": 2
+    },
+    "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/39290/events",
+        "items": [],
+        "returned": 0
+    }
+}

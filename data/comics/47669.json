@@ -1,0 +1,123 @@
+{
+    "id": 47669,
+    "digitalId": 0,
+    "title": "Iron Man (2013) #258.1 (Layton Variant)",
+    "issueNumber": 258.1,
+    "variantDescription": "Layton Variant",
+    "description": "\r\n\r\n<ul><li>Micheline. Layton. Two voices that defined Iron Man come together to tell the untold story of his most dire hour &ndash; Armor Wars 2!</li></ul>",
+    "modified": "2013-04-16T16:38:35-0400",
+    "isbn": "",
+    "upc": "75960607421100121",
+    "diamondCode": "MAR130674",
+    "ean": "",
+    "issn": "",
+    "format": "Comic",
+    "pageCount": 32,
+    "textObjects": [
+        {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "\r\n\r\n<ul><li>Micheline. Layton. Two voices that defined Iron Man come together to tell the untold story of his most dire hour &ndash; Armor Wars 2!</li></ul>"
+        }
+    ],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/47669",
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/47669/iron_man_2013_258.1_layton_variant/layton_variant?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ],
+    "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/12885",
+        "name": "Iron Man (2013)"
+    },
+    "variants": [
+        {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/36423",
+            "name": "Iron Man (2013) #258.1"
+        }
+    ],
+    "collections": [],
+    "collectedIssues": [],
+    "dates": [
+        {
+            "type": "onsaleDate",
+            "date": "2013-05-01T00:00:00-0400"
+        },
+        {
+            "type": "focDate",
+            "date": "2013-04-17T00:00:00-0400"
+        }
+    ],
+    "prices": [
+        {
+            "type": "printPrice",
+            "price": 3.99
+        }
+    ],
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/00/516c622b66a2e",
+        "extension": "jpg"
+    },
+    "images": [
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/00/516c622b66a2e",
+            "extension": "jpg"
+        },
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/2/a0/5127c260bc127",
+            "extension": "jpg"
+        }
+    ],
+    "creators": {
+        "available": 3,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/47669/creators",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/1247",
+                "name": "Bob Layton",
+                "role": "penciller (cover)"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/2784",
+                "name": "David Michelinie",
+                "role": "writer"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/6588",
+                "name": "David Ross",
+                "role": "artist"
+            }
+        ],
+        "returned": 3
+    },
+    "characters": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/47669/characters",
+        "items": [],
+        "returned": 0
+    },
+    "stories": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/47669/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/107618",
+                "name": "cover from Iron Man Redux: Armor Wars II (2013) #258.1 (LAYTON VARIANT)",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/107619",
+                "name": "story from Iron Man Redux: Armor Wars II (2013) #258.1 (LAYTON VARIANT)",
+                "type": "interiorStory"
+            }
+        ],
+        "returned": 2
+    },
+    "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/47669/events",
+        "items": [],
+        "returned": 0
+    }
+}

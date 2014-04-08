@@ -1,0 +1,121 @@
+{
+    "id": 46789,
+    "digitalId": 0,
+    "title": "X-Men (2013) #7",
+    "issueNumber": 7,
+    "variantDescription": "",
+    "description": "The six-part &quot;Muertas&quot; arc kicks off with the return of Lady Deathstrike!\nCan a new Sisterhood be far behind?\nMeanwhile, the X-Men regroup following the Battle of the Atom &ndash; and a new member joins the team!",
+    "modified": "2014-02-06T10:43:21-0500",
+    "isbn": "",
+    "upc": "75960607924700711",
+    "diamondCode": "SEP130747",
+    "ean": "",
+    "issn": "",
+    "format": "Comic",
+    "pageCount": 32,
+    "textObjects": [
+        {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "The six-part &quot;Muertas&quot; arc kicks off with the return of Lady Deathstrike!\nCan a new Sisterhood be far behind?\nMeanwhile, the X-Men regroup following the Battle of the Atom &ndash; and a new member joins the team!"
+        }
+    ],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/46789",
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/46789/x-men_2013_7?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/X-Men-7/digital-comic/32298?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ],
+    "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/17635",
+        "name": "X-Men (2013 - Present)"
+    },
+    "variants": [],
+    "collections": [],
+    "collectedIssues": [],
+    "dates": [
+        {
+            "type": "onsaleDate",
+            "date": "2013-11-20T00:00:00-0500"
+        },
+        {
+            "type": "focDate",
+            "date": "2013-11-06T00:00:00-0500"
+        }
+    ],
+    "prices": [
+        {
+            "type": "printPrice",
+            "price": 3.99
+        }
+    ],
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/30/52814060edf90",
+        "extension": "jpg"
+    },
+    "images": [
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/30/52814060edf90",
+            "extension": "jpg"
+        },
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/5/c0/520a7057eab71",
+            "extension": "jpg"
+        },
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/c0/51e581df274f5",
+            "extension": "jpg"
+        }
+    ],
+    "creators": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/46789/creators",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/277",
+                "name": "Terry Dodson",
+                "role": "penciller (cover)"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/11544",
+                "name": "Brian Wood",
+                "role": "writer"
+            }
+        ],
+        "returned": 2
+    },
+    "characters": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/46789/characters",
+        "items": [],
+        "returned": 0
+    },
+    "stories": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/46789/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/105200",
+                "name": "cover from X-Men (2013) #7",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/105201",
+                "name": "story from X-Men (2013) #7",
+                "type": "interiorStory"
+            }
+        ],
+        "returned": 2
+    },
+    "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/46789/events",
+        "items": [],
+        "returned": 0
+    }
+}

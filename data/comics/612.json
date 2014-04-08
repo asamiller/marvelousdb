@@ -1,0 +1,104 @@
+{
+    "id": 612,
+    "digitalId": 0,
+    "title": "Powers (2004) #1",
+    "issueNumber": 1,
+    "variantDescription": "",
+    "description": "All-new first issue!! Homicide Detectives Christian Walker and Deena Pilgrim investigate superpower murders. And with all powers declared illegal, a crime wave has hit the city and hit hard. From the writer of some of your favorite Marvel comics (Ultimate Spider-Man, Daredevil, Secret War), comes a brand-new chapter from the award-winning book that put him on the map.",
+    "modified": "-0001-11-30T00:00:00-0500",
+    "isbn": "",
+    "upc": "5960605609-00111",
+    "diamondCode": "",
+    "ean": "",
+    "issn": "",
+    "format": "Comic",
+    "pageCount": 0,
+    "textObjects": [
+        {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "All-new first issue!! Homicide Detectives Christian Walker and Deena Pilgrim investigate superpower murders. And with all powers declared illegal, a crime wave has hit the city and hit hard. From the writer of some of your favorite Marvel comics (Ultimate Spider-Man, Daredevil, Secret War), comes a brand-new chapter from the award-winning book that put him on the map."
+        }
+    ],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/612",
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/612/powers_2004_1?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ],
+    "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/796",
+        "name": "Powers (2004 - 2008)"
+    },
+    "variants": [],
+    "collections": [],
+    "collectedIssues": [],
+    "dates": [
+        {
+            "type": "onsaleDate",
+            "date": "2004-07-07T00:00:00-0400"
+        },
+        {
+            "type": "focDate",
+            "date": "-0001-11-30T00:00:00-0500"
+        }
+    ],
+    "prices": [
+        {
+            "type": "printPrice",
+            "price": 2.95
+        }
+    ],
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/7/70/4bc6899af2938",
+        "extension": "jpg"
+    },
+    "images": [
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/7/70/4bc6899af2938",
+            "extension": "jpg"
+        }
+    ],
+    "creators": {
+        "available": 1,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/612/creators",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/1433",
+                "name": "Mike Avon Oeming",
+                "role": "penciller (cover)"
+            }
+        ],
+        "returned": 1
+    },
+    "characters": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/612/characters",
+        "items": [],
+        "returned": 0
+    },
+    "stories": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/612/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/3986",
+                "name": "Cover #3986",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/3987",
+                "name": "Interior #3987",
+                "type": "interiorStory"
+            }
+        ],
+        "returned": 2
+    },
+    "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/612/events",
+        "items": [],
+        "returned": 0
+    }
+}

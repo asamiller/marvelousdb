@@ -1,0 +1,131 @@
+{
+    "id": 47845,
+    "digitalId": 0,
+    "title": "Infinity (2013) #5 (Hickman Design Variant)",
+    "issueNumber": 5,
+    "variantDescription": "Hickman Design Variant",
+    "description": "\r\n\r\n\r\n\r\n\r\n<ul><li>The Avengers Universe.</li><li>The Heroes of Earth rally to defeat Thanos.</li><li>The war for Earth begins.</li></ul>",
+    "modified": "2013-10-22T15:49:12-0400",
+    "isbn": "",
+    "upc": "759606078821000541",
+    "diamondCode": "AUG130741",
+    "ean": "",
+    "issn": "",
+    "format": "Comic",
+    "pageCount": 40,
+    "textObjects": [
+        {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "\r\n\r\n\r\n\r\n\r\n<ul><li>The Avengers Universe.</li><li>The Heroes of Earth rally to defeat Thanos.</li><li>The war for Earth begins.</li></ul>"
+        }
+    ],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/47845",
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/47845/infinity_2013_5_hickman_design_variant/hickman_design_variant?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ],
+    "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/17735",
+        "name": "Infinity (2013 - Present)"
+    },
+    "variants": [
+        {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/47126",
+            "name": "Infinity (2013) #5"
+        },
+        {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/47843",
+            "name": "Infinity (2013) #5 (Pichelli Hero Variant)"
+        },
+        {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/48508",
+            "name": "Infinity (2013) #5 (Young Variant)"
+        }
+    ],
+    "collections": [],
+    "collectedIssues": [],
+    "dates": [
+        {
+            "type": "onsaleDate",
+            "date": "2013-10-30T00:00:00-0400"
+        },
+        {
+            "type": "focDate",
+            "date": "2013-10-16T00:00:00-0400"
+        }
+    ],
+    "prices": [
+        {
+            "type": "printPrice",
+            "price": 3.99
+        }
+    ],
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/7/80/52659c8f58d8b",
+        "extension": "jpg"
+    },
+    "images": [
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/7/80/52659c8f58d8b",
+            "extension": "jpg"
+        },
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/10/51cde10ed91d6",
+            "extension": "jpg"
+        }
+    ],
+    "creators": {
+        "available": 3,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/47845/creators",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/11743",
+                "name": "Jonathan Hickman",
+                "role": "writer"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/8737",
+                "name": "Jerome Opena",
+                "role": "penciller (cover)"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/8404",
+                "name": "Dustin Weaver",
+                "role": "artist"
+            }
+        ],
+        "returned": 3
+    },
+    "characters": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/47845/characters",
+        "items": [],
+        "returned": 0
+    },
+    "stories": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/47845/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/107945",
+                "name": "cover from Thanos/Inhumans Event (2013) #5 (DESIGN VARIANT)",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/107946",
+                "name": "story from Thanos/Inhumans Event (2013) #5 (DESIGN VARIANT)",
+                "type": "interiorStory"
+            }
+        ],
+        "returned": 2
+    },
+    "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/47845/events",
+        "items": [],
+        "returned": 0
+    }
+}

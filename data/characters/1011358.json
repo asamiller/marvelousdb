@@ -1,0 +1,83 @@
+{
+    "id": 1011358,
+    "name": "Doctor Strange (Ultimate)",
+    "description": "",
+    "modified": "2014-03-05T13:24:09-0500",
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/8/f0/53176bbb6dc50",
+        "extension": "jpg"
+    },
+    "resourceURI": "http://gateway.marvel.com/v1/public/characters/1011358",
+    "comics": {
+        "available": 3,
+        "collectionURI": "http://gateway.marvel.com/v1/public/characters/1011358/comics",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/comics/15771",
+                "name": "Ultimate Marvel Team-Up (2001) #12"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/comics/15772",
+                "name": "Ultimate Marvel Team-Up (2001) #13"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/comics/5132",
+                "name": "Ultimate Marvel Team-Up Ultimate Collection (Trade Paperback)"
+            }
+        ],
+        "returned": 3
+    },
+    "series": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/characters/1011358/series",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/series/2311",
+                "name": "Ultimate Marvel Team-Up (2001 - 2002)"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/series/1823",
+                "name": "Ultimate Marvel Team-Up Ultimate Collection (2006)"
+            }
+        ],
+        "returned": 2
+    },
+    "stories": {
+        "available": 3,
+        "collectionURI": "http://gateway.marvel.com/v1/public/characters/1011358/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/32106",
+                "name": "[untitled]",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/32107",
+                "name": "[untitled]",
+                "type": "interiorStory"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/32117",
+                "name": "[untitled]",
+                "type": "cover"
+            }
+        ],
+        "returned": 3
+    },
+    "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/characters/1011358/events",
+        "items": [],
+        "returned": 0
+    },
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/characters/1011358/doctor_strange_ultimate?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "wiki",
+            "url": "http://marvel.com/universe/Doctor_Strange_(Ultimate)?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ]
+}

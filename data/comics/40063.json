@@ -1,0 +1,137 @@
+{
+    "id": 40063,
+    "digitalId": 20587,
+    "title": "Spectacular Spider-Man (2011) #1000",
+    "issueNumber": 1000,
+    "variantDescription": "",
+    "description": "Spider-Man and the Punisher take on the Russian mob! Vast amounts of drugs from overseas are flooding the streets, and the Punisher is ready to kill to stop the flow. But Spider-Man has a different approach…and when a Midtown High student gets caught up between the two crimefighters, it could mean life or death!",
+    "modified": "2012-02-29T12:34:51-0500",
+    "isbn": "",
+    "upc": "5960607217-00111",
+    "diamondCode": "",
+    "ean": "",
+    "issn": "",
+    "format": "Comic",
+    "pageCount": 56,
+    "textObjects": [
+        {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "Spider-Man and the Punisher take on the Russian mob! Vast amounts of drugs from overseas are flooding the streets, and the Punisher is ready to kill to stop the flow. But Spider-Man has a different approach…and when a Midtown High student gets caught up between the two crimefighters, it could mean life or death!"
+        }
+    ],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/40063",
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/40063/spectacular_spider-man_2011_1000?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=20587&utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ],
+    "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/14868",
+        "name": "Spectacular Spider-Man (2011)"
+    },
+    "variants": [],
+    "collections": [],
+    "collectedIssues": [],
+    "dates": [
+        {
+            "type": "onsaleDate",
+            "date": "2011-04-20T00:00:00-0400"
+        },
+        {
+            "type": "focDate",
+            "date": "2011-03-28T00:00:00-0400"
+        },
+        {
+            "type": "unlimitedDate",
+            "date": "2012-03-09T00:00:00-0500"
+        }
+    ],
+    "prices": [
+        {
+            "type": "printPrice",
+            "price": 4.99
+        }
+    ],
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/10/4da714e7520b6",
+        "extension": "jpg"
+    },
+    "images": [
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/10/4da714e7520b6",
+            "extension": "jpg"
+        }
+    ],
+    "creators": {
+        "available": 5,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/40063/creators",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/8000",
+                "name": "Alejandro Arbona",
+                "role": "editor"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/935",
+                "name": "Todd Nauck",
+                "role": "penciller"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/434",
+                "name": "Michael Ryan",
+                "role": "penciller"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/113",
+                "name": "John Ostrander",
+                "role": "writer"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/272",
+                "name": "Paolo Rivera",
+                "role": "penciller (cover)"
+            }
+        ],
+        "returned": 5
+    },
+    "characters": {
+        "available": 1,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/40063/characters",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009610",
+                "name": "Spider-Man"
+            }
+        ],
+        "returned": 1
+    },
+    "stories": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/40063/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/91492",
+                "name": "Spectacular Spider-Man (2011) #1000",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/91493",
+                "name": "Spectacular Spider-Man (2011) #1000",
+                "type": "interiorStory"
+            }
+        ],
+        "returned": 2
+    },
+    "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/40063/events",
+        "items": [],
+        "returned": 0
+    }
+}

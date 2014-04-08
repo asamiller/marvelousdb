@@ -1,0 +1,142 @@
+{
+    "id": 47073,
+    "digitalId": 28795,
+    "title": "Fantastic Four (2012) #5",
+    "issueNumber": 5,
+    "variantDescription": "",
+    "description": "An AGE OF ULTRON tie-in!\nWill the rise of the artificial intelligence Ultron cause the premature end of the Fantastic Four&rsquo;s sojourn across time and space?",
+    "modified": "2013-06-12T13:33:55-0400",
+    "isbn": "",
+    "upc": "75960607885100111",
+    "diamondCode": "JAN130640",
+    "ean": "",
+    "issn": "",
+    "format": "Comic",
+    "pageCount": 32,
+    "textObjects": [
+        {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "An AGE OF ULTRON tie-in!\nWill the rise of the artificial intelligence Ultron cause the premature end of the Fantastic Four&rsquo;s sojourn across time and space?"
+        }
+    ],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/47073",
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/47073/fantastic_four_2012_5?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/Fantastic-Four-5/digital-comic/28795?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=28795&utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "inAppLink",
+            "url": "http://applink.marvel.com/issue/28795?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ],
+    "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/16557",
+        "name": "Fantastic Four (2012 - Present)"
+    },
+    "variants": [
+        {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/46097",
+            "name": "Fantastic Four (2012) #5 (Deodato Variant)"
+        },
+        {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/46096",
+            "name": "Fantastic Four (2012) #5"
+        }
+    ],
+    "collections": [],
+    "collectedIssues": [],
+    "dates": [
+        {
+            "type": "onsaleDate",
+            "date": "2013-03-27T00:00:00-0400"
+        },
+        {
+            "type": "focDate",
+            "date": "2013-03-13T00:00:00-0400"
+        },
+        {
+            "type": "unlimitedDate",
+            "date": "2013-09-23T00:00:00-0400"
+        },
+        {
+            "type": "digitalPurchaseDate",
+            "date": "2013-03-27T00:00:00-0400"
+        }
+    ],
+    "prices": [
+        {
+            "type": "printPrice",
+            "price": 3.99
+        },
+        {
+            "type": "digitalPurchasePrice",
+            "price": 1.99
+        }
+    ],
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/50/51508d51e81d5",
+        "extension": "jpg"
+    },
+    "images": [
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/50/51508d51e81d5",
+            "extension": "jpg"
+        }
+    ],
+    "creators": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/47073/creators",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/87",
+                "name": "Mark Bagley",
+                "role": "penciler (cover)"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/1132",
+                "name": "Matt Fraction",
+                "role": "writer"
+            }
+        ],
+        "returned": 2
+    },
+    "characters": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/47073/characters",
+        "items": [],
+        "returned": 0
+    },
+    "stories": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/47073/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/105739",
+                "name": "cover from Age of Ultron: Fantastic Four (2013) #1",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/105740",
+                "name": "story from Age of Ultron: Fantastic Four (2013) #1",
+                "type": "interiorStory"
+            }
+        ],
+        "returned": 2
+    },
+    "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/47073/events",
+        "items": [],
+        "returned": 0
+    }
+}

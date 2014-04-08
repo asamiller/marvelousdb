@@ -1,0 +1,131 @@
+{
+    "id": 42566,
+    "digitalId": 0,
+    "title": "Spider-Men (Hardcover)",
+    "issueNumber": 0,
+    "variantDescription": "",
+    "description": null,
+    "modified": "2012-11-12T15:06:00-0500",
+    "isbn": "978-0-7851-6533-0",
+    "upc": "",
+    "diamondCode": "AUG120697",
+    "ean": "9780785 165330 52499",
+    "issn": "",
+    "format": "Hardcover",
+    "pageCount": 128,
+    "textObjects": [],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/42566",
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/collection/42566/spider-men_hardcover?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/Spider-Men-0/digital-comic/30120?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ],
+    "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/16262",
+        "name": "Spider-Men (2012 - Present)"
+    },
+    "variants": [],
+    "collections": [],
+    "collectedIssues": [],
+    "dates": [
+        {
+            "type": "onsaleDate",
+            "date": "2012-11-14T00:00:00-0500"
+        },
+        {
+            "type": "focDate",
+            "date": "2012-10-30T00:00:00-0400"
+        }
+    ],
+    "prices": [
+        {
+            "type": "printPrice",
+            "price": 24.99
+        }
+    ],
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/e0/4fd8ffc771b52",
+        "extension": "jpg"
+    },
+    "images": [
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/50/4fd903e0b6d8a",
+            "extension": "jpg"
+        },
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/e0/4fd9038f6f018",
+            "extension": "jpg"
+        },
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/20/4fd902e40264c",
+            "extension": "jpg"
+        },
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/10/4fd9028e12c2b",
+            "extension": "jpg"
+        },
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/e0/4fd8ffc771b52",
+            "extension": "jpg"
+        },
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/a/20/4fc8e593932ce",
+            "extension": "jpg"
+        }
+    ],
+    "creators": {
+        "available": 1,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/42566/creators",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/4430",
+                "name": "Jeff Youngquist",
+                "role": "editor"
+            }
+        ],
+        "returned": 1
+    },
+    "characters": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/42566/characters",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009610",
+                "name": "Spider-Man"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1016181",
+                "name": "Spider-Man (Miles Morales)"
+            }
+        ],
+        "returned": 2
+    },
+    "stories": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/42566/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/95914",
+                "name": "Cover #95914",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/95915",
+                "name": "Interior #95915",
+                "type": "interiorStory"
+            }
+        ],
+        "returned": 2
+    },
+    "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/42566/events",
+        "items": [],
+        "returned": 0
+    }
+}

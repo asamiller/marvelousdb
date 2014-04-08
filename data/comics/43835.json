@@ -1,0 +1,116 @@
+{
+    "id": 43835,
+    "digitalId": 0,
+    "title": "Fantastic Four (2012) #1 (Johnson Variant)",
+    "issueNumber": 1,
+    "variantDescription": "Johnson Variant",
+    "description": null,
+    "modified": "2012-11-12T15:06:00-0500",
+    "isbn": "",
+    "upc": "75960607906300141",
+    "diamondCode": "SEP120587",
+    "ean": "",
+    "issn": "",
+    "format": "Comic",
+    "pageCount": 32,
+    "textObjects": [],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/43835",
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/43835/fantastic_four_2012_1_johnson_variant/johnson_variant?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ],
+    "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/16557",
+        "name": "Fantastic Four (2012 - Present)"
+    },
+    "variants": [
+        {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/49848",
+            "name": "Fantastic Four (2012) #1 (Davis Brevoort Variant)"
+        },
+        {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/46090",
+            "name": "Fantastic Four (2012) #1 (Bagley Connecting Variant)"
+        },
+        {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/43831",
+            "name": "Fantastic Four (2012) #1"
+        }
+    ],
+    "collections": [],
+    "collectedIssues": [],
+    "dates": [
+        {
+            "type": "onsaleDate",
+            "date": "2012-11-14T00:00:00-0500"
+        },
+        {
+            "type": "focDate",
+            "date": "2012-10-31T00:00:00-0400"
+        }
+    ],
+    "prices": [
+        {
+            "type": "printPrice",
+            "price": 2.99
+        }
+    ],
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/e/80/502afd6bcc0b5",
+        "extension": "jpg"
+    },
+    "images": [
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/e/80/502afd6bcc0b5",
+            "extension": "jpg"
+        }
+    ],
+    "creators": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/43835/creators",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/2133",
+                "name": "Tom Brevoort",
+                "role": "editor"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/10432",
+                "name": "Dave Johnson",
+                "role": "artist (cover)"
+            }
+        ],
+        "returned": 2
+    },
+    "characters": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/43835/characters",
+        "items": [],
+        "returned": 0
+    },
+    "stories": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/43835/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/98877",
+                "name": "cover from Fantastic Four (2012) #1 (TBD ARTIST VARIANT)",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/98878",
+                "name": "story from Fantastic Four (2012) #1 (TBD ARTIST VARIANT)",
+                "type": "interiorStory"
+            }
+        ],
+        "returned": 2
+    },
+    "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/43835/events",
+        "items": [],
+        "returned": 0
+    }
+}

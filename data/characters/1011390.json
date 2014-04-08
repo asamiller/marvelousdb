@@ -1,0 +1,100 @@
+{
+    "id": 1011390,
+    "name": "Redwing",
+    "description": "",
+    "modified": "2010-12-20T13:56:41-0500",
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/70/4ce5a7383561c",
+        "extension": "jpg"
+    },
+    "resourceURI": "http://gateway.marvel.com/v1/public/characters/1011390",
+    "comics": {
+        "available": 4,
+        "collectionURI": "http://gateway.marvel.com/v1/public/characters/1011390/comics",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/comics/7341",
+                "name": "Avengers (1963) #88"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/comics/33346",
+                "name": "Captain America (2004) #606 (HEROIC AGE VARIANT)"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/comics/36965",
+                "name": "Captain America and the Falcon (2010) #1"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/comics/38187",
+                "name": "Heroes for Hire (2010) #1 (TOLIBAO VARIANT)"
+            }
+        ],
+        "returned": 4
+    },
+    "series": {
+        "available": 4,
+        "collectionURI": "http://gateway.marvel.com/v1/public/characters/1011390/series",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/series/1991",
+                "name": "Avengers (1963 - 1996)"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/series/832",
+                "name": "Captain America (2004 - 2011)"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/series/13211",
+                "name": "Captain America and the Falcon (2010 - 2011)"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/series/13330",
+                "name": "Heroes for Hire (2010 - 2011)"
+            }
+        ],
+        "returned": 4
+    },
+    "stories": {
+        "available": 4,
+        "collectionURI": "http://gateway.marvel.com/v1/public/characters/1011390/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/15245",
+                "name": "The Summons of Psyklop",
+                "type": "interiorStory"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/81971",
+                "name": "Captain America and Falcon (2010) #1",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/84251",
+                "name": "Heroes for Hire (2010) #1, TOLIBAO VARIANT ",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/94772",
+                "name": "Captain America (2004) #606, HEROIC AGE VARIANT",
+                "type": "cover"
+            }
+        ],
+        "returned": 4
+    },
+    "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/characters/1011390/events",
+        "items": [],
+        "returned": 0
+    },
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/characters/1011390/redwing?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "wiki",
+            "url": "http://marvel.com/universe/Redwing?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ]
+}

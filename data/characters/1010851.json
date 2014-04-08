@@ -1,0 +1,92 @@
+{
+    "id": 1010851,
+    "name": "Mach IV",
+    "description": "",
+    "modified": "2011-05-20T16:26:25-0400",
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available",
+        "extension": "jpg"
+    },
+    "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010851",
+    "comics": {
+        "available": 3,
+        "collectionURI": "http://gateway.marvel.com/v1/public/characters/1010851/comics",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/comics/2222",
+                "name": "New Thunderbolts (2004) #10"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/comics/3030",
+                "name": "New Thunderbolts Vol. 2: Modern Marvels (Trade Paperback)"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/comics/35654",
+                "name": "Thunderbolts (2006) #159"
+            }
+        ],
+        "returned": 3
+    },
+    "series": {
+        "available": 3,
+        "collectionURI": "http://gateway.marvel.com/v1/public/characters/1010851/series",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/series/788",
+                "name": "New Thunderbolts (2004 - 2006)"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/series/1514",
+                "name": "New Thunderbolts Vol. 2: Modern Marvels (2005)"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/series/18527",
+                "name": "Thunderbolts (2006 - 2012)"
+            }
+        ],
+        "returned": 3
+    },
+    "stories": {
+        "available": 3,
+        "collectionURI": "http://gateway.marvel.com/v1/public/characters/1010851/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/3886",
+                "name": "4 of 6 - Reflections",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/78902",
+                "name": "Cover #78902",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/78903",
+                "name": "Interior #78903",
+                "type": "interiorStory"
+            }
+        ],
+        "returned": 3
+    },
+    "events": {
+        "available": 1,
+        "collectionURI": "http://gateway.marvel.com/v1/public/characters/1010851/events",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/events/302",
+                "name": "Fear Itself"
+            }
+        ],
+        "returned": 1
+    },
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/characters/1010851/mach_iv?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "wiki",
+            "url": "http://marvel.com/universe/Mach-IV?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ]
+}

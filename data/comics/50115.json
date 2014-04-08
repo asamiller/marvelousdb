@@ -1,0 +1,110 @@
+{
+    "id": 50115,
+    "digitalId": 0,
+    "title": "Avengers (2012) #25 (Tbd Artist Variant B)",
+    "issueNumber": 25,
+    "variantDescription": "Tbd Artist Variant B",
+    "description": null,
+    "modified": "2014-01-07T10:05:39-0500",
+    "isbn": "",
+    "upc": "75960607902502551",
+    "diamondCode": "",
+    "ean": "",
+    "issn": "",
+    "format": "Comic",
+    "pageCount": 32,
+    "textObjects": [],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/50115",
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/50115/avengers_2012_25_tbd_artist_variant_b/tbd_artist_variant_b?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ],
+    "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/16452",
+        "name": "Avengers (2012 - Present)"
+    },
+    "variants": [
+        {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/49998",
+            "name": "Avengers (2012) #25 (Weaver Variant)"
+        },
+        {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/50051",
+            "name": "Avengers (2012) #25 (Ross 75th Anniversary Variant)"
+        },
+        {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/50075",
+            "name": "Avengers (2012) #25 (Ross 75th Anniversary Sketch Variant)"
+        },
+        {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/46933",
+            "name": "Avengers (2012) #25"
+        }
+    ],
+    "collections": [],
+    "collectedIssues": [],
+    "dates": [
+        {
+            "type": "onsaleDate",
+            "date": "2014-01-22T00:00:00-0500"
+        },
+        {
+            "type": "focDate",
+            "date": "2013-12-25T00:00:00-0500"
+        }
+    ],
+    "prices": [
+        {
+            "type": "printPrice",
+            "price": 3.99
+        }
+    ],
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available",
+        "extension": "jpg"
+    },
+    "images": [],
+    "creators": {
+        "available": 1,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/50115/creators",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/2133",
+                "name": "Tom Brevoort",
+                "role": "editor"
+            }
+        ],
+        "returned": 1
+    },
+    "characters": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/50115/characters",
+        "items": [],
+        "returned": 0
+    },
+    "stories": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/50115/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/112267",
+                "name": "cover from Avengers (2012) #25 (TBD ARTIST VARIANT B)",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/112268",
+                "name": "story from Avengers (2012) #25 (TBD ARTIST VARIANT B)",
+                "type": "interiorStory"
+            }
+        ],
+        "returned": 2
+    },
+    "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/50115/events",
+        "items": [],
+        "returned": 0
+    }
+}

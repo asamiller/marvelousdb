@@ -1,0 +1,151 @@
+{
+    "id": 40453,
+    "digitalId": 25253,
+    "title": "Uncanny X-Force (2010) #20",
+    "issueNumber": 20,
+    "variantDescription": "",
+    "description": "THE TRIAL OF FANTOMEX PART 1 The X-Force team journey to Otherworld! Guest starring Captain Britain and the Captain Britain Corps!\n",
+    "modified": "2014-01-02T13:26:43-0500",
+    "isbn": "",
+    "upc": "5960607227-02011",
+    "diamondCode": "",
+    "ean": "",
+    "issn": "2156-860X",
+    "format": "Comic",
+    "pageCount": 32,
+    "textObjects": [
+        {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "<br>The TRIAL OF FANTOMEX begins! Part 1 of 4\r\n<br>The X-FORCE team journey to OTHERWORLD!\r\n<br>Guest starring CAPTAIN BRITAIN and the CAPTAIN BRITAIN CORPS!"
+        },
+        {
+            "type": "issue_preview_text",
+            "language": "en-us",
+            "text": "THE TRIAL OF FANTOMEX PART 1 The X-Force team journey to Otherworld! Guest starring Captain Britain and the Captain Britain Corps!\n"
+        }
+    ],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/40453",
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/40453/uncanny_x-force_2010_20?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=25253&utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ],
+    "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/9976",
+        "name": "Uncanny X-Force (2010 - 2012)"
+    },
+    "variants": [
+        {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/42137",
+            "name": "Uncanny X-Force (2010) #20 (Venom Variant)"
+        }
+    ],
+    "collections": [],
+    "collectedIssues": [],
+    "dates": [
+        {
+            "type": "onsaleDate",
+            "date": "2012-01-18T00:00:00-0500"
+        },
+        {
+            "type": "focDate",
+            "date": "2011-12-12T00:00:00-0500"
+        },
+        {
+            "type": "unlimitedDate",
+            "date": "2013-02-15T00:00:00-0500"
+        }
+    ],
+    "prices": [
+        {
+            "type": "printPrice",
+            "price": 3.99
+        }
+    ],
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/20/52c5af1258f32",
+        "extension": "jpg"
+    },
+    "images": [
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/20/52c5af1258f32",
+            "extension": "jpg"
+        },
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/80/4e972a25288b0",
+            "extension": "jpg"
+        }
+    ],
+    "creators": {
+        "available": 5,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/40453/creators",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/361",
+                "name": "Cory Petit",
+                "role": "letterer"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/11835",
+                "name": "Rick Remender",
+                "role": "writer"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/653",
+                "name": "Greg Tocchini",
+                "role": "artist"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/442",
+                "name": "Dean White",
+                "role": "artist"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/758",
+                "name": "Leinil Francis Yu",
+                "role": "artist"
+            }
+        ],
+        "returned": 5
+    },
+    "characters": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/40453/characters",
+        "items": [],
+        "returned": 0
+    },
+    "stories": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/40453/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/91728",
+                "name": "Cover #91728",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/91729",
+                "name": "Interior #91729",
+                "type": "interiorStory"
+            }
+        ],
+        "returned": 2
+    },
+    "events": {
+        "available": 1,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/40453/events",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/events/308",
+                "name": "X-Men: Regenesis"
+            }
+        ],
+        "returned": 1
+    }
+}

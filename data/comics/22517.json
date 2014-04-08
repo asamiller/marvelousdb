@@ -1,0 +1,98 @@
+{
+    "id": 22517,
+    "digitalId": 0,
+    "title": "Marvel Adventures Two-in-One (2007) #17",
+    "issueNumber": 17,
+    "variantDescription": "",
+    "description": "MARVEL ADVENTURES HULK #7 \r<br>MARVEL ADVENTURES SPIDER-MAN #43\r<br>All Ages …$4.99\r<br>",
+    "modified": "-0001-11-30T00:00:00-0500",
+    "isbn": "",
+    "upc": "5960606238-01711",
+    "diamondCode": "SEP082350",
+    "ean": "",
+    "issn": "",
+    "format": "Comic",
+    "pageCount": 64,
+    "textObjects": [
+        {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "MARVEL ADVENTURES HULK #7 \r<br>MARVEL ADVENTURES SPIDER-MAN #43\r<br>All Ages …$4.99\r<br>"
+        }
+    ],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/22517",
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/22517/marvel_adventures_two-in-one_2007_17?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ],
+    "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/2544",
+        "name": "Marvel Adventures Two-in-One (2007 - 2009)"
+    },
+    "variants": [],
+    "collections": [],
+    "collectedIssues": [],
+    "dates": [
+        {
+            "type": "onsaleDate",
+            "date": "2008-11-19T00:00:00-0500"
+        },
+        {
+            "type": "focDate",
+            "date": "2008-10-30T00:00:00-0400"
+        }
+    ],
+    "prices": [
+        {
+            "type": "printPrice",
+            "price": 4.99
+        }
+    ],
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/10/4bb63a908e06b",
+        "extension": "jpg"
+    },
+    "images": [
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/10/4bb63a908e06b",
+            "extension": "jpg"
+        }
+    ],
+    "creators": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/22517/creators",
+        "items": [],
+        "returned": 0
+    },
+    "characters": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/22517/characters",
+        "items": [],
+        "returned": 0
+    },
+    "stories": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/22517/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/49910",
+                "name": "Marvel Adventures Hulk 7, Marvel Adventures Spider-Man 43",
+                "type": "interiorStory"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/56698",
+                "name": "Cover #56698",
+                "type": "cover"
+            }
+        ],
+        "returned": 2
+    },
+    "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/22517/events",
+        "items": [],
+        "returned": 0
+    }
+}

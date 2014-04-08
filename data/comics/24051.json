@@ -1,0 +1,98 @@
+{
+    "id": 24051,
+    "digitalId": 0,
+    "title": "Marvel Triple Action (2009) #1",
+    "issueNumber": 1,
+    "variantDescription": "",
+    "description": "WOLVERINE: FIRST CLASS #1\r<br>MARVEL ADVENTURES AVENGERS #19\r<br>MARVEL ADVENTURES SUPER HEROES #1\r<br>All Ages …$5.99\r<br>",
+    "modified": "-0001-11-30T00:00:00-0500",
+    "isbn": "",
+    "upc": "5960606775-00111",
+    "diamondCode": "FEB092555",
+    "ean": "",
+    "issn": "",
+    "format": "Comic",
+    "pageCount": 72,
+    "textObjects": [
+        {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "WOLVERINE: FIRST CLASS #1\r<br>MARVEL ADVENTURES AVENGERS #19\r<br>MARVEL ADVENTURES SUPER HEROES #1\r<br>All Ages …$5.99\r<br>"
+        }
+    ],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/24051",
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/24051/marvel_triple_action_2009_1?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ],
+    "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/7229",
+        "name": "Marvel Triple Action (2009)"
+    },
+    "variants": [],
+    "collections": [],
+    "collectedIssues": [],
+    "dates": [
+        {
+            "type": "onsaleDate",
+            "date": "2009-04-15T00:00:00-0400"
+        },
+        {
+            "type": "focDate",
+            "date": "2009-03-26T00:00:00-0400"
+        }
+    ],
+    "prices": [
+        {
+            "type": "printPrice",
+            "price": 5.99
+        }
+    ],
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/8/50/4bb57501b3d0a",
+        "extension": "jpg"
+    },
+    "images": [
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/8/50/4bb57501b3d0a",
+            "extension": "jpg"
+        }
+    ],
+    "creators": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/24051/creators",
+        "items": [],
+        "returned": 0
+    },
+    "characters": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/24051/characters",
+        "items": [],
+        "returned": 0
+    },
+    "stories": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/24051/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/53327",
+                "name": "Wolverine: First Class 1, Marvel Adventures Avengers 19, Marvel Super Heroes 1",
+                "type": "interiorStory"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/57089",
+                "name": "Cover #57089",
+                "type": "cover"
+            }
+        ],
+        "returned": 2
+    },
+    "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/24051/events",
+        "items": [],
+        "returned": 0
+    }
+}

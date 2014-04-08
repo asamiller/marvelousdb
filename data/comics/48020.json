@@ -1,0 +1,118 @@
+{
+    "id": 48020,
+    "digitalId": 0,
+    "title": "Amazing X-Men (2013) #2",
+    "issueNumber": 2,
+    "variantDescription": "",
+    "description": "• The X-Men, on the search for Nightcrawler, find themselves separated!\n• Wolverine and Northstar are mysteriously in… heaven?!\n• But where does that leave the rest of the team?\n",
+    "modified": "2014-02-19T09:31:55-0500",
+    "isbn": "",
+    "upc": "75960607957500211",
+    "diamondCode": "OCT130721",
+    "ean": "",
+    "issn": "",
+    "format": "Comic",
+    "pageCount": 32,
+    "textObjects": [
+        {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "• The X-Men, on the search for Nightcrawler, find themselves separated!\n• Wolverine and Northstar are mysteriously in… heaven?!\n• But where does that leave the rest of the team?\n"
+        }
+    ],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/48020",
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/48020/amazing_x-men_2013_2?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/Amazing-X-Men-2/digital-comic/32431?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ],
+    "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/18142",
+        "name": "Amazing X-Men (2013 - Present)"
+    },
+    "variants": [
+        {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/49866",
+            "name": "Amazing X-Men (2013) #2 (Keown Variant)"
+        }
+    ],
+    "collections": [],
+    "collectedIssues": [],
+    "dates": [
+        {
+            "type": "onsaleDate",
+            "date": "2013-12-04T00:00:00-0500"
+        },
+        {
+            "type": "focDate",
+            "date": "2013-11-20T00:00:00-0500"
+        }
+    ],
+    "prices": [
+        {
+            "type": "printPrice",
+            "price": 3.99
+        }
+    ],
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/a0/5293b1fbdf629",
+        "extension": "jpg"
+    },
+    "images": [
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/a0/5293b1fbdf629",
+            "extension": "jpg"
+        }
+    ],
+    "creators": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/48020/creators",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/11463",
+                "name": "Jason Aaron",
+                "role": "writer"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/649",
+                "name": "Ed McGuinness",
+                "role": "penciller (cover)"
+            }
+        ],
+        "returned": 2
+    },
+    "characters": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/48020/characters",
+        "items": [],
+        "returned": 0
+    },
+    "stories": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/48020/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/108281",
+                "name": "cover from New X-Men (2013) #2",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/108282",
+                "name": "story from New X-Men (2013) #2",
+                "type": "interiorStory"
+            }
+        ],
+        "returned": 2
+    },
+    "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/48020/events",
+        "items": [],
+        "returned": 0
+    }
+}

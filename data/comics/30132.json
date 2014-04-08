@@ -1,0 +1,132 @@
+{
+    "id": 30132,
+    "digitalId": 19019,
+    "title": "Marvel Adventures Spider-Man (2010) #10",
+    "issueNumber": 10,
+    "variantDescription": "",
+    "description": "Spider-Man becomes a teacher for super hero-in-training Chili Storm... the Lynx! But is it all a publicity stunt for her modeling career, and what happens when the deadly Scorpion crashes class?",
+    "modified": "2013-02-15T12:48:24-0500",
+    "isbn": "",
+    "upc": "5960607127-01011",
+    "diamondCode": "NOV100576",
+    "ean": "",
+    "issn": "1548-5056",
+    "format": "Comic",
+    "pageCount": 32,
+    "textObjects": [
+        {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "Spider-Man becomes a teacher for super hero-in-training Chili Storm... the Lynx! But is it all a publicity stunt for her modeling career, and what happens when the deadly Scorpion crashes class?"
+        }
+    ],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/30132",
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/30132/marvel_adventures_spider-man_2010_10?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=19019&utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ],
+    "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/9748",
+        "name": "Marvel Adventures Spider-Man (2010 - 2012)"
+    },
+    "variants": [],
+    "collections": [],
+    "collectedIssues": [],
+    "dates": [
+        {
+            "type": "onsaleDate",
+            "date": "2011-01-26T00:00:00-0500"
+        },
+        {
+            "type": "focDate",
+            "date": "2011-01-13T00:00:00-0500"
+        },
+        {
+            "type": "unlimitedDate",
+            "date": "2013-03-25T00:00:00-0400"
+        }
+    ],
+    "prices": [
+        {
+            "type": "printPrice",
+            "price": 2.99
+        }
+    ],
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/50/4cb5f8b45c550",
+        "extension": "jpg"
+    },
+    "images": [
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/50/4cb5f8b45c550",
+            "extension": "jpg"
+        }
+    ],
+    "creators": {
+        "available": 4,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/30132/creators",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/9081",
+                "name": "Matteo Lolli",
+                "role": "penciller"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/7550",
+                "name": "PATRICK SHERBERGER",
+                "role": "penciller (cover)"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/4983",
+                "name": "Paul Tobin",
+                "role": "writer"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/8822",
+                "name": "Jordan White",
+                "role": "editor"
+            }
+        ],
+        "returned": 4
+    },
+    "characters": {
+        "available": 1,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/30132/characters",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009610",
+                "name": "Spider-Man"
+            }
+        ],
+        "returned": 1
+    },
+    "stories": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/30132/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/69090",
+                "name": "Cover #69090",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/69091",
+                "name": "Interior #69091",
+                "type": "interiorStory"
+            }
+        ],
+        "returned": 2
+    },
+    "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/30132/events",
+        "items": [],
+        "returned": 0
+    }
+}

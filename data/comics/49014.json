@@ -1,0 +1,127 @@
+{
+    "id": 49014,
+    "digitalId": 0,
+    "title": "A+X (2012) #15",
+    "issueNumber": 15,
+    "variantDescription": "",
+    "description": "\n\n\n\n<ul><li>Dr. Strange + Beast = a truly insane story by Dream Thief creators JAI NITZ and GREG SMALLWOOD!</li><li>Part 3 of the Captain America + Cyclops story by Gerry Duggan (DEADPOOL) and David Yardin (X-FACTOR, Injustice).</li></ul>",
+    "modified": "2014-02-10T13:50:50-0500",
+    "isbn": "",
+    "upc": "75960607899801511",
+    "diamondCode": "OCT130670",
+    "ean": "",
+    "issn": "",
+    "format": "Comic",
+    "pageCount": 32,
+    "textObjects": [
+        {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "\n\n\n\n<ul><li>Dr. Strange + Beast = a truly insane story by Dream Thief creators JAI NITZ and GREG SMALLWOOD!</li><li>Part 3 of the Captain America + Cyclops story by Gerry Duggan (DEADPOOL) and David Yardin (X-FACTOR, Injustice).</li></ul>"
+        }
+    ],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/49014",
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/49014/ax_2012_15?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/A-X-15/digital-comic/32446?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ],
+    "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/16450",
+        "name": "A+X (2012 - Present)"
+    },
+    "variants": [],
+    "collections": [],
+    "collectedIssues": [],
+    "dates": [
+        {
+            "type": "onsaleDate",
+            "date": "2013-12-11T00:00:00-0500"
+        },
+        {
+            "type": "focDate",
+            "date": "2013-11-27T00:00:00-0500"
+        }
+    ],
+    "prices": [
+        {
+            "type": "printPrice",
+            "price": 3.99
+        }
+    ],
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/8/d0/52a0a9732aaf6",
+        "extension": "jpg"
+    },
+    "images": [
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/8/d0/52a0a9732aaf6",
+            "extension": "jpg"
+        },
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/03/523308928f2c8",
+            "extension": "jpg"
+        }
+    ],
+    "creators": {
+        "available": 4,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/49014/creators",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/11680",
+                "name": "Gerard Gorman Duggan",
+                "role": "writer"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/736",
+                "name": "Jai Nitz",
+                "role": "writer"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/12368",
+                "name": "Greg Smallwood",
+                "role": "penciller (cover)"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/789",
+                "name": "David Yardin",
+                "role": "artist"
+            }
+        ],
+        "returned": 4
+    },
+    "characters": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/49014/characters",
+        "items": [],
+        "returned": 0
+    },
+    "stories": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/49014/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/110115",
+                "name": "cover from A+X (2012) #15",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/110116",
+                "name": "story from A+X (2012) #15",
+                "type": "interiorStory"
+            }
+        ],
+        "returned": 2
+    },
+    "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/49014/events",
+        "items": [],
+        "returned": 0
+    }
+}

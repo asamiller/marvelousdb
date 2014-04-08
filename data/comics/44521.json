@@ -1,0 +1,91 @@
+{
+    "id": 44521,
+    "digitalId": 0,
+    "title": "Avengers Vs. X-Men HC (Hardcover)",
+    "issueNumber": 0,
+    "variantDescription": "",
+    "description": null,
+    "modified": "2012-11-07T10:31:13-0500",
+    "isbn": "",
+    "upc": "",
+    "diamondCode": "",
+    "ean": "",
+    "issn": "",
+    "format": "Hardcover",
+    "pageCount": 500,
+    "textObjects": [],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/44521",
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/collection/44521/avengers_vs_x-men_hc_hardcover?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/Avengers-Vs-X-Men-HC-0/digital-comic/27775?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ],
+    "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/16800",
+        "name": "Avengers Vs. X-Men HC (2012)"
+    },
+    "variants": [],
+    "collections": [],
+    "collectedIssues": [],
+    "dates": [
+        {
+            "type": "onsaleDate",
+            "date": "2012-11-07T00:00:00-0500"
+        },
+        {
+            "type": "focDate",
+            "date": "2012-09-05T00:00:00-0400"
+        }
+    ],
+    "prices": [
+        {
+            "type": "printPrice",
+            "price": 74.99
+        }
+    ],
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/e/60/509a800794998",
+        "extension": "jpg"
+    },
+    "images": [
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/e/60/509a800794998",
+            "extension": "jpg"
+        }
+    ],
+    "creators": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/44521/creators",
+        "items": [],
+        "returned": 0
+    },
+    "characters": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/44521/characters",
+        "items": [],
+        "returned": 0
+    },
+    "stories": {
+        "available": 1,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/44521/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/105728",
+                "name": "Avengers vs X-Men HC",
+                "type": "cover"
+            }
+        ],
+        "returned": 1
+    },
+    "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/44521/events",
+        "items": [],
+        "returned": 0
+    }
+}

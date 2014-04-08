@@ -1,0 +1,123 @@
+{
+    "id": 31198,
+    "digitalId": 0,
+    "title": "Fantastic Four in...Ataque Del M.O.D.O.K.! (2010) #1 (SPANISH VARIANT)",
+    "issueNumber": 1,
+    "variantDescription": "SPANISH VARIANT",
+    "description": "M.O.D.O.K.! Monkeys! Mayhem! Marvel�s First Family returns to Puerto Rico!\r\nThere�s no such thing as a relaxing vacation for Reed Richards and Sue Storm. They thought they were getting off easy with just having to fight an out-of-control Dragon Man in an exploding oil refinery�but when the monstrous evil genius M.O.D.O.K. hatches a plan involving genetically enhanced monkeys, our heroes will be up to their ears in it! And will they be helped or hindered by the mysterious Puerto Rican figure known only as�El Vejigante?",
+    "modified": "-0001-11-30T00:00:00-0500",
+    "isbn": "",
+    "upc": "5960606884-00111",
+    "diamondCode": "APR100574",
+    "ean": "",
+    "issn": "",
+    "format": "Comic",
+    "pageCount": 48,
+    "textObjects": [
+        {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "M.O.D.O.K.! Monkeys! Mayhem! Marvel�s First Family returns to Puerto Rico!\r\nThere�s no such thing as a relaxing vacation for Reed Richards and Sue Storm. They thought they were getting off easy with just having to fight an out-of-control Dragon Man in an exploding oil refinery�but when the monstrous evil genius M.O.D.O.K. hatches a plan involving genetically enhanced monkeys, our heroes will be up to their ears in it! And will they be helped or hindered by the mysterious Puerto Rican figure known only as�El Vejigante?"
+        }
+    ],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/31198",
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/31198/fantastic_four_in.ataque_del_modok_2010_1_spanish_variant/spanish_variant?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ],
+    "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/9893",
+        "name": "Fantastic Four in...Ataque Del M.O.D.O.K.! (2010)"
+    },
+    "variants": [
+        {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/31199",
+            "name": "Fantastic Four in...Ataque Del M.O.D.O.K.! (2010) #1"
+        }
+    ],
+    "collections": [],
+    "collectedIssues": [],
+    "dates": [
+        {
+            "type": "onsaleDate",
+            "date": "2010-10-06T00:00:00-0400"
+        },
+        {
+            "type": "focDate",
+            "date": "2010-09-16T00:00:00-0400"
+        }
+    ],
+    "prices": [
+        {
+            "type": "printPrice",
+            "price": 3.99
+        }
+    ],
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/00/4ba944ab60f17",
+        "extension": "jpg"
+    },
+    "images": [
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/00/4c7d2a913fa06",
+            "extension": "jpg"
+        },
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/00/4ba944ab60f17",
+            "extension": "jpg"
+        }
+    ],
+    "creators": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/31198/creators",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/726",
+                "name": "Tom Beland",
+                "role": "writer"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/1054",
+                "name": "Juan Doe",
+                "role": "penciller"
+            }
+        ],
+        "returned": 2
+    },
+    "characters": {
+        "available": 1,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/31198/characters",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009299",
+                "name": "Fantastic Four"
+            }
+        ],
+        "returned": 1
+    },
+    "stories": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/31198/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/71125",
+                "name": "Cover #71125",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/71126",
+                "name": "Interior #71126",
+                "type": "interiorStory"
+            }
+        ],
+        "returned": 2
+    },
+    "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/31198/events",
+        "items": [],
+        "returned": 0
+    }
+}

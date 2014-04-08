@@ -1,0 +1,123 @@
+{
+    "id": 44929,
+    "digitalId": 0,
+    "title": "Fantastic Four (2012) #2 (Kubert Variant)",
+    "issueNumber": 2,
+    "variantDescription": "Kubert Variant",
+    "description": "Marvel NOW! The First Family leaves time and space! How long can Reed hide his motivations from his family? What undiscovered places, amazing things, and incredible people are out there waiting to meet the Fantastic Four? ",
+    "modified": "2012-12-06T15:30:09-0500",
+    "isbn": "",
+    "upc": "75960607906300231",
+    "diamondCode": "OCT120594",
+    "ean": "",
+    "issn": "",
+    "format": "Comic",
+    "pageCount": 32,
+    "textObjects": [
+        {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "Marvel NOW! The First Family leaves time and space! How long can Reed hide his motivations from his family? What undiscovered places, amazing things, and incredible people are out there waiting to meet the Fantastic Four? "
+        }
+    ],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/44929",
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/44929/fantastic_four_2012_2_kubert_variant/kubert_variant?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ],
+    "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/16557",
+        "name": "Fantastic Four (2012 - Present)"
+    },
+    "variants": [
+        {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/47440",
+            "name": "Fantastic Four (2012) #2 (2nd Printing Variant)"
+        },
+        {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/44927",
+            "name": "Fantastic Four (2012) #2"
+        }
+    ],
+    "collections": [],
+    "collectedIssues": [],
+    "dates": [
+        {
+            "type": "onsaleDate",
+            "date": "2012-12-12T00:00:00-0500"
+        },
+        {
+            "type": "focDate",
+            "date": "2012-11-28T00:00:00-0500"
+        }
+    ],
+    "prices": [
+        {
+            "type": "printPrice",
+            "price": 2.99
+        }
+    ],
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/a/90/50884c8f6fdf8",
+        "extension": "jpg"
+    },
+    "images": [
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/a/90/50884c8f6fdf8",
+            "extension": "jpg"
+        }
+    ],
+    "creators": {
+        "available": 3,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/44929/creators",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/2133",
+                "name": "Tom Brevoort",
+                "role": "editor"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/2879",
+                "name": "Adam Kubert",
+                "role": "penciler (cover)"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/4306",
+                "name": "Laura Martin",
+                "role": "colorist (cover)"
+            }
+        ],
+        "returned": 3
+    },
+    "characters": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/44929/characters",
+        "items": [],
+        "returned": 0
+    },
+    "stories": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/44929/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/101229",
+                "name": "cover from Fantastic Four (2012) #2 (KUBERT VARIANT)",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/101230",
+                "name": "story from Fantastic Four (2012) #2 (KUBERT VARIANT)",
+                "type": "interiorStory"
+            }
+        ],
+        "returned": 2
+    },
+    "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/44929/events",
+        "items": [],
+        "returned": 0
+    }
+}

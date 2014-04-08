@@ -1,0 +1,101 @@
+{
+    "id": 1011313,
+    "name": "Ender Wiggin",
+    "description": "",
+    "modified": "2010-12-08T12:39:15-0500",
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/90/4ce154e96ec1e",
+        "extension": "jpg"
+    },
+    "resourceURI": "http://gateway.marvel.com/v1/public/characters/1011313",
+    "comics": {
+        "available": 5,
+        "collectionURI": "http://gateway.marvel.com/v1/public/characters/1011313/comics",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/comics/37141",
+                "name": "Orson Scott Card's Speaker for the Dead (2010) #2"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/comics/37142",
+                "name": "Orson Scott Card's Speaker for the Dead (2010) #3"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/comics/37139",
+                "name": "Orson Scott Card's Speaker for the Dead (2010) #4"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/comics/37138",
+                "name": "Orson Scott Card's Speaker for the Dead (2010) #5"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/comics/31808",
+                "name": "Orson Scott Cards's Ender's Speaker for the Dead Premiere HC (Hardcover)"
+            }
+        ],
+        "returned": 5
+    },
+    "series": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/characters/1011313/series",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/series/13302",
+                "name": "Orson Scott Card's Speaker for the Dead (2010 - 2011)"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/series/10171",
+                "name": "Orson Scott Cards's Ender's Speaker for the Dead Premiere HC (2013)"
+            }
+        ],
+        "returned": 2
+    },
+    "stories": {
+        "available": 5,
+        "collectionURI": "http://gateway.marvel.com/v1/public/characters/1011313/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/72202",
+                "name": "Cover #72202",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/82296",
+                "name": "Orson Scott Card's Speaker For The Dead #5",
+                "type": "interiorStory"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/82297",
+                "name": "Cover #82297",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/82301",
+                "name": "Orson Scott Card's Speaker for the Dead #2",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/82303",
+                "name": "Orson Scott Card's Speaker for the Dead (2010) #3 ",
+                "type": "cover"
+            }
+        ],
+        "returned": 5
+    },
+    "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/characters/1011313/events",
+        "items": [],
+        "returned": 0
+    },
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/characters/1011313/ender_wiggin?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "wiki",
+            "url": "http://marvel.com/universe/Wiggin,_Ender?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ]
+}

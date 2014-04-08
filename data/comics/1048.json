@@ -1,0 +1,161 @@
+{
+    "id": 1048,
+    "digitalId": 0,
+    "title": "Deadline Vol. I (Trade Paperback)",
+    "issueNumber": 0,
+    "variantDescription": "",
+    "description": "Rookie reporter Katherine Farrell is stuck with the super-hero beat unless she can nail a big story and move up to the City Crime Desk. Trouble is, her career ر and her life ر are threatened when she uncovers the identity of a super-villain serial killer.",
+    "modified": "-0001-11-30T00:00:00-0500",
+    "isbn": "0-7851-1010-0",
+    "upc": "",
+    "diamondCode": "",
+    "ean": "",
+    "issn": "",
+    "format": "Trade Paperback",
+    "pageCount": 96,
+    "textObjects": [
+        {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "Rookie reporter Katherine Farrell is stuck with the super-hero beat unless she can nail a big story and move up to the City Crime Desk. Trouble is, her career ر and her life ر are threatened when she uncovers the identity of a super-villain serial killer."
+        }
+    ],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/1048",
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/collection/1048/deadline_vol_i_trade_paperback?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ],
+    "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/108",
+        "name": "Deadline Vol. I (2002)"
+    },
+    "variants": [],
+    "collections": [],
+    "collectedIssues": [
+        {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/20414",
+            "name": "Deadline (2002) #1"
+        },
+        {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/20416",
+            "name": "Deadline (2002) #3"
+        },
+        {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/20415",
+            "name": "Deadline (2002) #2"
+        },
+        {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/20417",
+            "name": "Deadline (2002) #4"
+        }
+    ],
+    "dates": [
+        {
+            "type": "onsaleDate",
+            "date": "2002-10-30T00:00:00-0500"
+        },
+        {
+            "type": "focDate",
+            "date": "-0001-11-30T00:00:00-0500"
+        }
+    ],
+    "prices": [
+        {
+            "type": "printPrice",
+            "price": 9.99
+        }
+    ],
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/20/4bb69d324d2af",
+        "extension": "jpg"
+    },
+    "images": [
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/20/4bb69d324d2af",
+            "extension": "jpg"
+        }
+    ],
+    "creators": {
+        "available": 3,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/1048/creators",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/255",
+                "name": "Guy Davis",
+                "role": "penciller"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/11521",
+                "name": "Greg Horn",
+                "role": "penciller"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/123",
+                "name": "Bill Rosemann",
+                "role": "writer"
+            }
+        ],
+        "returned": 3
+    },
+    "characters": {
+        "available": 1,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/1048/characters",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009648",
+                "name": "Taskmaster"
+            }
+        ],
+        "returned": 1
+    },
+    "stories": {
+        "available": 7,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/1048/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/109",
+                "name": "Rookie reporter Katherine Farrell is stuck with the super-hero beat unless she can nail a big story and move up to the City Crim",
+                "type": "interiorStory"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/43739",
+                "name": "",
+                "type": ""
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/43740",
+                "name": "Cover #43740",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/43741",
+                "name": "Deadline Part 2",
+                "type": "interiorStory"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/43742",
+                "name": "",
+                "type": ""
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/43743",
+                "name": "",
+                "type": ""
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/65186",
+                "name": "DEADLINE VOL. I TPB 0 cover",
+                "type": "cover"
+            }
+        ],
+        "returned": 7
+    },
+    "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/1048/events",
+        "items": [],
+        "returned": 0
+    }
+}

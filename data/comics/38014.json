@@ -1,0 +1,131 @@
+{
+    "id": 38014,
+    "digitalId": 0,
+    "title": "Fantastic Four (1998) #587 (JH VARIANT)",
+    "issueNumber": 587,
+    "variantDescription": "JH VARIANT",
+    "description": "One of the four will fall!",
+    "modified": "2011-08-01T11:36:23-0400",
+    "isbn": "",
+    "upc": "5960604456-58731",
+    "diamondCode": "",
+    "ean": "",
+    "issn": "0274-5291",
+    "format": "Comic",
+    "pageCount": 40,
+    "textObjects": [
+        {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "One of the four will fall!"
+        }
+    ],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/38014",
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/38014/fantastic_four_1998_587_jh_variant/jh_variant?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ],
+    "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/421",
+        "name": "Fantastic Four (1998 - 2012)"
+    },
+    "variants": [
+        {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/39304",
+            "name": "Fantastic Four (1998) #587 (3rd Printing Variant)"
+        },
+        {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/38881",
+            "name": "Fantastic Four (1998) #587 (2ND PRINTING VARIANT)"
+        },
+        {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/38062",
+            "name": "Fantastic Four (1998) #587 (SPOILER VARIANT)"
+        },
+        {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/36060",
+            "name": "Fantastic Four (1998) #587"
+        }
+    ],
+    "collections": [],
+    "collectedIssues": [],
+    "dates": [
+        {
+            "type": "onsaleDate",
+            "date": "2011-01-26T00:00:00-0500"
+        },
+        {
+            "type": "focDate",
+            "date": "2011-01-12T00:00:00-0500"
+        }
+    ],
+    "prices": [
+        {
+            "type": "printPrice",
+            "price": 3.99
+        }
+    ],
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available",
+        "extension": "jpg"
+    },
+    "images": [],
+    "creators": {
+        "available": 3,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/38014/creators",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/2133",
+                "name": "Tom Brevoort",
+                "role": "editor"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/374",
+                "name": "Steve Epting",
+                "role": "penciller"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/11743",
+                "name": "Jonathan Hickman",
+                "role": "writer"
+            }
+        ],
+        "returned": 3
+    },
+    "characters": {
+        "available": 1,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/38014/characters",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009299",
+                "name": "Fantastic Four"
+            }
+        ],
+        "returned": 1
+    },
+    "stories": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/38014/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/83561",
+                "name": "Cover #83561",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/83562",
+                "name": "Interior #83562",
+                "type": "interiorStory"
+            }
+        ],
+        "returned": 2
+    },
+    "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/38014/events",
+        "items": [],
+        "returned": 0
+    }
+}

@@ -1,0 +1,119 @@
+{
+    "id": 49866,
+    "digitalId": 0,
+    "title": "Amazing X-Men (2013) #2 (Keown Variant)",
+    "issueNumber": 2,
+    "variantDescription": "Keown Variant",
+    "description": "• The X-Men, on the search for Nightcrawler, find themselves separated!\n• Wolverine and Northstar are mysteriously in… heaven?!\n• But where does that leave the rest of the team?\n",
+    "modified": "2013-11-25T15:52:44-0500",
+    "isbn": "",
+    "upc": "75960607957500221",
+    "diamondCode": "OCT130722",
+    "ean": "",
+    "issn": "",
+    "format": "Comic",
+    "pageCount": 32,
+    "textObjects": [
+        {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "• The X-Men, on the search for Nightcrawler, find themselves separated!\n• Wolverine and Northstar are mysteriously in… heaven?!\n• But where does that leave the rest of the team?\n"
+        }
+    ],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/49866",
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/49866/amazing_x-men_2013_2_keown_variant/keown_variant?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ],
+    "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/18142",
+        "name": "Amazing X-Men (2013 - Present)"
+    },
+    "variants": [
+        {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/48020",
+            "name": "Amazing X-Men (2013) #2"
+        }
+    ],
+    "collections": [],
+    "collectedIssues": [],
+    "dates": [
+        {
+            "type": "onsaleDate",
+            "date": "2013-12-04T00:00:00-0500"
+        },
+        {
+            "type": "focDate",
+            "date": "2013-11-20T00:00:00-0500"
+        }
+    ],
+    "prices": [
+        {
+            "type": "printPrice",
+            "price": 3.99
+        }
+    ],
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/00/5293b70db53bc",
+        "extension": "jpg"
+    },
+    "images": [
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/00/5293b70db53bc",
+            "extension": "jpg"
+        }
+    ],
+    "creators": {
+        "available": 3,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/49866/creators",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/11463",
+                "name": "Jason Aaron",
+                "role": "writer"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/241",
+                "name": "Dale Keown",
+                "role": "penciller (cover)"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/649",
+                "name": "Ed McGuinness",
+                "role": "artist"
+            }
+        ],
+        "returned": 3
+    },
+    "characters": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/49866/characters",
+        "items": [],
+        "returned": 0
+    },
+    "stories": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/49866/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/111792",
+                "name": "cover from New X-Men (2013) #2 (MANARA VARIANT)",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/111793",
+                "name": "story from New X-Men (2013) #2 (MANARA VARIANT)",
+                "type": "interiorStory"
+            }
+        ],
+        "returned": 2
+    },
+    "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/49866/events",
+        "items": [],
+        "returned": 0
+    }
+}

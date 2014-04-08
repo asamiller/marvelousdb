@@ -1,0 +1,106 @@
+{
+    "id": 27399,
+    "digitalId": 16059,
+    "title": "Incredible Hulk (1999) #103",
+    "issueNumber": 103,
+    "variantDescription": "",
+    "description": "The Hulk has overthrown the emperor and Caiera is his bride. But what catastrophe is just on the horizon?",
+    "modified": "2013-07-01T14:42:41-0400",
+    "isbn": "",
+    "upc": "",
+    "diamondCode": 0,
+    "ean": "",
+    "issn": "",
+    "format": "Comic",
+    "pageCount": 0,
+    "textObjects": [
+        {
+            "type": "issue_preview_text",
+            "language": "en-us",
+            "text": "The Hulk has overthrown the emperor and Caiera is his bride. But what catastrophe is just on the horizon?"
+        }
+    ],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/27399",
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/27399/incredible_hulk_1999_103?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=16059&utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ],
+    "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/465",
+        "name": "Incredible Hulk (1999 - 2008)"
+    },
+    "variants": [],
+    "collections": [],
+    "collectedIssues": [],
+    "dates": [
+        {
+            "type": "onsaleDate",
+            "date": "2007-02-03T00:00:00-0500"
+        },
+        {
+            "type": "focDate",
+            "date": "1961-01-01T00:00:00-0500"
+        },
+        {
+            "type": "unlimitedDate",
+            "date": "2010-11-02T10:15:07-0400"
+        }
+    ],
+    "prices": [
+        {
+            "type": "printPrice",
+            "price": 0
+        }
+    ],
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/d/03/4d250775e5628",
+        "extension": "jpg"
+    },
+    "images": [],
+    "creators": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/27399/creators",
+        "items": [],
+        "returned": 0
+    },
+    "characters": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/27399/characters",
+        "items": [],
+        "returned": 0
+    },
+    "stories": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/27399/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/68650",
+                "name": "Incredible Hulk 103 cover ",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/89049",
+                "name": "Incredible Hulk #103 Interior Story",
+                "type": "interiorStory"
+            }
+        ],
+        "returned": 2
+    },
+    "events": {
+        "available": 1,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/27399/events",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/events/212",
+                "name": "Planet Hulk"
+            }
+        ],
+        "returned": 1
+    }
+}

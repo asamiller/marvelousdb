@@ -1,0 +1,88 @@
+{
+    "id": 1011134,
+    "name": "Microchip",
+    "description": "",
+    "modified": "1969-12-31T19:00:00-0500",
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available",
+        "extension": "jpg"
+    },
+    "resourceURI": "http://gateway.marvel.com/v1/public/characters/1011134",
+    "comics": {
+        "available": 4,
+        "collectionURI": "http://gateway.marvel.com/v1/public/characters/1011134/comics",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/comics/22181",
+                "name": "Punisher War Journal (1988) #27"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/comics/22185",
+                "name": "Punisher War Journal (1988) #30"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/comics/22202",
+                "name": "Punisher War Journal (1988) #46"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/comics/22203",
+                "name": "Punisher War Journal (1988) #47"
+            }
+        ],
+        "returned": 4
+    },
+    "series": {
+        "available": 1,
+        "collectionURI": "http://gateway.marvel.com/v1/public/characters/1011134/series",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/series/5860",
+                "name": "Punisher War Journal (1988 - 1995)"
+            }
+        ],
+        "returned": 1
+    },
+    "stories": {
+        "available": 4,
+        "collectionURI": "http://gateway.marvel.com/v1/public/characters/1011134/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/49650",
+                "name": "Saracen With the Clock!",
+                "type": "interiorStory"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/49661",
+                "name": "Spin Cycle",
+                "type": "interiorStory"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/49692",
+                "name": "Hot Chrome and Cold Blood",
+                "type": "interiorStory"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/49695",
+                "name": "Say Goodbye to Vegas (Dead Man's Hand Part IX)",
+                "type": "interiorStory"
+            }
+        ],
+        "returned": 4
+    },
+    "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/characters/1011134/events",
+        "items": [],
+        "returned": 0
+    },
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/characters/1011134/microchip?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "wiki",
+            "url": "http://marvel.com/universe/Microchip?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ]
+}

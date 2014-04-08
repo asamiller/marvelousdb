@@ -1,0 +1,123 @@
+{
+    "id": 41661,
+    "digitalId": 0,
+    "title": "Amazing Spider-Man Annual (2011) #1",
+    "issueNumber": 1,
+    "variantDescription": "",
+    "description": "\t<ul><li> Spider-Man is stuck in a world where Peter Parker never existed!</li><li> And reality is coming apart!</li><li> Guest staring the Avengers! </li></ul>\t ",
+    "modified": "2012-05-16T01:31:21-0400",
+    "isbn": "",
+    "upc": "5960607773-00111",
+    "diamondCode": "MAR120569",
+    "ean": "",
+    "issn": "",
+    "format": "Comic",
+    "pageCount": 48,
+    "textObjects": [
+        {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "\t<ul><li> Spider-Man is stuck in a world where Peter Parker never existed!</li><li> And reality is coming apart!</li><li> Guest staring the Avengers! </li></ul>\t "
+        }
+    ],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/41661",
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/41661/amazing_spider-man_annual_2011_1?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/Amazing-Spider-Man-Annual-1/digital-comic/26531?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ],
+    "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/15540",
+        "name": "Amazing Spider-Man Annual (2011 - Present)"
+    },
+    "variants": [],
+    "collections": [],
+    "collectedIssues": [],
+    "dates": [
+        {
+            "type": "onsaleDate",
+            "date": "2012-05-30T00:00:00-0400"
+        },
+        {
+            "type": "focDate",
+            "date": "2012-05-16T00:00:00-0400"
+        }
+    ],
+    "prices": [
+        {
+            "type": "printPrice",
+            "price": 3.99
+        }
+    ],
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/e/e0/4f3bf3f3ad2a4",
+        "extension": "jpg"
+    },
+    "images": [
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/e/e0/4f3bf3f3ad2a4",
+            "extension": "jpg"
+        }
+    ],
+    "creators": {
+        "available": 4,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/41661/creators",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/452",
+                "name": "Chris Eliopoulos",
+                "role": "Letterer"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/8933",
+                "name": "Lee Garbett",
+                "role": "penciller (cover)"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/438",
+                "name": "Karl Kesel",
+                "role": "Inker"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/561",
+                "name": "Wil Quintana",
+                "role": "Colorist"
+            }
+        ],
+        "returned": 4
+    },
+    "characters": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/41661/characters",
+        "items": [],
+        "returned": 0
+    },
+    "stories": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/41661/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/94255",
+                "name": "Cover #94255",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/94256",
+                "name": "Interior #94256",
+                "type": "interiorStory"
+            }
+        ],
+        "returned": 2
+    },
+    "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/41661/events",
+        "items": [],
+        "returned": 0
+    }
+}

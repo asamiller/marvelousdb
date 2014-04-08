@@ -1,0 +1,122 @@
+{
+    "id": 45765,
+    "digitalId": 0,
+    "title": "A+X (2012) #4 (Brooks Variant)",
+    "issueNumber": 4,
+    "variantDescription": "Brooks Variant",
+    "description": "\r\n\r\n\r\n<ul><li>Storm and Black Panther&rsquo;s first post-AVX encounter!</li><li>Your other two favorite characters fight your favorite villain.</li></ul>",
+    "modified": "2013-01-18T15:12:55-0500",
+    "isbn": "",
+    "upc": "75960607899800441",
+    "diamondCode": "NOV120672",
+    "ean": "",
+    "issn": "",
+    "format": "Comic",
+    "pageCount": 32,
+    "textObjects": [
+        {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "\r\n\r\n\r\n<ul><li>Storm and Black Panther&rsquo;s first post-AVX encounter!</li><li>Your other two favorite characters fight your favorite villain.</li></ul>"
+        }
+    ],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/45765",
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/45765/ax_2012_4_brooks_variant/brooks_variant?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ],
+    "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/16450",
+        "name": "A+X (2012 - Present)"
+    },
+    "variants": [
+        {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/43501",
+            "name": "A+X (2012) #4"
+        },
+        {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/43502",
+            "name": "A+X (2012) #4 (Mcguinness Variant)"
+        },
+        {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/43503",
+            "name": "A+X (2012) #4 (Mcguinness Sketch Variant)"
+        }
+    ],
+    "collections": [],
+    "collectedIssues": [],
+    "dates": [
+        {
+            "type": "onsaleDate",
+            "date": "2013-01-23T00:00:00-0500"
+        },
+        {
+            "type": "focDate",
+            "date": "2013-01-09T00:00:00-0500"
+        }
+    ],
+    "prices": [
+        {
+            "type": "printPrice",
+            "price": 3.99
+        }
+    ],
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/a/50/50f97d2f38ed9",
+        "extension": "jpg"
+    },
+    "images": [
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/a/50/50f97d2f38ed9",
+            "extension": "jpg"
+        }
+    ],
+    "creators": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/45765/creators",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/694",
+                "name": "Mark Brooks",
+                "role": "inker (cover)"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/4300",
+                "name": "Nick Lowe",
+                "role": "editor"
+            }
+        ],
+        "returned": 2
+    },
+    "characters": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/45765/characters",
+        "items": [],
+        "returned": 0
+    },
+    "stories": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/45765/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/102984",
+                "name": "cover from A+X (2012) #4 (TBD ARTIST VARIANT)",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/102985",
+                "name": "story from A+X (2012) #4 (TBD ARTIST VARIANT)",
+                "type": "interiorStory"
+            }
+        ],
+        "returned": 2
+    },
+    "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/45765/events",
+        "items": [],
+        "returned": 0
+    }
+}

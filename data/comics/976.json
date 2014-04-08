@@ -1,0 +1,114 @@
+{
+    "id": 976,
+    "digitalId": 0,
+    "title": "Essential X-Men Vol. I (Trade Paperback)",
+    "issueNumber": 0,
+    "variantDescription": "",
+    "description": "Relive the second generation of X-Men, fighting villains like the Juggernaut and Magneto, and discover the human within the hero, and the truth behind the legend.",
+    "modified": "-0001-11-30T00:00:00-0500",
+    "isbn": "0-7851-0256-6",
+    "upc": "",
+    "diamondCode": "",
+    "ean": "",
+    "issn": "",
+    "format": "Trade Paperback",
+    "pageCount": 528,
+    "textObjects": [
+        {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "Relive the second generation of X-Men, fighting villains like the Juggernaut and Magneto, and discover the human within the hero, and the truth behind the legend."
+        }
+    ],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/976",
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/collection/976/essential_x-men_vol_i_trade_paperback?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ],
+    "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/38",
+        "name": "Essential X-Men Vol. I (1999)"
+    },
+    "variants": [],
+    "collections": [],
+    "collectedIssues": [],
+    "dates": [
+        {
+            "type": "onsaleDate",
+            "date": "1999-11-30T00:00:00-0500"
+        },
+        {
+            "type": "focDate",
+            "date": "-0001-11-30T00:00:00-0500"
+        }
+    ],
+    "prices": [
+        {
+            "type": "printPrice",
+            "price": 9.99
+        }
+    ],
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/a/60/4c7d679c78ca7",
+        "extension": "jpg"
+    },
+    "images": [
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/a/60/4c7d679c78ca7",
+            "extension": "jpg"
+        }
+    ],
+    "creators": {
+        "available": 3,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/976/creators",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/1827",
+                "name": "John Byrne",
+                "role": "penciller"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/46",
+                "name": "Dave Cockrum",
+                "role": "penciller"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/44",
+                "name": "Chris Claremont",
+                "role": "writer"
+            }
+        ],
+        "returned": 3
+    },
+    "characters": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/976/characters",
+        "items": [],
+        "returned": 0
+    },
+    "stories": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/976/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/39",
+                "name": "Relive the second generation of X-Men, fighting villains like the Juggernaut and Magneto, and discover the human within the hero",
+                "type": "interiorStory"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/65116",
+                "name": "ESSENTIAL X-MEN VOL. I TPB 0 cover",
+                "type": "cover"
+            }
+        ],
+        "returned": 2
+    },
+    "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/976/events",
+        "items": [],
+        "returned": 0
+    }
+}

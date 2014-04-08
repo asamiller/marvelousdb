@@ -1,0 +1,151 @@
+{
+    "id": 38066,
+    "digitalId": 20468,
+    "title": "Onslaught Unleashed (2010) #3",
+    "issueNumber": 3,
+    "variantDescription": "",
+    "description": "Lines are drawn and secrets are revealed as the darkly intense Secret Avengers/Young Allies event continues! With Onslaught and Nomad inextricably intertwined and the stakes growing ever greater, Steve Rogers finds himself forced to make an impossible decision! ",
+    "modified": "2013-04-05T11:48:40-0400",
+    "isbn": "",
+    "upc": "5960607555-00311",
+    "diamondCode": "FEB110592",
+    "ean": "",
+    "issn": "",
+    "format": "Comic",
+    "pageCount": 32,
+    "textObjects": [
+        {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "Lines are drawn and secrets are revealed as the darkly intense Secret Avengers/Young Allies event continues! With Onslaught and Nomad inextricably intertwined and the stakes growing ever greater, Steve Rogers finds himself forced to make an impossible decision! "
+        }
+    ],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/38066",
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/38066/onslaught_unleashed_2010_3?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/Onslaught-Unleashed-3/digital-comic/20468?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=20468&utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "inAppLink",
+            "url": "http://applink.marvel.com/issue/20468?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ],
+    "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/13602",
+        "name": "Onslaught Unleashed (2010 - 2011)"
+    },
+    "variants": [],
+    "collections": [],
+    "collectedIssues": [],
+    "dates": [
+        {
+            "type": "onsaleDate",
+            "date": "2011-04-13T00:00:00-0400"
+        },
+        {
+            "type": "focDate",
+            "date": "2011-03-29T00:00:00-0400"
+        },
+        {
+            "type": "unlimitedDate",
+            "date": "2013-04-08T00:00:00-0400"
+        },
+        {
+            "type": "digitalPurchaseDate",
+            "date": "2013-07-16T00:00:00-0400"
+        }
+    ],
+    "prices": [
+        {
+            "type": "printPrice",
+            "price": 3.99
+        },
+        {
+            "type": "digitalPurchasePrice",
+            "price": 1.99
+        }
+    ],
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/80/4d35aba3d821a",
+        "extension": "jpg"
+    },
+    "images": [],
+    "creators": {
+        "available": 4,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/38066/creators",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/12203",
+                "name": "Filipe Daniel Moreno De Andrade",
+                "role": "penciller"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/9429",
+                "name": "Sean McKeever",
+                "role": "writer"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/72",
+                "name": "Humberto Ramos",
+                "role": "penciller (cover)"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/8924",
+                "name": "Lauren Sankovitch",
+                "role": "editor"
+            }
+        ],
+        "returned": 4
+    },
+    "characters": {
+        "available": 3,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/38066/characters",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009220",
+                "name": "Captain America"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009475",
+                "name": "Nomad"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009483",
+                "name": "Onslaught"
+            }
+        ],
+        "returned": 3
+    },
+    "stories": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/38066/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/84264",
+                "name": "Onslaught Unleashed (2010) #3",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/84265",
+                "name": "Onslaught Unleashed (2010) #3",
+                "type": "interiorStory"
+            }
+        ],
+        "returned": 2
+    },
+    "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/38066/events",
+        "items": [],
+        "returned": 0
+    }
+}

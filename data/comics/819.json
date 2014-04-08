@@ -1,0 +1,142 @@
+{
+    "id": 819,
+    "digitalId": 2115,
+    "title": "Marvel Age Spider-Man (2004) #12",
+    "issueNumber": 12,
+    "variantDescription": "",
+    "description": "\"THE MENACE OF MYSTERIO\" \r<br>There's a new criminal in town and his name is... Spider-Man?! Is Spider-Man committing crimes in his sleep? Is he losing his mind? The only one who may know the truth is the man of mystery known only as Mysterio! Get out your pad",
+    "modified": "-0001-11-30T00:00:00-0500",
+    "isbn": "",
+    "upc": "5960605505-01211",
+    "diamondCode": "",
+    "ean": "",
+    "issn": "",
+    "format": "Comic",
+    "pageCount": 0,
+    "textObjects": [
+        {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "\"THE MENACE OF MYSTERIO\" \r<br>There's a new criminal in town and his name is... Spider-Man?! Is Spider-Man committing crimes in his sleep? Is he losing his mind? The only one who may know the truth is the man of mystery known only as Mysterio! Get out your pad"
+        }
+    ],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/819",
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/819/marvel_age_spider-man_2004_12?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=2115&utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ],
+    "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/375",
+        "name": "Marvel Age Spider-Man (2004 - 2005)"
+    },
+    "variants": [],
+    "collections": [
+        {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/1309",
+            "name": "Marvel Age Spider-Man Vol. 3: Swingtime (Digest)"
+        }
+    ],
+    "collectedIssues": [],
+    "dates": [
+        {
+            "type": "onsaleDate",
+            "date": "2004-09-22T00:00:00-0400"
+        },
+        {
+            "type": "focDate",
+            "date": "-0001-11-30T00:00:00-0500"
+        },
+        {
+            "type": "unlimitedDate",
+            "date": "2007-11-13T00:00:00-0500"
+        }
+    ],
+    "prices": [
+        {
+            "type": "printPrice",
+            "price": 2.25
+        }
+    ],
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/a/10/4bc679e66ce80",
+        "extension": "jpg"
+    },
+    "images": [
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/a/10/4bc679e66ce80",
+            "extension": "jpg"
+        }
+    ],
+    "creators": {
+        "available": 5,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/819/creators",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/415",
+                "name": "Derec Aucoin",
+                "role": "penciller"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/8635",
+                "name": "Randy Gentile",
+                "role": "letterer"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/684",
+                "name": "Mike Raicht",
+                "role": "writer"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/434",
+                "name": "Michael Ryan",
+                "role": "penciller (cover)"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/4207",
+                "name": "Avalon Studio",
+                "role": "colorist"
+            }
+        ],
+        "returned": 5
+    },
+    "characters": {
+        "available": 1,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/819/characters",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009610",
+                "name": "Spider-Man"
+            }
+        ],
+        "returned": 1
+    },
+    "stories": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/819/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/2777",
+                "name": "\"THE MENACE OF MYSTERIO\" There's a new criminal in town and his name is... Spider-Man?! Is Spider-Man committing crimes in his s",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/2778",
+                "name": "\"THE MENACE OF MYSTERIO\" There's a new criminal in town and his name is... Spider-Man?! Is Spider-Man committing crimes in his s",
+                "type": "interiorStory"
+            }
+        ],
+        "returned": 2
+    },
+    "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/819/events",
+        "items": [],
+        "returned": 0
+    }
+}

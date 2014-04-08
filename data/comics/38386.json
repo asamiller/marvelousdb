@@ -1,0 +1,147 @@
+{
+    "id": 38386,
+    "digitalId": 23461,
+    "title": "Captain America (2011) #2",
+    "issueNumber": 2,
+    "variantDescription": "",
+    "description": "Find out the secrets of the mission that went wrong in WW2 and why old friends are now old enemies! \n",
+    "modified": "2013-04-09T16:08:10-0400",
+    "isbn": "",
+    "upc": "5960607613-00211",
+    "diamondCode": "JUN110636",
+    "ean": "",
+    "issn": "0274-5267",
+    "format": "Comic",
+    "pageCount": 32,
+    "textObjects": [
+        {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "Superstars Ed Brubaker and Steve McNiven continue their quintessential Cap story arc! Find out the secrets of the mission that went wrong in WW2 and why old friends are now old enemies! Its action and history in a cage match for your comic-reading pleasure."
+        },
+        {
+            "type": "issue_preview_text",
+            "language": "en-us",
+            "text": "Find out the secrets of the mission that went wrong in WW2 and why old friends are now old enemies! \n"
+        }
+    ],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/38386",
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/38386/captain_america_2011_2?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/Captain-America-2/digital-comic/23461?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=23461&utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "inAppLink",
+            "url": "http://applink.marvel.com/issue/23461?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ],
+    "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/13830",
+        "name": "Captain America (2011 - 2012)"
+    },
+    "variants": [],
+    "collections": [],
+    "collectedIssues": [],
+    "dates": [
+        {
+            "type": "onsaleDate",
+            "date": "2011-08-17T00:00:00-0400"
+        },
+        {
+            "type": "focDate",
+            "date": "2011-08-03T00:00:00-0400"
+        },
+        {
+            "type": "unlimitedDate",
+            "date": "2012-05-21T00:00:00-0400"
+        },
+        {
+            "type": "digitalPurchaseDate",
+            "date": "2011-09-20T00:00:00-0400"
+        }
+    ],
+    "prices": [
+        {
+            "type": "printPrice",
+            "price": 3.99
+        },
+        {
+            "type": "digitalPurchasePrice",
+            "price": 1.99
+        }
+    ],
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/5/03/5176901e16b54",
+        "extension": "jpg"
+    },
+    "images": [
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/5/03/5176901e16b54",
+            "extension": "jpg"
+        },
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/f/20/4dcae7038dc1f",
+            "extension": "jpg"
+        }
+    ],
+    "creators": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/38386/creators",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/367",
+                "name": "Ed Brubaker",
+                "role": "writer"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/9484",
+                "name": "Steve McNiven",
+                "role": "penciller (cover)"
+            }
+        ],
+        "returned": 2
+    },
+    "characters": {
+        "available": 1,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/38386/characters",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009220",
+                "name": "Captain America"
+            }
+        ],
+        "returned": 1
+    },
+    "stories": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/38386/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/92848",
+                "name": "Captain America #2",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/92893",
+                "name": "Interior #38386",
+                "type": "interiorStory"
+            }
+        ],
+        "returned": 2
+    },
+    "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/38386/events",
+        "items": [],
+        "returned": 0
+    }
+}

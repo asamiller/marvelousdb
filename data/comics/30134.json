@@ -1,0 +1,132 @@
+{
+    "id": 30134,
+    "digitalId": 20156,
+    "title": "Marvel Adventures Spider-Man (2010) #12",
+    "issueNumber": 12,
+    "variantDescription": "",
+    "description": "It's been boiling...it's been bubbling over…and now the war between Spider-Man and the Torino crime family explodes! It's an all-out battle on the streets of New York, and it won't be without a long term casualty in Peter's love life... and quite possibly a short and immediate effect on his life span!",
+    "modified": "2013-02-15T12:49:09-0500",
+    "isbn": "",
+    "upc": "5960607127-01211",
+    "diamondCode": "JAN110737",
+    "ean": "",
+    "issn": "1548-5056",
+    "format": "Comic",
+    "pageCount": 32,
+    "textObjects": [
+        {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "It's been boiling...it's been bubbling over…and now the war between Spider-Man and the Torino crime family explodes! It's an all-out battle on the streets of New York, and it won't be without a long term casualty in Peter's love life... and quite possibly a short and immediate effect on his life span!"
+        }
+    ],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/30134",
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/30134/marvel_adventures_spider-man_2010_12?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=20156&utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ],
+    "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/9748",
+        "name": "Marvel Adventures Spider-Man (2010 - 2012)"
+    },
+    "variants": [],
+    "collections": [],
+    "collectedIssues": [],
+    "dates": [
+        {
+            "type": "onsaleDate",
+            "date": "2011-03-23T00:00:00-0400"
+        },
+        {
+            "type": "focDate",
+            "date": "2011-03-09T00:00:00-0500"
+        },
+        {
+            "type": "unlimitedDate",
+            "date": "2013-03-25T00:00:00-0400"
+        }
+    ],
+    "prices": [
+        {
+            "type": "printPrice",
+            "price": 2.99
+        }
+    ],
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/80/4d825dbccf671",
+        "extension": "jpg"
+    },
+    "images": [
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/80/4d825dbccf671",
+            "extension": "jpg"
+        }
+    ],
+    "creators": {
+        "available": 4,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/30134/creators",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/9081",
+                "name": "Matteo Lolli",
+                "role": "penciller"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/7550",
+                "name": "PATRICK SHERBERGER",
+                "role": "penciller (cover)"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/4983",
+                "name": "Paul Tobin",
+                "role": "writer"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/8822",
+                "name": "Jordan White",
+                "role": "editor"
+            }
+        ],
+        "returned": 4
+    },
+    "characters": {
+        "available": 1,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/30134/characters",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009610",
+                "name": "Spider-Man"
+            }
+        ],
+        "returned": 1
+    },
+    "stories": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/30134/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/69094",
+                "name": "SPIDER-MAN #12",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/69095",
+                "name": "SPIDER-MAN #12",
+                "type": "interiorStory"
+            }
+        ],
+        "returned": 2
+    },
+    "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/30134/events",
+        "items": [],
+        "returned": 0
+    }
+}

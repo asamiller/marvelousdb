@@ -1,0 +1,118 @@
+{
+    "id": 23585,
+    "digitalId": 0,
+    "title": "Thunderbolts (2006) #129 (LANGLEY VARIANT (DR))",
+    "issueNumber": 129,
+    "variantDescription": "LANGLEY VARIANT (DR)",
+    "description": "These solicits are classified until the release of Secret Invasion #8.\r<br>Pick up the free Marvel Previews: Dark Reign Edition in-stores the same day as Secret Invasion #8. (12/03/2008)\r<br>Rated T+ …$2.99",
+    "modified": "2013-06-27T10:10:34-0400",
+    "isbn": "",
+    "upc": "5960605602-12921",
+    "diamondCode": "DEC082320",
+    "ean": "",
+    "issn": "",
+    "format": "Comic",
+    "pageCount": 32,
+    "textObjects": [
+        {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "These solicits are classified until the release of Secret Invasion #8.\r<br>Pick up the free Marvel Previews: Dark Reign Edition in-stores the same day as Secret Invasion #8. (12/03/2008)\r<br>Rated T+ …$2.99"
+        }
+    ],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/23585",
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/23585/thunderbolts_2006_129_langley_variant_dr/langley_variant_dr?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ],
+    "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/18527",
+        "name": "Thunderbolts (2006 - 2012)"
+    },
+    "variants": [
+        {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/23584",
+            "name": "Thunderbolts (2006) #129"
+        },
+        {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/27396",
+            "name": "Thunderbolts (2006) #129"
+        }
+    ],
+    "collections": [],
+    "collectedIssues": [],
+    "dates": [
+        {
+            "type": "onsaleDate",
+            "date": "2009-02-25T00:00:00-0500"
+        },
+        {
+            "type": "focDate",
+            "date": "2009-02-05T00:00:00-0500"
+        }
+    ],
+    "prices": [
+        {
+            "type": "printPrice",
+            "price": 2.99
+        }
+    ],
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/10/4bb50b9b39de1",
+        "extension": "jpg"
+    },
+    "images": [
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/10/4bb50b9b39de1",
+            "extension": "jpg"
+        }
+    ],
+    "creators": {
+        "available": 1,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/23585/creators",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/5033",
+                "name": "Clint Langley",
+                "role": "colorist"
+            }
+        ],
+        "returned": 1
+    },
+    "characters": {
+        "available": 1,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/23585/characters",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010360",
+                "name": "Thunderbolts"
+            }
+        ],
+        "returned": 1
+    },
+    "stories": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/23585/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/52231",
+                "name": "Cover #52231",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/52232",
+                "name": "Interior #52232",
+                "type": "interiorStory"
+            }
+        ],
+        "returned": 2
+    },
+    "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/23585/events",
+        "items": [],
+        "returned": 0
+    }
+}

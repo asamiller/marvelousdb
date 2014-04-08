@@ -1,0 +1,173 @@
+{
+    "id": 42577,
+    "digitalId": 27166,
+    "title": "Spider-Men (2012) #3",
+    "issueNumber": 3,
+    "variantDescription": "",
+    "description": "Can both Peter Parker and Miles Morales defeat their deadly foe? Guest starring Nick Fury and the Ultimates!\n",
+    "modified": "2013-04-05T12:21:20-0400",
+    "isbn": "",
+    "upc": "5960607801-00311",
+    "diamondCode": "MAY120671",
+    "ean": "",
+    "issn": "",
+    "format": "Comic",
+    "pageCount": 32,
+    "textObjects": [
+        {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "<ul><li> The ULTIMATE AMAZING SPIDER-MAN EVENT OF THE YEAR!\n</li><li> Can both Peter Parker and Mile Morales defeat Mysterio?  \n</li><li> Guest starring Nick Fury and the Ultimates!</li></ul>\n"
+        },
+        {
+            "type": "issue_preview_text",
+            "language": "en-us",
+            "text": "Can both Peter Parker and Miles Morales defeat their deadly foe? Guest starring Nick Fury and the Ultimates!\n"
+        }
+    ],
+    "resourceURI": "http://gateway.marvel.com/v1/public/comics/42577",
+    "urls": [
+        {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/42577/spider-men_2012_3?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/Spider-Men-3/digital-comic/27166?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=27166&utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        },
+        {
+            "type": "inAppLink",
+            "url": "http://applink.marvel.com/issue/27166?utm_campaign=apiRef&utm_source=35410e46c72ea769348ceb6ba8cc90fd"
+        }
+    ],
+    "series": {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/16264",
+        "name": "Spider-Men (2012)"
+    },
+    "variants": [
+        {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/42609",
+            "name": "Spider-Men (2012) #3 (Pichelli Variant)"
+        },
+        {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/42616",
+            "name": "Spider-Men (2012) #3 (Dodson Variant)"
+        }
+    ],
+    "collections": [],
+    "collectedIssues": [],
+    "dates": [
+        {
+            "type": "onsaleDate",
+            "date": "2012-07-11T00:00:00-0400"
+        },
+        {
+            "type": "focDate",
+            "date": "2012-06-27T00:00:00-0400"
+        },
+        {
+            "type": "unlimitedDate",
+            "date": "2013-04-08T00:00:00-0400"
+        },
+        {
+            "type": "digitalPurchaseDate",
+            "date": "2012-07-11T00:00:00-0400"
+        }
+    ],
+    "prices": [
+        {
+            "type": "printPrice",
+            "price": 3.99
+        },
+        {
+            "type": "digitalPurchasePrice",
+            "price": 1.99
+        }
+    ],
+    "thumbnail": {
+        "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/30/4fe8b50c1ce71",
+        "extension": "jpg"
+    },
+    "images": [
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/30/4fe8b50c1ce71",
+            "extension": "jpg"
+        },
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/90/4fdb8812409ec",
+            "extension": "jpg"
+        },
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/f/10/4fdb85c7b1bb2",
+            "extension": "jpg"
+        },
+        {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/d/50/4fdb8665f39cf",
+            "extension": "jpg"
+        }
+    ],
+    "creators": {
+        "available": 3,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/42577/creators",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/24",
+                "name": "Brian Michael Bendis",
+                "role": "Writer"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/357",
+                "name": "Jim Cheung",
+                "role": "penciller (cover)"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/9408",
+                "name": "Sara Pichelli",
+                "role": "artist"
+            }
+        ],
+        "returned": 3
+    },
+    "characters": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/42577/characters",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009610",
+                "name": "Spider-Man"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1016181",
+                "name": "Spider-Man (Miles Morales)"
+            }
+        ],
+        "returned": 2
+    },
+    "stories": {
+        "available": 2,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/42577/stories",
+        "items": [
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/95936",
+                "name": "Cover #95936",
+                "type": "cover"
+            },
+            {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/95937",
+                "name": "Interior #95937",
+                "type": "interiorStory"
+            }
+        ],
+        "returned": 2
+    },
+    "events": {
+        "available": 0,
+        "collectionURI": "http://gateway.marvel.com/v1/public/comics/42577/events",
+        "items": [],
+        "returned": 0
+    }
+}
