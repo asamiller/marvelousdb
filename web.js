@@ -141,6 +141,9 @@ app.get('/character/:id', function(request, response) {
 		// check if we have data, otherwise show the no data screen
 		data.hasData = (data.wiki || data.description) ? true : false;
 
+		data.linkback = 'http://marvel.com';
+		if (data.urls) data.linkback = data.urls[0].url;
+
 		var pages = Math.ceil(data.comics.total / limit);
 		response.render('character', {
 			pagination: {
@@ -165,6 +168,10 @@ app.get('/comic/:id', function(request, response) {
 
 	f.getComic(id)
 	.then(function (data) {
+		// add the linkback to marvel
+		data.linkback = 'http://marvel.com';
+		if (data.urls) data.linkback = data.urls[0].url;
+
 		response.render('comic', data);
 	})
 	.fail(function(error){

@@ -174,6 +174,13 @@
    {{#unless hasData}}
       <p>(Looks like we don't have any data about this character. Hopefully it will get added to the Marvel API soon.)</p>
    {{/unless}}
+
+
+
+   {{#if linkback}}
+      <hr>
+      <a href="{{linkback}}" title="View on Marvel">All data from the awesome folks at Marvel.</a>
+   {{/if}}
 </div>
 {{/with}}
 
