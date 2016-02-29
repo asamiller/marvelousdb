@@ -1,4 +1,7 @@
-var db = require('orchestrate')(process.env.ORCHESTRATE_API_KEY);
+var orc = require('orchestrate');
+orc.ApiEndPoint = process.env.ORCHESTRATE_API_END_POINT;
+var db = orc(process.env.ORCHESTRATE_API_KEY);
+process.env['NODE_TLS_REJECT_UNAUTHORIZED'] = '0';
 var Q = require('q');
 
 // GET A SINGLE CHARACTER
